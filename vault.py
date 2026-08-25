@@ -18,7 +18,7 @@ BASE = Path(__file__).parent
 DATA_DIR = BASE / "data"
 SONGS_JSON = DATA_DIR / "songs.json"
 LRC_JSON = DATA_DIR / "lrc_data.json"
-SITE_DIR = BASE / "site"
+SITE_DIR = BASE
 MUSIC_DIR = Path("~/Music/番茄音乐").expanduser()
 PORT = 8896
 
@@ -681,7 +681,7 @@ class TomatoHandler(SimpleHTTPRequestHandler):
 
         # Serve favicon
         if path == '/favicon.svg':
-            fav = BASE / 'site' / 'favicon.svg'
+            fav = BASE / 'favicon.svg'
             if fav.exists():
                 self._serve_file(fav)
                 return
