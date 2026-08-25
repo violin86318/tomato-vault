@@ -1,0 +1,105 @@
+[
+  {
+    "title": "大花袄",
+    "genre_code": "dance",
+    "bpm": 125,
+    "chord": "6415",
+    "voice": "女声 / 无人声",
+    "style_desc": "广场舞 / DJ 舞曲 / 车载慢摇，BPM 125，6415 循环",
+    "structure": "[Intro] - 2-3行（节奏感强的短句）\n[Verse 1] - 6-8行（场景铺陈：广场/灯光/人群）\n[Chorus] - 6-8行（核心洗脑Hook，三字/四字重复为主）\n[Verse 2] - 6-8行\n[Pre-Chorus] - 2-3行\n[Chorus] - 6-8行（重复不变）\n[Instrumental] - 标记纯器乐段落（DJ间奏）\n[Verse 3] - 4-6行（舞蹈动作描写/互动喊麦）\n[Chorus] - 6-8行（Double Chorus：副歌唱两遍）\n[Chorus] - 6-8行\n[Outro] - 2-3行（渐弱）\n总计：≥55行",
+    "theme": "穿大花袄跳广场舞的热闹夜晚，大妈们的自信与快乐，接地气、有画面感",
+    "lyrics": "[Intro]\n大红大绿真好看\n大花袄子身上穿\n灯光一亮我就闪\n\n[Verse 1]\n天还没黑就出门\n广场上灯都亮了\n姐妹们排好队形\n音箱已经震天响\n老王说今晚斗舞\n我心里一点都不慌\n外套一脱亮出来\n这身花袄最风光\n\n[Chorus]\n大花袄呀大花袄\n穿上她我就倍儿俏\n大花袄呀大花袄\n扭起来全场都叫好\n大花袄呀大花袄\n转个圈灯光跟着摇\n这自信不用谁批准\n\n[Verse 2]\n东北大花红配绿\n牡丹凤凰都往身上挤\n谁说土气我不服\n这叫国潮最洋气\n踩上鼓点一步一步\n花袄飘起来像在飞\n路过的年轻人都看呆\n问我这歌单能不能分享\n\n[Pre-Chorus]\n音乐再大声点\n今晚跳到天亮才过瘾\n\n[Chorus]\n大花袄呀大花袄\n穿上她我就倍儿俏\n大花袄呀大花袄\n扭起来全场都叫好\n大花袄呀大花袄\n转个圈灯光跟着摇\n这自信不用谁批准\n\n[Instrumental]\n\n[Verse 3]\n左手摆摆右手招招\n脚尖点点脚跟翘\n换位叉腰再转圈\n全场跟我一起跳\n喊一声姐妹都在\n花袄军团最闪耀\n来来来别停下\n这节奏上头戒不掉\n\n[Chorus]\n大花袄呀大花袄\n穿上她我就倍儿俏\n大花袄呀大花袄\n扭起来全场都叫好\n大花袄呀大花袄\n转个圈灯光跟着摇\n这自信不用谁批准\n\n[Chorus]\n大花袄呀大花袄\n穿上她我就倍儿俏\n大花袄呀大花袄\n扭起来全场都叫好\n大花袄呀大花袄\n转个圈灯光跟着摇\n这自信不用谁批准\n\n[Outro]\n花袄在飘\n音乐在烧\n今晚真美好",
+    "model": "deepseek-v4-pro",
+    "mmx_prompt": "A high-energy Chinese square dance remix at 125 BPM with a four-on-the-floor beat and catchy synth melody. The arrangement features DJ-style bass drops and extended instrumental breaks, leaving generous space between vocal chops. Female vocal phrases are short and repetitive, designed for crowd participation. Full-length song structure with a long intro building anticipation and a long outro fading out gradually.",
+    "suno_prompt": "Style: Chinese square dance EDM, four-on-the-floor, 125 BPM, energetic female vocal, DJ drops, instrumental breaks, crowd participation, party atmosphere, 6415 chord loop.",
+    "cover_prompt": "a bright northeast-style floral jacket at the center, surrounded by square-dance lights, peony and phoenix patterns, dancing crowd silhouettes, with the Chinese characters '大花袄' naturally appearing as part of the scene, festive red and green palette, high energy, 4k album cover, vertical format, clean composition",
+    "qa": {
+      "d1_cliche": 92,
+      "d2_vividness": 88,
+      "d3_hook": 93,
+      "d4_rhyme": 85
+    }
+  },
+  {
+    "title": "麦田黄了",
+    "genre_code": "hometown",
+    "bpm": 100,
+    "chord": "卡农变体（I→V→VIm→IV→V→I）",
+    "voice": "温暖男声 / 民谣女声",
+    "style_desc": "乡愁/励志/朴实口语，BPM 100，卡农变体",
+    "structure": "[Intro] - 2-3行（村口/老屋/炊烟）\n[Verse 1] - 6-8行（童年记忆/妈妈/老屋）\n[Pre-Chorus] - 2-3行\n[Chorus] - 6-8行（乡愁核心：回家/想念/奋斗）\n[Verse 2] - 6-8行（离开家乡/城市打拼）\n[Pre-Chorus] - 2-3行\n[Chorus] - 6-8行\n[Bridge] - 4-6行（励志转折：一定要出人头地）\n[Chorus] - 6-8行\n[Outro] - 3-4行\n总计：≥55行",
+    "theme": "麦收时节想起家乡，妈妈在田埂上等，在城市打拼想家又想出人头地",
+    "lyrics": "[Intro]\n村口的老槐树还在不在\n老屋的炊烟飘起来\n麦田又黄了一片海\n\n[Verse 1]\n小时候光着脚丫跑\n麦穗扎得我咧嘴笑\n妈妈在后面追着叫\n回家吃饭别乱跑\n竹篮里装着白馒头\n田埂上坐着等日头\n那时候不知道什么叫愁\n只知道麦子熟了就低头\n\n[Pre-Chorus]\n这些年我总在梦里找\n那条回家的路还没变老\n\n[Chorus]\n麦田黄了我想家了\n麦田黄了我想妈了\n麦田黄了我又想家了\n可是路还远我不能停下\n麦田黄了心就慌了\n麦田黄了人就软了\n麦田黄了我又想你了\n妈你等等我快回来了\n\n[Verse 2]\n离开那天麦子刚收完\n我拎着编织袋上了车站\n妈妈说在外面别怕难\n实在不行就回家种田\n城市里的楼真高啊\n我租的地下室看不见天\n每天挤地铁吃泡面\n心里憋着一股劲没处使唤\n\n[Pre-Chorus]\n电话里总说一切都好\n挂了线眼泪就往下掉\n\n[Chorus]\n麦田黄了我想家了\n麦田黄了我想妈了\n麦田黄了我又想家了\n可是路还远我不能停下\n麦田黄了心就慌了\n麦田黄了人就软了\n麦田黄了我又想你了\n妈你等等我快回来了\n\n[Bridge]\n我要混出个人样再回家\n让妈也能抬头说话\n哪怕再拼个三年五年\n这片麦田会等到我回家\n等到那天我站在田埂上\n大声喊妈我回来了\n\n[Chorus]\n麦田黄了我想家了\n麦田黄了我想妈了\n麦田黄了我又想家了\n这次路再远我也要回家\n麦田黄了心不慌了\n麦田黄了人不软了\n麦田黄了我就要回家\n妈你等着我这就回来了\n\n[Outro]\n炊烟起了麦子黄了\n村口有人站着望啊\n妈我这就回来了\n那片麦田在等我呢",
+    "model": "deepseek-v4-pro",
+    "mmx_prompt": "A warm Chinese folk pop song at 100 BPM with a gentle male vocal and acoustic guitar, built on a canon variation progression. The arrangement is nostalgic and uplifting with extended instrumental sections, leaving room between verses for the melody to breathe. The pacing stays unhurried and open throughout, giving each memory room to settle. Bridge section provides an inspirational turn before the final chorus. Countryside imagery guides the emotional arc.",
+    "suno_prompt": "Style: Chinese folk pop, warm male vocal, acoustic guitar, 100 BPM, canon variation progression, nostalgic and uplifting, countryside imagery, heartfelt.",
+    "cover_prompt": "a golden wheat field at the center, surrounded by smoke rising from an old house, a mother's silhouette waiting on the ridge, an old locust tree at the village entrance, with the Chinese characters '麦田黄了' formed by wheat stalks within the scene, warm golden sunset palette, nostalgic and hopeful, 4k album cover, vertical format, clean composition",
+    "qa": {
+      "d1_cliche": 88,
+      "d2_vividness": 91,
+      "d3_hook": 93,
+      "d4_rhyme": 87
+    }
+  },
+  {
+    "title": "小冤家",
+    "genre_code": "viral_pop",
+    "bpm": 115,
+    "chord": "4536251",
+    "voice": "夹子音女声",
+    "style_desc": "抖音热歌/口水歌/欢快洗脑，BPM 115，4536251",
+    "structure": "[Intro] - 2-3行\n[Verse 1] - 6-8行（日常生活场景）\n[Pre-Chorus] - 2-3行\n[Chorus] - 6-8行（A+A+A+B排比结构！三句相同/相似+一句转折）\n[Verse 2] - 6-8行\n[Pre-Chorus] - 2-3行\n[Chorus] - 6-8行\n[Bridge] - 4-6行\n[Chorus] - 6-8行（Double Chorus）\n[Chorus] - 6-8行\n[Outro] - 2-3行\n总计：≥55行",
+    "theme": "情侣日常拌嘴打闹的小甜蜜，「小冤家」是亲昵称呼，撒娇式斗嘴，欢快洗脑",
+    "lyrics": "[Intro]\n哎哟 哎哟 小冤家\n太阳都晒屁股啦\n你又赖床装傻瓜\n\n[Verse 1]\n闹钟响了八百遍\n你还睡得那么甜\n早餐煎成了黑炭\n你说吃得还挺欢\n出门忘带手机啦\n钥匙落在沙发边\n追着公交跑半天\n我笑你满头大汗\n\n[Pre-Chorus]\n嘴上天天在嫌弃\n心里装满的都是你\n\n[Chorus]\n小冤家 小冤家 小冤家\n你又偷吃我薯片啦\n小冤家 小冤家 小冤家\n你又弄坏我口红啦\n小冤家 小冤家 小冤家\n你把我气到跺脚啦\n可我偏偏离不开你呀\n\n[Verse 2]\n昨天逛街看中裙\n你说像块破抹布\n气得我扭头就走\n你追着喊小公主\n晚上偷偷买回来\n还假装只是路过\n我憋着笑不说话\n你挠头像个呆鹅\n\n[Pre-Chorus]\n嘴上说你是笨蛋\n心里其实好喜欢\n\n[Chorus]\n小冤家 小冤家 小冤家\n你又偷喝我奶茶啦\n小冤家 小冤家 小冤家\n你又熬夜打游戏啦\n小冤家 小冤家 小冤家\n你把我气得想搬家\n可我没你不行啊冤家\n\n[Bridge]\n你总说我是母老虎\n可每次你都笑着认输\n这辈子就跟你耗着\n做你一辈子的小冤家\n就算吵吵闹闹不停下\n一转身我就想你了\n\n[Chorus]\n小冤家 小冤家 小冤家\n你又把我拖鞋藏哪啦\n小冤家 小冤家 小冤家\n你又嫌我做饭咸啦\n小冤家 小冤家 小冤家\n我嘟嘴你就投降啦\n你是我最甜的小冤家\n\n[Chorus]\n小冤家 小冤家 小冤家\n冬天给我暖脚丫\n小冤家 小冤家 小冤家\n夏天帮我赶蚊子呀\n小冤家 小冤家 小冤家\n嘴上从来没有好话\n心里把我当成了宝呀\n\n[Outro]\n小冤家 小冤家\n我们不吵了不闹了\n手牵手一起回家",
+    "model": "deepseek-v4-pro",
+    "mmx_prompt": "A catchy Chinese viral pop song at 115 BPM with a sweet female vocal and a repetitive hook built on a IV-V-IIIm-VIm chord progression. The arrangement is spacious, leaving room between phrases for the earworm melody to breathe. Extended chorus repeats with an A-A-A-B structure create maximum stickiness. Bridge section provides contrast before the final double chorus.",
+    "suno_prompt": "Style: Chinese viral pop, sweet female vocal, catchy hook, 115 BPM, IV-V-IIIm-VIm progression, A-A-A-B chorus, earworm melody, upbeat, cute and bouncy.",
+    "cover_prompt": "a playful couple bickering at the center, surrounded by a chips packet, lipstick, bubble tea cup and a hidden slipper, with the Chinese characters '小冤家' formed by elements within the scene, candy pink pastel palette, sweet and mischievous, 4k album cover, vertical format, clean composition",
+    "qa": {
+      "d1_cliche": 90,
+      "d2_vividness": 90,
+      "d3_hook": 95,
+      "d4_rhyme": 88
+    }
+  },
+  {
+    "title": "旧号码",
+    "genre_code": "sad",
+    "bpm": 80,
+    "chord": "1645",
+    "voice": "气声女声 / 哭腔",
+    "style_desc": "失恋/孤独/情感共鸣，BPM 80，1645",
+    "structure": "[Intro] - 2-3行（雨/夜/空房间意象）\n[Verse 1] - 6-8行（直白叙事：分手场景/独处时刻）\n[Pre-Chorus] - 2-3行\n[Chorus] - 4-6行（核心情绪爆发：想你/放不下/算了吧）\n[Verse 2] - 6-8行（回忆对比）\n[Pre-Chorus] - 2-3行\n[Chorus] - 4-6行\n[Bridge] - 4-6行（转折：接受/放下）\n[Chorus] - 4-6行\n[Outro] - 3-4行\n总计：≥50行",
+    "theme": "手机里删不掉的旧号码，深夜想拨又不敢拨，直白表达想念与放不下",
+    "lyrics": "[Intro]\n窗外又下起雨\n房间空得可以\n手机亮了又暗下去\n\n[Verse 1]\n昨晚翻聊天记录到凌晨三点\n你最后一句说别再见面\n我把备注改了好多遍\n最后还是换回你的名字\n冰箱里你买的啤酒还没喝完\n电视开着但我听不见\n手指停在你的头像上面\n差一点就按了拨出键\n\n[Pre-Chorus]\n可惜我没有那个勇气\n害怕听到你冷的声音\n\n[Chorus]\n旧号码 存在手机里\n旧号码 不敢删去\n旧号码 只剩下你\n可我再也拨不通那个号\n旧号码 全是过去\n旧号码 让我困在原地\n\n[Verse 2]\n以前这个号码总在深夜响起\n你会问我睡了没想不想你\n现在安静得快要窒息\n只有广告短信偶尔光临\n我还记得你声音有多好听\n现在连语音信箱都已停\n我换了新手机没换记忆\n那个号码刻进骨头里\n\n[Pre-Chorus]\n我承认我还是放不下\n想念总是准时来打卡\n\n[Chorus]\n旧号码 我还舍不得\n旧号码 陪我失眠夜\n旧号码 像一根刺啊\n可我再也不能打给你\n旧号码 刻在心上面\n旧号码 提醒我爱你\n\n[Bridge]\n也许时间会带走所有号码\n也许有一天我能删掉它\n翻到通讯录最底下\n那个名字不再让我牵挂\n我终于按下删除键\n眼泪却先一步落下\n\n[Chorus]\n旧号码 已经不见了\n旧号码 我还记得\n旧号码 变成空的\n可为什么心里更痛呢\n旧号码 这次真的删了\n旧号码 再见了再见了\n\n[Outro]\n窗外雨还没停\n我的手机很轻\n那个旧号码\n终于只剩回忆",
+    "model": "deepseek-v4-pro",
+    "mmx_prompt": "An emotional Chinese ballad at 80 BPM with a breathy female vocal and gentle crying tone, built on a I-VIm-IV-V chord progression. Piano and strings create a melancholy atmosphere with long instrumental passages. The arrangement is unhurried, giving each emotional phrase room to resonate. Extended outro for a lingering sense of loss.",
+    "suno_prompt": "Style: Chinese emotional ballad, breathy female vocal, crying tone, 80 BPM, I-VIm-IV-V progression, piano and strings, melancholy, slow and heartfelt.",
+    "cover_prompt": "an old smartphone at the center on a rainy night windowsill, surrounded by a half-empty beer can, a glowing contact list on the screen, rain streaks on the glass, with the Chinese characters '旧号码' etched into the phone screen, cold blue-gray night palette, lonely mood, 4k album cover, vertical format, clean composition",
+    "qa": {
+      "d1_cliche": 85,
+      "d2_vividness": 87,
+      "d3_hook": 92,
+      "d4_rhyme": 86
+    }
+  },
+  {
+    "title": "念君安",
+    "genre_code": "guofeng",
+    "bpm": 90,
+    "chord": "大调卡农（I→V→VIm→IV→IV→IIIm→II→V）",
+    "voice": "戏腔 / 民族女声",
+    "style_desc": "民族风/古诗词改编/中国风，BPM 90，大调卡农",
+    "model": "deepseek-v4-pro",
+    "lyrics": "[Intro]\n月照西楼人不眠\n风吹罗帐夜生寒\n一纸相思写又删\n\n[Verse 1]\n独上高楼望不断\n月光洒满旧栏杆\n风起时想你衣衫\n雪落时念你冷暖\n琴声咽在五更天\n我把心事挑灯看\n多少话堵在喉间\n化作一句念君安\n\n[Pre-Chorus]\n千山万水路漫漫\n不敢问君何时还\n\n[Chorus]\n念你念你眉目弯\n念你念你性情淡\n念你念你声声慢\n唯愿君安才是盼\n\n[Verse 2]\n昨夜星辰昨夜盏\n今宵酒醒孤身寒\n风吹梅枝花影颤\n雪压松枝腰不弯\n琴弦断了无人弹\n烛泪流尽心不甘\n不敢问归期怕添乱\n只敢偷偷念君安\n\n[Pre-Chorus]\n千山万水路漫漫\n不敢问君何时还\n\n[Chorus]\n念你念你眉目弯\n念你念你性情淡\n念你念你声声慢\n唯愿君安才是盼\n\n[Instrumental]\n\n[Bridge]\n梦里登高望千帆\n醒来枕边泪未干\n若是此生难相见\n我仍在此念君安\n春风又绿江南岸\n明月何时照你还\n\n[Chorus]\n念你念你眉目弯\n念你念你性情淡\n念你念你声声慢\n唯愿君安才是盼\n\n[Outro]\n高楼月满风满衫\n琴声断在五更寒\n千里万里念君安\n念君安\n\n[Verse 3]\n风吹了年复年又一年\n雪落了千片万片千万片\n月光还是当年那般\n照过离别照过团圆\n只是照不到你身边\n我把这相思都唱遍\n琴声悠悠穿过云天\n只送一句念君安",
+    "mmx_prompt": "A Chinese traditional-style pop song at 90 BPM featuring guzheng and dizi, built on a canon chord progression. The arrangement is elegant and atmospheric with extended guzheng solo passages, leaving generous space between vocal lines. An operatic female vocal delivers poetic phrases with unhurried pacing. Long intro establishes the classical mood before the first verse enters.",
+    "suno_prompt": "Style: Chinese traditional pop, guzheng and dizi, operatic female vocal, 90 BPM, canon progression, elegant pentatonic melody, classical atmosphere, poetic lyrics.",
+    "cover_prompt": "a guqin resting on a moonlit west tower at the center, surrounded by snow on plum branches, drifting mist from a dizi, an unopened letter, with the Chinese characters '念君安' naturally appearing as calligraphy within the scene, ink-wash blue and moon white, classical Chinese painting, 4k album cover, vertical format, clean composition",
+    "qa": {
+      "d1_cliche": 90,
+      "d2_vividness": 92,
+      "d3_hook": 95,
+      "d4_rhyme": 95
+    }
+  }
+]

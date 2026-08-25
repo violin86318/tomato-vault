@@ -1,0 +1,33 @@
+{
+  "viral_pop": {
+    "success": true,
+    "lyrics": "[Intro]\n咬一口 心跳跳\n你一笑 我就到\n这感觉 真奇妙\n\n[Verse 1]\n那天太阳有点烫\n你坐我对面喝奶茶\n草莓奶盖沾嘴上\n我盯着你看傻了眼\n你问我干嘛发呆\n我说天气有点热\n其实我心里清楚\n是你让我丢了魂\n\n[Pre-Chorus]\n想靠近 不敢靠近\n你眼睛 闪着光\n我呼吸 变很轻\n\n[Chorus]\n咬一口 你的笑\n咬一口 你的好\n咬一口 你的撒娇\n甜到我受不了\n咬一口 睡不着\n咬一口 忘不掉\n咬一口 你的外套\n想你想到疯掉\n\n[Verse 2]\n后来陪你逛大街\n手牵手 手心冒汗\n电影演到大结局\n我偷偷看你侧脸\n你说肚子有点饿\n我买来草莓蛋糕\n你咬一口递给我\n那是我们的暗号\n\n[Pre-Chorus]\n想说话 说不出话\n你靠近 我紧张\n这感觉 太疯狂\n\n[Chorus]\n咬一口 你的笑\n咬一口 你的好\n咬一口 你的撒娇\n甜到我受不了\n咬一口 睡不着\n咬一口 忘不掉\n咬一口 你的外套\n想你想到疯掉\n\n[Instrumental]\n叮叮咚 叮叮咚\n啦啦啦 啦啦啦\n\n[Verse 3 / Bridge]\n别害羞 别躲藏\n",
+    "line_count": 44,
+    "genre_code": "viral_pop",
+    "title": "咬一口"
+  },
+  "sad": {
+    "success": false,
+    "error": "HTTPConnectionPool(host='192.168.50.78', port=3003): Read timed out. (read timeout=90)",
+    "genre_code": "sad",
+    "title": "梦醒时"
+  },
+  "hometown": {
+    "success": false,
+    "error": "HTTPConnectionPool(host='192.168.50.78', port=3003): Read timed out. (read timeout=90)",
+    "genre_code": "hometown",
+    "title": "山那边"
+  },
+  "guofeng": {
+    "success": false,
+    "error": "HTTPConnectionPool(host='192.168.50.78', port=3003): Read timed out. (read timeout=90)",
+    "genre_code": "guofeng",
+    "title": "满江红"
+  },
+  "dance": {
+    "success": false,
+    "error": "HTTPConnectionPool(host='192.168.50.78', port=3003): Read timed out. (read timeout=90)",
+    "genre_code": "dance",
+    "title": "快乐转转转"
+  }
+}

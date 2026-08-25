@@ -1,0 +1,76 @@
+{
+  "qa": {
+    "摇啊摇": {
+      "cliche": 85,
+      "vividness": 82,
+      "hook": 92,
+      "rhyme": 88,
+      "overall": 86.2,
+      "notes": "A+A+A+B排比完美，'摇啊摇'洗脑度极高，具体人物（王姐/李叔/张大妈）画面感强",
+      "line_count": 76
+    },
+    "如梦令": {
+      "cliche": 88,
+      "vividness": 80,
+      "hook": 82,
+      "rhyme": 92,
+      "overall": 84.3,
+      "notes": "化用李清照词意境自然，'绿肥红瘦'意象好，戏腔Bridge段标注到位",
+      "line_count": 66
+    },
+    "老槐树": {
+      "cliche": 78,
+      "vividness": 90,
+      "hook": 86,
+      "rhyme": 84,
+      "overall": 85.1,
+      "notes": "场景极其具体（树下午睡/手擀面/旱烟/蛇皮袋），情感真挚，副歌排比结构完整",
+      "line_count": 74
+    },
+    "抱一下": {
+      "cliche": 80,
+      "vividness": 85,
+      "hook": 90,
+      "rhyme": 86,
+      "overall": 85.2,
+      "notes": "甜蜜日常场景丰富（奶茶店/地铁/电影院），Hook'抱一下'重复到位，电量百分之一梗有趣",
+      "line_count": 75
+    },
+    "忘不掉": {
+      "cliche": 72,
+      "vividness": 84,
+      "hook": 85,
+      "rhyme": 90,
+      "overall": 82.2,
+      "notes": "具象物品触发回忆（灰色毛衣/打火机/聊天记录），'忘不掉'排比有张力，部分直白情绪可优化",
+      "line_count": 105
+    }
+  },
+  "prompts": {
+    "摇啊摇": {
+      "mmx": "广场舞电子舞曲，BPM128，6415和弦循环，女声领唱+大合唱，强劲四四拍鼓点，电子合成器旋律，Drop段纯音乐16小节，中文歌词，热闹狂欢氛围，时长3:00-3:30",
+      "suno": "Style: Chinese square dance, EDM, DJ remix, 128 BPM, female vocal, heavy four-on-the-floor beat, synth lead, instrumental drop sections, energetic party anthem. Structure: Intro-Verse-PreChorus-Chorus-Drop-Verse-PreChorus-Chorus-Drop-Bridge-Chorus-Outro. Mood: euphoric, collective celebration, carefree.",
+      "cover": "广场夜景，霓虹灯闪烁，一群中老年人热情跳舞，喷泉广场，暖色调光效，动感十足，风格：写实摄影，饱和色彩"
+    },
+    "如梦令": {
+      "mmx": "中国风流行，BPM90，大调卡农进行，戏腔女声+民族唱法，古筝+竹笛+二胡+现代编曲，古典意境，中文歌词，时长3:00-3:30",
+      "suno": "Style: Chinese Guofeng pop, ancient style ballad, 90 BPM, operatic female vocal + ethnic singing, Guzheng + bamboo flute + Erhu + modern arrangement. Structure: Intro-Verse-PreChorus-Chorus-Verse-PreChorus-Chorus-Opera Bridge-Chorus-Outro. Mood: ethereal, classical, melancholic beauty, Li Qingzhao inspired.",
+      "cover": "中国风插画，海棠花瓣飘落，雨中庭院，古典美人卷帘望花，水墨与工笔结合，青绿山水色调，风格：新中式美学"
+    },
+    "老槐树": {
+      "mmx": "乡愁民谣，BPM100，卡农变体和弦，温暖男声/民谣女声，木吉他+口琴+轻弦乐，朴实真挚氛围，中文歌词，时长3:00-3:30",
+      "suno": "Style: Chinese folk ballad, hometown nostalgia, 100 BPM, warm male vocal / folk female vocal, acoustic guitar + harmonica + light strings, storytelling. Structure: Intro-Verse-PreChorus-Chorus-Verse-PreChorus-Chorus-Bridge-Chorus-Outro. Mood: nostalgic, heartfelt, down-to-earth, rural warmth.",
+      "cover": "乡村黄昏，村口老槐树下，老屋炊烟升起，温暖夕阳色调，怀旧质感，风格：写实油画风"
+    },
+    "抱一下": {
+      "mmx": "抖音流行甜歌，BPM115，4536251和弦进行，夹子音女声，轻快电子鼓点+吉他拨弦+合成器pad，甜蜜俏皮氛围，中文歌词，时长2:30-3:00",
+      "suno": "Style: Chinese viral pop, sweet love song, 115 BPM, cutesy female vocal, light electronic beat, acoustic guitar plucks, synth pad, catchy hook with triple repetition. Structure: Intro-Verse-PreChorus-Chorus-Verse-PreChorus-Chorus-Bridge-Chorus-Outro. Mood: sweet, playful, bubbly, TikTok-ready.",
+      "cover": "粉色系插画风格，情侣在奶茶店甜蜜互动，可爱Q版人物，心形气泡装饰，马卡龙色调，风格：日系插画"
+    },
+    "忘不掉": {
+      "mmx": "伤感流行慢歌，BPM80，1645和弦进行，气声女声带哭腔，钢琴主导+弦乐铺垫+轻鼓点，深夜孤独氛围，中文歌词，时长3:00-3:30",
+      "suno": "Style: Chinese emotional ballad, breakup song, 80 BPM, breathy female vocal with crying tone, piano-driven, strings arrangement, subtle drum beat. Structure: Intro-Verse-PreChorus-Chorus-Verse-PreChorus-Chorus-Bridge-Chorus-Outro. Mood: heartbroken, lonely, late-night, raw emotion.",
+      "cover": "深夜城市，雨滴落在窗玻璃上，室内昏暗灯光，手机屏幕微光，孤独感氛围，冷蓝色调，风格：电影感摄影"
+    }
+  }
+}

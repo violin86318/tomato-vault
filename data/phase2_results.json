@@ -1,0 +1,57 @@
+[
+  {
+    "title": "想你了",
+    "genre_code": "sad",
+    "lyrics": "[Intro]\n雨下了整夜\n房间空荡荡\n我又想起你了\n\n[Verse 1]\n那天你走得好干脆\n钥匙放在茶几上面\n我愣在门口没说话\n看电梯门慢慢关上\n冰箱里还有你的酸奶\n过期了我也舍不得扔\n窝在沙发刷你的动态\n原来你早就删了我\n\n[Pre-Chorus]\n我是不是太傻了\n还在原地打转\n\n[Chorus]\n想你了 想你了\n放不下 放不下\n算了吧 算了吧\n可眼泪不听话\n想你了 想你了\n心好痛 心好痛\n算了吧 算了吧\n怎么还没放下\n\n[Verse 2]\n记得你第一次牵我手\n说以后不会再让我哭\n凌晨三点你给我煮面\n生病时你整夜陪着我\n怎么后来就变了呢\n电话越来越短了\n你的眼神开始闪躲\n我假装什么都没发现\n\n[Pre-Chorus]\n我是不是太傻了\n还在原地打转\n\n[Chorus]\n想你了 想你了\n放不下 放不下\n算了吧 算了吧\n可眼泪不听话\n想你了 想你了\n心好痛 心好痛\n算了吧 算了吧\n怎么还没放下\n\n[Bridge]\n朋友都说我该走出来了\n我知道你早就不爱了\n可每次路过那家咖啡店\n还是会想起你笑的样子\n我告诉自己要好好的\n从今天开始不再想你了\n可深夜手机一响\n还是希望是你\n\n[Chorus]\n想你了 想你了\n放不下 放不下\n算了吧 算了吧\n我骗不了自己\n想你了 想你了\n心好痛 心好痛\n算了吧 算了吧\n到底要多久才能放下\n\n[Outro]\n雨停了\n天亮了\n我还在想你\n可我要往前走了\n算了吧\n算了吧",
+    "mmx_prompt": "style: emotional Chinese ballad, melancholy, slow tempo, 80 BPM, 1645 chord progression, full length song 3-4 minutes, extended instrumental breaks, long intro and outro",
+    "cover_prompt": "",
+    "bpm": 80,
+    "chord": "1645",
+    "model_used": "deepseek-v4-pro",
+    "pure_lines": 61
+  },
+  {
+    "title": "蹦跶哒",
+    "genre_code": "dance",
+    "lyrics": "[Intro]\n动起来 跟我跳\n音乐响起 别害臊\n蹦跶哒 蹦跶哒\n\n[Verse 1]\n广场灯光闪闪亮\n大叔大妈排成行\n左边扭扭右边晃晃\n快乐在身体里流淌\n工作烦恼全忘光\n今晚我们最疯狂\n脚步跟着节奏荡\n这感觉无法阻挡\n\n[Chorus]\n蹦跶哒 蹦跶哒\n蹦跶蹦跶蹦跶哒\n蹦跶哒 蹦跶哒\n快乐就是这么炸\n蹦跶哒 蹦跶哒\n蹦跶蹦跶蹦跶哒\n蹦跶哒 蹦跶哒\n整个世界都蹦跶\n\n[Verse 2]\n音响声音震天响\n汗水闪着光在淌\n不用管那旁人眼光\n自由自在就是女王\n生活压力放一旁\n音乐就是我的糖\n每一步都踩在点上\n心跳跟鼓点碰撞\n\n[Pre-Chorus]\n放下手机 站起来\n扭扭腰来 甩甩发\n\n[Chorus]\n蹦跶哒 蹦跶哒\n蹦跶蹦跶蹦跶哒\n蹦跶哒 蹦跶哒\n快乐就是这么炸\n蹦跶哒 蹦跶哒\n蹦跶蹦跶蹦跶哒\n蹦跶哒 蹦跶哒\n整个世界都蹦跶\n\n[Instrumental]\n\n[Verse 3]\n举起手 转个圈\n拍拍手 跺跺脚\n大声喊 蹦跶哒\n左边右边 一起跳\n所有人 跟我来\n把地球 蹦跶歪\n\n[Chorus]\n蹦跶哒 蹦跶哒\n蹦跶蹦跶蹦跶哒\n蹦跶哒 蹦跶哒\n快乐就是这么炸\n蹦跶哒 蹦跶哒\n蹦跶蹦跶蹦跶哒\n蹦跶哒 蹦跶哒\n整个世界都蹦跶\n\n[Chorus]\n蹦跶哒 蹦跶哒\n蹦跶蹦跶蹦跶哒\n蹦跶哒 蹦跶哒\n快乐就是这么炸\n蹦跶哒 蹦跶哒\n蹦跶蹦跶蹦跶哒\n蹦跶哒 蹦跶哒\n整个世界都蹦跶\n\n[Outro]\n蹦跶哒 蹦跶哒\n音乐慢慢停下来\n蹦跶哒 蹦跶哒",
+    "mmx_prompt": "style: high energy Chinese square dance, DJ remix, four-on-the-floor beat, 128 BPM, 6415 chord progression, full length song 3-4 minutes, extended instrumental breaks, long intro and outro",
+    "cover_prompt": "",
+    "bpm": 128,
+    "chord": "6415",
+    "model_used": "deepseek-v4-pro",
+    "pure_lines": 62
+  },
+  {
+    "title": "回家过年",
+    "genre_code": "hometown",
+    "lyrics": "[Intro]\n村口的老槐树又添了伤疤\n老屋的炊烟还在飘吗\n妈妈 我快到家啦\n\n[Verse 1]\n小时候的年 是鞭炮红满天\n妈妈在灶台前 蒸汽糊了眼\n老屋的木门 吱呀呀地转\n我趴在窗边 等年夜饭\n压岁钱藏在 枕头下面\n大年初一的新衣裳 穿了一遍又一遍\n那时候不懂 什么叫想念\n以为家就在身边 永远不会变\n\n[Pre-Chorus]\n可现在 我离家那么远\n只能在电话里 听你报平安\n\n[Chorus]\n回家过年 回家过年\n想念妈妈包的饺子 想念那口酸\n回家过年 回家过年\n就算天涯海角 也要往回赶\n一年的风霜 换来一张车票\n挤进人潮 心却在燃烧\n我知道 头顶的月亮 还是故乡圆\n\n[Verse 2]\n离开家的那天 天还没亮全\n我背起行囊 不敢回头看\n城市的霓虹 照亮了孤单\n加班到深夜 泡面也分两半\n工地的汗水 湿透衬衫\n写字楼的格子间 看不见远山\n给妈妈打电话 总说挺好的\n放下手机 眼泪就开始打转\n\n[Pre-Chorus]\n一年又一年 我拼命向前\n只是想早点 回到你身边\n\n[Chorus]\n回家过年 回家过年\n想念妈妈包的饺子 想念那口酸\n回家过年 回家过年\n就算天涯海角 也要往回赶\n一年的风霜 换来一张车票\n挤进人潮 心却在燃烧\n我知道 头顶的月亮 还是故乡圆\n\n[Bridge]\n我不能停 也不敢停\n一定要出人头地 让妈妈放心\n把苦咽下去 把梦攥在手心\n明年回来 一定带个更好的自己\n给老屋换新瓦 给妈妈买新衣\n这世上 没有什么 比家更近\n\n[Chorus]\n回家过年 回家过年\n想念妈妈包的饺子 想念那口酸\n回家过年 回家过年\n就算天涯海角 也要往回赶\n一年的风霜 换来一张车票\n挤进人潮 心却在燃烧\n我知道 头顶的月亮 还是故乡圆\n\n[Outro]\n村口的老槐树 又添了伤疤\n老屋的炊烟 还在飘吗\n妈妈 我快到家啦\n我想你啦 我想你啦\n村口的老槐树 又添了伤疤\n老屋的炊烟 还在飘吗\n妈妈 我快到家啦\n我想你啦 我想你啦\n妈妈 我回来啦",
+    "mmx_prompt": "style: Chinese folk pop, warm male vocal, acoustic guitar, 100 BPM, 卡农变体 chord progression, full length song 3-4 minutes, extended instrumental breaks, long intro and outro",
+    "cover_prompt": "",
+    "bpm": 100,
+    "chord": "卡农变体",
+    "model_used": "deepseek-v4-pro",
+    "pure_lines": 59
+  },
+  {
+    "title": "滴答滴",
+    "genre_code": "viral_pop",
+    "lyrics": "[Intro]\n滴答滴 滴答滴\n时钟转不停\n雨声轻轻\n\n[Verse 1]\n窗台雨点落成线\n我趴在枕边\n翻你的朋友圈\n你头像亮着没变\n想说句晚安\n打了又删好几遍\n抱着手机等来电\n眼睛快睁不开\n\n[Pre-Chorus]\n时间滴答走\n心跳滴答抖\n你感应到没有\n\n[Chorus]\n滴答滴 想你啦\n滴答滴 想你啦\n滴答滴 想你啦\n你怎么不回答\n滴答滴 雨在下\n滴答滴 雨在下\n滴答滴 雨在下\n泪如雨落下\n\n[Verse 2]\n昨天你说的那句\n明天见一面\n我记在心里面\n今天窗外雨绵绵\n你还没出现\n消息停在十点\n我数着时钟的圈\n发呆到凌晨半点\n\n[Pre-Chorus]\n时间滴答走\n心跳滴答抖\n你感应到没有\n\n[Chorus]\n滴答滴 想你啦\n滴答滴 想你啦\n滴答滴 想你啦\n你怎么不回答\n滴答滴 雨在下\n滴答滴 雨在下\n滴答滴 雨在下\n泪如雨落下\n\n[Bridge]\n雨不停 思念不停\n滴答声 在心坎里\n我不管 你何时醒\n我会等 等雨过天晴\n这想念 像滴答滴\n循环着 不曾离去\n\n[Chorus]\n滴答滴 想你啦\n滴答滴 想你啦\n滴答滴 想你啦\n你怎么不回答\n滴答滴 雨在下\n滴答滴 雨在下\n滴答滴 雨在下\n泪如雨落下\n\n[Chorus]\n滴答滴 爱你啦\n滴答滴 爱你啦\n滴答滴 爱你啦\n你快点出现吧\n滴答滴 雨在下\n滴答滴 雨在下\n滴答滴 雨在下\n我会一直等啊\n\n[Outro]\n滴答滴 滴答滴\n想你啦 想你啦\n滴答滴 停不下",
+    "mmx_prompt": "style: catchy Chinese pop, viral earworm, upbeat tempo, 115 BPM, 4536251 chord progression, full length song 3-4 minutes, extended instrumental breaks, long intro and outro",
+    "cover_prompt": "",
+    "bpm": 115,
+    "chord": "4536251",
+    "model_used": "deepseek-v4-pro",
+    "pure_lines": 66
+  },
+  {
+    "title": "满江红",
+    "genre_code": "guofeng",
+    "lyrics": "[Intro]\n月照孤城楼外楼\n风卷残雪落肩头\n一弦琴声冷如秋\n\n[Verse 1]\n高楼望断天涯路\n月照寒江舟自横\n风起时 雪满衣袖\n谁在长夜抚琴等候\n旧时山河入梦中\n八千路遥云追月\n三十功名尘与土\n半生飘零何处归\n\n[Pre-Chorus]\n酒入愁肠化剑气\n斩不断 这人间别离\n\n[Chorus]\n满江红遍 山河未改\n一曲琴音 祭我尘埃\n铁马冰河 入梦而来\n千古兴亡 都付楼台风雪埋\n\n[Verse 2]\n残雪压枝低 楼前风又起\n月下独酌 酒冷琴声稀\n塞上长城空自许\n镜中衰鬓已先斑\n胡尘未灭 鬓先秋\n泪空流 此身已老沧洲\n\n[Pre-Chorus]\n剑光映雪 照见少年游\n江山如旧 人独倚危楼\n\n[Chorus]\n满江红遍 山河未改\n一曲琴音 祭我尘埃\n铁马冰河 入梦而来\n千古兴亡 都付楼台风雪埋\n\n[Instrumental]\n古筝如雨落 笛声裂长空\n\n[Bridge]\n谁记当年 踏雪过江东\n剑指天涯 气贯长虹\n如今只剩 残月照孤峰\n琴弦断 酒盏空 往事都随风\n\n[Verse 3]\n塞外风霜 铁衣寒透骨\n孤城落日 征人望乡路\n雁字回时 月满西楼处\n一杯浊酒 祭千古兴亡\n壮志未酬 身已赴黄泉\n青史留名 不过一行书\n\n[Chorus]\n满江红遍 山河未改\n一曲琴音 祭我尘埃\n铁马冰河 入梦而来\n千古兴亡 都付楼台风雪埋\n\n[Outro]\n月落楼头 雪满天涯路\n琴碎酒冷 故人从此无\n风烟散尽 此身归何处\n满江红 染透春秋书\n满江红 染透春秋书\n满江红 染透春秋书",
+    "mmx_prompt": "style: Chinese traditional style pop, guzheng and dizi, operatic female vocal, 90 BPM, 大调卡农 chord progression, full length song 3-4 minutes, extended instrumental breaks, long intro and outro",
+    "cover_prompt": "",
+    "bpm": 90,
+    "chord": "大调卡农",
+    "model_used": "deepseek-v4-pro",
+    "pure_lines": 50
+  }
+]

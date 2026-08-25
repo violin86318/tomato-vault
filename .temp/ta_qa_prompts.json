@@ -1,0 +1,57 @@
+{
+  "dance": {
+    "title": "扭一扭",
+    "lyrics": "[Intro]\n嘿 音乐响起来\n灯光转起来\nEverybody 扭起来\n\n[Verse 1]\n广场灯亮起\n阿姨穿红衣\n叔叔踩点齐\n音箱扛上车\n电话打给你\n快点下楼来\n人墙围起来\n今夜别徘徊\n\n[Chorus]\n扭一扭 扭一扭\n扭一扭 扭一扭\n扭一扭 甩甩手\n烦恼全都走\n扭一扭 扭一扭\n扭一扭 扭一扭\n扭一扭 点点头\n越扭越上头\n\n[Verse 2]\n左脚别停下\n跟着节拍踏\n叉腰手要画\n脖子转转啦\n上班累够呛\n跳舞最猖狂\n汗水滴地上\n咧嘴大声唱\n\n[Pre-Chorus]\n再来一遍\n动作大点\n心要炸点\n\n[Chorus]\n扭一扭 扭一扭\n扭一扭 扭一扭\n扭一扭 甩甩手\n烦恼全都走\n扭一扭 扭一扭\n扭一扭 扭一扭\n扭一扭 点点头\n越扭越上头\n\n[Instrumental]\n\n[Verse 3]\n左边抬抬手\n右边抖抖肩\n前面转个圈\n后面弯个腰\n一二三四\n再来一次\n\n[Chorus]\n扭一扭 扭一扭\n扭一扭 扭一扭\n扭一扭 甩甩手\n烦恼全都走\n扭一扭 扭一扭\n扭一扭 扭一扭\n扭一扭 点点头\n越扭越上头\n\n[Chorus]\n扭一扭 扭一扭\n扭一扭 扭一扭\n扭一扭 甩甩手\n烦恼全都走\n扭一扭 扭一扭\n扭一扭 扭一扭\n扭一扭 点点头\n越扭越上头\n\n[Outro]\n扭完回家\n洗洗睡吧\n明天再扭",
+    "model": "kimi-k2.6",
+    "mmx_prompt": "A high-energy Chinese square dance remix at 128 BPM with a four-on-the-floor beat and catchy synth melody. The arrangement features DJ-style bass drops and extended instrumental breaks, leaving generous space between vocal chops. Female vocal phrases are short and repetitive, designed for crowd participation. Full-length song structure with a long intro building anticipation and a long outro fading out gradually.",
+    "suno_prompt": "Style: Chinese square dance remix, DJ dance, high energy, four-on-the-floor, catchy synth, bass drops, female vocal, short repetitive phrases, crowd participation, 128 BPM, full length 3-4 minutes",
+    "bpm": 128,
+    "chord": "6415",
+    "genre_code": "dance",
+    "cover_prompt": "Album cover featuring night square dance scene, red-dressed aunties and uncles twisting together, spinning disco ball lights, dynamic motion blur, with the Chinese characters '扭一扭' etched into a surface in the scene. Color palette: vibrant warm reds and oranges against a deep blue night sky, high energy. Square format, bold simple composition suitable for streaming platform thumbnails, no extra text."
+  },
+  "viral_pop": {
+    "title": "甜滋滋",
+    "lyrics": "[Intro]\n嗯 嗯 嗯\n心里有个声音\n甜滋滋 甜滋滋\n\n[Verse 1]\n周一早上赖床不想起\n你发来消息说给我带了冰淇淋\n草莓味道跳进我梦里\n一个翻身就把被子踢下地\n中午约在食堂第三排\n你偷偷把鸡腿往我碗里塞\n姐妹们都笑我脸红得快\n我说都是太阳晒 别乱猜\n\n[Pre-Chorus]\n心跳咚咚咚在敲鼓\n体温升升降降停不住\n\n[Chorus]\n甜滋滋 甜滋滋 甜滋滋\n冒泡泡 冒泡泡 冒泡泡\n摇一摇 摇一摇 摇一摇\n你是我的蜜桃味跳跳糖\n甜滋滋 甜滋滋 甜滋滋\n冒泡泡 冒泡泡 冒泡泡\n摇一摇 摇一摇 摇一摇\n全世界都在嘴里化开了\n\n[Verse 2]\n周末窝在沙发看综艺\n你点了我最爱的芋泥波波茶\n珍珠吸上来又掉下去\n像我的心呀扑通扑通跳不停\n晚上回家路灯排成排\n你把我手揣进你口袋\n影子拉长粘成一块\n连月亮都笑我们分不开\n\n[Pre-Chorus]\n心跳咚咚咚在敲鼓\n体温升升降降停不住\n\n[Chorus]\n甜滋滋 甜滋滋 甜滋滋\n冒泡泡 冒泡泡 冒泡泡\n摇一摇 摇一摇 摇一摇\n你是我的蜜桃味跳跳糖\n甜滋滋 甜滋滋 甜滋滋\n冒泡泡 冒泡泡 冒泡泡\n摇一摇 摇一摇 摇一摇\n全世界都在嘴里化开了\n\n[Bridge]\n有时也会吵吵闹闹\n你总先低头说宝宝抱抱\n眼泪还没干嘴角就翘\n你一撒娇我就没招\n爱是什么我不知道\n只知道想起你就想笑\n\n[Chorus]\n甜滋滋 甜滋滋 甜滋滋\n冒泡泡 冒泡泡 冒泡泡\n摇一摇 摇一摇 摇一摇\n你是我的蜜桃味跳跳糖\n甜滋滋 甜滋滋 甜滋滋\n冒泡泡 冒泡泡 冒泡泡\n摇一摇 摇一摇 摇一摇\n全世界都在嘴里化开了\n\n[Chorus]\n甜滋滋 甜滋滋 甜滋滋\n冒泡泡 冒泡泡 冒泡泡\n摇一摇 摇一摇 摇一摇\n你是我的蜜桃味跳跳糖\n甜滋滋 甜滋滋 甜滋滋\n冒泡泡 冒泡泡 冒泡泡\n摇一摇 摇一摇 摇一摇\n全世界都在嘴里化开了\n\n[Outro]\n嗯 嗯 嗯\n吧唧一口咬下去\n甜滋滋 甜滋滋\n啾",
+    "model": "deepseek-v4-pro",
+    "mmx_prompt": "A catchy Chinese viral pop song at 115 BPM with a sweet female vocal and a repetitive hook built on a IV-V-IIIm-VIm chord progression. The arrangement is spacious, leaving room between phrases for the earworm melody to breathe. Extended chorus repeats with an A-A-A-B structure create maximum stickiness. Bridge section provides contrast before the final double chorus.",
+    "suno_prompt": "Style: Chinese viral pop, sweet female vocal, earworm hook, repetitive chorus, A-A-A-B structure, upbeat, catchy, 115 BPM, full length 3-4 minutes",
+    "bpm": 115,
+    "chord": "4536251",
+    "genre_code": "viral_pop",
+    "cover_prompt": "Album cover featuring a giant strawberry ice cream cone, popping bubbles floating in the air, a happy girl with sparkling eyes holding a milk tea, with the Chinese characters '甜滋滋' naturally appearing as part of the scene. Color palette: sweet pastel pink and mint colors, dreamy candy world. Square format, bold simple composition suitable for streaming platform thumbnails, no extra text."
+  },
+  "sad": {
+    "title": "你还好吗",
+    "lyrics": "[Intro]\n雨声关掉整条街\n空房间泡在眼泪里面\n手机亮了又暗\n\n[Verse 1]\n那天你拿走外套拉链\n我们连再见都说得好随便\n后来我学会煮一人份的面\n多出半袋盐扔在灶边\n翻开相册不敢点全屏看\n怕看清你笑的侧脸\n最后一条消息是那天\n你说累了就别再见\n\n[Pre-Chorus]\n我打出又删反复一整夜\n那句问候想放在指尖\n\n[Chorus]\n你还好吗\n你还好吗\n你还好吗\n这句话我咽下\n心像针扎\n还是算了吧\n\n[Verse 2]\n以前你总怪我睡得晚\n现在凌晨三点我盯着灯管\n还记得你爱哼的副歌片段\n我偷偷放进歌单循环\n楼下便利店关掉最后一盏\n像我们那晚什么都没剩\n你说过冬天会给我暖手\n现在起风我学会自己攥\n\n[Pre-Chorus]\n我打出又删反复一整夜\n那句问候想放在指尖\n\n[Chorus]\n你还好吗\n你还好吗\n你还好吗\n这句话我咽下\n心像针扎\n还是算了吧\n\n[Bridge]\n我知道应该把你忘掉\n可是忘记比记住更吵\n我收起所有你的好\n就当放过自己好不好\n枕头里埋着没出声的嚎啕\n天快亮了我假装没睡着\n\n[Instrumental]\n\n[Chorus]\n你还好吗\n你还好吗\n你还好吗\n这句话我咽下\n心像针扎\n还是算了吧\n\n[Outro]\n雨停了屏幕也暗了\n那句晚安我改成早啊\n发送键还是没敢\n你还好吗我好傻",
+    "model": "deepseek-v4-pro",
+    "mmx_prompt": "An emotional Chinese ballad at 80 BPM with a breathy female vocal and gentle crying tone, built on a I-VIm-IV-V chord progression. Piano and strings create a melancholy atmosphere with long instrumental passages. The arrangement is unhurried, giving each emotional phrase room to resonate. Extended outro for a lingering sense of loss.",
+    "suno_prompt": "Style: Chinese emotional ballad, breathy female vocal, crying tone, piano and strings, melancholy, slow, 80 BPM, full length 3-4 minutes",
+    "bpm": 80,
+    "chord": "1645",
+    "genre_code": "sad",
+    "cover_prompt": "Album cover featuring a rainy night street, an empty room with a glowing phone screen on the bed, a half-used bag of salt on the stove, with the Chinese characters '你还好吗' formed by elements within the scene. Color palette: cold blue and grey palette, melancholic atmosphere. Square format, bold simple composition suitable for streaming platform thumbnails, no extra text."
+  },
+  "guofeng": {
+    "title": "鹧鸪天",
+    "lyrics": "[Intro]\n霜满天 叶满地\n楼头残灯晃眼迷\n忽闻鹧鸪三两啼\n\n[Verse 1]\n月沉沉 照旧栏杆\n西楼风起琴声寒\n去年你弹的长相欢\n今日只剩我独弹\n弦断了 续也乱\n窗外雪落满长安\n我在楼头数更漏\n一滴一滴天不亮\n\n[Pre-Chorus]\n鹧鸪叫了一整晚\n叫得人断肠\n叫得心上裂成两半\n\n[Chorus]\n鹧鸪啼 声声慢\n鹧鸪啼 声声慢\n鹧鸪啼 声声慢\n相思一夜天涯远\n月如钩 人未还\n西楼望断几重山\n\n[Verse 2]\n记得别时柳条短\n如今雪厚没人管\n你说归期在春半\n可鹧鸪已叫到冬残\n镜里容颜换\n鬓边青丝乱\n是不是你忘了誓言\n还是路途太多关山\n\n[Pre-Chorus]\n鹧鸪又叫了一整晚\n叫得人断肠\n叫得心上裂成两半\n\n[Chorus]\n鹧鸪啼 声声慢\n鹧鸪啼 声声慢\n鹧鸪啼 声声慢\n相思一夜天涯远\n月如钩 人未还\n西楼望断几重山\n\n[Instrumental]\n\n[Bridge]\n梦里好像你回还\n推门带进一身寒\n伸手去碰忽然散\n醒来只有泪未干\n鹧鸪还在枝头唤\n唤得月落参横残\n\n[Chorus]\n鹧鸪啼 声声慢\n鹧鸪啼 声声慢\n鹧鸪啼 声声慢\n相思一夜天涯远\n月如钩 人未还\n西楼望断几重山\n\n[Outro]\n鹧鸪天 鹧鸪天\n声声落在心上寒\n夜夜楼头望不断\n何日君再来团圆",
+    "model": "deepseek-v4-pro",
+    "mmx_prompt": "A Chinese traditional-style pop song at 90 BPM featuring guzheng and dizi, built on a canon chord progression. The arrangement is elegant and atmospheric with extended guzheng solo passages, leaving generous space between vocal lines. An operatic female vocal delivers poetic phrases with unhurried pacing. Long intro establishes the classical mood before the first verse enters.",
+    "suno_prompt": "Style: Chinese traditional pop, guzheng, dizi, operatic female vocal, elegant, atmospheric, classical, 90 BPM, full length 3-4 minutes",
+    "bpm": 90,
+    "chord": "canon",
+    "genre_code": "guofeng",
+    "cover_prompt": "Album cover featuring an ancient west tower under moonlight, a lonely guzheng with broken strings, snow falling on the railing, a zhegu bird perching on a bare branch, with the Chinese characters '鹧鸪天' etched into a surface in the scene. Color palette: ink-wash black and white with pale gold moonlight, traditional Chinese painting style. Square format, bold simple composition suitable for streaming platform thumbnails, no extra text."
+  },
+  "hometown": {
+    "title": "妈妈的白发",
+    "lyrics": "[Intro]\n老槐树的影子 拖得老长\n屋顶的炊烟 飘散在夕阳\n妈妈站在门口 朝着远方望\n\n[Verse 1]\n记得小时候 你牵我手掌\n田埂上野花 开得正香\n土灶里的火光 映你脸上\n那时候你头发 乌黑发亮\n夜晚煤油灯 轻轻摇晃\n你哼的歌谣 还在耳边唱\n我趴在你膝上 说过梦想\n长大要给你 买新衣裳\n\n[Pre-Chorus]\n这些年我走了 很远地方\n电话里你总是 报喜不报伤\n可那天回家 猛然看见\n\n[Chorus]\n妈的白发\n又多了几根\n妈的白发\n让我不忍看\n妈的白发\n揪住我的心\n我一定风光回家\n不让你再等\n\n[Verse 2]\n十八岁那年 离开小村庄\n蛇皮口袋装着 换洗衣裳\n绿皮火车 哐当哐当响\n把我丢在 陌生的工厂\n流水线轰鸣 从早到晚\n加班费攒着 寄回故乡\n受了委屈 就抬头望月亮\n想着你笑容 我又硬扛\n\n[Pre-Chorus]\n这些年我走了 很远地方\n电话里你总是 报喜不报伤\n可那天回家 猛然看见\n\n[Chorus]\n妈的白发\n又多了几根\n妈的白发\n让我不忍看\n妈的白发\n揪住我的心\n我一定风光回家\n不让你再等\n\n[Bridge]\n我不怕这城市 风大雨狂\n只怕你白发 越来越多长\n时间啊时间 你慢些流淌\n儿子没混好 你先别沧桑\n我咬着牙关 拼这一场\n一定要让你 晚年安康\n\n[Chorus]\n妈的白发\n又多了几根\n妈的白发\n让我不忍看\n妈的白发\n揪住我的心\n我一定风光回家\n不让你再等\n\n[Outro]\n炊烟又升起 在老家方向\n槐树落了叶 新叶又长\n妈的白发 像银针闪闪亮\n等着我回去 为你梳妆",
+    "model": "deepseek-v4-pro",
+    "mmx_prompt": "A warm Chinese folk pop song at 100 BPM with a gentle male vocal and acoustic guitar, built on a canon variation progression. The arrangement is nostalgic and uplifting with extended instrumental sections, leaving room between verses for the melody to breathe. Bridge section provides an inspirational turn before the final chorus. Countryside imagery guides the emotional arc.",
+    "suno_prompt": "Style: Chinese folk pop, gentle male vocal, acoustic guitar, nostalgic, uplifting, warm, 100 BPM, full length 3-4 minutes",
+    "bpm": 100,
+    "chord": "canon_variation",
+    "genre_code": "hometown",
+    "cover_prompt": "Album cover featuring an old village with cooking smoke rising at sunset, a mother standing at the door with silver-white hair, an old locust tree casting long shadows, with the Chinese characters '妈妈的白发' naturally appearing as part of the scene. Color palette: warm golden sunset tones, nostalgic rural scenery. Square format, bold simple composition suitable for streaming platform thumbnails, no extra text."
+  }
+}

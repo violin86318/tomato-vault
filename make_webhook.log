@@ -1,0 +1,182 @@
+05:10:05 [INFO] 🚀 Make webhook 接收端启动 — http://127.0.0.1:8897
+05:10:05 [INFO]    POST /api/make/start   ← Make 触发(本地调 MiniMax API)
+05:10:05 [INFO]    POST /api/make/finish  ← Make 回传
+05:10:05 [INFO]    文件输出: /tmp/tomato_music (需手动 cp 到 ~/Music/番茄音乐/)
+05:10:05 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+05:10:07 [INFO] 🚀 Make 触发: title=深夜的城市
+05:10:07 [INFO] ⏳ 调用 MiniMax API: 深夜的城市
+05:10:26 [INFO] ✅ MiniMax 返回 MP3: https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/audio%2Feffect%2F...
+05:10:26 [INFO] 🎉 MP3 下载成功: 深夜的城市 (0.4MB)
+05:10:26 [INFO] ✅ MiniMax → 下载完成: 深夜的城市 (0.4MB)
+18:22:18 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+18:22:18 [INFO]    输出: /tmp/tomato_music
+18:22:18 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+18:22:18 [INFO]    POST /api/make/finish — 向后兼容
+18:22:18 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+18:23:55 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+18:23:55 [INFO]    输出: /tmp/tomato_music
+18:23:55 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+18:23:55 [INFO]    POST /api/make/finish — 向后兼容
+18:23:55 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+16:18:09 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+16:18:10 [INFO]    输出: /tmp/tomato_music
+16:18:10 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+16:18:10 [INFO]    POST /api/make/finish — 向后兼容
+16:18:10 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+03:56:56 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+03:56:57 [INFO]    输出: /tmp/tomato_music
+03:56:57 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+03:56:57 [INFO]    POST /api/make/finish — 向后兼容
+03:56:57 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 65513)
+Traceback (most recent call last):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 316, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 347, in process_request
+    self.finish_request(request, client_address)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/server.py", line 434, in handle
+    self.handle_one_request()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/server.py", line 422, in handle_one_request
+    method()
+  File "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/tomato-vault/make_webhook.py", line 321, in do_GET
+    self._send_json(404, {"error": "not found"})
+  File "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/tomato-vault/make_webhook.py", line 315, in _send_json
+    self.wfile.write(json.dumps(body, ensure_ascii=False).encode())
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 826, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+07:04:27 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+07:04:28 [INFO]    输出: /tmp/tomato_music
+07:04:28 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+07:04:28 [INFO]    POST /api/make/finish — 向后兼容
+07:04:28 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+14:07:20 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+14:07:21 [INFO]    输出: /tmp/tomato_music
+14:07:21 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+14:07:21 [INFO]    POST /api/make/finish — 向后兼容
+14:07:21 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+22:00:41 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+22:00:42 [INFO]    输出: /tmp/tomato_music
+22:00:42 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+22:00:42 [INFO]    POST /api/make/finish — 向后兼容
+22:00:42 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+20:06:03 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+20:06:03 [INFO]    输出: /tmp/tomato_music
+20:06:03 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+20:06:03 [INFO]    POST /api/make/finish — 向后兼容
+20:06:03 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+20:06:17 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+20:06:17 [INFO]    输出: /tmp/tomato_music
+20:06:17 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+20:06:17 [INFO]    POST /api/make/finish — 向后兼容
+20:06:17 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+22:07:32 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+22:07:32 [INFO]    输出: /tmp/tomato_music
+22:07:32 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+22:07:32 [INFO]    POST /api/make/finish — 向后兼容
+22:07:32 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+08:33:10 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+08:33:10 [INFO]    输出: /tmp/tomato_music
+08:33:10 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+08:33:10 [INFO]    POST /api/make/finish — 向后兼容
+08:33:10 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 61781)
+Traceback (most recent call last):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 316, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 347, in process_request
+    self.finish_request(request, client_address)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/server.py", line 434, in handle
+    self.handle_one_request()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/server.py", line 422, in handle_one_request
+    method()
+  File "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/tomato-vault/make_webhook.py", line 321, in do_GET
+    self._send_json(404, {"error": "not found"})
+  File "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/tomato-vault/make_webhook.py", line 315, in _send_json
+    self.wfile.write(json.dumps(body, ensure_ascii=False).encode())
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 826, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 62204)
+Traceback (most recent call last):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 316, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 347, in process_request
+    self.finish_request(request, client_address)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/server.py", line 434, in handle
+    self.handle_one_request()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/server.py", line 422, in handle_one_request
+    method()
+  File "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/tomato-vault/make_webhook.py", line 321, in do_GET
+    self._send_json(404, {"error": "not found"})
+  File "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/tomato-vault/make_webhook.py", line 315, in _send_json
+    self.wfile.write(json.dumps(body, ensure_ascii=False).encode())
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 826, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 62738)
+Traceback (most recent call last):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 316, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 347, in process_request
+    self.finish_request(request, client_address)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/server.py", line 434, in handle
+    self.handle_one_request()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/server.py", line 422, in handle_one_request
+    method()
+  File "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/tomato-vault/make_webhook.py", line 321, in do_GET
+    self._send_json(404, {"error": "not found"})
+  File "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/tomato-vault/make_webhook.py", line 315, in _send_json
+    self.wfile.write(json.dumps(body, ensure_ascii=False).encode())
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 826, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+19:00:14 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+19:00:14 [INFO]    输出: /tmp/tomato_music
+19:00:14 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+19:00:14 [INFO]    POST /api/make/finish — 向后兼容
+19:00:14 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+17:50:50 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+17:50:50 [INFO]    输出: /tmp/tomato_music
+17:50:50 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+17:50:50 [INFO]    POST /api/make/finish — 向后兼容
+17:50:50 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+15:03:00 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+15:03:00 [INFO]    输出: /tmp/tomato_music
+15:03:00 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+15:03:00 [INFO]    POST /api/make/finish — 向后兼容
+15:03:00 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+00:32:19 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+00:32:20 [INFO]    输出: /tmp/tomato_music
+00:32:20 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+00:32:20 [INFO]    POST /api/make/finish — 向后兼容
+00:32:20 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+22:17:57 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+22:17:57 [INFO]    输出: /tmp/tomato_music
+22:17:57 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+22:17:57 [INFO]    POST /api/make/finish — 向后兼容
+22:17:57 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health

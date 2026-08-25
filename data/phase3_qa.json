@@ -1,0 +1,88 @@
+{
+  "sad": {
+    "d1_cliche": 95,
+    "d2_vividness": 23,
+    "d3_hook": 90,
+    "d4_rhyme": 60,
+    "total": 63,
+    "lines": 52,
+    "senses": [
+      "嗅觉",
+      "触觉",
+      "听觉",
+      "视觉"
+    ],
+    "hook_repeat": 12,
+    "cliché_details": [
+      [
+        21,
+        "你说过 永远不会离开",
+        "永远"
+      ]
+    ]
+  },
+  "guofeng": {
+    "d1_cliche": 100,
+    "d2_vividness": 69,
+    "d3_hook": 80,
+    "d4_rhyme": 60,
+    "total": 78,
+    "lines": 65,
+    "senses": [
+      "听觉",
+      "嗅觉",
+      "触觉",
+      "视觉"
+    ],
+    "hook_repeat": 12,
+    "cliché_details": []
+  },
+  "dance": {
+    "d1_cliche": 100,
+    "d2_vividness": 20,
+    "d3_hook": 90,
+    "d4_rhyme": 60,
+    "total": 64,
+    "lines": 70,
+    "senses": [
+      "嗅觉",
+      "听觉",
+      "视觉"
+    ],
+    "hook_repeat": 8,
+    "cliché_details": []
+  },
+  "hometown": {
+    "d1_cliche": 100,
+    "d2_vividness": 87,
+    "d3_hook": 90,
+    "d4_rhyme": 60,
+    "total": 87,
+    "lines": 81,
+    "senses": [
+      "听觉",
+      "触觉",
+      "味觉",
+      "视觉"
+    ],
+    "hook_repeat": 8,
+    "cliché_details": []
+  },
+  "viral_pop": {
+    "d1_cliche": 100,
+    "d2_vividness": 37,
+    "d3_hook": 100,
+    "d4_rhyme": 60,
+    "total": 72,
+    "lines": 61,
+    "senses": [
+      "视觉",
+      "嗅觉",
+      "触觉",
+      "味觉",
+      "听觉"
+    ],
+    "hook_repeat": 3,
+    "cliché_details": []
+  }
+}

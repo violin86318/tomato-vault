@@ -1,0 +1,22 @@
+{"ts": "2026-06-16T03:40:42.042772", "data": {"title": "测试歌曲", "date": "2026-06-15", "mp3_url": "", "cover_url": "", "lyrics": "这是一首测试歌曲\n歌词只有两行", "meta": {"source": "make-test", "genre": "test"}}}
+{"ts": "2026-06-16T03:40:42.600585", "data": {"title": "外网测试", "date": "2026-06-15", "mp3_url": "", "cover_url": "", "lyrics": "这是一首测试歌曲\n歌词只有两行", "meta": {"source": "make-test", "genre": "test"}}}
+{"ts": "2026-06-16T03:41:09.584603", "data": {"title": "测试歌曲", "date": "2026-06-15", "mp3_url": "", "cover_url": "", "lyrics": "这是一首测试歌曲\n歌词只有两行", "meta": {"source": "make-test", "genre": "test"}}}
+{"ts": "2026-06-16T04:41:29.122684", "data": {"title": "", "date": "", "mp3_url": "", "genre": "", "lyrics": "", "meta": {"source": "make", "model": "music-2.6"}}}
+{"ts": "2026-06-16T04:41:32.803877", "data": {"title": "", "date": "", "mp3_url": "", "genre": "", "lyrics": "", "meta": {"source": "make", "model": "music-2.6"}}}
+{"ts": "2026-06-16T04:47:12.806008", "data": {"title": "", "date": "", "mp3_url": "", "genre": "", "lyrics": "", "meta": {"source": "make", "model": "music-2.6"}}}
+{"ts": "2026-06-16T04:54:54.167975", "data": {"title": "", "date": "", "mp3_url": "", "genre": "", "lyrics": "", "meta": {"source": "make", "model": "music-2.6"}}}
+{"ts": "2026-06-16T05:02:27.967715", "data": {"title": "", "date": "", "genre": "", "lyrics": "", "prompt": ""}}
+{"ts": "2026-06-16T05:08:49.980090", "data": {"title": "深夜的城市", "date": "2026-06-15", "genre": "流行", "lyrics": "深夜的城市灯火闪烁", "prompt": "流行风格"}}
+{"ts": "2026-06-16T05:09:01.270760", "data": {"title": "深夜的城市", "date": "2026-06-15", "genre": "流行", "lyrics": "深夜的城市灯火闪烁", "prompt": "流行风格 BPM 100"}}
+{"ts": "2026-06-16T05:09:17.981834", "data": {"title": "深夜的城市", "date": "2026-06-15", "genre": "流行", "lyrics": "深夜的城市灯火闪烁", "prompt": "流行风格 BPM 100"}}
+{"ts": "2026-06-16T05:10:07.880345", "data": {"title": "深夜的城市", "date": "2026-06-15", "genre": "流行", "lyrics": "深夜的城市灯火闪烁", "prompt": "流行风格 BPM 100"}}
+{"ts": "2026-06-16T18:34:17.303355", "path": "/api/make/start", "data_keys": ["title", "date", "genre", "lyrics", "prompt"]}
+{"ts": "2026-06-16T18:36:06.159474", "path": "/api/make/start", "data_keys": ["title", "date", "genre", "mood", "lyrics", "prompt"]}
+{"ts": "2026-06-16T18:38:47.366809", "path": "/api/make/start", "data_keys": ["title", "date", "genre", "mood", "lyrics", "prompt"]}
+{"ts": "2026-06-16T18:40:53.076650", "path": "/api/make/start", "data_keys": ["title", "date", "genre", "mood", "lyrics", "prompt"]}
+{"ts": "2026-06-16T18:43:24.160728", "path": "/api/make/start", "data_keys": ["title", "date", "genre", "mood", "lyrics", "prompt"]}
+{"ts": "2026-06-16T18:46:34.548903", "path": "/api/make/start", "data_keys": ["title", "date", "genre", "mood", "lyrics", "prompt"]}
+{"ts": "2026-06-16T18:49:02.228322", "path": "/api/make/start", "data_keys": ["title", "date", "genre", "mood", "lyrics", "prompt"]}
+{"ts": "2026-06-16T18:56:33.268125", "path": "/api/make/start", "data_keys": ["title", "date", "genre", "mood", "lyrics", "prompt"]}
+{"ts": "2026-06-16T19:29:24.889415", "path": "/api/make/start", "data_keys": ["title", "date", "genre", "mood", "lyrics", "prompt"]}
+{"ts": "2026-06-16T19:31:45.130037", "path": "/api/make/start", "data_keys": ["title", "date", "genre", "mood", "lyrics", "prompt"]}

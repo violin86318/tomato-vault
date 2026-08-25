@@ -1,0 +1,11 @@
+name = "tomato-music-worker"
+main = "src/index.js"
+compatibility_date = "2024-09-25"
+
+# Cloudflare Worker — 全线上番茄音乐编排器
+# Make.com → Worker → MiniMax IO + BizyAir → 返回 URL
+
+[vars]
+# API keys 通过 wrangler secret 设置，不硬编码
+# wrangler secret put MINIMAX_KEY
+# wrangler secret put BIZYAIR_KEY
