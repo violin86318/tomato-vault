@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T04:30:39.891198",
+  "generated_at": "2026-09-02T07:22:06.412550",
   "total_songs": 353,
   "songs": [
     {
@@ -172,66 +172,90 @@
       "title": "没你行",
       "dir": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_没你行",
       "date": "2026-08-31",
-      "genre_code": "",
-      "genre_label": "",
-      "genre_icon": "🎵",
-      "genre_color": "#c41e1e",
-      "chord": "",
-      "bpm": 0,
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
       "dimension": "番茄专项",
       "dimensionIcon": "🍅",
-      "versions": [],
+      "versions": [
+        {
+          "filename": "没你行_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_没你行/没你行_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.8
+        }
+      ],
       "cover": {
         "path": null,
         "all_covers": []
       },
       "poster": null,
       "lyrics_file": "[Intro]\n雨还在下\n夜那么长\n房间空得\n只剩回响\n\n[Verse 1]\n你走后门锁还留着你指纹\n我删了照片又恢复备份\n聊天记录翻到凌晨两点\n你说晚安那句还在眼前\n冰箱里的菜一个人吃三天\n碗筷摆两份假装你还在身边\n电视开着没人看\n声音大得我心更烦\n\n[Pre-Chorus]\n想你啊\n真的想你啊\n眼泪它不听话\n\n[Chorus]\n没你行 真的不行\n没你行 真的不行\n没你行 真的不行\n你走之后整个世界都空了\n\n[Verse 2]\n从前你总说我吃饭太慢\n现在没人催我吃到几点\n窗外雨声和心跳一样乱\n发呆一整晚灯也不关\n你的枕头还留着你的味道\n我抱着它哭到快要疯掉\n手机里你的号码还没删\n打了又挂 挂了又删\n\n[Pre-Chorus]\n心好痛\n心真的好痛\n你听见没有\n\n[Chorus]\n没你行 真的不行\n没你行 真的不行\n没你行 真的不行\n你走之后整个世界都空了\n\n[Bridge]\n算了吧 算了吧\n可是算不了啊\n我爱你 我爱你\n这三个字还能发给谁啊\n我一个人也能活\n只是活得不像我了\n雨会停的 天会亮的\n我会慢慢习惯的\n窗外的灯一盏盏熄了\n我的世界还亮着寂寞\n\n[Chorus]\n没你行 真的不行\n没你行 真的不行\n没你行 真的不行\n你走之后整个世界都空了\n\n[Outro]\n雨还在下\n我还在想\n没你行\n真的不行",
-      "duration": 180
+      "duration": 189
     },
     {
       "slug": "心痒痒_2026-08-31",
       "title": "心痒痒",
       "dir": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_心痒痒",
       "date": "2026-08-31",
-      "genre_code": "",
-      "genre_label": "",
-      "genre_icon": "🎵",
-      "genre_color": "#c41e1e",
-      "chord": "",
-      "bpm": 0,
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
       "dimension": "番茄专项",
       "dimensionIcon": "🍅",
-      "versions": [],
+      "versions": [
+        {
+          "filename": "心痒痒_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_心痒痒/心痒痒_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.9
+        }
+      ],
       "cover": {
         "path": null,
         "all_covers": []
       },
       "poster": null,
       "lyrics_file": "[Intro]\n手机屏幕亮又暗 消息打了又删\n心里住进一个人 走路都在打转\n哎呀 这可怎么办\n\n[Verse 1]\n早上起床第一件事 翻你朋友圈\n你昨晚发的自拍 我点了三遍赞\n假装随口问一句 今天几点下班\n其实想约你吃饭 又怕被你拆穿\n奶茶店门口转悠 盼着和你遇见\n你突然出现那一刻 我手心全是汗\n\n[Pre-Chorus]\n心跳砰砰砰 像打鼓\n话到嘴边 又咽下去\n\n[Chorus]\n心痒痒 心痒痒 心痒痒\n忍不住 想你想得受不了\n心痒痒 心痒痒 心痒痒\n看见你 就想要撒娇\n心痒痒 心痒痒 心痒痒\n这感觉 像吃了蜜糖\n哎呀呀 不如今天就去表白吧\n\n[Verse 2]\n你问我为什么总 买同款奶茶\n我说这家最好喝 其实是等你啊\n你笑起来的模样 像棉花糖融化\n我偷偷记下你爱 加珍珠不加糖\n朋友都笑我太傻 像个痴心瓜\n可他们不知道 你回消息我就开花\n\n[Pre-Chorus]\n心跳砰砰砰 藏不住\n这次勇敢 迈出一步\n\n[Chorus]\n心痒痒 心痒痒 心痒痒\n忍不住 想你想得受不了\n心痒痒 心痒痒 心痒痒\n看见你 就想要撒娇\n心痒痒 心痒痒 心痒痒\n这感觉 像吃了蜜糖\n哎呀呀 不如今天就去表白吧\n\n[Bridge]\n对你说 我喜欢你呀\n可不可以 牵我的手呀\n你看月亮 都在笑我\n它说傻瓜 快去抱她\n\n[Chorus]\n心痒痒 心痒痒 心痒痒\n忍不住 想你想得受不了\n心痒痒 心痒痒 心痒痒\n看见你 就想要撒娇\n心痒痒 心痒痒 心痒痒\n这感觉 像吃了蜜糖\n哎呀呀 你点头我就带你看晚霞\n\n[Chorus]\n心痒痒 心痒痒 心痒痒\n忍不住 想你想得受不了\n心痒痒 心痒痒 心痒痒\n听见你 说也喜欢我呀\n心痒痒 心痒痒 心痒痒\n全世界 都在冒粉红泡泡\n哎呀呀 这一刻甜到我晕倒啦\n\n[Outro]\n心痒痒 终于不痒了\n因为有你在身旁呀\n啦啦啦 我们在一起啦\n心痒痒 心痒痒 满脑子都是你呀",
-      "duration": 180
+      "duration": 193
     },
     {
       "slug": "大风吹_2026-08-31",
       "title": "大风吹",
       "dir": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_大风吹",
       "date": "2026-08-31",
-      "genre_code": "",
-      "genre_label": "",
-      "genre_icon": "🎵",
-      "genre_color": "#c41e1e",
-      "chord": "",
-      "bpm": 0,
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
       "dimension": "番茄专项",
       "dimensionIcon": "🍅",
-      "versions": [],
+      "versions": [
+        {
+          "filename": "大风吹_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_大风吹/大风吹_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 8.2
+        }
+      ],
       "cover": {
         "path": null,
         "all_covers": []
       },
       "poster": null,
       "lyrics_file": "[Intro]\n大风吹 大风吹 吹得心儿飞\n大风吹 大风吹 今晚别想睡\n大风吹 大风吹 广场在发威\n\n[Verse 1]\n霓虹灯 照亮天 音乐炸耳边\n老大爷 花衬衫 扇子甩得圆\n大妈们 红裙摆 转圈像火焰\n年轻人 也加入 蹦跶没个完\n音响震 地面颤 脚步跟着乱\n汗水甩 笑开怀 谁管丑不丑\n这夜晚 这节奏 要的就是嗨\n\n[Chorus]\n动起来 动起来 屁股扭一扭\n动起来 动起来 胳膊甩一甩\n动起来 动起来 脖子转一转\n大风吹 大风吹 烦恼全吹走\n心痒痒 心痒痒 脚步不想停\n心痒痒 心痒痒 跟着鼓点走\n心痒痒 心痒痒 跳到天尽头\n大风吹 大风吹 越跳越上头\n\n[Verse 2]\n左边看 大姐笑 舞步真带劲\n右边瞧 小帅哥 动作有点青\n前边跳 大叔猛 像在打太极\n后边跟 小妹妹 摇得真开心\n灯光闪 人影晃 像在放电影\n音乐换 重低音 心跳碰碰碰\n谁还管 明天事 今晚就尽情\n\n[Pre-Chorus]\n风越大 心越浪\n节奏一响 就发狂\n\n[Chorus]\n动起来 动起来 屁股扭一扭\n动起来 动起来 胳膊甩一甩\n动起来 动起来 脖子转一转\n大风吹 大风吹 烦恼全吹走\n心痒痒 心痒痒 脚步不想停\n心痒痒 心痒痒 跟着鼓点走\n心痒痒 心痒痒 跳到天尽头\n大风吹 大风吹 越跳越上头\n\n[Instrumental]\n（鼓点炸 贝斯沉 灯光狂闪 全场蹦）\n\n[Verse 3]\n跟我喊 嘿 嘿 嗓子要吼破\n向左转 向右转 别管对错\n抬腿踢 扭胯摇 像个陀螺\n你拍手 我跺脚 全场都快乐\n再来一遍 别停 这歌还没完\n今夜不散 继续 跳到太阳爬山坡\n\n[Chorus]\n动起来 动起来 屁股扭一扭\n动起来 动起来 胳膊甩一甩\n动起来 动起来 脖子转一转\n大风吹 大风吹 烦恼全吹走\n心痒痒 心痒痒 脚步不想停\n心痒痒 心痒痒 跟着鼓点走\n心痒痒 心痒痒 跳到天尽头\n大风吹 大风吹 越跳越上头\n\n[Chorus]\n动起来 动起来 谁也别偷懒\n动起来 动起来 汗珠像雨点\n动起来 动起来 快乐不要钱\n大风吹 大风吹 吹走一身酸\n心痒痒 心痒痒 明天还要来\n心痒痒 心痒痒 广场是舞台\n心痒痒 心痒痒 活得多自在\n大风吹 大风吹 永远不拜拜\n\n[Outro]\n大风吹 大风吹 心儿还在飞\n大风吹 大风吹 下次再相会\n大风吹 大风吹 嗨到天亮黑",
-      "duration": 180
+      "duration": 269
     },
     {
       "slug": "燥起来_2026-08-30",
