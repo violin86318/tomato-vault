@@ -16,6 +16,7 @@
 Usage:
     python lrc_align.py              # 增量
     python lrc_align.py --force      # 全部重跑
+    python lrc_align.py --auto-deploy  # 完成后自动 git add+commit+push（T-B 后台模式用）
     python lrc_align.py --songs 发芽 你是一条河
 """
 
@@ -264,6 +265,7 @@ def find_best_mp3(song_dir: Path) -> str:
 
 def main():
     force = '--force' in sys.argv
+    auto_deploy = '--auto-deploy' in sys.argv
     specified = []
     if '--songs' in sys.argv:
         idx = sys.argv.index('--songs')
@@ -352,7 +354,7 @@ def main():
 
         # 每 20 首保存一次（防止中途崩溃）
         if (i + 1) % 20 == 0:
-            with open('/tmp/lrc_data_new.json', 'w', encoding='utf-8') as f:
+            with open('/tmp/lrc_data_new_tomato.json', 'w', encoding='utf-8') as f:
                 json.dump(existing_lrc, f, ensure_ascii=False, indent=2)
             print(f"   💾 已保存进度 ({i+1}/{len(targets)})")
 
@@ -361,7 +363,7 @@ def main():
         json.dump(existing_lrc, f, ensure_ascii=False, indent=2)
     print(f"\n💾 LRC 数据已写回 {LRC_JSON}")
     # 同步备份一份到 /tmp 供调试
-    tmp_lrc = '/tmp/lrc_data_new.json'
+    tmp_lrc = '/tmp/lrc_data_new_tomato.json'
     with open(tmp_lrc, 'w', encoding='utf-8') as f:
         json.dump(existing_lrc, f, ensure_ascii=False, indent=2)
 
@@ -385,6 +387,22 @@ def main():
             print(f"   ✅ 网站已重建")
         else:
             print(f"   ❌ 重建失败: {result.stderr[:300]}")
+
+    if auto_deploy:
+        print(f"\n🚀 自动部署 (git push)...")
+        repo = Path(__file__).parent
+        def _git(*args):
+            return subprocess.run(['git', '-C', str(repo)] + list(args),
+                                  capture_output=True, text=True, timeout=60)
+        _git('add', 'index.html', 'data/songs.json', 'data/lrc_data.json')
+        r_cmt = _git('commit', '-m', f'chore: LRC auto-deploy {time.strftime("%Y-%m-%d %H:%M")}')
+        if 'nothing to commit' in (r_cmt.stdout or ''):
+            print(f"   ℹ️ 无变更，跳过 push")
+        elif r_cmt.returncode == 0:
+            r_push = _git('push', 'origin', 'main')
+            print(f"   ✅ push {'成功' if r_push.returncode == 0 else '失败: ' + (r_push.stderr or '')[:200]}")
+        else:
+            print(f"   ⚠️ commit 失败: {(r_cmt.stderr or '')[:200]}")
 
 
 if __name__ == '__main__':

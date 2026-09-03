@@ -1,0 +1,183 @@
+{
+  "version": "1.0",
+  "platform": "番茄音乐",
+  "date": "2026-09-03",
+  "total_songs": 5,
+  "songs": [
+    {
+      "title": "蹦呲呲",
+      "genre_code": "dance",
+      "lyrics": "[Intro]\n音响轰轰响\n灯光闪闪亮\n心跳咚咚咚\n\n[Verse 1]\n我一个人走进舞池中央\n想起你走时说的那些话\n眼泪掉进酒杯里打转\n音乐越大声心越慌\n身边人来来又往往\n没人看见我的伤\n只有节奏懂我瞎晃\n\n[Pre-Chorus]\n蹦呲呲 别再想\n蹦呲呲 把痛忘\n\n[Chorus]\n放不下 放不下 放不下 那就放\n忘不掉 忘不掉 忘不掉 慢慢忘\n心好痛 心好痛 心好痛 继续蹦\n我爱你 我爱你 我爱你 别再说\n蹦呲呲 蹦呲呲 蹦呲呲 不要停\n蹦呲呲 蹦呲呲 蹦呲呲 到天明\n\n[Verse 2]\n回到家里空空的床\n想起妈妈常说的话\n她说累了就回家\n外头风吹雨打大\n我把委屈咽进肚里\n对着镜子笑一下\n手机照片还没删\n删了又怕想他\n不如让鼓点踩碎它\n\n[Pre-Chorus]\n蹦呲呲 抬起头\n蹦呲呲 不回头\n蹦呲呲 大步走\n\n[Chorus]\n甩掉它 甩掉它 甩掉它 不回头\n不想你 不想你 不想你 大步走\n心别痛 心别痛 心别痛 喝口酒\n蹦呲呲 蹦呲呲 蹦呲呲 继续扭\n汗在流 汗在流 汗在流 别低头\n天会亮 天会亮 天会亮 在路口\n\n[Bridge]\n嘿！把眼泪踩碎！\n嘿！把回忆甩飞！\n嘿！把昨天灌醉！\n嘿！今晚不归！\n嘿！跟着鼓点炸！\n嘿！蹦到天亮吧！\n\n[Chorus]\n不想你 不想你 不想你 无所谓\n不流泪 不流泪 不流泪 不后悔\n跳起来 跳起来 跳起来 别后退\n蹦呲呲 蹦呲呲 蹦呲呲 震天雷\n甩掉它 甩掉它 甩掉它 不回头\n不想你 不想你 不想你 大步走\n心别痛 心别痛 心别痛 喝口酒\n蹦呲呲 蹦呲呲 蹦呲呲 继续扭\n\n[Chorus]\n天会亮 天会亮 天会亮 在路口\n汗在流 汗在流 汗在流 别低头\n向前冲 向前冲 向前冲 不回头\n蹦呲呲 蹦呲呲 蹦呲呲 到永久\n不想你 不想你 不想你 无所谓\n不流泪 不流泪 不流泪 不后悔\n跳起来 跳起来 跳起来 别后退\n蹦呲呲 蹦呲呲 蹦呲呲 震天雷\n\n[Outro]\n蹦呲呲 天亮了\n蹦呲呲 回家吧\n蹦呲呲 明天再蹦吧",
+      "mmx_prompt": "A high-energy Chinese square dance remix at 128 BPM with a four-on-the-floor beat and catchy synth melody. The arrangement features DJ-style bass drops and extended instrumental breaks, leaving generous space between vocal chops. Female vocal phrases are short and repetitive, designed for crowd participation. Full-length song structure with a long intro building anticipation and a long outro fading out gradually.",
+      "suno_prompt": "chinese square dance remix, 128 bpm, four-on-the-floor, energetic, catchy synth melody, dj bass drops, instrumental breaks, vocal chops, female vocals, repetitive phrases, crowd participation, full-length song, long intro, building anticipation, long outro, fade out",
+      "cover_prompt": "A lone dancer stands in the center of a flashing dance floor, tears falling into a glass of liquor. A massive bass speaker booms with energy, and the Chinese characters '蹦呲呲' are etched into its grille. Warm orange and cool blue lighting, vertical 2:3.",
+      "bpm": 128,
+      "chord": "6415",
+      "slug": "蹦呲呲_2026-09-03",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c3c",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_蹦呲呲",
+      "date": "2026-09-03",
+      "duration": 0,
+      "note_id": "",
+      "lyric_lines": 72,
+      "model": "manual",
+      "qa": {
+        "d1_cliche": 0,
+        "d2_vividness": 0,
+        "d3_hook": 0,
+        "d4_rhyme": 0
+      },
+      "versions": [],
+      "cover": {
+        "path": "",
+        "all_covers": []
+      },
+      "poster": "",
+      "lyrics_file": "",
+      "has_lrc": false,
+      "has_poster": false
+    },
+    {
+      "title": "爱爱爱",
+      "genre_code": "viral_pop",
+      "lyrics": "[Intro]\n爱爱爱 爱爱爱  \n爱爱爱 爱爱爱爱  \n爱就大声说出来  \n\n[Verse 1]\n大清早的太阳晒得暖  \n我蹲在门口吃早饭  \n手机一响我就看  \n是你发来的早安  \n今天活儿不算累  \n晚上广场舞跳得欢  \n你站在队伍最前面  \n我的眼睛跟着转  \n\n[Pre-Chorus]\n爱爱爱 爱爱爱  \n我的心像小鹿乱撞  \n爱爱爱 爱爱爱  \n\n[Chorus]\n我爱你爱爱爱  \n我爱你爱爱爱  \n我爱你爱爱爱  \n你也爱我就快来  \n爱爱爱 爱爱爱  \n爱爱爱 爱爱爱  \n爱爱爱 爱爱爱  \n你也爱我就快来  \n\n[Verse 2]\n昨天干活想着你  \n差点把手给砸伤  \n今天吃饭想着你  \n筷子掉在地上  \n晚上做梦梦见你  \n你在我怀里笑  \n我一个人喝闷酒  \n你还在吗别走好不好  \n\n[Pre-Chorus]\n爱爱爱 爱爱爱  \n你是我眼里的光  \n爱爱爱 爱爱爱  \n\n[Chorus]\n我爱你爱爱爱  \n我爱你爱爱爱  \n我爱你爱爱爱  \n你也爱我就快来  \n爱爱爱 爱爱爱  \n爱爱爱 爱爱爱  \n爱爱爱 爱爱爱  \n你也爱我就快来  \n\n[Bridge]\n妈妈说我太傻气  \n我说这次我认真  \n忘不掉你的笑容  \n放不下这份感情  \n心好痛的时候你来了  \n你就是我的解药  \n\n[Chorus]\n我爱你爱爱爱  \n我爱你爱爱爱  \n我爱你爱爱爱  \n你也爱我就快来  \n爱爱爱 爱爱爱  \n爱爱爱 爱爱爱  \n爱爱爱 爱爱爱  \n你也爱我就快来  \n\n[Chorus]\n我爱你爱爱爱  \n我爱你爱爱爱  \n我爱你爱爱爱  \n你也爱我就快来  \n爱爱爱 爱爱爱  \n爱爱爱 爱爱爱  \n爱爱爱 爱爱爱  \n你也爱我就快来  \n\n[Outro]\n爱爱爱 爱爱爱  \n爱爱爱 爱爱爱  \n放下吧 别想了 爱就爱",
+      "mmx_prompt": "A catchy Chinese viral pop song at 115 BPM with a sweet female vocal and a repetitive hook built on a IV-V-IIIm-VIm chord progression. The arrangement is spacious, leaving room between phrases for the earworm melody to breathe. Extended chorus repeats with an A-A-A-B structure create maximum stickiness. Bridge section provides contrast before the final double chorus.",
+      "suno_prompt": "chinese viral pop, 115 bpm, sweet female vocal, repetitive hook, iv-v-iiim-vim progression, spacious arrangement, earworm melody, extended chorus, a-a-a-b structure, bridge contrast, double chorus, catchy, pop, female vocalist, bright, rhythmic",
+      "cover_prompt": "In the warm morning sun, a young person squats at the door eating breakfast while a phone glows with a good-morning message. In the distance, square-dance enthusiasts move to a heart-shaped neon sign whose glow naturally forms the Chinese characters '爱爱爱'. The scene is bathed in warm orange, captured in a vertical 2:3 format.",
+      "bpm": 115,
+      "chord": "4536251",
+      "slug": "爱爱爱_2026-09-03",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_爱爱爱",
+      "date": "2026-09-03",
+      "duration": 0,
+      "note_id": "",
+      "lyric_lines": 77,
+      "model": "manual",
+      "qa": {
+        "d1_cliche": 0,
+        "d2_vividness": 0,
+        "d3_hook": 0,
+        "d4_rhyme": 0
+      },
+      "versions": [],
+      "cover": {
+        "path": "",
+        "all_covers": []
+      },
+      "poster": "",
+      "lyrics_file": "",
+      "has_lrc": false,
+      "has_poster": false
+    },
+    {
+      "title": "心冷了",
+      "genre_code": "sad",
+      "lyrics": "[Intro]\n雨打在窗台上滴滴答答\n空房间只剩我一个\n连呼吸都有回声\n\n[Verse 1]\n你走的那天没回头\n我站在楼下像条狗\n烟灰缸里堆满了愁\n枕头湿了一大半透\n手机翻到没电了\n还是等不到你一句问候\n我蹲在墙角数着伤口\n才知道什么叫自作自受\n\n[Pre-Chorus]\n心冷了 心冷了\n暖不热的被窝空荡荡的\n\n[Chorus]\n心冷了 心冷了 心冷了\n你走以后天就没亮过\n心冷了 心冷了 心冷了\n再没有人叫我回家吃饭了\n心冷了 心冷了 心冷了\n我把你名字刻在手腕上\n可是你啊 再也看不见了\n\n[Verse 2]\n还记得那年冬天\n你织的围巾还在柜子里\n还记得那碗面条\n你总说多吃点别饿着\n现在桌上摆着两双筷子\n对面却没有人坐\n我学会了自己洗衣做饭\n却学不会不想你\n\n[Pre-Chorus]\n心冷了 心冷了\n一个人的日子太难熬了\n\n[Chorus]\n心冷了 心冷了 心冷了\n你走以后天就没亮过\n心冷了 心冷了 心冷了\n再没有人叫我回家吃饭了\n心冷了 心冷了 心冷了\n我把你名字刻在手腕上\n可是你啊 再也看不见了\n\n[Bridge]\n算了 算了 都算了\n眼泪流干就该往前走了\n把你的东西都收进纸箱\n明天太阳照常升起\n我还要活下去\n\n[Chorus]\n心冷了 心冷了 心冷了\n一个人也能过得不错\n心冷了 心冷了 心冷了\n想通了就不那么痛了\n心冷了 心冷了 心冷了\n谢谢你教会我坚强\n从今以后 我不等你了\n\n[Outro]\n雨停了 夜也深了\n我把灯关掉睡了\n梦里不再有你了",
+      "mmx_prompt": "An emotional Chinese ballad at 80 BPM with a breathy female vocal and gentle crying tone, built on a I-VIm-IV-V chord progression. Piano and strings create a melancholy atmosphere with long instrumental passages. The arrangement is unhurried, giving each emotional phrase room to resonate. Extended outro for a lingering sense of loss.",
+      "suno_prompt": "emotional chinese ballad, 80 bpm, breathy female vocal, gentle crying tone, i-vi-iv-v chord progression, piano, strings, melancholy atmosphere, long instrumental passages, unhurried arrangement, emotional resonance, extended outro, lingering loss, sad",
+      "cover_prompt": "A frozen heart-shaped ice cube rests on a rain-streaked windowsill. An empty dining table holds two pairs of chopsticks across from a vacant chair. The Chinese characters '心冷了' are etched into the ice cube's surface. Cool blue tones. Vertical 2:3.",
+      "bpm": 80,
+      "chord": "1645",
+      "slug": "心冷了_2026-09-03",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#2c3e50",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_心冷了",
+      "date": "2026-09-03",
+      "duration": 0,
+      "note_id": "",
+      "lyric_lines": 62,
+      "model": "manual",
+      "qa": {
+        "d1_cliche": 0,
+        "d2_vividness": 0,
+        "d3_hook": 0,
+        "d4_rhyme": 0
+      },
+      "versions": [],
+      "cover": {
+        "path": "",
+        "all_covers": []
+      },
+      "poster": "",
+      "lyrics_file": "",
+      "has_lrc": false,
+      "has_poster": false
+    },
+    {
+      "title": "雨中曲",
+      "genre_code": "guofeng",
+      "lyrics": "[Intro]\n雨打屋檐响\n风摇芭蕉晃\n一把纸伞撑过往\n\n[Verse 1]\n月亮躲进云里头\n楼台空留人消瘦\n风雪没来雨先到\n琴弦断了音难求\n想起那年你转身\n头也不回往南走\n留我站在雨里头\n眼泪混着雨水流\n\n[Pre-Chorus]\n雨越下越大\n心越来越乱\n你的影子在雨里散\n\n[Chorus]\n雨打芭蕉响叮当\n雨落屋檐滴答响\n雨湿青衫透心凉\n你走以后心好慌\n雨打芭蕉响叮当\n雨落屋檐滴答响\n雨湿青衫透心凉\n我一个人在雨里等天亮\n\n[Verse 2]\n石板路上水汪汪\n脚印深深向远方\n谁家炊烟绕房梁\n想起妈妈煮的汤\n出门在外多少年\n攒了话想说没讲\n雨水冲走我的汗\n冲不走想家的肠\n\n[Pre-Chorus]\n雨还在下啊\n人还在等啊\n你还会不会回来啊\n\n[Chorus]\n雨打芭蕉响叮当\n雨落屋檐滴答响\n雨湿青衫透心凉\n你走以后心好慌\n雨打芭蕉响叮当\n雨落屋檐滴答响\n雨湿青衫透心凉\n我一个人在雨里等天亮\n\n[Instrumental] 古筝/笛子\n\n[Bridge]\n清明时节雨纷纷\n路上行人欲断魂\n借问酒家何处有\n牧童指路我不认\n我只要你在身边\n别的什么都可以\n我只要你说一句\n你还在 你还爱\n\n[Chorus]\n雨打芭蕉响叮当\n雨落屋檐滴答响\n雨湿青衫透心凉\n你走以后心好慌\n雨打芭蕉响叮当\n雨落屋檐滴答响\n雨湿青衫透心凉\n我一个人在雨里等天亮\n\n[Outro]\n雨停了\n天晴了\n你走了\n我还等",
+      "mmx_prompt": "A Chinese traditional-style pop song at 90 BPM featuring guzheng and dizi, built on a canon chord progression. The arrangement is elegant and atmospheric with extended guzheng solo passages, leaving generous space between vocal lines. An operatic female vocal delivers poetic phrases with unhurried pacing. Long intro establishes the classical mood before the first verse enters.",
+      "suno_prompt": "chinese traditional pop, guofeng, 90 bpm, guzheng, dizi, canon chord progression, elegant, atmospheric, extended guzheng solo, spacious arrangement, operatic female vocal, poetic lyrics, unhurried pacing, long intro, classical mood, ethereal, refined, traditional instruments",
+      "cover_prompt": "A lone rain-soaked oil-paper umbrella stands in a courtyard, the Chinese characters '雨中曲' etched into its paper surface. Raindrops drum on broad banana leaves and drip from tiled eaves onto a glistening stone path. A figure in a blue robe waits beneath the umbrella. Cold blue tones, vertical 2:3.",
+      "bpm": 90,
+      "chord": "大调卡农",
+      "slug": "雨中曲_2026-09-03",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏯",
+      "genre_color": "#7f4f24",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_雨中曲",
+      "date": "2026-09-03",
+      "duration": 0,
+      "note_id": "",
+      "lyric_lines": 72,
+      "model": "manual",
+      "qa": {
+        "d1_cliche": 0,
+        "d2_vividness": 0,
+        "d3_hook": 0,
+        "d4_rhyme": 0
+      },
+      "versions": [],
+      "cover": {
+        "path": "",
+        "all_covers": []
+      },
+      "poster": "",
+      "lyrics_file": "",
+      "has_lrc": false,
+      "has_poster": false
+    },
+    {
+      "title": "小毛驴",
+      "genre_code": "hometown",
+      "lyrics": "[Intro]\n村口的老槐树还在摇\n老屋的墙爬满了丝瓜藤\n炊烟飘啊飘等着我回家\n\n[Verse 1]\n小时候我骑着小毛驴\n走在那条坑坑洼洼的土路\n书包里装着两个窝窝头\n口袋里塞着娘煮的鸡蛋\n小毛驴它走得慢悠悠\n我坐在它背上一路唱\n路边的野花开得红彤彤\n那日子简单又亮堂\n\n[Pre-Chorus]\n后来我长大了要出远门\n小毛驴它站在村口送我\n我回头看见娘在抹眼泪\n\n[Chorus]\n小毛驴小毛驴你快快跑\n小毛驴小毛驴你别走掉\n小毛驴小毛驴我想你了\n等我回家给你带草料\n小毛驴小毛驴你慢慢走\n小毛驴小毛驴你等等我\n小毛驴小毛驴我想你了\n等我回家咱们一起跑\n\n[Verse 2]\n离开家已经好几年\n城里的楼高得看不见天\n白天干活累得直不起腰\n晚上躺在板床上想你\n小毛驴你还在老屋旁吗\n你还记不记得我的歌\n我一个人在外头打拼\n再苦再累我也不能倒下\n\n[Pre-Chorus]\n城市的灯红酒绿我不爱\n我只想回到那个小村庄\n小毛驴你还在等我吗\n\n[Chorus]\n小毛驴小毛驴你快快跑\n小毛驴小毛驴你别走掉\n小毛驴小毛驴我想你了\n等我回家给你带草料\n小毛驴小毛驴你慢慢走\n小毛驴小毛驴你等等我\n小毛驴小毛驴我想你了\n等我回家咱们一起跑\n\n[Bridge]\n人就像那小毛驴\n驮着重担也要往前走\n再苦再累不回头\n为了娘为了那个家\n只要心里有念想\n再远的路也不怕\n\n[Chorus]\n小毛驴小毛驴你快快跑\n小毛驴小毛驴你别走掉\n小毛驴小毛驴我想你了\n等我回家给你带草料\n小毛驴小毛驴你慢慢走\n小毛驴小毛驴你等等我\n小毛驴小毛驴我想你了\n等我回家咱们一起跑\n\n[Outro]\n小毛驴小毛驴你快快跑\n跑过那座山跑过那道桥\n回家回家我要回家\n娘还在村口把我望",
+      "mmx_prompt": "A warm Chinese folk pop song at 100 BPM with a gentle male vocal and acoustic guitar, built on a canon variation progression. The arrangement is nostalgic and uplifting with extended instrumental sections, leaving room between verses for the melody to breathe. Bridge section provides an inspirational turn before the final chorus. Countryside imagery guides the emotional arc.",
+      "suno_prompt": "warm chinese folk pop, 100 bpm, gentle male vocal, acoustic guitar, canon variation progression, nostalgic, uplifting, extended instrumental sections, spacious arrangement, airy verses, inspirational bridge, final chorus, countryside imagery, organic production, melodic, heartfelt",
+      "cover_prompt": "A worn plush donkey toy sits on the dusty village path, facing the old locust tree and curling kitchen smoke. The Chinese characters '小毛驴' naturally appear in the smoke swirls above the rooftops. Warm orange tones, vertical 2:3 format.",
+      "bpm": 100,
+      "chord": "卡农变体",
+      "slug": "小毛驴_2026-09-03",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_小毛驴",
+      "date": "2026-09-03",
+      "duration": 0,
+      "note_id": "",
+      "lyric_lines": 69,
+      "model": "manual",
+      "qa": {
+        "d1_cliche": 0,
+        "d2_vividness": 0,
+        "d3_hook": 0,
+        "d4_rhyme": 0
+      },
+      "versions": [],
+      "cover": {
+        "path": "",
+        "all_covers": []
+      },
+      "poster": "",
+      "lyrics_file": "",
+      "has_lrc": false,
+      "has_poster": false
+    }
+  ]
+}

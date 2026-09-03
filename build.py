@@ -201,7 +201,13 @@ def run_extract():
                 old = old_map.get(song['title'])
                 if old:
                     for k, v in old.items():
-                        if k not in song or not song[k]:
+                        if isinstance(v, dict) and isinstance(song.get(k), dict):
+                            # 嵌套 dict 字段级深合并：新扫描值优先，旧元数据(tool/generated_at)回填。
+                            # 修复 2026-09-03：此前 cover.tool 每次 extract 都被重建的 dict 洗掉
+                            for kk, vv in v.items():
+                                if kk not in song[k] or not song[k][kk]:
+                                    song[k][kk] = vv
+                        elif k not in song or not song[k]:
                             song[k] = v
         except Exception:
             pass

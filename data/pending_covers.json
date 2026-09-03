@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-25",
-  "submitted_at": "2026-08-25T12:37:19.411965",
+  "date": "2026-09-03",
+  "submitted_at": "2026-09-03T12:46:56.963065",
   "source": "tomato_audio.json",
   "covers": [
     {
-      "title": "凌晨三点",
-      "prompt": "凌晨三点亮着的手机屏幕，雨滴打在玻璃窗的特写，空床上一件落下的外套，桌上翻倒的空酒瓶与熄灭的烟，the Chinese characters '凌晨三点' etched into a surface in the scene，冷蓝灰、雨夜蓝、屏幕冷白，单色调低饱和，竖版 3:4 海报构图，前景特写聚焦手机屏幕与雨窗",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_凌晨三点",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1787632554964_80186_6291.jpg",
+      "title": "心冷了",
+      "prompt": "A frozen heart-shaped ice cube rests on a rain-streaked windowsill. An empty dining table holds two pairs of chopsticks across from a vacant chair. The Chinese characters '心冷了' are etched into the ice cube's surface. Cool blue tones. Vertical 2:3.",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_心冷了",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1788410553114_79449_4194.jpg",
       "submit_ok": true,
       "submit_error": ""
     },
     {
-      "title": "小甜甜",
-      "prompt": "一杯冒着气泡的奶茶与两颗糖，少女手指捏着奶茶吸管，粉色花瓣飘落在桌面，阳光透过百叶窗投下的光栅，the Chinese characters '小甜甜' naturally appearing as part of the scene，蜜桃粉、薄荷绿、奶油黄等糖果色调，柔光梦幻氛围，竖版 3:4 海报构图，前景少女侧脸特写",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_小甜甜",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1787632554964_80186_7508.jpg",
+      "title": "爱爱爱",
+      "prompt": "In the warm morning sun, a young person squats at the door eating breakfast while a phone glows with a good-morning message. In the distance, square-dance enthusiasts move to a heart-shaped neon sign whose glow naturally forms the Chinese characters '爱爱爱'. The scene is bathed in warm orange, captured in a vertical 2:3 format.",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_爱爱爱",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1788410553114_79449_1722.jpg",
       "submit_ok": true,
       "submit_error": ""
     },
     {
-      "title": "江南忆",
-      "prompt": "江南雨巷里的古琴与灯笼，烟雨朦胧的水乡远景，雕花木窗后半遮面女子剪影，青石板上落着花瓣，the Chinese characters '江南忆' formed by elements within the scene，水墨青、黛色、月白，淡淡墨色晕染，竖版 3:4 国风海报构图，前景灯笼古琴特写",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_江南忆",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1787632554964_80186_7726.jpg",
+      "title": "小毛驴",
+      "prompt": "A worn plush donkey toy sits on the dusty village path, facing the old locust tree and curling kitchen smoke. The Chinese characters '小毛驴' naturally appear in the smoke swirls above the rooftops. Warm orange tones, vertical 2:3 format.",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_小毛驴",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1788410553114_79449_1274.jpg",
       "submit_ok": true,
       "submit_error": ""
     },
     {
-      "title": "老井边",
-      "prompt": "村口老井与青苔石板，井口绳索垂下木桶，炊烟从老屋瓦顶升起，妈妈背影站在田埂上，the Chinese characters '老井边' naturally appearing as part of the scene，暖土黄、晚霞橙、稻穗金，复古胶片质感，竖版 3:4 海报构图，前景老井特写，远景炊烟村屋",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_老井边",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1787632554964_80186_301.jpg",
+      "title": "雨中曲",
+      "prompt": "A lone rain-soaked oil-paper umbrella stands in a courtyard, the Chinese characters '雨中曲' etched into its paper surface. Raindrops drum on broad banana leaves and drip from tiled eaves onto a glistening stone path. A figure in a blue robe waits beneath the umbrella. Cold blue tones, vertical 2:3.",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_雨中曲",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1788410553114_79449_6944.jpg",
       "submit_ok": true,
       "submit_error": ""
     },
     {
-      "title": "跳一跳",
-      "prompt": "霓虹灯招牌闪烁的广场舞大舞台，彩色舞台灯光旋转，广场上成群跳舞的剪影人群，DJ 打碟台与音乐节拍，the Chinese characters '跳一跳' naturally appearing as part of the scene，高饱和度霓虹紫红蓝撞色，赛博朋克城市夜景感，竖版 3:4 海报构图，前景人物鲜明，背景虚化",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_跳一跳",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1787632554964_80186_7552.jpg",
+      "title": "蹦呲呲",
+      "prompt": "A lone dancer stands in the center of a flashing dance floor, tears falling into a glass of liquor. A massive bass speaker booms with energy, and the Chinese characters '蹦呲呲' are etched into its grille. Warm orange and cool blue lighting, vertical 2:3.",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_蹦呲呲",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1788410553114_79449_904.jpg",
       "submit_ok": true,
       "submit_error": ""
     }
