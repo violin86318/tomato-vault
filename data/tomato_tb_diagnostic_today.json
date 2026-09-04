@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-04",
+  "now": "2026-09-04T13:04:34.852643",
+  "ta_prime_run_id": "mtmgkew2iphuxv6tdke",
+  "ta_prime_status": "ok",
+  "ta_prime_real_outcome": "P0 守卫失败 (找不到 tomato_audio.json, 16.6s 退出)",
+  "ta_prime_actual_duration_s": 16.6,
+  "missing_song_dirs": [
+    "嗨起来呀",
+    "甜蜜蜜呀",
+    "走远啦",
+    "渡红尘",
+    "老碾坊"
+  ],
+  "tb_strong_guard": "FAILED",
+  "tb_action": "exit_clean_no_processing",
+  "music_dir_listed_today": "0 个 2026-09-04_* 目录"
+}
