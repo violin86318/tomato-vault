@@ -1,7 +1,322 @@
 {
-  "generated_at": "2026-09-04T06:18:12.381520",
-  "total_songs": 368,
+  "generated_at": "2026-09-05T13:05:13.051065",
+  "total_songs": 378,
   "songs": [
+    {
+      "slug": "跳起来_2026-09-05",
+      "title": "跳起来",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_跳起来",
+      "date": "2026-09-05",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "跳起来_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_跳起来/跳起来_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.0
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_跳起来/cover_跳起来.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-05_跳起来/cover_跳起来.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-05_跳起来/cover_跳起来_1024.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_跳起来/跳起来_poster.png",
+      "lyrics_file": "[Intro]\n好 准备开始啦\n广场舞时间到\n大家把队站好\n\n[Verse 1]\n吃完晚饭放下碗\n换上那双软底鞋\n老伴别看连续剧\n赶紧出门别磨蹭\n广场灯光全亮了\n音响声音调大了\n人群慢慢聚过来\n今晚气氛特别好\n\n[Pre-Chorus]\n心跳跟着节拍走\n忘掉那些破烦恼\n气氛热起来了\n\n[Chorus]\n跳起来 跳起来 跳起来 不要停\n扭起来 扭起来 扭起来 好心情\n甩起来 甩起来 甩起来 汗淋淋\n嗨翻天 嗨翻天 今晚就嗨翻天\n动起来 动起来 动起来 别矫情\n摇起来 摇起来 摇起来 正年轻\n摆起来 摆起来 摆起来 要尽兴\n跳起来 跳起来 快乐是我的命\n\n[Verse 2]\n左边大姐挥挥手\n右边大哥点点头\n前后左右要看清\n别踩别人脚后跟\n跟着音乐慢慢摇\n身体越热越舒服\n不管明天上不上班\n今晚我就要跳足\n\n[Pre-Chorus]\n脚步跟着鼓点走\n所有压力都甩掉\n气氛越来越火爆\n\n[Chorus]\n跳起来 跳起来 跳起来 不要停\n扭起来 扭起来 扭起来 好心情\n甩起来 甩起来 甩起来 汗淋淋\n嗨翻天 嗨翻天 今晚就嗨翻天\n动起来 动起来 动起来 别矫情\n摇起来 摇起来 摇起来 正年轻\n摆起来 摆起来 摆起来 要尽兴\n跳起来 跳起来 快乐是我的命\n\n[Instrumental]\n动次打次动起来\n呜 呜 不要停\n\n[Verse 3]\n举起手 左右扭\n摇摇头 甩甩手\n抬抬腿 拉拉筋\n跟着节奏往下沉\n大喊一声跳起来\n今晚我们最精神\n\n[Chorus]\n跳起来 跳起来 跳起来 不要停\n扭起来 扭起来 扭起来 好心情\n甩起来 甩起来 甩起来 汗淋淋\n嗨翻天 嗨翻天 今晚就嗨翻天\n动起来 动起来 动起来 别矫情\n摇起来 摇起来 摇起来 正年轻\n摆起来 摆起来 摆起来 要尽兴\n跳起来 跳起来 快乐是我的命\n\n[Chorus]\n跳起来 跳起来 跳起来 不要停\n扭起来 扭起来 扭起来 好心情\n甩起来 甩起来 甩起来 汗淋淋\n嗨翻天 嗨翻天 今晚就嗨翻天\n动起来 动起来 动起来 别矫情\n摇起来 摇起来 摇起来 正年轻\n摆起来 摆起来 摆起来 要尽兴\n跳起来 跳起来 快乐是我的命\n\n[Outro]\n明晚还要来\n继续跳起来\n大家再见啦",
+      "duration": 196
+    },
+    {
+      "slug": "老院墙_2026-09-05",
+      "title": "老院墙",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_老院墙",
+      "date": "2026-09-05",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "老院墙_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_老院墙/老院墙_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.7
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_老院墙/cover_老院墙.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-05_老院墙/cover_老院墙.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-05_老院墙/cover_老院墙_1024.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_老院墙/老院墙_poster.png",
+      "lyrics_file": "[Intro]\n村口那道老院墙\n风里雨里站得长\n炊烟飘在屋顶上\n\n[Verse 1]\n小时候趴在墙根晒太阳\n妈妈喊我回家吃饭香\n一碗面条两瓣蒜\n吃得肚子溜溜圆\n墙头上爬满牵牛花\n紫的蓝的像喇叭\n妈妈说我长大要离家\n我说我就守在墙根下\n\n[Pre-Chorus]\n转眼头发就长了\n背包一背就远了\n回头看见老院墙\n\n[Chorus]\n老院墙啊老院墙\n老院墙啊老院墙\n老院墙啊老院墙\n守着老屋不说话\n想回家啊想回家\n想回家啊想回家\n想回家啊想回家\n混出个人模样再回家\n\n[Verse 2]\n城里楼高得晃眼睛\n地铁挤得喘不上气\n泡面吃了八百碗\n房租交完剩不下几毛\n老板说话像打雷\n客户脸色像乌云\n夜里躺在出租房\n就想咱家那老院墙\n\n[Pre-Chorus]\n城里日子真是难\n受了委屈不敢喊\n想起妈妈站在墙边\n\n[Chorus]\n老院墙啊老院墙\n老院墙啊老院墙\n老院墙啊老院墙\n守着老屋不说话\n想回家啊想回家\n想回家啊想回家\n想回家啊想回家\n混出个人模样再回家\n\n[Bridge]\n我不能就这么算了\n我不能就这么趴下\n我不能就这么灰溜溜回去\n我要让那老院墙看看\n我要让妈妈看看\n我没给咱老家丢人\n\n[Chorus]\n老院墙啊老院墙\n老院墙啊老院墙\n老院墙啊老院墙\n守着老屋不说话\n想回家啊想回家\n想回家啊想回家\n想回家啊想回家\n混出个人模样再回家\n\n[Outro]\n妈妈等我回家\n老院墙等我回家\n等我回家\n等我回家",
+      "duration": 252
+    },
+    {
+      "slug": "忆长安_2026-09-05",
+      "title": "忆长安",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_忆长安",
+      "date": "2026-09-05",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "忆长安_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_忆长安/忆长安_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.3
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_忆长安/cover_忆长安.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-05_忆长安/cover_忆长安.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-05_忆长安/cover_忆长安_1024.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_忆长安/忆长安_poster.png",
+      "lyrics_file": "[Intro]\n长安月 照古楼\n长安雪 落心头\n风吹过 几度秋\n\n[Verse 1]\n独上西楼望宫阙\n举杯对月影成雪\n风卷珠帘寒霜重\n横琴不语对孤灯\n青衫薄 夜三更\n琵琶声断有谁听\n年年岁岁等归人\n\n[Pre-Chorus]\n酒入愁肠愁更浓\n梦回故园花正红\n不见当年旧面容\n\n[Chorus]\n长安月 照城楼\n长安雪 落肩头\n长安夜 琴声幽\n长安不见使人愁\n忆长安 梦悠悠\n故人何时归故园\n\n[Verse 2]\n满城灯火人散尽\n独坐庭前数寒星\n风吹散 旧时光\n酒未醒 夜未央\n长安梦 在远方\n一城烟雨锁斜阳\n举杯邀月泪两行\n\n[Pre-Chorus]\n青衫湿透东风冷\n挑灯看剑到天明\n千帆过尽无归程\n\n[Chorus]\n长安月 照城楼\n长安雪 落肩头\n长安夜 琴声幽\n长安不见使人愁\n忆长安 梦悠悠\n故人何时归故园\n\n[Instrumental]\n[Instrumental]\n\n[Bridge]\n啊 月明楼高休独倚\n啊 酒入愁肠化相思\n一曲离歌千山外\n万水千山梦魂系\n城门深处望君归\n\n[Chorus]\n长安月 照城楼\n长安雪 落肩头\n长安夜 琴声幽\n长安不见使人愁\n忆长安 梦悠悠\n故人何时归故园\n\n[Outro]\n长安月 又上柳梢头\n长安雪 白了少年头\n长安风 吹过万家门\n梦醒时 故人依旧",
+      "duration": 240
+    },
+    {
+      "slug": "心好酸_2026-09-05",
+      "title": "心好酸",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_心好酸",
+      "date": "2026-09-05",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "心好酸_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_心好酸/心好酸_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.5
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_心好酸/cover_心好酸.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-05_心好酸/cover_心好酸.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-05_心好酸/cover_心好酸_1024.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_心好酸/心好酸_poster.png",
+      "lyrics_file": "[Intro]\n窗外又下雨了\n空房间只剩一盏灯\n你走了以后连呼吸都变冷\n\n[Verse 1]\n桌上还有半碗剩饭\n两个杯子都没洗\n手机屏幕亮了一下又暗\n我以为是你消息\n半夜三点睡不着\n翻着聊天记录\n眼泪掉在充电线上\n心里堵得发慌\n\n[Pre-Chorus]\n明明说了再见\n为什么我还在原地打转\n你转身走得那么干脆\n\n[Chorus]\n想你 想你 心好酸\n放不下 放不下 怎么办\n算了吧 算了吧 我骗自己\n可是眼泪不听话\n\n[Verse 2]\n以前你总是抢我筷子\n说我吃饭太慢\n现在没人跟我抢菜\n饭凉了也不想再尝\n你买的拖鞋还在门口\n第二杯半价没人凑\n这房子太大太安静\n连回声都在嘲笑我\n\n[Pre-Chorus]\n明明说了再见\n为什么我还在原地打转\n你转身走得那么干脆\n\n[Chorus]\n想你 想你 心好酸\n放不下 放不下 怎么办\n算了吧 算了吧 我骗自己\n可是眼泪不听话\n\n[Bridge]\n手机壁纸终于换了\n你的号码我没删但也不会拨\n垃圾要倒杯子要洗\n日子还要过\n也许明天会好的\n也许还会痛着\n但至少我敢说\n我还爱你但我放了手\n\n[Chorus]\n想你 想你 心好酸\n放不下 放不下 怎么办\n算了吧 算了吧 我骗自己\n可是眼泪不听话\n心好酸 心好酸 好孤单\n还爱你 还爱你 怎么办\n忘了吧 忘了吧 总得往前\n只是今晚特别难\n\n[Outro]\n杯子我洗干净了\n剩饭也倒掉了\n天快亮了\n只是心还是好酸",
+      "duration": 180
+    },
+    {
+      "slug": "别不理我_2026-09-05",
+      "title": "别不理我",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_别不理我",
+      "date": "2026-09-05",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "别不理我_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_别不理我/别不理我_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.8
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_别不理我/cover_别不理我.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-05_别不理我/cover_别不理我.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-05_别不理我/cover_别不理我_1024.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_别不理我/别不理我_poster.png",
+      "lyrics_file": "[Intro]\n手机亮啦\n是谁呀\n快回我嘛\n\n[Verse 1]\n早上醒来看手机先看你的头像\n昨晚发的晚安你是不是还没看\n朋友圈分享你爱听的那首流行歌\n其实我就是故意要你注意到我\n闺蜜群里她们说你到底啥意思\n我说你忙呢可我心里真的没底\n表情包挑了十分钟最可爱的那个\n发送成功现在我开始数到一百\n\n[Pre-Chorus]\n心好慌\n心好慌\n手机烫得快要爆炸啦\n\n[Chorus]\n别不理我 我在等\n别不理我 心好疼\n别不理我 真的当了真\n别不理我 你快点回我呀\n别不理我 刷着你\n别不理我 想着你\n别不理我 只要你一个\n别不理我 我要定你啦\n\n[Verse 2]\n刚才路过你家楼下没敢发定位\n其实我就想偶遇哪怕只看一眼\n你点赞了我的自拍我开心一整天\n截图保存设成屏保看了无数遍\n想问你周末有没有空一起逛个街\n奶茶我请客你就负责笑得甜\n消息编辑了又删删了又编辑\n最后发了个在干嘛显得随意点\n\n[Pre-Chorus]\n好着急\n好着急\n对话框里长满杂草啦\n\n[Chorus]\n别不理我 我在等\n别不理我 心好疼\n别不理我 真的当了真\n别不理我 你快点回我呀\n别不理我 刷着你\n别不理我 想着你\n别不理我 只要你一个\n别不理我 我要定你啦\n\n[Bridge]\n你笑一下 我天就晴啦\n你嗯一声 我脑瓜嗡嗡呀\n回个表情包 我也能笑开花\n你快说话 你快说话 你快说话\n别让我等得像傻瓜\n你快开口说你也想我啦\n\n[Chorus]\n别不理我 我在等\n别不理我 心好疼\n别不理我 真的当了真\n别不理我 你快点回我呀\n别不理我 刷着你\n别不理我 想着你\n别不理我 只要你一个\n别不理我 我要定你啦\n\n[Chorus]\n别不理我 别撒娇\n别不理我 快亮相\n别不理我 心扑通扑通跳\n别不理我 你快来抱抱\n别不理我 别躲藏\n别不理我 快投降\n别不理我 你耳朵红不红\n别不理我 我对你情有独钟\n\n[Outro]\n回我嘛\n快回我呀\n别不理我",
+      "duration": 189
+    },
+    {
+      "slug": "走远啦_2026-09-04",
+      "title": "走远啦",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_走远啦",
+      "date": "2026-09-04",
+      "genre_code": "",
+      "genre_label": "",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
+      "chord": "",
+      "bpm": 0,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "走远啦_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_走远啦/走远啦_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.6
+        }
+      ],
+      "cover": {
+        "path": null,
+        "all_covers": []
+      },
+      "poster": null,
+      "lyrics_file": "[Intro]\n灯又亮啦\n人不见啦\n\n[Verse 1]\n拖鞋还在门边歪着\n充电器也没拔\n我坐老沙发上\n看路灯把影子拉长\n窗外月亮照进来\n半杯茶已凉透啦\n你说你要走\n我张嘴说不出话\n\n[Pre-Chorus]\n算了吧 放不下\n舍不得 又能怎样\n心好痛 好想你\n你背影已走远啦\n\n[Chorus]\n你走远啦\n你走远啦\n你走远啦\n剩我守着空家\n你走远啦\n你走远啦\n你走远啦\n眼泪它不听话\n\n[Verse 2]\n柴火堆在墙角没人管\n锅里饭剩一半\n碾子还在院子里\n转着转着只剩孤单\n手机屏幕亮一下\n不是你 是我手滑\n眼泪砸在拖鞋上\n夜它怎么这么长\n\n[Pre-Chorus]\n算了吧 放不下\n舍不得 又能怎样\n心好痛 好想你\n你背影已走远啦\n\n[Chorus]\n你走远啦\n你走远啦\n你走远啦\n剩我守着空家\n你走远啦\n你走远啦\n你走远啦\n眼泪它不听话\n\n[Bridge]\n你走就走吧\n为啥留双拖鞋\n让我每夜踩着它\n踩出一地牵挂\n\n[Chorus]\n你走远啦\n你走远啦\n你走远啦\n剩我守着空家\n你走远啦\n你走远啦\n你走远啦\n眼泪它不听话\n\n[Outro]\n走远啦 走远啦\n我也该关灯睡啦",
+      "duration": 182
+    },
+    {
+      "slug": "老碾坊_2026-09-04",
+      "title": "老碾坊",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_老碾坊",
+      "date": "2026-09-04",
+      "genre_code": "",
+      "genre_label": "",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
+      "chord": "",
+      "bpm": 0,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "老碾坊_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_老碾坊/老碾坊_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 4.9
+        }
+      ],
+      "cover": {
+        "path": null,
+        "all_covers": []
+      },
+      "poster": null,
+      "lyrics_file": "[Intro]\n老碾坊，吱呀响\n听得我心里慌\n\n[Verse 1]\n村口那棵老槐树\n树下就是那老碾坊\n石碾子转啊转\n毛驴儿低着头\n娘推磨汗珠掉\n糠麸飞扬满屋梁\n我趴在粮堆上\n数着谷粒入梦乡\n\n[Pre-Chorus]\n一晃多少年\n门轴都生锈\n可那碾子声还在我胸口\n\n[Chorus]\n碾子转\n碾子转\n碾子转\n转出米和粮\n碾子转\n碾子转\n碾子转\n转出老时光\n\n[Verse 2]\n那年我背起小行囊\n走出村口回头望\n娘塞给我热干粮\n说在外头别逞强\n如今城市灯太亮\n照得我心里空荡荡\n只有那碾子响\n陪我一夜到天亮\n\n[Pre-Chorus]\n苦了不说苦\n累了不说累\n心里只有一个老碾坊\n\n[Chorus]\n碾子转\n碾子转\n碾子转\n转出米和粮\n碾子转\n碾子转\n碾子转\n转出老时光\n\n[Bridge]\n碾子呀碾子\n你碾碎了糠\n碾不碎我想娘\n\n[Chorus]\n碾子转\n碾子转\n碾子转\n转出米和粮\n碾子转\n碾子转\n碾子转\n转出老时光\n\n[Outro]\n老碾坊，吱呀响\n响在我心上",
+      "duration": 161
+    },
+    {
+      "slug": "甜蜜蜜呀_2026-09-04",
+      "title": "甜蜜蜜呀",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_甜蜜蜜呀",
+      "date": "2026-09-04",
+      "genre_code": "",
+      "genre_label": "",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
+      "chord": "",
+      "bpm": 0,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "甜蜜蜜呀_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_甜蜜蜜呀/甜蜜蜜呀_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 4.4
+        }
+      ],
+      "cover": {
+        "path": null,
+        "all_covers": []
+      },
+      "poster": null,
+      "lyrics_file": "[Intro]\n摇起来呀\n甜蜜蜜呀\n\n[Verse 1]\n手机一亮 心就跳呀\n拖鞋一踢 就出门呀\n左手奶茶 右手自拍\n路灯下面 你等我呀\n商超门口 逛三圈呀\n新裙子呀 转个圈呀\n微信步数 一万八\n月亮升起 不想回家\n\n[Pre-Chorus]\n脸颊红红\n心跳咚咚\n想靠近你\n再近一丢丢\n\n[Chorus]\n甜蜜蜜呀\n甜蜜蜜呀\n甜蜜蜜呀\n有你就甜\n贴过来呀\n贴过来呀\n贴过来呀\n抱抱我呀\n\n[Verse 2]\n沙发一躺 遥控器呀\n薯片半袋 笑哈哈\n抖音一刷 停不下\n你抢我手机 坏死了呀\n热水泡脚 你端来呀\n窗台花盆 都开花\n镜子里面 两个人呀\n瞌睡来了 头靠头\n\n[Pre-Chorus]\n嘴角翘翘\n眼睛弯弯\n黏在一起\n时间好慢\n\n[Chorus]\n甜蜜蜜呀\n甜蜜蜜呀\n甜蜜蜜呀\n有你就甜\n贴过来呀\n贴过来呀\n贴过来呀\n抱抱我呀\n\n[Bridge]\n别走太远\n手机要响\n一秒不见\n心就慌慌\n\n[Chorus]\n甜蜜蜜呀\n甜蜜蜜呀\n甜蜜蜜呀\n有你就甜\n贴过来呀\n贴过来呀\n贴过来呀\n抱抱我呀\n\n[Outro]\n甜蜜蜜呀\n明天见呀",
+      "duration": 144
+    },
+    {
+      "slug": "渡红尘_2026-09-04",
+      "title": "渡红尘",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_渡红尘",
+      "date": "2026-09-04",
+      "genre_code": "",
+      "genre_label": "",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
+      "chord": "",
+      "bpm": 0,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "渡红尘_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_渡红尘/渡红尘_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.7
+        }
+      ],
+      "cover": {
+        "path": null,
+        "all_covers": []
+      },
+      "poster": null,
+      "lyrics_file": "[Intro]\n月儿弯 照江边\n船儿摇 我等谁\n\n[Verse 1]\n油灯黄 映窗台\n绣花鞋 摆一双\n风敲门 没人应\n手机黑 心没亮\n那年你 撑船走\n说春天 就回家\n到如今 秋又深\n叶落满 小村庄\n\n[Pre-Chorus]\n想你想你 心好痛\n盼你盼你 泪两行\n\n[Chorus]\n渡一渡 渡红尘\n渡一渡 渡红尘\n渡一渡 渡红尘\n等你归 到天明\n等等等 等归人\n等等等 等归人\n等等等 等归人\n船到岸 才是春\n\n[Verse 2]\n江那边 雾茫茫\n船夫唱 旧时光\n红灯笼 挂门廊\n酒菜凉 人未双\n碾子停 炊烟断\n柴火烧 不暖心\n窗外雨 一声声\n落在我 掌心间\n\n[Pre-Chorus]\n想你想你 好想你\n盼你盼你 泪两行\n\n[Chorus]\n渡一渡 渡红尘\n渡一渡 渡红尘\n渡一渡 渡红尘\n等你归 到天明\n等等等 等归人\n等等等 等归人\n等等等 等归人\n船到岸 才是春\n\n[Bridge]\n算了吧 我不怨\n只愿你 岁岁安\n若来生 再遇见\n还要等 这一晚\n\n[Chorus]\n渡一渡 渡红尘\n渡一渡 渡红尘\n渡一渡 渡红尘\n等你归 到天明\n等等等 等归人\n等等等 等归人\n等等等 等归人\n船到岸 才是春\n\n[Outro]\n红尘渡 人未渡\n一江水 向东流",
+      "duration": 186
+    },
+    {
+      "slug": "嗨起来呀_2026-09-04",
+      "title": "嗨起来呀",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_嗨起来呀",
+      "date": "2026-09-04",
+      "genre_code": "",
+      "genre_label": "",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
+      "chord": "",
+      "bpm": 0,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "嗨起来呀_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_嗨起来呀/嗨起来呀_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.1
+        }
+      ],
+      "cover": {
+        "path": null,
+        "all_covers": []
+      },
+      "poster": null,
+      "lyrics_file": "[Intro]\n音乐响了\n人别愣着\n\n[Verse 1]\n脱下皮鞋换拖鞋\n手机一扔躺沙发\n窗外月亮爬上墙\n心里堵得慌\n晚饭吃了两碗汤\n老伴唠叨听不进\n广场舞的音乐响\n脚板开始痒\n\n[Pre-Chorus]\n别想了\n别看了\n换上鞋\n跟我走\n\n[Chorus]\n嗨起来\n嗨起来\n嗨起来呀\n今晚不回家\n摇起来\n摇起来\n摇起来呀\n烦恼全丢下\n\n[Verse 2]\n广场灯牌亮堂堂\n阿姨排成好几行\n音响放在碾子旁\n节奏咚咚响\n左手叉腰右手扬\n拖鞋踩出风火样\n老伴也跟着晃\n笑得像太阳\n\n[Pre-Chorus]\n别想了\n别看了\n换上鞋\n跟我走\n\n[Chorus]\n嗨起来\n嗨起来\n嗨起来呀\n今晚不回家\n摇起来\n摇起来\n摇起来呀\n烦恼全丢下\n\n[Bridge]\n灯更亮\n人更狂\n心里的憋屈\n全倒光\n\n[Chorus]\n嗨起来\n嗨起来\n嗨起来呀\n今晚不回家\n摇起来\n摇起来\n摇起来呀\n烦恼全丢下\n\n[Outro]\n嗨起来呀\n明天再说啦",
+      "duration": 166
+    },
     {
       "slug": "雨中曲_2026-09-03",
       "title": "雨中曲",
@@ -9,8 +324,8 @@
       "date": "2026-09-03",
       "genre_code": "guofeng",
       "genre_label": "民族风/古诗词改编/中国风",
-      "genre_icon": "🏮",
-      "genre_color": "#9b59b6",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "大调卡农",
       "bpm": 90,
       "dimension": "番茄专项",
@@ -43,8 +358,8 @@
       "date": "2026-09-03",
       "genre_code": "dance",
       "genre_label": "广场舞/DJ舞曲/车载慢摇",
-      "genre_icon": "💃",
-      "genre_color": "#e74c5e",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "6415",
       "bpm": 128,
       "dimension": "番茄专项",
@@ -143,8 +458,8 @@
       "date": "2026-09-03",
       "genre_code": "viral_pop",
       "genre_label": "抖音热歌/口水歌/欢快洗脑",
-      "genre_icon": "🍬",
-      "genre_color": "#f39c12",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "4536251",
       "bpm": 115,
       "dimension": "番茄专项",
@@ -221,8 +536,8 @@
       "date": "2026-09-03",
       "genre_code": "sad",
       "genre_label": "失恋/孤独/情感共鸣",
-      "genre_icon": "🌧️",
-      "genre_color": "#3498db",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "1645",
       "bpm": 80,
       "dimension": "番茄专项",
@@ -255,8 +570,8 @@
       "date": "2026-09-03",
       "genre_code": "hometown",
       "genre_label": "乡愁/励志/朴实口语",
-      "genre_icon": "🏠",
-      "genre_color": "#27ae60",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "卡农变体",
       "bpm": 100,
       "dimension": "番茄专项",
@@ -289,8 +604,8 @@
       "date": "2026-09-02",
       "genre_code": "guofeng",
       "genre_label": "民族风/古诗词改编/中国风",
-      "genre_icon": "🏮",
-      "genre_color": "#9b59b6",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "大调卡农",
       "bpm": 90,
       "dimension": "番茄专项",
@@ -321,8 +636,8 @@
       "date": "2026-09-02",
       "genre_code": "hometown",
       "genre_label": "乡愁/励志/朴实口语",
-      "genre_icon": "🏠",
-      "genre_color": "#27ae60",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "卡农变体",
       "bpm": 100,
       "dimension": "番茄专项",
@@ -353,8 +668,8 @@
       "date": "2026-09-02",
       "genre_code": "sad",
       "genre_label": "失恋/孤独/情感共鸣",
-      "genre_icon": "🌧️",
-      "genre_color": "#3498db",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "1645",
       "bpm": 80,
       "dimension": "番茄专项",
@@ -385,8 +700,8 @@
       "date": "2026-09-02",
       "genre_code": "viral_pop",
       "genre_label": "抖音热歌/口水歌/欢快洗脑",
-      "genre_icon": "🍬",
-      "genre_color": "#f39c12",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "4536251",
       "bpm": 115,
       "dimension": "番茄专项",
@@ -417,8 +732,8 @@
       "date": "2026-09-02",
       "genre_code": "dance",
       "genre_label": "广场舞/DJ舞曲/车载慢摇",
-      "genre_icon": "💃",
-      "genre_color": "#e74c5e",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "6415",
       "bpm": 128,
       "dimension": "番茄专项",
