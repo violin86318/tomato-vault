@@ -1,7 +1,167 @@
 {
-  "generated_at": "2026-09-08T13:05:23.108284",
-  "total_songs": 388,
+  "generated_at": "2026-09-09T13:04:53.110107",
+  "total_songs": 393,
   "songs": [
+    {
+      "slug": "醉西厢_2026-09-09",
+      "title": "醉西厢",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_醉西厢",
+      "date": "2026-09-09",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "醉西厢_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_醉西厢/醉西厢_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.4
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_醉西厢/cover_醉西厢.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-09_醉西厢/cover_醉西厢.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_醉西厢/醉西厢_poster.png",
+      "lyrics_file": "[Intro]\n月照西厢檐角斜\n春夜楼台影半遮\n风送柳绵过矮墙呀\n\n[Verse 1]\n烛影摇红纱帐垂\n古琴弦上落余晖\n一盏酒冷待谁归\n花间露重湿罗衣\n\n灯火阑珊处不见\n雪色未消鬓边稀\n莫道良宵短如梦\n只恐梦醒更孤栖\n\n[Pre-Chorus]\n恰似流莺啼夜月\n怎奈空庭锁玉阶\n琴声断续人未歇啊\n\n[Chorus]\n醉西厢 醉西厢 醉西厢 月色照妆台\n郎君何时来 郎君何时来\n醉西厢 醉西厢 醉西厢 花影扫不开\n郎君何时来 郎君何时来\n\n[Verse 2]\n柳丝垂地系离愁\n酒痕渍透旧时裘\n月过西楼更鼓后\n风卷残烛泪未收\n\n灯花落尽棋未摆\n琴匣尘封待君开\n应是春深花易老\n莫道天涯信难猜\n\n[Pre-Chorus]\n只恐夜深花睡去\n怎奈酒醒人独倚\n满庭月色不须催耶\n\n[Chorus]\n醉西厢 醉西厢 醉西厢 月色照妆台\n郎君何时来 郎君何时来\n醉西厢 醉西厢 醉西厢 花影扫不开\n郎君何时来 郎君何时来\n\n[Instrumental]\n古筝撩拨春水皱\n笛声穿柳过墙来\n\n[Bridge]\n恰似那夜琴声在\n月移花影上阶台\n酒满金樽空对月\n灯芯结蕊作花开\n\n莫道相思无凭据\n应是鸿雁寄书来\n只恐西厢春色老\n醉眼朦胧待郎猜呀\n\n[Chorus]\n醉西厢 醉西厢 醉西厢 月色照妆台\n郎君何时来 郎君何时来\n醉西厢 醉西厢 醉西厢 花影扫不开\n郎君何时来 郎君何时来\n\n[Outro]\n月光满院人未眠\n琴声渐歇酒未干\n醉卧西厢花影里耶\n等风等月等郎还\n等郎还啊",
+      "duration": 242
+    },
+    {
+      "slug": "甜到齁_2026-09-09",
+      "title": "甜到齁",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_甜到齁",
+      "date": "2026-09-09",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "甜到齁_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_甜到齁/甜到齁_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.4
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_甜到齁/cover_甜到齁.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-09_甜到齁/cover_甜到齁.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_甜到齁/甜到齁_poster.png",
+      "lyrics_file": "[Intro]\n拉着手 走一走  \n奶茶店 门口候  \n今天甜度 满格秀  \n\n[Verse 1]  \n太阳大 你更亮  \n珍珠奶茶 加双份糖  \n你说我 像只猪  \n吸管一咬 傻笑晃  \n拍合照 嘟着嘴  \n滤镜拉满 爱心飞  \n我说你 别乱动  \n美颜开大 像在作妖  \n\n[Pre-Chorus]  \n你掐我 我躲你  \n黏糊糊 像糯米  \n空气里 全是蜜  \n快扶我 要倒地  \n\n[Chorus]  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我心慌 又不想松手  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我晕头 还想跟你走  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我发疯 嘴角翘上天  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我认输 甜到没理由  \n\n[Verse 2]  \n压马路 你牵我  \n影子拉长 像电影  \n你学我 说话腔  \n我笑到 蹲地上  \n抓拍你 翻白眼  \n你说我 手太欠  \n发朋友圈 九宫格  \n配文案 钱呢  \n\n[Pre-Chorus]  \n你追我 我跑快  \n像小孩 耍无赖  \n这条路 走不腻  \n约好了 明天来  \n\n[Chorus]  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我心慌 又不想松手  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我晕头 还想跟你走  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我发疯 嘴角翘上天  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我认输 甜到没理由  \n\n[Bridge]  \n你把我 丑照存  \n说要做 手机壁纸  \n我假装 生气脸  \n你亲一口 说抱歉  \n又甜又 有点咸  \n齁住了 不想变  \n\n[Chorus]  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我心慌 又不想松手  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我晕头 还想跟你走  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我发疯 嘴角翘上天  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我认输 甜到没理由  \n\n[Chorus]  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我心慌 又不想松手  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我晕头 还想跟你走  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我发疯 嘴角翘上天  \n甜到齁 甜到齁 甜到齁 我的天  \n齁得我认输 甜到没理由  \n\n[Outro]  \n甜到齁 甜到头  \n这辈子 跟你走  \n甜到齁 齁着走  \n别松手",
+      "duration": 176
+    },
+    {
+      "slug": "想你入骨_2026-09-09",
+      "title": "想你入骨",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_想你入骨",
+      "date": "2026-09-09",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "想你入骨_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_想你入骨/想你入骨_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.8
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_想你入骨/cover_想你入骨.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-09_想你入骨/cover_想你入骨.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_想你入骨/想你入骨_poster.png",
+      "lyrics_file": "[Intro]\n窗外又下雨\n空房间只剩呼吸\n凌晨三点还亮着的手机\n\n[Verse 1]\n聊天记录翻到底\n你最后那句对不起\n我打了又删的晚安\n终究没发出去\n屏幕光照着我眼睛\n痛到不敢闭\n这雨声像你呼吸\n响在我骨头里\n\n[Pre-Chorus]\n想你想到睡不着\n想你想到快疯了\n这痛根本没法说\n\n[Chorus]\n想你入骨\n想你入骨\n想你入骨\n想到心都碎了\n你却不知道\n我有多放不下\n算了吧都是骗自己的话\n\n[Verse 2]\n以前这时候你在哪\n你说晚安别熬夜啊\n现在只剩闹钟在响\n一声一声催着天亮\n枕头湿了一半\n我也懒得换地方\n就这么躺着等\n等一个不可能\n等你的可能\n\n[Pre-Chorus]\n痛到骨头都记得\n痛到呼吸都费力\n你凭什么就忘了\n\n[Chorus]\n想你入骨\n想你入骨\n想你入骨\n想到心都碎了\n你却不知道\n我有多放不下\n算了吧都是骗自己的话\n\n[Bridge]\n删了吧\n都删了吧\n照片聊天记录还有你的号码\n忘了吧\n该忘了吧\n可眼泪它不听话\n真的不听话\n\n[Chorus]\n想你入骨\n想你入骨\n想你入骨\n想到心都碎了\n你却不知道\n我有多放不下\n算了吧都是骗自己的话\n\n[Outro]\n雨还在下\n天快亮了吧\n这入骨想你能停了吗\n停了吧\n别想了",
+      "duration": 190
+    },
+    {
+      "slug": "小米粥_2026-09-09",
+      "title": "小米粥",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_小米粥",
+      "date": "2026-09-09",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "小米粥_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_小米粥/小米粥_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.2
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_小米粥/cover_小米粥.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-09_小米粥/cover_小米粥.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_小米粥/小米粥_poster.png",
+      "lyrics_file": "[Intro]\n村口的北风刮过土墙\n老屋的烟囱冒起白霜\n灶膛里柴火噼啪作响\n\n[Verse 1]\n天没亮透 雪花飘在窗台上\n妈妈的手 掀开那口大铁锅\n小米在沸水里打滚儿 咕嘟咕嘟唱\n一把玉米秸 添进灶膛\n满屋子的热气 糊住玻璃窗\n我趴在炕头 闻见那米香\n她盛粥的勺子 碰到碗沿当啷响\n那碗黄澄澄的暖 烫嘴也舍不得放\n\n[Pre-Chorus]\n如今我在城里的高楼\n早起却喝不到那一口\n\n[Chorus]\n小米粥 小米粥 小米粥 妈妈熬的粥\n喝一口暖到心口 想起老屋的炕头\n小米粥 小米粥 小米粥 妈妈熬的粥\n我在外头想回家 雪地上那行脚印走不休\n\n[Verse 2]\n离开那年 行李包塞满大馒头\n站台的风 吹得我直缩脖\n后来吃过南方粥 北方粥 加糖的粥\n总差着火候 差着那口铁锅\n电话里妈说 冬月里又起了西北风\n你爹在院里 晒着那堆老玉米\n我在这头 咽下加班的苦头\n梦里全是 她围裙沾着柴灰的影儿\n\n[Pre-Chorus]\n城里的霓虹再亮堂\n亮不过灶膛那团火光\n\n[Chorus]\n小米粥 小米粥 小米粥 妈妈熬的粥\n喝一口暖到心口 想起老屋的炕头\n小米粥 小米粥 小米粥 妈妈熬的粥\n我在外头想回家 雪地上那行脚印走不休\n\n[Bridge]\n扛着行李 我走过黄土坡\n爹说 人往高处走水往低处流\n妈说 累了就回来 粥还温着\n可我知道 我要混出个样来才回头\n那碗粥养大的娃娃 骨头硬着\n刮过脸的北风 都是给咱攒的劲儿\n我不能让那口铁锅 凉了那碗等候\n\n[Chorus]\n小米粥 小米粥 小米粥 妈妈熬的粥\n喝一口暖到心口 想起老屋的炕头\n小米粥 小米粥 小米粥 妈妈熬的粥\n我在外头想回家 雪地上那行脚印走不休\n\n[Outro]\n等将来 我盖起大瓦房\n接妈过来 亲手熬一锅粥\n也是那个味儿 也是那个香\n我一定要出人头地 再喝那碗小米粥",
+      "duration": 205
+    },
+    {
+      "slug": "嗨炸啦_2026-09-09",
+      "title": "嗨炸啦",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_嗨炸啦",
+      "date": "2026-09-09",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "嗨炸啦_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_嗨炸啦/嗨炸啦_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.9
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_嗨炸啦/cover_嗨炸啦.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-09_嗨炸啦/cover_嗨炸啦.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_嗨炸啦/嗨炸啦_poster.png",
+      "lyrics_file": "[Intro]\n音响打开 灯光擦亮\n全场预备 别再张望\n蹦\n\n[Verse 1]\n夏夜广场 热风滚烫\n音响开到 最大最响\n彩灯乱闪 眼睛晃荡\n领舞阿姨 红裙翻浪\n大爷大妈 排了四行\n小孩围着 蹦跳叫嚷\n\n[Chorus]\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n今晚不回家\n左边右边 一起摇啊\n甩头甩手 别停下啊\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n今晚不回家\n\n[Verse 2]\nDJ打碟 咚咔咚咔\n大爷扭胯 谁也不差\n阿姨挥手 像朵大花\n小孩尖叫 嗓子喊哑\n矿泉水瓶 满地乱撒\n谁要回家 谁是小傻瓜\n\n[Pre-Chorus]\n再大声点 再亮一点\n跳到天亮 别管明天\n预备\n\n[Chorus]\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n今晚不回家\n左边右边 一起摇啊\n甩头甩手 别停下啊\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n今晚不回家\n\n[Instrumental]\n\n[Verse 3]\n手机灯海 举过头顶\n管他谁来 都不叫停\n跳到抽筋 才算尽兴\n气氛顶到 最高楼顶\n谁都不许 给我冷静\n\n[Chorus]\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n今晚不回家\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n今晚不回家\n\n[Chorus]\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n嗨炸啦 嗨炸啦 嗨炸啦 全场嗨炸啦\n今晚不回家\n左边右边 摇起来啊\n甩甩头发 蹦起来啊\n今晚不回家 今晚不回家\n\n[Outro]\n不回家 不回家\n嗨炸啦\n嗨炸啦",
+      "duration": 194
+    },
     {
       "slug": "麦穗黄_2026-09-08",
       "title": "麦穗黄",
