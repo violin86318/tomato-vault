@@ -20,6 +20,8 @@ Usage:
     python lrc_align.py --songs 发芽 你是一条河
 """
 
+import os as _os
+_os.environ.setdefault("NUMBA_CACHE_DIR", "/tmp/numba_cache_lrc_align")
 import json
 import os
 import re

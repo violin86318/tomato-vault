@@ -1,74 +1,92 @@
-{
-  "songs": [
-    {
-      "title": "撒野",
-      "genre_code": "dance",
-      "lyrics": "[Intro]\n撒野 嗨 燥\n灯光一亮 全场跳\n今晚不疯 明天都别闹\n\n[Verse 1]\n广场夜 人一堆\nDJ台 闪到醉\n音响一响 腿就往前追\n大爷甩手 大妈扭腰\n谁也不服老\n今晚来这 就为了撒野\n\n[Chorus]\n撒野 撒野 撒野\n撒野 撒野 撒野\n撒野 撒野 撒野\n今晚一起炸\n嗨呀 嗨呀 嗨呀\n嗨呀 嗨呀 嗨呀\n嗨呀 嗨呀 嗨呀\n谁也不想回家\n\n[Verse 2]\n红灯绿 照心房\n老歌新混 照样狂\n汗水流下 也不觉得凉\n牵着手 转个圈\n我爱你 你爱我\n跳这一曲 啥都忘了\n\n[Pre-Chorus]\n音乐不停 我不停\n灯光不灭 我不歇\n这一夜 就要闹个天崩地裂\n\n[Chorus]\n撒野 撒野 撒野\n撒野 撒野 撒野\n撒野 撒野 撒野\n今晚一起炸\n嗨呀 嗨呀 嗨呀\n嗨呀 嗨呀 嗨呀\n嗨呀 嗨呀 嗨呀\n谁也不想回家\n\n[Instrumental]\nDJ间奏 灯光狂闪\n\n[Verse 3]\n左边挥 右边跺\n前面的姐 后面的哥\n大家一起 甩起来\n喊一声 撒野 别躲\n你嗨了 我嗨了\n全场没有陌生人\n\n[Chorus]\n撒野 撒野 撒野\n撒野 撒野 撒野\n撒野 撒野 撒野\n今晚一起炸\n嗨呀 嗨呀 嗨呀\n嗨呀 嗨呀 嗨呀\n嗨呀 嗨呀 嗨呀\n谁也不想回家\n\n[Chorus]\n撒野 撒野 撒野\n撒野 撒野 撒野\n撒野 撒野 撒野\n今晚一起炸\n嗨呀 嗨呀 嗨呀\n嗨呀 嗨呀 嗨呀\n嗨呀 嗨呀 嗨呀\n谁也不想回家\n\n[Outro]\n撒野 嗨 燥\n音乐停了 心还在跳\n明晚广场 再一起闹",
-      "mmx_prompt": "A high-energy Chinese square dance remix at 128 BPM with a four-on-the-floor beat and catchy synth melody. The arrangement features DJ-style bass drops and extended instrumental breaks, leaving generous space between vocal chops. Female vocal phrases are short and repetitive, designed for crowd participation. Full-length song structure with a long intro building anticipation and a long outro fading out gradually.",
-      "suno_prompt": "Chinese square dance, DJ remix, 128 BPM, female vocal, crowd chant, catchy synth, four-on-the-floor beat, energetic, party anthem",
-      "cover_prompt": "A cinematic cover featuring a crowd of dancers and flashing DJ lights at a Chinese square dance plaza, with neon lights, raised hands, DJ booth, smoke machines, festival energy. the Chinese characters '撒野' naturally appearing as part of the scene. Color palette: magenta and electric blue and warm gold. Square 1:1 format, high detail, atmospheric lighting, no other text or watermark.",
-      "bpm": 128,
-      "chord": "6415",
-      "model": "kimi-k2.6",
-      "line_count": 71,
-      "est_duration": "3:18",
-      "banned_found": []
+[
+  {
+    "title": "摇摆摇",
+    "genre_code": "dance",
+    "lyrics": "[Intro]\n音响搬出来\n节奏响起来\n大家动起来\n\n[Verse 1]\n饭碗一推就出门\n拖鞋换了运动鞋\n广场灯光亮堂堂\n左邻右舍都到齐\n张大姐 李大哥\n不用电话也明白\n人到齐 就现在\n今晚必须要痛快\n\n[Chorus]\n摇摆摇 摇摆摇 甩头又扭腰\n摇摆摇 摇摆摇 汗流得哗哗\n摇摆摇 摇摆摇 越跳越来劲\n舞到天黑黑 谁也不回家\n\n[Verse 2]\n蓝牙一连滴滴响\n低音炮它震胸膛\n孙子跟在屁股后\n小手乱挥也疯狂\n别管错 别管对\n跟着拍子别掉队\n头发甩 胳膊挥\n全场就数你最美\n\n[Pre-Chorus]\n天还亮 心先亮\n甩开膀子干一场\n别让腿脚闲得慌\n\n[Chorus]\n摇摆摇 摇摆摇 甩头又扭腰\n摇摆摇 摇摆摇 汗流得哗哗\n摇摆摇 摇摆摇 越跳越来劲\n舞到天黑黑 谁也不回家\n\n[Instrumental]\nDJ 间奏 全体原地转圈摇\n\n[Verse 3]\n左边的朋友抬抬手\n右边的朋友扭扭腰\n前面的朋友点点头\n后面的朋友跺跺脚\n孙子蹦跶像小鸟\n大家一起摇啊摇\n\n[Chorus]\n摇摆摇 摇摆摇 甩头又扭腰\n摇摆摇 摇摆摇 汗流得哗哗\n摇摆摇 摇摆摇 越跳越来劲\n舞到天黑黑 谁也不回家\n\n[Chorus]\n摇摆摇 摇摆摇 甩头又扭腰\n摇摆摇 摇摆摇 汗流得哗哗\n摇摆摇 摇摆摇 越跳越来劲\n舞到天黑黑 谁也不回家\n\n[Outro]\n摇啊摇啊摇\n明天再来摇\n今晚不回家\n\n[Chorus]\n摇摆摇 摇摆摇 甩头又扭腰\n摇摆摇 摇摆摇 汗流得哗哗\n摇摆摇 摇摆摇 越跳越来劲\n舞到天黑黑 谁也不回家\n\n[Outro]\n摇啊摇啊摇\n明天再来摇\n今晚不回家\n灯亮了还跳\n人散了再找\n广场就是家\n大家一起摇\n摇到日出东方亮\n",
+    "mmx_prompt": "A high-energy Chinese square dance remix at 128 BPM with a four-on-the-floor beat and catchy synth melody. The arrangement features DJ-style bass drops and extended instrumental breaks, leaving generous space between vocal chops. Female vocal phrases are short and repetitive, designed for crowd participation. Full-length song structure with a long intro building anticipation and a long outro fading out gradually.",
+    "suno_prompt": "Chinese square dance anthem, 128 BPM, 6415 chord loop, four-on-the-floor beat, catchy synth melody, DJ bass drops, extended instrumental breaks. Female vocal, short repetitive phrases, crowd call-and-response, energetic and euphoric. Full-length track with long intro and outro.",
+    "cover_prompt": "A cinematic still life centered on a giant vintage speaker, surrounded by evening square lit with colorful lights, dancing crowd, DJ booth, the Chinese characters '摇摆摇' etched into a surface in the scene, color palette: warm sunset orange, magenta stage lights, neon glow, vertical 9:16 composition suitable for short-video cover, highly detailed, soft cinematic lighting, shallow depth of field.",
+    "bpm": 128,
+    "chord": "6415",
+    "qa": {
+      "d1_cliche": 90,
+      "d2_vividness": 84,
+      "d3_hook": 92,
+      "d4_rhyme": 90,
+      "overall": 88.4
     },
-    {
-      "title": "走不开",
-      "genre_code": "viral_pop",
-      "lyrics": "[Intro]\n手机响了又响\n是不是你\n我心扑通扑通跳\n\n[Verse 1]\n早晨七点就醒\n不是为了上课\n是想早一点见到你\n你坐我前排右边\n马尾假装不在意\n眼神偷偷飘过去\n你喝奶茶的样子\n我记了好多天\n\n[Pre-Chorus]\n想问你今天要不要一起\n话到嘴边又缩回去\n我的世界全是你\n\n[Chorus]\n走不开 走不开 我真的走不开\n离不开 离不开 我真的离不开\n心扑通 心扑通 我为你心扑通\n你怎么还不明白\n想你啦 想你啦 我天天想你啦\n要不要 要不要 你要不要做我男朋友\n我爱你 我爱你 我好爱你不敢说\n心好痛 心好痛\n\n[Verse 2]\n课间操排队\n我故意站你后面\n闻你衣服上洗衣液\n放学绕远路\n只为跟你擦肩\n你点赞我朋友圈\n我能开心一整天\n连梦里都在见面\n\n[Pre-Chorus]\n想打电话给你\n又怕你觉得烦\n我就是这么没出息\n\n[Chorus]\n走不开 走不开 我真的走不开\n离不开 离不开 我真的离不开\n心扑通 心扑通 我为你心扑通\n你怎么还不明白\n想你啦 想你啦 我天天想你啦\n要不要 要不要 你要不要做我男朋友\n我爱你 我爱你 我好爱你不敢说\n心好痛 心好痛\n\n[Bridge]\n滴答滴 滴答滴 时针好慢滴\n为什么你还没发信息\n我爱你 我爱你 我真的好爱你\n求你快点发现我的心意\n放不下 放不下 我真的放不下\n没有你我真的会垮\n\n[Chorus]\n走不开 走不开 我真的走不开\n离不开 离不开 我真的离不开\n心扑通 心扑通 我为你心扑通\n你怎么还不明白\n想你啦 想你啦 我天天想你啦\n要不要 要不要 你要不要做我男朋友\n我爱你 我爱你 我好爱你不敢说\n心好痛 心好痛\n\n[Chorus]\n走不开 走不开 我真的走不开\n离不开 离不开 我真的离不开\n心扑通 心扑通 我为你心扑通\n你怎么还不明白\n想你啦 想你啦 我天天想你啦\n要不要 要不要 你要不要做我男朋友\n我爱你 我爱你 我好爱你不敢说\n心好痛 心好痛\n\n[Outro]\n走不开 走不开\n你快点过来\n抱紧我 好不好",
-      "mmx_prompt": "A catchy Chinese viral pop song at 115 BPM with a sweet female vocal and a repetitive hook built on a IV-V-IIIm-VIm chord progression. The arrangement is spacious, leaving room between phrases for the earworm melody to breathe. Extended chorus repeats with an A-A-A-B structure create maximum stickiness. Bridge section provides contrast before the final double chorus.",
-      "suno_prompt": "Chinese viral pop, 115 BPM, sweet female vocal, earworm melody, A-A-A-B hook, IV-V-IIIm-VIm progression, TikTok hit, indie pop",
-      "cover_prompt": "A cinematic cover featuring a teenage girl with blushing cheeks holding a smartphone showing incoming messages, with school desk, milk tea, cute hearts, sticky notes, sweet candy. the Chinese characters '走不开' naturally appearing as part of the scene. Color palette: pink and cream and pastel yellow. Square 1:1 format, high detail, atmospheric lighting, no other text or watermark.",
-      "bpm": 115,
-      "chord": "4536251",
-      "model": "kimi-k2.6",
-      "line_count": 77,
-      "est_duration": "3:27",
-      "banned_found": []
+    "model": "kimi-k2.6"
+  },
+  {
+    "title": "小甜心",
+    "genre_code": "viral_pop",
+    "lyrics": "[Intro]\n电话响一声 我就心跳加速\n你说马上到 我还在挑衣服\n今天要让你 看到最甜的我\n\n[Verse 1]\n闹钟响了半天 我还赖在床上\n想到你的约会 立刻跳起来化妆\n粉底涂一涂 口红选个蜜桃\n镜子里的自己 怎么那么可爱\n手机亮一下 我就马上点开\n不是你的消息 又撅嘴发呆\n奶茶加芋圆 甜度刚刚好\n见面第一句 你要夸我好看\n\n[Pre-Chorus]\n你按门铃那一刻\n我心跳咚咚咚\n快点进来抱一下\n\n[Chorus]\n小甜心\n小甜心\n小甜心\n你快过来\n小甜心\n小甜心\n小甜心\n快给我抱抱\n\n[Verse 2]\n牵手压马路 路灯下面走\n你的手心热 我有点害羞\n路边的小猫 也对我们喵\n你说我像它 一样黏人刚好\n不小心吵一架 你低头认错\n我假装生气 其实早就不气\n你捏捏我脸 说宝贝别走\n我扑进你怀里 又和好了\n\n[Pre-Chorus]\n你身上有奶茶香\n还有我的口红印\n甜甜的别想跑\n\n[Chorus]\n小甜心\n小甜心\n小甜心\n你快过来\n小甜心\n小甜心\n小甜心\n快亲亲我\n\n[Bridge]\n你说我太甜 像一块蛋糕\n那我就赖着你 一辈子好不好\n吵架和好以后 更黏更可爱\n你是我小甜心 永远不分开\n数到三你就出现 不许耍赖\n一二三 你已经在身边\n\n[Chorus]\n小甜心\n小甜心\n小甜心\n你快过来\n小甜心\n小甜心\n小甜心\n一起喝奶茶\n\n[Outro]\n小甜心 小甜心 小甜心\n说好了 永远在一起\n我的小甜心 就是你",
+    "mmx_prompt": "A catchy Chinese viral pop song at 115 BPM with a sweet female vocal and a repetitive hook built on a IV-V-IIIm-VIm chord progression. The arrangement is spacious, leaving room between phrases for the earworm melody to breathe. Extended chorus repeats with an A-A-A-B structure create maximum stickiness. Bridge section provides contrast before the final double chorus.",
+    "suno_prompt": "Chinese viral pop, sweet female vocal, 115 BPM, 4536251 chord progression, catchy earworm melody. Spacious mix with clear vocal. Repetitive A-A-A-B chorus hooks, bridge contrast, double chorus finale. Bright, uplifting, radio-friendly.",
+    "cover_prompt": "A cinematic still life centered on a translucent bubble tea cup, surrounded by milk tea shop counter, two straws, sweet candies, smartphone screen glow, the Chinese characters '小甜心' naturally appearing as part of the scene, color palette: pastel pink, cream white, candy red, soft warm tones, vertical 9:16 composition suitable for short-video cover, highly detailed, soft cinematic lighting, shallow depth of field.",
+    "bpm": 115,
+    "chord": "4536251",
+    "qa": {
+      "d1_cliche": 78,
+      "d2_vividness": 78,
+      "d3_hook": 92,
+      "d4_rhyme": 90,
+      "overall": 83.3
     },
-    {
-      "title": "心碎了一地",
-      "genre_code": "sad",
-      "lyrics": "[Intro]\n窗外的雨 滴滴答答滴\n滴答滴 滴答滴 像我的眼泪滴\n空房间里 只剩下我自己\n这黑夜太长 我睡不着\n想你啦 想你啦 想到快要疯掉\n要不要 要不要 回到我身边\n\n[Verse 1]\n你说走就走 门砰的一声\n留下我一个人 还有半杯凉掉的咖啡\n手机还亮着 你的照片没删\n我想打电话 又不敢打扰你\n凌晨三点半 我又在想你\n枕头湿了又干 干了又湿\n被窝里好冷 没有你抱我\n我一个人 真的好难过\n\n[Pre-Chorus]\n心好痛 真的好痛\n你知不知道\n我爱你 还爱你\n\n[Chorus]\n我想你 我想你 我想你 想到快要窒息\n放不下 放不下 放不下 只能骗自己\n心碎了一地 心碎了一地 心碎了一地 捡都捡不起\n算了吧 算了吧 我好想你\n\n[Verse 2]\n以前你总爱 抱着我看电影\n现在沙发上 只有一条旧毯子\n厨房里还摆着 你爱的那双筷子\n冰箱里冻着 你买的那半块蛋糕\n回忆像潮水 一波一波涌上来\n把我淹没在 没有你的夜里\n你走那天 连伞都没带\n是不是早就 决定不再回来\n\n[Pre-Chorus]\n心好累 真的好累\n早该知道\n我爱你 还爱你\n\n[Chorus]\n我想你 我想你 我想你 想到快要窒息\n放不下 放不下 放不下 只能骗自己\n心碎了一地 心碎了一地 心碎了一地 捡都捡不起\n算了吧 算了吧 我好想你\n\n[Bridge]\n也许有一天 我会慢慢忘记\n忘记你的声音 忘记你的姓名\n也许有一天 我会遇见新的人\n可今晚的我 还是放不下你\n眼泪流不停 流不停 流不停\n谁来替我擦干净\n\n[Chorus]\n我想你 我想你 我想你 想到快要窒息\n放不下 放不下 放不下 只能骗自己\n心碎了一地 心碎了一地 心碎了一地 捡都捡不起\n算了吧 算了吧 我好想你\n\n[Outro]\n雨还在下 我还在想\n天黑到天亮 你回不回来\n心碎了一地 没人来收\n爱你的心 要怎么收",
-      "mmx_prompt": "An emotional Chinese ballad at 80 BPM with a breathy female vocal and gentle crying tone, built on a I-VIm-IV-V chord progression. Piano and strings create a melancholy atmosphere with long instrumental passages. The arrangement is unhurried, giving each emotional phrase room to resonate. Extended outro for a lingering sense of loss.",
-      "suno_prompt": "Chinese ballad, 80 BPM, breathy female vocal, crying tone, I-VIm-IV-V progression, piano and strings, melancholy, heartbreak",
-      "cover_prompt": "A cinematic cover featuring a girl sitting alone on a rainy window sill with a half-finished cup of coffee, with raindrops on glass, dim room, scattered polaroids, wet pillow. the Chinese characters '心碎了一地' naturally appearing as part of the scene. Color palette: muted blue and gray and soft amber. Square 1:1 format, high detail, atmospheric lighting, no other text or watermark.",
-      "bpm": 80,
-      "chord": "1645",
-      "model": "kimi-k2.6",
-      "line_count": 60,
-      "est_duration": "3:24",
-      "banned_found": []
+    "model": "deepseek-v4-flash"
+  },
+  {
+    "title": "爱不动了",
+    "genre_code": "sad",
+    "lyrics": "[Intro]\n雨下了一整夜\n房间里空荡荡\n只剩下我自己\n\n[Verse 1]\n你走了第三天\n拖鞋还摆在床边\n衣柜里你的外套\n我还没舍得扔\n凌晨三点零五分\n我又醒了过来\n看着旁边空荡荡\n枕头湿了一片\n\n[Pre-Chorus]\n手机亮了一下\n不是你来消息\n心又沉下去\n\n[Chorus]\n我真的爱不动了\n我真的爱不动了\n我真的爱不动了\n这一次我要放手了\n\n[Verse 2]\n以前你总熬夜\n我催你早点睡\n现在没人管我\n我却睡不着\n翻着我们的聊天记录\n一条一条回看\n如今只剩我一人\n眼泪一直掉\n\n[Pre-Chorus]\n哭到眼睛都肿了\n哭到流不出泪了\n还是好难过\n\n[Chorus]\n我真的爱不动了\n我真的爱不动了\n我真的爱不动了\n你不会再回来了\n\n[Bridge]\n衣服我收拾好了\n照片我也收起来了\n虽然还会想起你\n但我不再等你了\n水杯我收起来了\n你的牙刷也扔了\n爱到这里就够了\n我不要再痛下去了\n\n[Chorus]\n我真的爱不动了\n我真的爱不动了\n我真的爱不动了\n我要学着忘记你\n\n[Outro]\n房间还是空着\n天快要亮了\n我也该睡了\n不会再想了\n我真的爱不动了",
+    "mmx_prompt": "An emotional Chinese ballad at 80 BPM with a breathy female vocal and gentle crying tone, built on a I-VIm-IV-V chord progression. Piano and strings create a melancholy atmosphere with long instrumental passages. The arrangement is unhurried, giving each emotional phrase room to resonate. Extended outro for a lingering sense of loss.",
+    "suno_prompt": "Chinese emotional ballad, 80 BPM, 1645 progression, breathy female vocal with gentle crying tone, piano and strings. Long instrumental passages, unhurried pacing. Melancholic atmosphere with lingering sense of loss in the outro.",
+    "cover_prompt": "A cinematic still life centered on a half-empty wine glass, surrounded by rain-streaked window, empty room, scattered photos, cold blue night, the Chinese characters '爱不动了' formed by elements within the scene, color palette: muted blue, gray rain, dim warm lamp glow, melancholy, vertical 9:16 composition suitable for short-video cover, highly detailed, soft cinematic lighting, shallow depth of field.",
+    "bpm": 80,
+    "chord": "1645",
+    "qa": {
+      "d1_cliche": 90,
+      "d2_vividness": 80,
+      "d3_hook": 92,
+      "d4_rhyme": 90,
+      "overall": 87.0
     },
-    {
-      "title": "小重山",
-      "genre_code": "guofeng",
-      "lyrics": "[Intro]\n月挂小重山\n霜落旧栏杆\n一夜相思未曾干\n\n[Verse 1]\n独上西楼风又寒\n一盏烛火照无眠\n手抚琴弦声声慢\n声声都是你呼唤\n雪落肩头不敢看\n怕这白头太孤单\n窗外梅花开了又残\n不如你早些还\n\n[Pre-Chorus]\n念你啊 念你啊\n念到月亮都缺半边\n泪都流干\n\n[Chorus]\n想你啦 想你啦 想你啦 心好痛\n月照小重山 照不见你面容\n放不下 放不下 放不下 梦成空\n一盏灯 一个人 一夜风\n爱你啊 爱你啊 爱你啊 不敢讲\n月照小重山 照得我心慌\n\n[Verse 2]\n南乡子的曲谁人弹\n清江引的水几时弯\n你走那天云也惨淡\n连雁字都未曾传\n我把红豆种满南山\n等春风来 等你也来\n可恨邮差无消息\n只剩明月空栏杆\n\n[Pre-Chorus]\n等你啊 等你啊\n等到梅花落满山\n人不归来\n\n[Chorus]\n想你啦 想你啦 想你啦 心好痛\n月照小重山 照不见你面容\n放不下 放不下 放不下 梦成空\n一盏灯 一个人 一夜风\n爱你啊 爱你啊 爱你啊 不敢讲\n月照小重山 照得我心慌\n\n[Instrumental]\n古筝一声慢 笛声一声远\n\n[Bridge]\n我爱你 不是说说就算\n我想你 想到夜不能眠\n若你听见这声声叹\n归来吧 归来吧 莫让我空盼\n小重山外 小重山外 灯火万盏\n没有一盏是你归还\n\n[Chorus]\n想你啦 想你啦 想你啦 心好痛\n月照小重山 照不见你面容\n放不下 放不下 放不下 梦成空\n一盏灯 一个人 一夜风\n爱你啊 爱你啊 爱你啊 不敢讲\n月照小重山 照得我心慌\n\n[Outro]\n月照小重山\n人立小重山\n相思无解 心好酸\n盼你回还",
-      "mmx_prompt": "A Chinese traditional-style pop song at 90 BPM featuring guzheng and dizi, built on a canon chord progression. The arrangement is elegant and atmospheric with extended guzheng solo passages, leaving generous space between vocal lines. An operatic female vocal delivers poetic phrases with unhurried pacing. Long intro establishes the classical mood before the first verse enters.",
-      "suno_prompt": "Chinese traditional pop, 90 BPM, guzheng, dizi, operatic female vocal, canon progression, poetic, classical Chinese",
-      "cover_prompt": "A cinematic cover featuring a woman in hanfu standing on a moonlit terrace playing guzheng, with falling plum blossoms, ancient pavilion, candle flame, paper lantern, misty mountains. the Chinese characters '小重山' etched into a surface in the scene. Color palette: ink black and pale gold and misty white. Square 1:1 format, high detail, atmospheric lighting, no other text or watermark.",
-      "bpm": 90,
-      "chord": "大调卡农",
-      "model": "kimi-k2.6",
-      "line_count": 65,
-      "est_duration": "4:20",
-      "banned_found": []
+    "model": "kimi-k2.6"
+  },
+  {
+    "title": "念长安",
+    "genre_code": "guofeng",
+    "lyrics": "[Intro]  \n月照长安一片霜  \n风过朱楼夜未央  \n灯火阑珊处 无人立回廊  \n\n[Verse 1]  \n雪落旧时阶 琴声断人肠  \n独上西楼望 云遮白玉光  \n长安城头柳 年年绿又黄  \n故人乘鹤去 空余酒一觞  \n醉里挑灯看 剑影已苍凉  \n当年携手处 苔痕上石墙  \n风吹帘半卷 恍如你推窗  \n醒来满城寂 月落瓦上霜  \n\n[Pre-Chorus]  \n风又起 卷起旧时衣  \n人未归 雁字寄无期  \n独对孤灯影 夜夜数更移  \n\n[Chorus]  \n念长安 念长安 念长安 月照离人妆  \n念长安 念长安 念长安 风拂泪两行  \n念长安 念长安 念长安 梦回烟水长  \n醒时窗外空荡荡 只有桂花香  \n旧年人面不知处 桃花笑春忙  \n空留一纸相思字 落笔已断肠  \n\n[Verse 2]  \n长街灯如昼 不见你模样  \n画楼歌未歇 谁在低声唱  \n玉笛吹寒夜 孤影上西窗  \n旧诗题壁上 墨色已泛黄  \n一别千万里 音书两茫茫  \n独酌无人劝 月落满觞凉  \n青石巷口雨 滴落似泪光  \n伞下曾执手 如今各一方  \n\n[Pre-Chorus]  \n风又起 吹皱一池月  \n人未眠 独坐等天明  \n忽闻檐下铃 疑是故人行  \n\n[Chorus]  \n念长安 念长安 念长安 月照离人妆  \n念长安 念长安 念长安 风拂泪两行  \n念长安 念长安 念长安 梦回烟水长  \n醒时窗外空荡荡 只有桂花香  \n旧年人面不知处 桃花笑春忙  \n空留一纸相思字 落笔已断肠  \n\n[Instrumental]  \n古筝solo 笛子缠  \n\n[Bridge]  \n愿化春风去 拂过你眉梢  \n愿作长安月 夜夜照归桥  \n若得君一顾 何惧路迢迢  \n怕只怕 梦中人 醒来无处找  \n斟酒问青天 明月几时照  \n此情不可寄 山水也寂寥  \n\n[Chorus]  \n念长安 念长安 念长安 月照离人妆  \n念长安 念长安 念长安 风拂泪两行  \n念长安 念长安 念长安 梦回烟水长  \n醒时窗外空荡荡 只有桂花香  \n旧年人面不知处 桃花笑春忙  \n空留一纸相思字 落笔已断肠  \n\n[Outro]  \n念长安 念长安 念长安  \n风过处 无人应  \n唯有月 照空城  \n桂香散 夜渐明",
+    "mmx_prompt": "A Chinese traditional-style pop song at 90 BPM featuring guzheng and dizi, built on a canon chord progression. The arrangement is elegant and atmospheric with extended guzheng solo passages, leaving generous space between vocal lines. An operatic female vocal delivers poetic phrases with unhurried pacing. Long intro establishes the classical mood before the first verse enters.",
+    "suno_prompt": "Chinese traditional-style pop, 90 BPM, guzheng and dizi, canon progression. Atmospheric guzheng solos, operatic female vocal, poetic phrasing, unhurried pacing. Classical mood from long intro through extended bridges.",
+    "cover_prompt": "A cinematic still life centered on an ancient bronze mirror, surrounded by moonlit pavilion, silk curtains, falling plum petals, guzheng on a wooden stand, the Chinese characters '念长安' etched into a surface in the scene, color palette: ink-wash black, ivory white, cinnabar red, moonlight silver, vertical 9:16 composition suitable for short-video cover, highly detailed, soft cinematic lighting, shallow depth of field.",
+    "bpm": 90,
+    "chord": "大调卡农",
+    "qa": {
+      "d1_cliche": 90,
+      "d2_vividness": 90,
+      "d3_hook": 92,
+      "d4_rhyme": 90,
+      "overall": 90.5
     },
-    {
-      "title": "老碾子",
-      "genre_code": "hometown",
-      "lyrics": "[Intro]\n村口的老槐树\n老屋的炊烟\n窑洞的灯火\n\n[Verse 1]\n小时候我趴在磨盘边\n妈妈喊我回家吃饭\n那辆单车叮铃铃响\n载着夕阳转过了山梁\n碾子一圈又一圈\n把我的童年碾成麦香\n童年的梦很长很长\n长到我现在还在想\n\n[Pre-Chorus]\n想你啦 想你啦\n真的放不下\n放不下\n\n[Chorus]\n老碾子吱呀呀 我在想你呀\n老碾子吱呀呀 我在想你呀\n老碾子吱呀呀 我在想你呀\n再苦的北漂也要回家\n窑洞里的灯火还在亮\n单车还在墙根靠着\n磨盘上的月光照着我\n我在这条路上拼着命\n为了回来把你抱紧\n\n[Verse 2]\n背着铺盖进了城\n地铁挤碎了梦\n合租屋里黑漆漆\n泡面凉了也没人疼\n老板说再加个班\n我说行 我一定能行\n工资条捏得皱巴巴\n寄回家才是我的光荣\n\n[Pre-Chorus]\n想家啦 想家啦\n真的好想家\n好想家\n\n[Chorus]\n老碾子吱呀呀 我在想你呀\n老碾子吱呀呀 我在想你呀\n老碾子吱呀呀 我在想你呀\n再远的北京不是家\n窑洞里的灯火还在亮\n单车还在墙根靠着\n磨盘上的月光照着我\n我在这条路上拼着命\n为了回来把你抱紧\n\n[Bridge]\n我一定要出人头地\n一定要让爸妈挺起胸膛\n一定要让老碾子\n再见我的时候笑哈哈\n眼泪流了我不擦\n咬牙往前冲啊\n\n[Chorus]\n老碾子吱呀呀 我在想你呀\n老碾子吱呀呀 我在想你呀\n老碾子吱呀呀 我在想你呀\n再苦再累我不趴下\n窑洞里的灯火还在亮\n单车还在墙根靠着\n磨盘上的月光照着我\n我在这条路上拼着命\n为了回来把你抱紧\n\n[Outro]\n老碾子呀老碾子\n等我回家\n碾一轮新麦香\n喊一声妈妈",
-      "mmx_prompt": "A warm Chinese folk pop song at 100 BPM with a gentle male vocal and acoustic guitar, built on a canon variation progression. The arrangement is nostalgic and uplifting with extended instrumental sections, leaving room between verses for the melody to breathe. Bridge section provides an inspirational turn before the final chorus. Countryside imagery guides the emotional arc.",
-      "suno_prompt": "Chinese folk pop, 100 BPM, gentle male vocal, acoustic guitar, canon variation, nostalgic, countryside, inspirational",
-      "cover_prompt": "A cinematic cover featuring an old stone mill wheel in front of a courtyard cave dwelling, with withered vines, wooden bicycle, smoke from kitchen chimney, rural mountain backdrop. the Chinese characters '老碾子' formed by elements within the scene. Color palette: warm earth tones and ochre and faded sepia. Square 1:1 format, high detail, atmospheric lighting, no other text or watermark.",
-      "bpm": 100,
-      "chord": "卡农变体",
-      "model": "kimi-k2.6",
-      "line_count": 72,
-      "est_duration": "3:21",
-      "banned_found": []
-    }
-  ]
-}
+    "model": "deepseek-v4-flash"
+  },
+  {
+    "title": "麦穗黄",
+    "genre_code": "hometown",
+    "lyrics": "[Intro]\n村口的老树还在那里\n老屋的烟囱又飘起烟\n麦田里的风一吹就黄了天\n\n[Verse 1]\n小时候光着脚丫跑在田埂上\n妈妈在灶台前忙来又忙去\n麦垛堆得像座小金山\n我和小伙伴藏在里面玩\n太阳落山了听不见妈妈喊\n浑身都是麦芒也不嫌疼\n那时候不懂什么叫出门打工\n只知道麦子黄了就有馒头吃\n\n[Pre-Chorus]\n如今我人在城里挤公交\n晚上躺在出租屋里睡不着\n满脑子都是老家麦子黄了的样\n\n[Chorus]\n麦穗黄 麦穗黄 田里的麦子黄又黄\n麦穗黄 麦穗黄 妈妈站在那里望\n麦穗黄 麦穗黄 我想老家想得慌\n我一定要出人头地回家乡\n\n[Verse 2]\n当年背着包离开小村庄\n火车一开眼泪就往肚里淌\n城里的楼很高路很宽\n可是没有一片麦田让我躺\n工地上搬砖搬到手心发烫\n食堂里的饭菜没有妈妈香\n夜里对着手机看老家的照片\n麦子黄的时候我不能在场\n\n[Pre-Chorus]\n打工打了这么多年没名堂\n可我不敢忘我是农民的儿子\n家乡的那片土地等着我争光\n\n[Chorus]\n麦穗黄 麦穗黄 田里的麦子黄又黄\n麦穗黄 麦穗黄 妈妈站在那里望\n麦穗黄 麦穗黄 我想老家想得慌\n我一定要出人头地回家乡\n\n[Bridge]\n妈妈你不要再为我操心\n儿子我在城里学本领\n虽说现在还在人海里扑腾\n但我心里有盏灯亮堂堂\n那是老家灶台里的火\n那是麦田里的太阳\n\n[Chorus]\n麦穗黄 麦穗黄 田里的麦子黄又黄\n麦穗黄 麦穗黄 妈妈站在那里望\n麦穗黄 麦穗黄 我想老家想得慌\n我一定要出人头地回家乡\n\n[Outro]\n等那麦子黄了又一趟\n我就回到生我的村庄\n给妈妈看看我混出的样\n麦田里的风吹在我身上\n\n[Bridge]\n打工的路再长我也不怕\n妈妈的眼神是我最大的牵挂\n麦子黄了一季又一季\n我在城里等来年的归期\n总有一天我会开着小车\n回到村口把妈妈的手挽\n\n麦穗黄 麦穗黄 麦穗黄\n家乡的麦穗年年等我回家乡\n",
+    "mmx_prompt": "A warm Chinese folk pop song at 100 BPM with a gentle male vocal and acoustic guitar, built on a canon variation progression. The arrangement is nostalgic and uplifting with extended instrumental sections, leaving room between verses for the melody to breathe. Bridge section provides an inspirational turn before the final chorus. Countryside imagery guides the emotional arc.",
+    "suno_prompt": "Chinese folk pop, 100 BPM, gentle male vocal, acoustic guitar, canon variation. Nostalgic and uplifting, extended instrumental sections, inspirational bridge. Countryside imagery with warm, earthy textures.",
+    "cover_prompt": "A cinematic still life centered on a rustic wooden rake resting on golden wheat, surrounded by wheat field at sunset, old tile-roof house, rising kitchen smoke, village road, the Chinese characters '麦穗黄' naturally appearing as part of the scene, color palette: golden wheat yellow, warm earth brown, sky blue, sunset orange, vertical 9:16 composition suitable for short-video cover, highly detailed, soft cinematic lighting, shallow depth of field.",
+    "bpm": 100,
+    "chord": "卡农变体",
+    "qa": {
+      "d1_cliche": 90,
+      "d2_vividness": 94,
+      "d3_hook": 92,
+      "d4_rhyme": 90,
+      "overall": 91.9
+    },
+    "model": "kimi-k2.6"
+  }
+]

@@ -1,42 +1,57 @@
 {
   "dance": {
-    "line_count": 64,
-    "cliche_hits": [],
-    "forbidden_hits": [],
-    "picture_score": 0.15625,
-    "hook_count": 0,
-    "rhyme_ratio": 0.31746031746031744
+    "title": "摇摆摇",
+    "qa": {
+      "d1_cliche": 90,
+      "d2_vividness": 84,
+      "d3_hook": 92,
+      "d4_rhyme": 90,
+      "overall": 88.4
+    },
+    "model": "kimi-k2.6"
   },
   "viral_pop": {
-    "line_count": 94,
-    "cliche_hits": [],
-    "forbidden_hits": [],
-    "picture_score": 1.4893617021276595,
-    "hook_count": 17,
-    "rhyme_ratio": 0.11827956989247312
+    "title": "小甜心",
+    "qa": {
+      "d1_cliche": 78,
+      "d2_vividness": 78,
+      "d3_hook": 92,
+      "d4_rhyme": 90,
+      "overall": 83.3
+    },
+    "model": "deepseek-v4-flash"
   },
   "sad": {
-    "line_count": 53,
-    "cliche_hits": [],
-    "forbidden_hits": [],
-    "picture_score": 0.37735849056603776,
-    "hook_count": 24,
-    "rhyme_ratio": 0.19230769230769232
+    "title": "爱不动了",
+    "qa": {
+      "d1_cliche": 90,
+      "d2_vividness": 80,
+      "d3_hook": 92,
+      "d4_rhyme": 90,
+      "overall": 87.0
+    },
+    "model": "kimi-k2.6"
   },
   "guofeng": {
-    "line_count": 58,
-    "cliche_hits": [],
-    "forbidden_hits": [],
-    "picture_score": 4.310344827586207,
-    "hook_count": 0,
-    "rhyme_ratio": 0.0
+    "title": "念长安",
+    "qa": {
+      "d1_cliche": 90,
+      "d2_vividness": 90,
+      "d3_hook": 92,
+      "d4_rhyme": 90,
+      "overall": 90.5
+    },
+    "model": "deepseek-v4-flash"
   },
   "hometown": {
-    "line_count": 57,
-    "cliche_hits": [],
-    "forbidden_hits": [],
-    "picture_score": 6.315789473684211,
-    "hook_count": 1,
-    "rhyme_ratio": 0.017857142857142856
+    "title": "麦穗黄",
+    "qa": {
+      "d1_cliche": 90,
+      "d2_vividness": 94,
+      "d3_hook": 92,
+      "d4_rhyme": 90,
+      "overall": 91.9
+    },
+    "model": "kimi-k2.6"
   }
 }

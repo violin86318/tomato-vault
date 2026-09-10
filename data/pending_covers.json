@@ -1,47 +1,52 @@
 {
-  "date": "2026-09-03",
-  "submitted_at": "2026-09-03T12:46:56.963065",
+  "date": "2026-09-11",
+  "submitted_at": "2026-09-11T05:44:24.181054",
   "source": "tomato_audio.json",
   "covers": [
     {
-      "title": "心冷了",
-      "prompt": "A frozen heart-shaped ice cube rests on a rain-streaked windowsill. An empty dining table holds two pairs of chopsticks across from a vacant chair. The Chinese characters '心冷了' are etched into the ice cube's surface. Cool blue tones. Vertical 2:3.",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_心冷了",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1788410553114_79449_4194.jpg",
+      "title": "黏上你",
+      "prompt": "a smartphone screen glowing with unread chat bubbles on a cafe table beside a half-finished bubble tea, floating pink hearts drifting up from the phone, the Chinese characters '黏上你' naturally appearing among the floating sticky-note hearts, sweet pink and cream colour palette, playful romantic mood, square 1:1 composition, soft warm light",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_黏上你",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1789076266034_62741_3509.jpg",
       "submit_ok": true,
-      "submit_error": ""
+      "submit_error": "",
+      "provider": "m365-copilot"
     },
     {
-      "title": "爱爱爱",
-      "prompt": "In the warm morning sun, a young person squats at the door eating breakfast while a phone glows with a good-morning message. In the distance, square-dance enthusiasts move to a heart-shaped neon sign whose glow naturally forms the Chinese characters '爱爱爱'. The scene is bathed in warm orange, captured in a vertical 2:3 format.",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_爱爱爱",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1788410553114_79449_1722.jpg",
+      "title": "蹦一蹦",
+      "prompt": "a neon-lit outdoor public square at night, a portable loudspeaker on the ground, dancing shoes mid-step and confetti bursting around them, a crowd of middle-aged dancers in motion, the Chinese characters '蹦一蹦' formed by the glowing light trails on the dance floor, vibrant red and magenta neon palette, bold energetic night-party mood, square 1:1 composition, high contrast",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_蹦一蹦",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1789076356729_62741_6599.jpg",
       "submit_ok": true,
-      "submit_error": ""
+      "submit_error": "",
+      "provider": "m365-copilot"
     },
     {
-      "title": "小毛驴",
-      "prompt": "A worn plush donkey toy sits on the dusty village path, facing the old locust tree and curling kitchen smoke. The Chinese characters '小毛驴' naturally appear in the smoke swirls above the rooftops. Warm orange tones, vertical 2:3 format.",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_小毛驴",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1788410553114_79449_1274.jpg",
+      "title": "又失眠",
+      "prompt": "a rumpled bed at 3am with the other half empty, a phone face-down glowing faintly on the pillow, rain-streaked window and a distant street lamp outside, a single strand of long hair on the pillowcase, the Chinese characters '又失眠' etched faintly into the fogged window glass, deep blue and cold grey palette, lonely melancholy mood, square 1:1 composition, cinematic low light",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_又失眠",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1789076443174_62741_4261.jpg",
       "submit_ok": true,
-      "submit_error": ""
+      "submit_error": "",
+      "provider": "m365-copilot"
     },
     {
-      "title": "雨中曲",
-      "prompt": "A lone rain-soaked oil-paper umbrella stands in a courtyard, the Chinese characters '雨中曲' etched into its paper surface. Raindrops drum on broad banana leaves and drip from tiled eaves onto a glistening stone path. A figure in a blue robe waits beneath the umbrella. Cold blue tones, vertical 2:3.",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_雨中曲",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1788410553114_79449_6944.jpg",
+      "title": "土坯墙",
+      "prompt": "a rustic rammed-earth wall soaked by rain in golden afternoon sun, a dog's-tail grass sprouting from a crack, a worn wooden stool and a steaming bowl of noodles with a poached egg on top on the ground, an old locust tree casting a long shadow, the Chinese characters '土坯墙' etched into the rough clay surface, warm ochre and earthy brown palette, nostalgic rural mood, square 1:1 composition, warm natural light",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_土坯墙",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1789076523186_62741_6648.jpg",
       "submit_ok": true,
-      "submit_error": ""
+      "submit_error": "",
+      "provider": "m365-copilot"
     },
     {
-      "title": "蹦呲呲",
-      "prompt": "A lone dancer stands in the center of a flashing dance floor, tears falling into a glass of liquor. A massive bass speaker booms with energy, and the Chinese characters '蹦呲呲' are etched into its grille. Warm orange and cool blue lighting, vertical 2:3.",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_蹦呲呲",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1788410553114_79449_904.jpg",
+      "title": "故园梦",
+      "prompt": "moonlight over an old Chinese courtyard, a lone figure leaning on a weathered window frame, a guqin with snow resting on its strings, willow branches at a distant long pavilion, the Chinese characters '故园梦' naturally appearing as ink on the hanging scroll in the scene, ink-black and moon-white palette with faded indigo, classical nostalgic mood, square 1:1 composition, elegant atmospheric light",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_故园梦",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1789076605638_62741_1495.jpg",
       "submit_ok": true,
-      "submit_error": ""
+      "submit_error": "",
+      "provider": "m365-copilot"
     }
   ]
 }

@@ -1,7 +1,45 @@
 {
-  "dance": "撒野",
-  "viral_pop": "走不开",
-  "sad": "心碎了一地",
-  "guofeng": "小重山",
-  "hometown": "老碾子"
+  "date": "2026-09-08",
+  "titles": [
+    {
+      "code": "dance",
+      "title": "摇摆摇",
+      "bpm": 128,
+      "chord": "6415",
+      "icon": "💃",
+      "label": "广场舞"
+    },
+    {
+      "code": "viral_pop",
+      "title": "小甜心",
+      "bpm": 115,
+      "chord": "4536251",
+      "icon": "🎵",
+      "label": "洗脑情歌"
+    },
+    {
+      "code": "sad",
+      "title": "爱不动了",
+      "bpm": 80,
+      "chord": "1645",
+      "icon": "🌧️",
+      "label": "伤感情绪"
+    },
+    {
+      "code": "guofeng",
+      "title": "念长安",
+      "bpm": 90,
+      "chord": "大调卡农",
+      "icon": "🏯",
+      "label": "国风古风"
+    },
+    {
+      "code": "hometown",
+      "title": "麦穗黄",
+      "bpm": 100,
+      "chord": "卡农变体",
+      "icon": "🏠",
+      "label": "家乡励志"
+    }
+  ]
 }

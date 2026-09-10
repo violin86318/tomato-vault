@@ -11,7 +11,7 @@ Usage:
 
 import json, os, re, sys, time, urllib.parse, webbrowser, shutil, hashlib
 from pathlib import Path
-from http.server import HTTPServer, SimpleHTTPRequestHandler
+from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from datetime import datetime
 
 BASE = Path(__file__).parent
@@ -779,8 +779,9 @@ def serve():
     print(f"   音乐目录: {MUSIC_DIR}")
     print(f"\n   按 Ctrl+C 停止\n")
     import socket
-    class ReuseHTTPServer(HTTPServer):
+    class ReuseHTTPServer(ThreadingHTTPServer):
         allow_reuse_address = True
+        daemon_threads = True  # 僵尸客户端连接不阻塞退出
         def server_bind(self):
             self.socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
             super().server_bind()
