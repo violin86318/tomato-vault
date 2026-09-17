@@ -1,7 +1,184 @@
 {
-  "generated_at": "2026-09-16T18:31:44.906098",
-  "total_songs": 433,
+  "generated_at": "2026-09-17T13:06:13.886897",
+  "total_songs": 437,
   "songs": [
+    {
+      "slug": "摇到天亮_2026-09-17",
+      "title": "摇到天亮",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_摇到天亮",
+      "date": "2026-09-17",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "摇到天亮_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_摇到天亮/摇到天亮_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.1
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_摇到天亮/cover_摇到天亮.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-17_摇到天亮/cover_摇到天亮.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-17_摇到天亮/cover_摇到天亮_2048.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_摇到天亮/摇到天亮_poster.png",
+      "lyrics_file": "[Intro]\n鼓点一响脚就不听话\n灯一打开全城都出发\n音乐走起谁也别想回家\n\n[Verse 1]\n广场的灯一亮起来像白天一样\n大妈的音响一开全场都跟上\n老头老太太扭起腰来比谁都强\n小娃娃骑着滑板车绕圈乱闯\n我站在人群外面手心有点发烫\n你回头看我一眼笑得不慌不忙\n这日子再苦也得找点热闹来扛\n\n[Chorus]\n摇到天亮 摇到天亮\n把手举高 跟着节拍晃\n摇到天亮 摇到天亮\n烦恼丢掉 谁也别多想\n摇到天亮 摇到天亮\n脚下生风 越跳越疯狂\n摇到天亮 摇到天亮\n月亮不走 我们就不散场\n\n[Verse 2]\n白天的班加得再多晚上照样浪\n工资没涨没关系心情不能黄\n隔壁王婶的舞步今天又升级了\n她说跟着节奏走日子就有指望\n我把外套一脱扔给路边的小杨\n他说哥你跳得比昨天还像样\n人生嘛就该这么痛痛快快一场\n\n[Pre-Chorus]\n音乐一响谁还记得那些心慌\n抬头看灯把汗水都照得发亮\n今晚谁也不许提前说回家躺\n\n[Chorus]\n摇到天亮 摇到天亮\n把手举高 跟着节拍晃\n摇到天亮 摇到天亮\n烦恼丢掉 谁也别多想\n摇到天亮 摇到天亮\n脚下生风 越跳越疯狂\n摇到天亮 摇到天亮\n月亮不走 我们就不散场\n\n[Instrumental]\n\n[Verse 3]\n左手一甩右手一甩转身再拍掌\n跟着鼓点跺两下别怕踩到脚上\n前面的大哥你往后挪那么一点点\n后面的姐妹把手搭在我肩膀上\n会跳的往前站不会的跟着哼哼唱\n喊一声加油全广场都给你鼓掌\n\n[Chorus]\n摇到天亮 摇到天亮\n把手举高 跟着节拍晃\n摇到天亮 摇到天亮\n烦恼丢掉 谁也别多想\n摇到天亮 摇到天亮\n脚下生风 越跳越疯狂\n摇到天亮 摇到天亮\n月亮不走 我们就不散场\n\n[Chorus]\n摇到天亮 摇到天亮\n把手举高 跟着节拍晃\n摇到天亮 摇到天亮\n烦恼丢掉 谁也别多想\n摇到天亮 摇到天亮\n脚下生风 越跳越疯狂\n摇到天亮 摇到天亮\n月亮不走 我们就不散场\n\n[Outro]\n摇到天亮 摇到天亮\n灯要灭了咱们明天再登场",
+      "duration": 233
+    },
+    {
+      "slug": "心动砰砰_2026-09-17",
+      "title": "心动砰砰",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_心动砰砰",
+      "date": "2026-09-17",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "心动砰砰_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_心动砰砰/心动砰砰_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.7
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_心动砰砰/cover_心动砰砰.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-17_心动砰砰/cover_心动砰砰.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-17_心动砰砰/cover_心动砰砰_2048.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_心动砰砰/心动砰砰_poster.png",
+      "lyrics_file": "[Intro]\n心跳的声音越来越靠近\n你的笑让我每天都很开心\n这一刻世界只剩下你\n\n[Verse 1]\n早上七点钟闹钟还没响我先醒\n手机屏幕亮起是你发来的表情\n我刷牙的时候嘴角一直在往上翘\n妈妈问我怎么了我说做了个好梦\n地铁里人挤人我却觉得特别轻\n因为想到下班能再见你一面\n我把你的语音听了不下十遍\n每一句都好听像在放小甜歌\n\n[Pre-Chorus]\n我不懂这算不算是喜欢\n可我的心跳它藏不住秘密\n\n[Chorus]\n心动砰砰 你是我心里的光\n心动砰砰 每天想你好几趟\n心动砰砰 靠近你就发烫\n别问为什么 我就是这样\n\n[Verse 2]\n中午吃饭我多买了一瓶饮料\n同事笑我是不是最近谈恋爱了\n我没承认低头偷偷给你发消息\n你回了一个笑脸我就乐到下午\n天气预报说今天傍晚会有小雨\n我特意带了两把伞想着能接你\n路上你走在我左边离得那么近\n连风都是甜的吹得我不想回家\n\n[Pre-Chorus]\n我不懂这算不算是爱情\n可我嘴角它一直没下来过\n\n[Chorus]\n心动砰砰 你是我心里的光\n心动砰砰 每天想你好几趟\n心动砰砰 靠近你就发烫\n别问为什么 我就是这样\n\n[Bridge]\n如果这世界有太多不确定的事\n那我确定的就是想和你在一起\n不管明天是晴天还是下雨天\n我都要牵着你的手慢慢走\n\n[Chorus]\n心动砰砰 你是我心里的光\n心动砰砰 每天想你好几趟\n心动砰砰 靠近你就发烫\n别问为什么 我就是这样\n\n[Chorus]\n心动砰砰 你是我梦里的甜\n心动砰砰 一见你就笑开颜\n心动砰砰 余生都想你在身边\n不用多说 你懂我的心愿\n\n[Verse 3]\n晚上十点钟你送我到家门口\n路灯下你牵着我手慢慢走\n你问我明天早餐还想吃什么\n我红着脸说想吃你做的蛋粥\n睡前又把聊天记录翻了许久\n梦里都是你叫我宝贝好温柔\n\n[Chorus]\n心动砰砰 你是我心里的光\n心动砰砰 每天想你好几趟\n心动砰砰 靠近你就发烫\n别问为什么 我就是这样\n\n[Outro]\n心动砰砰 只为你砰砰\n你在心上 永远砰砰\n心动砰砰 爱一直砰砰\n[Outro]\n心动砰砰 一直砰砰\n你在我心里 一直砰砰\n心动砰砰 永远砰砰",
+      "duration": 220
+    },
+    {
+      "slug": "妈妈的针线_2026-09-17",
+      "title": "妈妈的针线",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_妈妈的针线",
+      "date": "2026-09-17",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "妈妈的针线_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_妈妈的针线/妈妈的针线_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.8
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_妈妈的针线/cover_妈妈的针线.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-17_妈妈的针线/cover_妈妈的针线.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-17_妈妈的针线/cover_妈妈的针线_2048.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_妈妈的针线/妈妈的针线_poster.png",
+      "lyrics_file": "[Intro]\n村口的老槐树又开了花\n老屋的烟囱飘着晚饭香\n妈妈的针线筐还在窗台上\n\n[Verse 1]\n小时候总爱看您做针线活\n煤油灯把您的影子拉很长\n针尖在布里穿过来又穿过去\n我的衣裳从来都整整齐齐\n您说男儿出门要穿得体面\n针脚里藏着做人的道理\n那时候不懂您为啥总熬夜\n原来是为了省下那几毛钱\n\n[Pre-Chorus]\n如今我走在城市的霓虹里\n却再也找不到那盏灯光\n只有您纳的鞋垫在脚下\n\n[Chorus]\n出门在外想起妈妈的针线\n出门在外想起妈妈的针线\n出门在外想起妈妈的针线\n再苦再累我也要拼命往前\n一针一线牵着我的心肝\n一针一线牵着我的心肝\n一针一线牵着我的心肝\n这辈子定让您把清福享遍\n\n[Verse 2]\n十八岁那天我背起旧行囊\n您塞给我一双新做的布鞋\n火车站台上您转身擦眼泪\n我不敢回头怕自己会崩溃\n城里的高楼比山高比海深\n工地的砖块压弯我的脊梁\n半夜躺床上摸着身上伤口\n想起您说男儿不能掉眼泪\n\n[Pre-Chorus]\n照片里您的白发又多了些\n电话中说家里一切都挺好\n我知道您又在对我撒着谎\n\n[Chorus]\n出门在外想起妈妈的针线\n出门在外想起妈妈的针线\n出门在外想起妈妈的针线\n再苦再累我也要拼命往前\n一针一线牵着我的心肝\n一针一线牵着我的心肝\n一针一线牵着我的心肝\n这辈子定让您把清福享遍\n\n[Bridge]\n这些年汗水流了有几大缸\n终于攒下钱买了小小的房\n虽然比不上家乡的青砖瓦\n可我想接您来住不再彷徨\n妈妈呀儿子没有让您失望\n您的针线是我永远的勋章\n\n[Chorus]\n出门在外想起妈妈的针线\n出门在外想起妈妈的针线\n出门在外想起妈妈的针线\n再苦再累我也要拼命往前\n一针一线牵着我的心肝\n一针一线牵着我的心肝\n一针一线牵着我的心肝\n这辈子定让您把清福享遍\n\n[Outro]\n老屋的针线筐还放在窗台\n就像您从来没有离开过我\n下辈子我还做您的儿子啊\n穿着您做的布鞋走回家门",
+      "duration": 189
+    },
+    {
+      "slug": "好久不见_2026-09-17",
+      "title": "好久不见",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_好久不见",
+      "date": "2026-09-17",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "好久不见_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_好久不见/好久不见_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.3
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_好久不见/cover_好久不见.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-17_好久不见/cover_好久不见.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-17_好久不见/cover_好久不见_2048.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_好久不见/好久不见_poster.png",
+      "lyrics_file": "[Intro]\n窗外的雨下了一整夜也没停\n房间黑着我没开灯也没睡\n手机屏幕亮了一下又暗下去\n\n[Verse 1]\n我把你的拖鞋还摆在门口左边\n像是你下班回来还会换的那一双\n冰箱里剩半盒你爱喝的酸奶\n过期了我一直舍不得扔进垃圾桶\n沙发缝里翻出你掉的黑色皮筋\n我套在手腕上假装你还在身边\n你说过分开以后要各自好好过\n可我今天又把你的号码翻了出来\n\n[Pre-Chorus]\n我不是非要纠缠只是有点想\n想问你这半年是不是也会想起我\n想问那个位置现在有没有别人坐\n\n[Chorus]\n好久不见 你过得好不好\n好久不见 还会不会想起我\n好久不见 我其实一直在等\n只是我 没敢把这句话说出口\n好久不见 这四个字我练了很久\n最后只敢在深夜里对自己说\n\n[Verse 2]\n去年冬天你陪我走过的那条街\n今年雪下得比往年要早一点点\n奶茶店第二杯半价还贴在墙上\n我一个人点了两杯自己都喝完了\n你教我的那首歌我现在还会唱\n只是唱到一半眼泪就掉了下来\n朋友圈里你笑得比我认识时还亮\n我点了个赞又赶紧把它取消了\n\n[Pre-Chorus]\n我以为过了这么久我早就好了\n可路过老地方脚还是会停下来\n原来放下不是忘记是学会忍着\n\n[Chorus]\n好久不见 你过得好不好\n好久不见 还会不会想起我\n好久不见 我其实一直在等\n只是我 没敢把这句话说出口\n好久不见 这四个字太长\n长到我 这辈子也说不完\n\n[Bridge]\n我决定把拖鞋收进柜子最里面\n把酸奶扔了把皮筋也丢掉吧\n不是不爱了是得学着往前走了\n你给的好我都记得我会好好过\n以后遇到喜欢的人我会主动一点\n只是现在 让我再难过一小会儿\n\n[Chorus]\n好久不见 你过得好不好\n好久不见 还会不会想起我\n好久不见 我其实一直在等\n只是我 没敢把这句话说出口\n好久不见 这四个字太长\n长到我 这辈子也说不完\n\n[Outro]\n雨停了天亮了我要去上班了\n路上要是碰见你我会笑着点头\n然后说一句 好久不见\n就像我们真的只是好久不见",
+      "duration": 239
+    },
+    {
+      "slug": "声声慢_2026-09-17",
+      "title": "声声慢",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_声声慢",
+      "date": "2026-09-17",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "声声慢_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_声声慢/声声慢_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 8.8
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_声声慢/cover_声声慢.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-17_声声慢/cover_声声慢.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-17_声声慢/cover_声声慢_2048.jpg"
+        ],
+        "generated_at": "2026-09-17T13:03:31.122335",
+        "tool": "m365-copilot"
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_声声慢/声声慢_poster.png",
+      "lyrics_file": "[Intro]\n青砖墙外雨打湿了芭蕉叶\n旧时光它爬满了青苔台阶\n一盏茶香飘着谁的声声慢\n\n[Verse 1]\n月上西楼照见那扇旧窗棂\n晚风吹过桥头吹皱了心情\n抚琴人在深巷等不到归人影\n落雪无声覆盖了多少流年景\n烛火摇曳照着我手中的针线\n绣了一半鸳鸯却少了另一半\n那年你说的誓言还在耳边转\n如今只剩下这冷清清的庭院\n\n[Pre-Chorus]\n雁字回时月满西楼的寂寞\n三杯两盏淡酒暖不了心窝\n梧桐更兼细雨到黄昏时候\n\n[Chorus]\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n凄凄惨惨又几个秋冬\n这声声慢呀你听到了吗\n这声声慢呀我唱到沙哑\n\n[Verse 2]\n鸿雁飞过关山带不走我的念\n独坐窗前数着更漏一夜无眠\n泛黄书信字里行间的温柔显\n你的轮廓在雾中若隐若现\n小楼昨夜又刮起了西北风\n烛影摇红照见我满脸泪容\n琴瑟断了一根弦再也弹不动\n满地黄花堆积谁人与我同\n\n[Pre-Chorus]\n雁字回时月满西楼依旧\n三杯两盏淡酒浇不灭愁\n梧桐细雨点点滴滴到明昼\n\n[Chorus]\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n凄凄惨惨又几个秋冬\n这声声慢呀你听到了吗\n这声声慢呀我唱到沙哑\n\n[Instrumental]\n古筝与笛子\n\n[Bridge]\n往事如烟散尽了繁华旧梦\n只剩下这声声慢我还在诵\n不是不爱了是缘分它太匆匆\n就像那满地落花随水流向东\n\n[Chorus]\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n凄凄惨惨又几个秋冬\n这声声慢呀你听到了吗\n这声声慢呀我唱到沙哑\n\n[Outro]\n旧时光它藏着最初的承诺\n晚风会把我的思念轻轻托\n那一盏茶香还飘着声声慢\n故事结局不需要谁来问我",
+      "duration": 287,
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-20_声声慢/声声慢.lrc",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-09-11",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/12782295ea4c049e6ae862067539f9e62ffe7cba7814021de55fc2f1f227e3b9",
+      "youmind_cover_cdn_all": [
+        "https://cdn.youmindassets.com/user-files/12782295ea4c049e6ae862067539f9e62ffe7cba7814021de55fc2f1f227e3b9",
+        "https://cdn.youmindassets.com/user-files/e646a466761d189e76cab7f9cbe1047ead9a04291b4bc1693858ef95aecad621"
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/c328988e719f2a2b38e66daac8c6c9c658382aab5723c50a9ee2f664c6d3fef8",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/46f650b753e5cb571f27583fcb8f03648627ef7f37724e679366037838cd886c"
+    },
     {
       "slug": "醉赤壁_2026-09-16",
       "title": "醉赤壁",
@@ -9,8 +186,8 @@
       "date": "2026-09-16",
       "genre_code": "guofeng",
       "genre_label": "民族风/古诗词改编/中国风",
-      "genre_icon": "🏮",
-      "genre_color": "#9b59b6",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "大调卡农",
       "bpm": 90,
       "dimension": "番茄专项",
@@ -52,8 +229,8 @@
       "date": "2026-09-16",
       "genre_code": "viral_pop",
       "genre_label": "抖音热歌/口水歌/欢快洗脑",
-      "genre_icon": "🍬",
-      "genre_color": "#f39c12",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "4536251",
       "bpm": 115,
       "dimension": "番茄专项",
@@ -95,8 +272,8 @@
       "date": "2026-09-16",
       "genre_code": "hometown",
       "genre_label": "乡愁/励志/朴实口语",
-      "genre_icon": "🏠",
-      "genre_color": "#27ae60",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "卡农变体",
       "bpm": 100,
       "dimension": "番茄专项",
@@ -138,8 +315,8 @@
       "date": "2026-09-16",
       "genre_code": "sad",
       "genre_label": "失恋/孤独/情感共鸣",
-      "genre_icon": "🌧️",
-      "genre_color": "#3498db",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "1645",
       "bpm": 80,
       "dimension": "番茄专项",
@@ -181,8 +358,8 @@
       "date": "2026-09-16",
       "genre_code": "dance",
       "genre_label": "广场舞/DJ舞曲/车载慢摇",
-      "genre_icon": "💃",
-      "genre_color": "#e74c5e",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "6415",
       "bpm": 128,
       "dimension": "番茄专项",
@@ -16104,49 +16281,6 @@
       ],
       "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/63dd981049778fee66fb51c45804407eb0a1b4125bb93d05d3583ab9f89e67d1",
       "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/fd6452cd1e4b74e76800110c7a826882dfccb46e74b0a252797749ac4159cc61"
-    },
-    {
-      "slug": "声声慢_2026-06-20",
-      "title": "声声慢",
-      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-06-20_声声慢",
-      "date": "2026-06-20",
-      "genre_code": "guofeng",
-      "genre_label": "国风古风",
-      "genre_icon": "🎵",
-      "genre_color": "#c41e1e",
-      "chord": "canon",
-      "bpm": 90,
-      "dimension": "番茄专项",
-      "dimensionIcon": "🍅",
-      "versions": [
-        {
-          "filename": "声声慢_v1.mp3",
-          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-06-20_声声慢/声声慢_v1.mp3",
-          "platform": "mmx",
-          "version_tag": "v1",
-          "size_mb": 6.3
-        }
-      ],
-      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-20_声声慢/声声慢.lrc",
-      "cover": {
-        "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-20_声声慢/cover_声声慢.jpg",
-        "all_covers": [
-          "/Users/wanglingwei/Music/番茄音乐/2026-06-20_声声慢/cover_声声慢.jpg",
-          "/Users/wanglingwei/Music/番茄音乐/2026-06-20_声声慢/cover_声声慢_2048.jpg"
-        ]
-      },
-      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-06-20_声声慢/声声慢_poster.png",
-      "lyrics_file": "[Intro]\n声声慢 声声慢\n寻寻觅觅冷冷清清\n声声慢 声声慢\n凄凄惨惨戚戚\n\n[Verse 1]\n乍暖还寒时候最难将息\n三杯两盏淡酒怎敌他晚来风急\n雁过也正伤心却是旧时相识\n满地黄花堆积憔悴损如今有谁堪摘\n\n[Pre-Chorus]\n守着窗儿独自怎生得黑\n梧桐更兼细雨到黄昏点点滴滴\n这次第怎一个愁字了得\n这次第怎一个愁字了得\n\n[Chorus]\n声声慢 声声慢 我在等一个人\n声声慢 声声慢 等到青丝变白发\n声声慢 声声慢 等到花瓣落满地\n声声慢 声声慢 此生只为你守候\n\n[Verse 2]\n云中谁寄锦书来\n雁字回时月满西楼\n花自飘零水自流\n一种相思两处闲愁\n此情无计可消除\n才下眉头却上心头\n\n[Pre-Chorus]\n守着窗儿独自怎生得黑\n梧桐更兼细雨到黄昏点点滴滴\n这次第怎一个愁字了得\n这次第怎一个愁字了得\n\n[Chorus]\n声声慢 声声慢 我在等一个人\n声声慢 声声慢 等到青丝变白发\n声声慢 声声慢 等到花瓣落满地\n声声慢 声声慢 此生只为你守候\n\n[Instrumental]\n（古筝独奏，笛声悠扬，如泣如诉，琵琶轻拢慢捻）\n\n[Bridge]\n人说相思最是无用\n我偏要用这无用换永恒\n就算等到海枯石烂\n我也要等你回来\n\n[Chorus]\n声声慢 声声慢 我在等一个人\n声声慢 声声慢 等到青丝变白发\n声声慢 声声慢 等到花瓣落满地\n声声慢 声声慢 此生只为你守候\n\n[Outro]\n声声慢……\n你何时归……\n我还在等……\n等你回来……",
-      "duration": 206,
-      "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-09-11",
-      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/12782295ea4c049e6ae862067539f9e62ffe7cba7814021de55fc2f1f227e3b9",
-      "youmind_cover_cdn_all": [
-        "https://cdn.youmindassets.com/user-files/12782295ea4c049e6ae862067539f9e62ffe7cba7814021de55fc2f1f227e3b9",
-        "https://cdn.youmindassets.com/user-files/e646a466761d189e76cab7f9cbe1047ead9a04291b4bc1693858ef95aecad621"
-      ],
-      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/c328988e719f2a2b38e66daac8c6c9c658382aab5723c50a9ee2f664c6d3fef8",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/46f650b753e5cb571f27583fcb8f03648627ef7f37724e679366037838cd886c"
     },
     {
       "slug": "亲亲亲_2026-06-20",
