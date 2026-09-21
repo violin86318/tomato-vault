@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-09-20T13:23:13.219146",
-  "total_songs": 452,
+  "generated_at": "2026-09-21T13:04:33.666577",
+  "total_songs": 457,
   "songs": [
+    {
+      "slug": "雨打车窗_2026-09-21",
+      "title": "雨打车窗",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_雨打车窗",
+      "date": "2026-09-21",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "雨打车窗_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_雨打车窗/雨打车窗_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 8.2
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_雨打车窗/cover_雨打车窗.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-21_雨打车窗/cover_雨打车窗.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-21_雨打车窗/cover_雨打车窗_2048.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_雨打车窗/雨打车窗_poster.png",
+      "lyrics_file": "[Intro]\n凌晨三点空房间只剩回声\n外面雨下得好像那天清晨\n烟灰缸里盛满未说完的话\n\n[Verse 1]\n我关掉了车里所有的灯光\n手机屏幕亮了又暗在副驾\n你最后那条消息我没敢看\n雨刷器在玻璃上左右摇晃\n像你说分手时躲闪的目光\n那杯没喝完的咖啡还在烫\n我攥着方向盘等眼泪落下\n收音机里情歌突然在播放\n\n[Pre-Chorus]\n原来告别从来不需要声响\n有些再见根本来不及讲\n冷空气从缝隙里钻入胸膛\n\n[Chorus]\n雨打车窗 雨打车窗 雨打车窗\n我抱着自己说还没凉\n雨打车窗 雨打车窗 雨打车窗\n你走了这夜怎么扛\n如果能重来如果雨能停下\n我是不是能把那句挽留说亮\n\n[Verse 2]\n想起你从前总爱靠着我睡\n车里放着你喜欢的老旧唱片\n你说下雨天最适合拥抱取暖\n如今只剩空调在死命吹\n后视镜里两个人变成一位\n连争吵都变成奢侈的回味\n你送我的围巾还塞在后座\n冬天过了春天却还没来呢\n\n[Pre-Chorus]\n原来心碎真的会有回响\n震得我整颗胸口都在晃\n这城市的灯照不亮我眼眶\n\n[Chorus]\n雨打车窗 雨打车窗 雨打车窗\n我抱着自己说还没凉\n雨打车窗 雨打车窗 雨打车窗\n你走了这夜怎么扛\n如果能重来如果雨能停下\n我是不是能把那句挽留说亮\n\n[Bridge]\n算了也许这就是命里的伤\n雨总会停天总会慢慢变亮\n我会学会一个人把路走完\n只是回忆它不肯轻易退场\n车窗上的雾我学会自己擦\n只是偶尔还会想起你的发\n\n[Chorus]\n雨打车窗 雨打车窗 雨打车窗\n就当我已经慢慢习惯\n雨打车窗 雨打车窗 雨打车窗\n一个人听这孤独夜晚\n如果雨停下如果我能放下\n是不是眼泪就不用再泛滥\n\n[Outro]\n雨还在敲啊敲着我的荒唐\n你走了却把整片星空关上\n雨打车窗 雨打车窗 雨停吧\n我数到三就要把你全忘",
+      "duration": 268
+    },
+    {
+      "slug": "长安落雪_2026-09-21",
+      "title": "长安落雪",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_长安落雪",
+      "date": "2026-09-21",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "长安落雪_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_长安落雪/长安落雪_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.7
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_长安落雪/cover_长安落雪.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-21_长安落雪/cover_长安落雪.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-21_长安落雪/cover_长安落雪_2048.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_长安落雪/长安落雪_poster.png",
+      "lyrics_file": "朱雀大街覆了一层薄雪\n未央宫角悬着半枚残月\n谁在城楼拨动旧年琴弦\n\n[Verse 1]\n月光洒在朱雀大街的青石板上\n未央宫的檐角挂着昨夜寒霜\n风穿过城楼吹动戍卒的衣裳\n雪落在酒旗上像一封旧信笺\n琴声从深巷里飘出半阕苍凉\n驼铃摇碎一街灯火各自匆忙\n谁把灞桥柳折成离别的偏旁\n\n[Pre-Chorus]\n冰封了灞桥也冰封了归期\n琴弦上凝着未寄出的诗句\n\n[Chorus]\n长安落雪 长安落雪 长安落雪\n等故人归等雪化时再续半盏\n长安落雪 长安落雪 长安落雪\n何当共剪西窗烛却话巴山夜雨寒\n\n[Verse 2]\n雪埋了朱雀大街千年的车辙\n未央宫灯影里谁在补旧衣褶\n戍卒的铜甲结满冰凌的苦涩\n酒旗冻在风里像一句未竟的诺\n琴声断在第七弦无人来和\n驼铃消失在城墙外的暮色\n灞桥的柳枝垂成白发三千丈\n灞桥雪压着离人未寄的旧诗行\n折尽寒枝寄不到长安的那一方\n独留一纸空白在风里飘荡\n落雪无声白了千年城墙\n\n[Pre-Chorus]\n冰封了灞桥也冰封了归期\n琴弦上凝着未寄出的诗句\n\n[Chorus]\n长安落雪 长安落雪 长安落雪\n等故人归等雪化时再续半盏\n长安落雪 长安落雪 长安落雪\n何当共剪西窗烛却话巴山夜雨寒\n\n[Instrumental]\n古筝轮指扫过冰封的河面\n笛声穿过雪幕吹裂旧年\n马蹄声碎在千里冰封的城垣\n\n[Bridge]\n千里冰封万里雪飘长安城阙\n谁在未央宫阶前数尽更漏声咽\n戍卒的梦里江南正草长莺飞\n而灞桥的雪落了一年又一年\n琴声已断驼铃已远人未还\n\n[Chorus]\n长安落雪 长安落雪 长安落雪\n等故人归等雪化时再续半盏\n长安落雪 长安落雪 长安落雪\n何当共剪西窗烛却话巴山夜雨寒\n\n[Outro]\n雪落长安覆了旧年琴弦\n未央宫角残月沉入雪间\n等雪化时故人可归长安\n朱雀大街仍是旧时容颜\n故人梦里仍是少年模样\n一盏孤灯守着旧时街巷",
+      "duration": 221
+    },
+    {
+      "slug": "点亮霓虹_2026-09-21",
+      "title": "点亮霓虹",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_点亮霓虹",
+      "date": "2026-09-21",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "点亮霓虹_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_点亮霓虹/点亮霓虹_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 8.4
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_点亮霓虹/cover_点亮霓虹.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-21_点亮霓虹/cover_点亮霓虹.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-21_点亮霓虹/cover_点亮霓虹_2048.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_点亮霓虹/点亮霓虹_poster.png",
+      "lyrics_file": "[Intro]\n动起来 跟我跳\nDJ鼓点别停下\n霓虹下面来集合\n\n[Verse 1]\n上班族收起电脑关上办公室大门\n街角的路灯一盏接着一盏亮起来\n夜市摊贩支起铁锅热油翻滚飘香\n广场舞大军扛着音响占领了中央\n张阿姨踩着细跟凉鞋抢先站C位\n李大爷拎着水壶笑着把队形摆开\n七彩灯球旋转着把黑夜切成碎片\n音乐一响所有烦恼统统抛到九天外\n\n[Chorus]\n点亮霓虹 点亮霓虹 点亮霓虹\n闪呀闪呀 闪呀闪呀\n点亮霓虹 点亮霓虹 点亮霓虹\n跟着节拍 动起来呀\n点亮霓虹 点亮霓虹 点亮霓虹\n左一步右一步 摇起来\n点亮霓虹 点亮霓虹 点亮霓虹\n今夜无人想回家\n\n[Verse 2]\n高跟鞋换平底鞋姑娘走进人潮里\n烤串的孜然味飘过每一个街角边\n红裙子绿围巾色彩搭配争奇斗艳\n蓝牙音箱开到最大震动了整条街\n小摊老板收摊也忍不住跟着点头\n送外卖的小哥停下摩托拍起双手\n这座城市的夜晚从来不缺热闹劲\n只要音乐还在就没人在乎什么年龄\n\n[Pre-Chorus]\n鼓点越来越急心跳越来越快\n所有人的影子都在地上发烫\n这一刻就让汗水尽情地流淌\n\n[Chorus]\n点亮霓虹 点亮霓虹 点亮霓虹\n闪呀闪呀 闪呀闪呀\n点亮霓虹 点亮霓虹 点亮霓虹\n跟着节拍 动起来呀\n点亮霓虹 点亮霓虹 点亮霓虹\n左一步右一步 摇起来\n点亮霓虹 点亮霓虹 点亮霓虹\n今夜无人想回家\n\n[Instrumental]\n\n[Verse 3]\n双手举过头顶在空中转一个圈\n扭腰摆胯跟着我把脚下踩稳点\n左边的朋友你们到底在哪里\n右边的姐妹一起挥动你手臂\n跳起来不要停让双脚离了地\n霓虹灯下照见每个年轻的魂灵\n\n[Chorus]\n点亮霓虹 点亮霓虹 点亮霓虹\n闪呀闪呀 闪呀闪呀\n点亮霓虹 点亮霓虹 点亮霓虹\n跟着节拍 动起来呀\n点亮霓虹 点亮霓虹 点亮霓虹\n左一步右一步 摇起来\n点亮霓虹 点亮霓虹 点亮霓虹\n今夜无人想回家\n\n[Chorus]\n点亮霓虹 点亮霓虹 点亮霓虹\n闪呀闪呀 闪呀闪呀\n点亮霓虹 点亮霓虹 点亮霓虹\n跟着节拍 动起来呀\n点亮霓虹 点亮霓虹 点亮霓虹\n左一步右一步 摇起来\n点亮霓虹 点亮霓虹 点亮霓虹\n今夜无人想回家\n\n[Outro]\n霓虹慢慢暗了\n人群慢慢散了\n鼓点还在心上轻轻敲",
+      "duration": 274
+    },
+    {
+      "slug": "山路那头_2026-09-21",
+      "title": "山路那头",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_山路那头",
+      "date": "2026-09-21",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "山路那头_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_山路那头/山路那头_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.9
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_山路那头/cover_山路那头.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-21_山路那头/cover_山路那头.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-21_山路那头/cover_山路那头_2048.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_山路那头/山路那头_poster.png",
+      "lyrics_file": "[Intro]\n村口老树又发新芽\n老屋烟囱飘着晚霞\n妈妈喊我回家吃饭啦\n\n[Verse 1]\n记得跟着父亲翻山梁\n山路十八弯踩着月光\n山那边就是镇上方向\n妈妈站在门口张望\n布鞋沾满田埂的泥浆\n灯下帮我纳着厚鞋底\n外婆讲那山外的远方\n说走出去才有名堂\n\n[Pre-Chorus]\n风一吹眼泪就想要落下\n咽下这口气我不能停下\n攥紧车票我离开了家\n\n[Chorus]\n山路那头 山路那头 山路那头\n有我的家等着我回头\n山路那头 山路那头 山路那头\n有妈妈熬的热粥\n我在这头拼命奔走\n就为了有一天能抬起头\n接爸妈离开这山沟\n不再让他们受苦受累为我愁\n\n[Verse 2]\n背着蛇皮袋进了城邦\n工地搬砖汗水湿透衣裳\n出租屋潮湿没有阳光\n泡面加根火腿肠算香\n电话那头总说钱够花\n其实月底口袋空荡荡\n咬着牙我不声也不响\n发誓要混出个人模样\n\n[Pre-Chorus]\n风一吹眼泪就想要落下\n咽下这口气我不能停下\n拍拍尘土我继续挣扎\n\n[Chorus]\n山路那头 山路那头 山路那头\n有我的家等着我回头\n山路那头 山路那头 山路那头\n有妈妈熬的热粥\n我在这头拼命奔走\n就为了有一天能抬起头\n接爸妈离开这山沟\n不再让他们受苦受累为我愁\n\n[Bridge]\n我走过了千山和万水\n踩碎了委屈和疲惫\n今天的我终于抬起头\n银行卡里有了位数\n挺起胸膛站在这路口\n对着大山喊出我无悔\n\n[Chorus]\n山路那头 山路那头 山路那头\n有我的家等着我回头\n山路那头 山路那头 山路那头\n有妈妈熬的热粥\n我在这头拼命奔走\n就为了有一天能抬起头\n接爸妈离开这山沟\n不再让他们受苦受累为我愁\n\n[Outro]\n村口老树又发新芽\n我开着车回到了家\n山路那头映着夕阳\n妈妈笑着流出泪花",
+      "duration": 257
+    },
+    {
+      "slug": "上头警告_2026-09-21",
+      "title": "上头警告",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_上头警告",
+      "date": "2026-09-21",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "上头警告_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_上头警告/上头警告_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.2
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_上头警告/cover_上头警告.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-21_上头警告/cover_上头警告.jpg",
+          "/Users/wanglingwei/Music/番茄音乐/2026-09-21_上头警告/cover_上头警告_2048.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_上头警告/上头警告_poster.png",
+      "lyrics_file": "[Intro]\n凌晨三点还在刷你照片\n手指比脑子更快点循环\n这感觉好像有一点危险\n\n[Verse 1]\n刷到你新发的视频好甜\n退出去又点进来偷偷看\n闺蜜问我最近怎么失眠\n我说脑子里全是你的脸\n昨天便利店和你对一眼\n回家心跳快得像在表演\n手机没电了都懒得去管\n相册截图已经存了九百\n\n[Pre-Chorus]\n别再看你发的每条动态\n越刷越上瘾真的不奇怪\n这次我要把真心说出来\n\n[Chorus]\n上头警告 心跳正在加速飙\n上头警告 脸颊温度在发烧\n上头警告 脑子全被你烧掉\n这样下去我人快要疯掉\n上头警告 别再对我傻傻笑\n上头警告 这感觉真的不妙\n上头警告 戒不掉你的味道\n别怪我没警告你会逃不掉\n\n[Verse 2]\n你发来一句晚安我失眠\n捧着手机傻乐像个憨憨\n闺蜜说我真的没救可言\n可你嘴角弧度实在太赞\n每条朋友圈我都偷偷赞\n输入法记住你名字拼音\n梦里和你牵手漫步沙滩\n醒来发现口水流在枕畔\n\n[Pre-Chorus]\n别再看你发的每条动态\n越刷越上瘾真的不奇怪\n这次我要把真心说出来\n\n[Chorus]\n上头警告 心跳正在加速飙\n上头警告 脸颊温度在发烧\n上头警告 脑子全被你烧掉\n这样下去我人快要疯掉\n上头警告 别再对我傻傻笑\n上头警告 这感觉真的不妙\n上头警告 戒不掉你的味道\n别怪我没警告你会逃不掉\n\n[Bridge]\n医生说我这是相思炎症\n体温飙高到三十九度一\n没有解药也不想被治愈\n这杯奶茶加全糖因为你\n甜到发腻就像这种关系\n中毒已深干脆放弃抵抗\n\n[Chorus]\n上头警告 心跳正在加速飙\n上头警告 脸颊温度在发烧\n上头警告 脑子全被你烧掉\n这样下去我人快要疯掉\n上头警告 别再对我傻傻笑\n上头警告 这感觉真的不妙\n上头警告 戒不掉你的味道\n别怪我没警告你会逃不掉\n\n[Chorus]\n上头警告 心跳正在加速飙\n上头警告 脸颊温度在发烧\n上头警告 脑子全被你烧掉\n这样下去我人快要疯掉\n上头警告 别再对我傻傻笑\n上头警告 这感觉真的不妙\n上头警告 戒不掉你的味道\n别怪我没警告你会逃不掉\n\n[Outro]\n上头警告 这是最后通牒\n上头警告 你别再装不懂\n上头警告 我已经爱上你",
+      "duration": 204
+    },
     {
       "slug": "父亲的烟斗_2026-09-20",
       "title": "父亲的烟斗",
@@ -9,8 +174,8 @@
       "date": "2026-09-20",
       "genre_code": "hometown",
       "genre_label": "乡愁/励志/朴实口语",
-      "genre_icon": "🏠",
-      "genre_color": "#27ae60",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "卡农变体",
       "bpm": 100,
       "dimension": "番茄专项",
@@ -79,8 +244,8 @@
       "date": "2026-09-20",
       "genre_code": "guofeng",
       "genre_label": "民族风/古诗词改编/中国风",
-      "genre_icon": "🏮",
-      "genre_color": "#9b59b6",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "大调卡农",
       "bpm": 90,
       "dimension": "番茄专项",
@@ -119,8 +284,8 @@
       "date": "2026-09-20",
       "genre_code": "dance",
       "genre_label": "广场舞/DJ舞曲/车载慢摇",
-      "genre_icon": "💃",
-      "genre_color": "#e74c5e",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "6415",
       "bpm": 128,
       "dimension": "番茄专项",
@@ -159,8 +324,8 @@
       "date": "2026-09-20",
       "genre_code": "viral_pop",
       "genre_label": "抖音热歌/口水歌/欢快洗脑",
-      "genre_icon": "🍬",
-      "genre_color": "#f39c12",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "4536251",
       "bpm": 115,
       "dimension": "番茄专项",
@@ -319,8 +484,8 @@
       "date": "2026-09-20",
       "genre_code": "sad",
       "genre_label": "失恋/孤独/情感共鸣",
-      "genre_icon": "🌧️",
-      "genre_color": "#3498db",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "1645",
       "bpm": 80,
       "dimension": "番茄专项",
