@@ -1,0 +1,121 @@
+## 基本信息
+| 项目 | 值 |
+|:---|:---|
+| 曲风代号 | `dance` |
+| 风格描述 | 广场舞/DJ舞曲/车载慢摇 |
+| BPM | 128 |
+| 和弦公式 | 6415 |
+| 创作模型 | kimi-k2.6 |
+| 歌词行数 | 63 行（纯歌词，不含 [Tag]） |
+| 预估时长 | 2:56 |
+| 日期 | 2026-09-21 |
+| slug | 点亮霓虹_2026-09-21 |
+| D5 碎句检测 | 主歌 0/25 = 0%, 均长 13.5 字 ✅ |
+
+## 创作思路
+番茄音乐面向下沉受众，追求「接地气 × 情绪浓 × 旋律洗脑 × 下沉受众买单」。
+
+**风格定位**：直白口语、短句重复（仅限副歌 Hook）、情绪外放；D5 碎句检测通过。
+
+延续「嗨翻天际/嗨爆街/搓搓搓/摇摇摆/转转转」广场舞动词+空间路线，本次跳出「嗨X」系列，用「点亮霓虹」三字直接命名霓虹场景——霓虹=夜市+广场舞大妈+视觉爆点，自带画面+活力+信号灯三重视觉刺激。Hook「点亮霓虹 点亮霓虹 点亮霓虹」三连击 + 「闪呀闪呀 闪呀闪呀」副歌节奏锚点 + 「跳到腿软才算真的痛快」直白喊麦转折。主歌铺张阿姨李大爷王大爷群像 + 下班族转场 + 夜市摊贩铁锅翻滚 + 广场舞大军音响占领中央，让舞池真实可信。Verse 3 新增广场舞互动/喊麦/手势，让舞池更立体。D5 碎句检测 ✅。
+
+## 歌词
+```
+[Intro]
+动起来 跟我跳
+DJ鼓点别停下
+霓虹下面来集合
+
+[Verse 1]
+上班族收起电脑关上办公室大门
+街角的路灯一盏接着一盏亮起来
+夜市摊贩支起铁锅热油翻滚飘香
+广场舞大军扛着音响占领了中央
+张阿姨踩着细跟凉鞋抢先站C位
+李大爷拎着水壶笑着把队形摆开
+七彩灯球旋转着把黑夜切成碎片
+音乐一响所有烦恼统统抛到九天外
+
+[Chorus]
+点亮霓虹 点亮霓虹 点亮霓虹
+闪呀闪呀 闪呀闪呀
+点亮霓虹 点亮霓虹 点亮霓虹
+跟着节拍 动起来呀
+点亮霓虹 点亮霓虹 点亮霓虹
+左一步右一步 摇起来
+点亮霓虹 点亮霓虹 点亮霓虹
+今夜无人想回家
+
+[Verse 2]
+高跟鞋换平底鞋姑娘走进人潮里
+烤串的孜然味飘过每一个街角边
+红裙子绿围巾色彩搭配争奇斗艳
+蓝牙音箱开到最大震动了整条街
+小摊老板收摊也忍不住跟着点头
+送外卖的小哥停下摩托拍起双手
+这座城市的夜晚从来不缺热闹劲
+只要音乐还在就没人在乎什么年龄
+
+[Pre-Chorus]
+鼓点越来越急心跳越来越快
+所有人的影子都在地上发烫
+这一刻就让汗水尽情地流淌
+
+[Chorus]
+点亮霓虹 点亮霓虹 点亮霓虹
+闪呀闪呀 闪呀闪呀
+点亮霓虹 点亮霓虹 点亮霓虹
+跟着节拍 动起来呀
+点亮霓虹 点亮霓虹 点亮霓虹
+左一步右一步 摇起来
+点亮霓虹 点亮霓虹 点亮霓虹
+今夜无人想回家
+
+[Instrumental]
+
+[Verse 3]
+双手举过头顶在空中转一个圈
+扭腰摆胯跟着我把脚下踩稳点
+左边的朋友你们到底在哪里
+右边的姐妹一起挥动你手臂
+跳起来不要停让双脚离了地
+霓虹灯下照见每个年轻的魂灵
+
+[Chorus]
+点亮霓虹 点亮霓虹 点亮霓虹
+闪呀闪呀 闪呀闪呀
+点亮霓虹 点亮霓虹 点亮霓虹
+跟着节拍 动起来呀
+点亮霓虹 点亮霓虹 点亮霓虹
+左一步右一步 摇起来
+点亮霓虹 点亮霓虹 点亮霓虹
+今夜无人想回家
+
+[Chorus]
+点亮霓虹 点亮霓虹 点亮霓虹
+闪呀闪呀 闪呀闪呀
+点亮霓虹 点亮霓虹 点亮霓虹
+跟着节拍 动起来呀
+点亮霓虹 点亮霓虹 点亮霓虹
+左一步右一步 摇起来
+点亮霓虹 点亮霓虹 点亮霓虹
+今夜无人想回家
+
+[Outro]
+霓虹慢慢暗了
+人群慢慢散了
+鼓点还在心上轻轻敲
+```
+
+## mmx 提示词（music-3.0）
+A high-energy Chinese square dance remix at 128 BPM with a four-on-the-floor beat and catchy synth melody. The arrangement features DJ-style bass drops and extended instrumental breaks, leaving generous space between vocal chops. Female vocal phrases are short and repetitive, designed for crowd participation. Full-length song structure with a long intro building anticipation and a long outro fading out gradually.
+
+## Suno 提示词
+[Chinese square dance / DJ remix], 128 BPM, 4-on-the-floor beat, catchy synth melody, DJ-style bass drops, extended instrumental breaks, female vocal phrases short and repetitive, crowd participation ready, full-length structure with long intro and fading outro. Title: 《点亮霓虹》
+
+## Cover 提示词
+A bustling city square at night illuminated by rainbow-colored LED neon ribbons swirling around dancing crowds. A giant central disco ball sends scattered light beams across the silhouettes of energetic dancers. The Chinese characters '点亮霓虹' naturally appearing as part of the scene, glowing on a billboard backdrop. Warm electric magenta and electric cyan color palette, dynamic motion blur on dancers, cinematic urban photography.
+
+## 下一步
+- T-A' 阶段将基于本笔记生成 mmx 音频 + Suno 音频 + cover 图
+- 自动化链路：T-A（创作）→ T-A'（音频+封面）→ T-B（海报+LRC+网站）

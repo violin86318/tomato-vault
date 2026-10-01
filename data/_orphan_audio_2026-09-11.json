@@ -1,0 +1,42 @@
+{
+  "date": "2026-09-11",
+  "reason": "T-A 在 T-A' 执行期间重跑,候选变为新 5 首;原 5 首 mp3 已生成但脱离 json",
+  "audio_state": "mp3 已生成但不在当前 tomato_audio.json songs 数组里",
+  "orphans": [
+    {
+      "title": "拍拍手",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_拍拍手",
+      "mp3_path": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_拍拍手/拍拍手_v1.mp3",
+      "size_mb": 7.2,
+      "has_lyrics_txt": true
+    },
+    {
+      "title": "恋爱啦",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_恋爱啦",
+      "mp3_path": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_恋爱啦/恋爱啦_v1.mp3",
+      "size_mb": 5.2,
+      "has_lyrics_txt": true
+    },
+    {
+      "title": "眼泪止不住",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_眼泪止不住",
+      "mp3_path": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_眼泪止不住/眼泪止不住_v1.mp3",
+      "size_mb": 7.8,
+      "has_lyrics_txt": true
+    },
+    {
+      "title": "桃花笺",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_桃花笺",
+      "mp3_path": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_桃花笺/桃花笺_v1.mp3",
+      "size_mb": 9.1,
+      "has_lyrics_txt": true
+    },
+    {
+      "title": "老灶台",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_老灶台",
+      "mp3_path": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_老灶台/老灶台_v1.mp3",
+      "size_mb": 8.3,
+      "has_lyrics_txt": true
+    }
+  ]
+}

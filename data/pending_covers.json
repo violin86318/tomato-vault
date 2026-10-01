@@ -1,52 +1,52 @@
 {
-  "date": "2026-09-11",
-  "submitted_at": "2026-09-11T05:44:24.181054",
+  "date": "2026-09-30",
+  "submitted_at": "2026-09-30T16:45:11.127162",
   "source": "tomato_audio.json",
   "covers": [
     {
-      "title": "黏上你",
-      "prompt": "a smartphone screen glowing with unread chat bubbles on a cafe table beside a half-finished bubble tea, floating pink hearts drifting up from the phone, the Chinese characters '黏上你' naturally appearing among the floating sticky-note hearts, sweet pink and cream colour palette, playful romantic mood, square 1:1 composition, soft warm light",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_黏上你",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1789076266034_62741_3509.jpg",
+      "title": "广场碰头",
+      "prompt": "A vintage wheeled plaza dance sound system speaker with glowing LED borders as the central object, paired with vibrant red folding silk dance fans resting beside it and warm circular spotlights cast on the polished concrete public square ground, the Chinese characters '广场碰头' naturally appearing as part of the scene across the digital display of the speaker, vivid golden streetlight glow mixed with evening neon hues of amber and violet, cinematic 8k album cover composition, ultra-detailed, photorealistic",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_广场碰头",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1790811399829_70003_1027.jpg",
       "submit_ok": true,
       "submit_error": "",
-      "provider": "m365-copilot"
+      "provider": "listenhub"
     },
     {
-      "title": "蹦一蹦",
-      "prompt": "a neon-lit outdoor public square at night, a portable loudspeaker on the ground, dancing shoes mid-step and confetti bursting around them, a crowd of middle-aged dancers in motion, the Chinese characters '蹦一蹦' formed by the glowing light trails on the dance floor, vibrant red and magenta neon palette, bold energetic night-party mood, square 1:1 composition, high contrast",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_蹦一蹦",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1789076356729_62741_6599.jpg",
+      "title": "偷瞄你",
+      "prompt": "A worn wooden classroom desk functioning as a secret keeper, a pair of clear-frame glasses resting atop an open notebook with soft doodles, a chilled glass bottle of strawberry soda with glistening condensation beads beside a fluttering sheer curtain bathed in golden afternoon sunlight, the Chinese characters '偷瞄你' etched into a surface in the scene on the wooden desk corner, warm amber and pastel peach color palette, dreamy nostalgic lighting, cinematic depth of field, 1:1 aspect ratio, ultra-detailed, photorealistic, no human faces",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_偷瞄你",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1790811513713_70003_7226.jpg",
       "submit_ok": true,
       "submit_error": "",
-      "provider": "m365-copilot"
+      "provider": "listenhub"
     },
     {
-      "title": "又失眠",
-      "prompt": "a rumpled bed at 3am with the other half empty, a phone face-down glowing faintly on the pillow, rain-streaked window and a distant street lamp outside, a single strand of long hair on the pillowcase, the Chinese characters '又失眠' etched faintly into the fogged window glass, deep blue and cold grey palette, lonely melancholy mood, square 1:1 composition, cinematic low light",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_又失眠",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1789076443174_62741_4261.jpg",
+      "title": "到此为止",
+      "prompt": "A cracked vintage pocket watch stopped at twilight, resting on a cold wooden table beside a half-filled coffee cup, a wilted white rose with fallen petals, and a rain-streaked window overlooking a distant city blur, the Chinese characters '到此为止' etched into a surface in the scene, muted cool blue and slate grey tones, cinematic chiaroscuro lighting, melancholic mood, macro photography, shallow depth of field, album cover art, 8k resolution, no human faces",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_到此为止",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1790811618029_70003_315.jpg",
       "submit_ok": true,
       "submit_error": "",
-      "provider": "m365-copilot"
+      "provider": "listenhub"
     },
     {
-      "title": "土坯墙",
-      "prompt": "a rustic rammed-earth wall soaked by rain in golden afternoon sun, a dog's-tail grass sprouting from a crack, a worn wooden stool and a steaming bowl of noodles with a poached egg on top on the ground, an old locust tree casting a long shadow, the Chinese characters '土坯墙' etched into the rough clay surface, warm ochre and earthy brown palette, nostalgic rural mood, square 1:1 composition, warm natural light",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_土坯墙",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1789076523186_62741_6648.jpg",
+      "title": "折杨柳",
+      "prompt": "A freshly snapped green willow branch tied with faded silk resting on an ancient stone bridge balustrade, overlooking a misty spring river with a solitary departing wooden canopy boat and a distant lakeside pavilion, the Chinese characters '折杨柳' etched into a surface in the scene, muted celadon green and misty cyan ink wash color palette, soft diffused morning light, cinematic framing, highly detailed digital painting, tranquil and melancholic classical Chinese aesthetic, 8k resolution",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_折杨柳",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1790811720946_70003_2078.jpg",
       "submit_ok": true,
       "submit_error": "",
-      "provider": "m365-copilot"
+      "provider": "listenhub"
     },
     {
-      "title": "故园梦",
-      "prompt": "moonlight over an old Chinese courtyard, a lone figure leaning on a weathered window frame, a guqin with snow resting on its strings, willow branches at a distant long pavilion, the Chinese characters '故园梦' naturally appearing as ink on the hanging scroll in the scene, ink-black and moon-white palette with faded indigo, classical nostalgic mood, square 1:1 composition, elegant atmospheric light",
-      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_故园梦",
-      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1789076605638_62741_1495.jpg",
+      "title": "妈熬的汤",
+      "prompt": "A steaming traditional clay pot filled with golden homemade soup, sliced lotus root and floating goji berries glistening in the broth, an antique ceramic spoon resting on a rustic weathered wooden table beside a sunlit kitchen window, the Chinese characters '妈熬的汤' etched into a surface in the scene, warm amber and nostalgic golden-hour tones, soft atmospheric steam, cinematic still, hyper-detailed macro photography, photorealistic, 8k resolution",
+      "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_妈熬的汤",
+      "request_id": "/Users/wanglingwei/Library/Application Support/remio/Users/F2313D5DDFE8FCF316DC1149F06BB14B/agent/music-vault/data/submit_tmp/1790811830330_70003_295.jpg",
       "submit_ok": true,
       "submit_error": "",
-      "provider": "m365-copilot"
+      "provider": "listenhub"
     }
   ]
 }

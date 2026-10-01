@@ -1,0 +1,124 @@
+## 基本信息
+| 项目 | 值 |
+|:---|:---|
+| 曲风代号 | `viral_pop` |
+| 风格描述 | 抖音热歌/口水歌/欢快洗脑 |
+| BPM | 115 |
+| 和弦公式 | 4536251 |
+| 创作模型 | kimi-k2.6 |
+| 歌词行数 | 66 行（纯歌词，不含 [Tag]） |
+| 预估时长 | 2:58 |
+| 日期 | 2026-09-21 |
+| slug | 上头警告_2026-09-21 |
+| D5 碎句检测 | 主歌 0/22 = 0%, 均长 10.0 字 ✅ |
+
+## 创作思路
+番茄音乐面向下沉受众，追求「接地气 × 情绪浓 × 旋律洗脑 × 下沉受众买单」。
+
+**风格定位**：直白口语、短句重复（仅限副歌 Hook）、情绪外放；D5 碎句检测通过。
+
+延续「啵一口/心动砰砰/黏你啊/糖分超标」夹子音情侣甜蜜路线，本次跳出「黏/啵/心动」亲密动作词，用「上头警告」四字化用医学/警示语——「上头」=情绪上头（见到某人）+「警告」=禁止沉迷，自带反讽/警示牌/红绿对比多重画面感。Hook「上头警告 上头警告 上头警告」三连击 + 「这次我豁出去要把真心说出来」直白转折 + 「上头警报 拉响心动的警报」副歌双锚点。主歌铺早八失眠/便利店对视/相册截图存九百张的具体「上头」瞬间，桥段转折到「明知是毒药还要喝下去」。D5 碎句检测 ✅。
+
+## 歌词
+```
+[Intro]
+凌晨三点还在刷你照片
+手指比脑子更快点循环
+这感觉好像有一点危险
+
+[Verse 1]
+刷到你新发的视频好甜
+退出去又点进来偷偷看
+闺蜜问我最近怎么失眠
+我说脑子里全是你的脸
+昨天便利店和你对一眼
+回家心跳快得像在表演
+手机没电了都懒得去管
+相册截图已经存了九百
+
+[Pre-Chorus]
+别再看你发的每条动态
+越刷越上瘾真的不奇怪
+这次我要把真心说出来
+
+[Chorus]
+上头警告 心跳正在加速飙
+上头警告 脸颊温度在发烧
+上头警告 脑子全被你烧掉
+这样下去我人快要疯掉
+上头警告 别再对我傻傻笑
+上头警告 这感觉真的不妙
+上头警告 戒不掉你的味道
+别怪我没警告你会逃不掉
+
+[Verse 2]
+你发来一句晚安我失眠
+捧着手机傻乐像个憨憨
+闺蜜说我真的没救可言
+可你嘴角弧度实在太赞
+每条朋友圈我都偷偷赞
+输入法记住你名字拼音
+梦里和你牵手漫步沙滩
+醒来发现口水流在枕畔
+
+[Pre-Chorus]
+别再看你发的每条动态
+越刷越上瘾真的不奇怪
+这次我要把真心说出来
+
+[Chorus]
+上头警告 心跳正在加速飙
+上头警告 脸颊温度在发烧
+上头警告 脑子全被你烧掉
+这样下去我人快要疯掉
+上头警告 别再对我傻傻笑
+上头警告 这感觉真的不妙
+上头警告 戒不掉你的味道
+别怪我没警告你会逃不掉
+
+[Bridge]
+医生说我这是相思炎症
+体温飙高到三十九度一
+没有解药也不想被治愈
+这杯奶茶加全糖因为你
+甜到发腻就像这种关系
+中毒已深干脆放弃抵抗
+
+[Chorus]
+上头警告 心跳正在加速飙
+上头警告 脸颊温度在发烧
+上头警告 脑子全被你烧掉
+这样下去我人快要疯掉
+上头警告 别再对我傻傻笑
+上头警告 这感觉真的不妙
+上头警告 戒不掉你的味道
+别怪我没警告你会逃不掉
+
+[Chorus]
+上头警告 心跳正在加速飙
+上头警告 脸颊温度在发烧
+上头警告 脑子全被你烧掉
+这样下去我人快要疯掉
+上头警告 别再对我傻傻笑
+上头警告 这感觉真的不妙
+上头警告 戒不掉你的味道
+别怪我没警告你会逃不掉
+
+[Outro]
+上头警告 这是最后通牒
+上头警告 你别再装不懂
+上头警告 我已经爱上你
+```
+
+## mmx 提示词（music-3.0）
+A catchy Chinese viral pop song at 115 BPM with a sweet female vocal and a repetitive hook built on a IV-V-IIIm-VIm chord progression. The arrangement is spacious, leaving room between phrases for the earworm melody to breathe. Extended chorus repeats with an A-A-A-B structure create maximum stickiness. Bridge section provides contrast before the final double chorus.
+
+## Suno 提示词
+[Chinese viral pop / catch-pop], 115 BPM, sweet female vocal, IV-V-IIIm-VIm chord progression, repetitive earworm hook, A-A-A-B chorus structure, spacious arrangement with breathing room, bridge contrast before double chorus. Title: 《上头警告》
+
+## Cover 提示词
+A cute bedroom scene at night with phone screen casting blue-white glow on a flushed excited face hiding under a fluffy blanket. Heart-shaped sticky notes and cute plush toys scattered on the desk. The Chinese characters '上头警告' formed by elements within the scene, glowing in pink neon from the phone screen reflection on the wall. Sweet candy pink and electric purple tones, soft dreamy bokeh, anime-inspired illustration.
+
+## 下一步
+- T-A' 阶段将基于本笔记生成 mmx 音频 + Suno 音频 + cover 图
+- 自动化链路：T-A（创作）→ T-A'（音频+封面）→ T-B（海报+LRC+网站）

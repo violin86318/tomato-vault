@@ -1079,3 +1079,28 @@ BrokenPipeError: [Errno 32] Broken pipe
 10:11:30 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
 10:11:30 [INFO]    POST /api/make/finish — 向后兼容
 10:11:30 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+11:26:00 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+11:26:00 [INFO]    输出: /tmp/tomato_music
+11:26:00 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+11:26:00 [INFO]    POST /api/make/finish — 向后兼容
+11:26:00 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+23:11:21 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+23:11:21 [INFO]    输出: /tmp/tomato_music
+23:11:21 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+23:11:21 [INFO]    POST /api/make/finish — 向后兼容
+23:11:21 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+23:31:48 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+23:31:48 [INFO]    输出: /tmp/tomato_music
+23:31:48 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+23:31:48 [INFO]    POST /api/make/finish — 向后兼容
+23:31:48 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+12:45:08 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+12:45:08 [INFO]    输出: /tmp/tomato_music
+12:45:08 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+12:45:08 [INFO]    POST /api/make/finish — 向后兼容
+12:45:08 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health
+22:12:31 [INFO] 🚀 Tomato webhook v2 — http://127.0.0.1:8897
+22:12:31 [INFO]    输出: /tmp/tomato_music
+22:12:31 [INFO]    POST /api/make/start  — 单首 {title,lyrics,prompt} 或批量 {songs:[...]}
+22:12:31 [INFO]    POST /api/make/finish — 向后兼容
+22:12:31 [INFO]    健康检查: curl http://127.0.0.1:8897/api/make/health

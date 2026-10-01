@@ -1,0 +1,109 @@
+## 基本信息
+| 项目 | 值 |
+|:---|:---|
+| 曲风代号 | `sad` |
+| 风格描述 | 失恋/孤独/情感共鸣 |
+| BPM | 80 |
+| 和弦公式 | 1645 |
+| 创作模型 | kimi-k2.6 |
+| 歌词行数 | 53 行（纯歌词，不含 [Tag]） |
+| 预估时长 | 3:00 |
+| 日期 | 2026-09-21 |
+| slug | 雨打车窗_2026-09-21 |
+| D5 碎句检测 | 主歌 0/22 = 0%, 均长 10.9 字 ✅ |
+
+## 创作思路
+番茄音乐面向下沉受众，追求「接地气 × 情绪浓 × 旋律洗脑 × 下沉受众买单」。
+
+**风格定位**：直白口语、短句重复（仅限副歌 Hook）、情绪外放；D5 碎句检测通过。
+
+延续「夜里想你/空座位/说散就散/好难过/心碎了」伤感情感路线，本次跳出「夜/空/说散」抽象词，用「雨打车窗」四字化用自然意象——雨=泪水+车窗=分隔+车=独自一人，三字自带画面+孤独+悲情三重氛围。Hook「雨打车窗 雨打车窗 雨打车窗」三连击 + 「可我困在这里出不去」直白转折。主歌铺驾驶员视角/凌晨三点/雨刮器反复/没来得及说的最后一句话/副驾座位空了的具体分手瞬间，副歌落到「如果雨能停下 如果你能回来」。Bridge 转折到「我学会一个人走了」。D5 碎句检测 ✅。
+
+## 歌词
+```
+[Intro]
+凌晨三点空房间只剩回声
+外面雨下得好像那天清晨
+烟灰缸里盛满未说完的话
+
+[Verse 1]
+我关掉了车里所有的灯光
+手机屏幕亮了又暗在副驾
+你最后那条消息我没敢看
+雨刷器在玻璃上左右摇晃
+像你说分手时躲闪的目光
+那杯没喝完的咖啡还在烫
+我攥着方向盘等眼泪落下
+收音机里情歌突然在播放
+
+[Pre-Chorus]
+原来告别从来不需要声响
+有些再见根本来不及讲
+冷空气从缝隙里钻入胸膛
+
+[Chorus]
+雨打车窗 雨打车窗 雨打车窗
+我抱着自己说还没凉
+雨打车窗 雨打车窗 雨打车窗
+你走了这夜怎么扛
+如果能重来如果雨能停下
+我是不是能把那句挽留说亮
+
+[Verse 2]
+想起你从前总爱靠着我睡
+车里放着你喜欢的老旧唱片
+你说下雨天最适合拥抱取暖
+如今只剩空调在死命吹
+后视镜里两个人变成一位
+连争吵都变成奢侈的回味
+你送我的围巾还塞在后座
+冬天过了春天却还没来呢
+
+[Pre-Chorus]
+原来心碎真的会有回响
+震得我整颗胸口都在晃
+这城市的灯照不亮我眼眶
+
+[Chorus]
+雨打车窗 雨打车窗 雨打车窗
+我抱着自己说还没凉
+雨打车窗 雨打车窗 雨打车窗
+你走了这夜怎么扛
+如果能重来如果雨能停下
+我是不是能把那句挽留说亮
+
+[Bridge]
+算了也许这就是命里的伤
+雨总会停天总会慢慢变亮
+我会学会一个人把路走完
+只是回忆它不肯轻易退场
+车窗上的雾我学会自己擦
+只是偶尔还会想起你的发
+
+[Chorus]
+雨打车窗 雨打车窗 雨打车窗
+就当我已经慢慢习惯
+雨打车窗 雨打车窗 雨打车窗
+一个人听这孤独夜晚
+如果雨停下如果我能放下
+是不是眼泪就不用再泛滥
+
+[Outro]
+雨还在敲啊敲着我的荒唐
+你走了却把整片星空关上
+雨打车窗 雨打车窗 雨停吧
+我数到三就要把你全忘
+```
+
+## mmx 提示词（music-3.0）
+An emotional Chinese ballad at 80 BPM with a breathy female vocal and gentle crying tone, built on a I-VIm-IV-V chord progression. Piano and strings create a melancholy atmosphere with long instrumental passages. The arrangement is unhurried, giving each emotional phrase room to resonate. Extended outro for a lingering sense of loss.
+
+## Suno 提示词
+[Chinese emotional ballad], 80 BPM, breathy female vocal with gentle crying tone, I-VIm-IV-V chord progression, piano and strings, melancholy atmosphere, unhurried pacing, long instrumental passages, lingering outro. Title: 《雨打车窗》
+
+## Cover 提示词
+A lone driver sitting inside a parked car at night during heavy rain, raindrops streaking down the side window with city lights blurred into glowing tears outside. Empty passenger seat beside. The Chinese characters '雨打车窗' etched into a surface in the scene, fogged on the cold glass window. Muted midnight blue and silver palette, melancholic atmospheric photography with soft focus.
+
+## 下一步
+- T-A' 阶段将基于本笔记生成 mmx 音频 + Suno 音频 + cover 图
+- 自动化链路：T-A（创作）→ T-A'（音频+封面）→ T-B（海报+LRC+网站）

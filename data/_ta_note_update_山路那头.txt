@@ -1,0 +1,115 @@
+## 基本信息
+| 项目 | 值 |
+|:---|:---|
+| 曲风代号 | `hometown` |
+| 风格描述 | 乡愁/励志/朴实口语 |
+| BPM | 100 |
+| 和弦公式 | 卡农变体 |
+| 创作模型 | kimi-k2.6 |
+| 歌词行数 | 59 行（纯歌词，不含 [Tag]） |
+| 预估时长 | 2:45 |
+| 日期 | 2026-09-21 |
+| slug | 山路那头_2026-09-21 |
+| D5 碎句检测 | 主歌 0/22 = 0%, 均长 9.1 字 ✅ |
+
+## 创作思路
+番茄音乐面向下沉受众，追求「接地气 × 情绪浓 × 旋律洗脑 × 下沉受众买单」。
+
+**风格定位**：直白口语、短句重复（仅限副歌 Hook）、情绪外放；D5 碎句检测通过。
+
+延续「放牛娃/妈的手/娘做的菜/爸爸的脊背/老屋门」乡愁童年人物/物件路线，本次跳出「爸/妈/老X/放牛」具体人物/物件词，用「山路那头」三字直接化用地理意象——山路=离别+那头=回望+弯弯山路=童年记忆，三字自带乡愁+励志+离别三重密度。Hook「山路那头 山路那头 山路那头」三连击 + 「有我的家」直白转折。主歌铺翻山路/踩石头过河/山那边是镇上/小路十八弯的童年细节，Verse 2 转城市打拼（山路变成高架桥/泥路变成水泥路），Bridge 励志转折到「我攥紧车票离开了家」。D5 碎句检测 ✅。
+
+## 歌词
+```
+[Intro]
+村口老树又发新芽
+老屋烟囱飘着晚霞
+妈妈喊我回家吃饭啦
+
+[Verse 1]
+记得跟着父亲翻山梁
+山路十八弯踩着月光
+山那边就是镇上方向
+妈妈站在门口张望
+布鞋沾满田埂的泥浆
+灯下帮我纳着厚鞋底
+外婆讲那山外的远方
+说走出去才有名堂
+
+[Pre-Chorus]
+风一吹眼泪就想要落下
+咽下这口气我不能停下
+攥紧车票我离开了家
+
+[Chorus]
+山路那头 山路那头 山路那头
+有我的家等着我回头
+山路那头 山路那头 山路那头
+有妈妈熬的热粥
+我在这头拼命奔走
+就为了有一天能抬起头
+接爸妈离开这山沟
+不再让他们受苦受累为我愁
+
+[Verse 2]
+背着蛇皮袋进了城邦
+工地搬砖汗水湿透衣裳
+出租屋潮湿没有阳光
+泡面加根火腿肠算香
+电话那头总说钱够花
+其实月底口袋空荡荡
+咬着牙我不声也不响
+发誓要混出个人模样
+
+[Pre-Chorus]
+风一吹眼泪就想要落下
+咽下这口气我不能停下
+拍拍尘土我继续挣扎
+
+[Chorus]
+山路那头 山路那头 山路那头
+有我的家等着我回头
+山路那头 山路那头 山路那头
+有妈妈熬的热粥
+我在这头拼命奔走
+就为了有一天能抬起头
+接爸妈离开这山沟
+不再让他们受苦受累为我愁
+
+[Bridge]
+我走过了千山和万水
+踩碎了委屈和疲惫
+今天的我终于抬起头
+银行卡里有了位数
+挺起胸膛站在这路口
+对着大山喊出我无悔
+
+[Chorus]
+山路那头 山路那头 山路那头
+有我的家等着我回头
+山路那头 山路那头 山路那头
+有妈妈熬的热粥
+我在这头拼命奔走
+就为了有一天能抬起头
+接爸妈离开这山沟
+不再让他们受苦受累为我愁
+
+[Outro]
+村口老树又发新芽
+我开着车回到了家
+山路那头映着夕阳
+妈妈笑着流出泪花
+```
+
+## mmx 提示词（music-3.0）
+A warm Chinese folk pop song at 100 BPM with a gentle male vocal and acoustic guitar, built on a canon variation progression. The arrangement is nostalgic and uplifting with extended instrumental sections, leaving room between verses for the melody to breathe. Bridge section provides an inspirational turn before the final chorus. Countryside imagery guides the emotional arc.
+
+## Suno 提示词
+[Chinese folk pop], 100 BPM, gentle male vocal, acoustic guitar, canon variation progression, nostalgic uplifting arrangement, extended instrumental sections, inspirational bridge, countryside imagery throughout. Title: 《山路那头》
+
+## Cover 提示词
+A winding mountain path at golden hour leading up toward a small remote village with old tiled-roof houses and curling kitchen smoke. An old man walking slowly with a wooden walking stick, shoulders bent. The Chinese characters '山路那头' etched into a surface in the scene, carved on a weathered stone milestone by the roadside. Warm amber sunset and earth brown palette, nostalgic documentary photography style.
+
+## 下一步
+- T-A' 阶段将基于本笔记生成 mmx 音频 + Suno 音频 + cover 图
+- 自动化链路：T-A（创作）→ T-A'（音频+封面）→ T-B（海报+LRC+网站）

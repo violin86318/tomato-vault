@@ -1,57 +1,62 @@
-{
-  "dance": {
-    "title": "摇摆摇",
-    "qa": {
-      "d1_cliche": 90,
-      "d2_vividness": 84,
-      "d3_hook": 92,
-      "d4_rhyme": 90,
-      "overall": 88.4
-    },
-    "model": "kimi-k2.6"
+[
+  {
+    "total_lines": 74,
+    "min_lines": 55,
+    "line_check": true,
+    "verse_lines": 25,
+    "fragment_count": 0,
+    "fragment_rate": 0.0,
+    "avg_chars": 13.28,
+    "d5_pass": true,
+    "title": "嗨起来啦",
+    "genre_code": "dance"
   },
-  "viral_pop": {
-    "title": "小甜心",
-    "qa": {
-      "d1_cliche": 78,
-      "d2_vividness": 78,
-      "d3_hook": 92,
-      "d4_rhyme": 90,
-      "overall": 83.3
-    },
-    "model": "deepseek-v4-flash"
+  {
+    "total_lines": 74,
+    "min_lines": 55,
+    "line_check": true,
+    "verse_lines": 20,
+    "fragment_count": 0,
+    "fragment_rate": 0.0,
+    "avg_chars": 13.55,
+    "d5_pass": true,
+    "title": "心跳砰砰",
+    "genre_code": "viral_pop"
   },
-  "sad": {
-    "title": "爱不动了",
-    "qa": {
-      "d1_cliche": 90,
-      "d2_vividness": 80,
-      "d3_hook": 92,
-      "d4_rhyme": 90,
-      "overall": 87.0
-    },
-    "model": "kimi-k2.6"
+  {
+    "total_lines": 65,
+    "min_lines": 50,
+    "line_check": true,
+    "verse_lines": 20,
+    "fragment_count": 0,
+    "fragment_rate": 0.0,
+    "avg_chars": 12.9,
+    "d5_pass": true,
+    "title": "没等到",
+    "genre_code": "sad"
   },
-  "guofeng": {
-    "title": "念长安",
-    "qa": {
-      "d1_cliche": 90,
-      "d2_vividness": 90,
-      "d3_hook": 92,
-      "d4_rhyme": 90,
-      "overall": 90.5
-    },
-    "model": "deepseek-v4-flash"
+  {
+    "total_lines": 60,
+    "min_lines": 50,
+    "line_check": true,
+    "verse_lines": 20,
+    "fragment_count": 0,
+    "fragment_rate": 0.0,
+    "avg_chars": 10.1,
+    "d5_pass": true,
+    "title": "山鬼吟",
+    "genre_code": "guofeng"
   },
-  "hometown": {
-    "title": "麦穗黄",
-    "qa": {
-      "d1_cliche": 90,
-      "d2_vividness": 94,
-      "d3_hook": 92,
-      "d4_rhyme": 90,
-      "overall": 91.9
-    },
-    "model": "kimi-k2.6"
+  {
+    "total_lines": 67,
+    "min_lines": 55,
+    "line_check": true,
+    "verse_lines": 20,
+    "fragment_count": 0,
+    "fragment_rate": 0.0,
+    "avg_chars": 12.75,
+    "d5_pass": true,
+    "title": "又一年",
+    "genre_code": "hometown"
   }
-}
+]

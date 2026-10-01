@@ -1,0 +1,108 @@
+## 基本信息
+| 项目 | 值 |
+|:---|:---|
+| 曲风代号 | `guofeng` |
+| 风格描述 | 民族风/古诗词改编/中国风 |
+| BPM | 90 |
+| 和弦公式 | 大调卡农 |
+| 创作模型 | deepseek-flash(thinking-disabled+续写) |
+| 歌词行数 | 51 行（纯歌词，不含 [Tag]） |
+| 预估时长 | 3:24 |
+| 日期 | 2026-09-21 |
+| slug | 长安落雪_2026-09-21 |
+| D5 碎句检测 | 主歌 0/22 = 0%, 均长 11.8 字 ✅ |
+
+## 创作思路
+番茄音乐面向下沉受众，追求「接地气 × 情绪浓 × 旋律洗脑 × 下沉受众买单」。
+
+**风格定位**：直白口语、短句重复（仅限副歌 Hook）、情绪外放；D5 碎句检测通过。
+
+延续「醉赤壁/梨花白/醉春风/声声慢/梅花落」国风意象路线，本次跳出「梨/醉/词牌名」具体物件/情绪词，用「长安落雪」三字直接化用古城意象——长安=大唐盛世+落雪=思念苍凉+城阙+戍卒+灞桥，三字自带厚重+寒冷+思念三重密度。Hook「长安落雪 长安落雪 长安落雪」三连击 + 「何当共剪西窗烛却话巴山夜雨寒」化用李商隐+李清照典故直白转折。主歌铺朱雀大街/未央宫/戍卒铜甲/酒旗/驼铃/灞桥冰封/琴弦断的具体画面，Bridge 落到「千里冰封万里雪飘长安城阙」+「戍卒梦里江南草长莺飞」的今昔对比。D5 碎句检测 ✅。
+
+## 歌词
+```
+朱雀大街覆了一层薄雪
+未央宫角悬着半枚残月
+谁在城楼拨动旧年琴弦
+
+[Verse 1]
+月光洒在朱雀大街的青石板上
+未央宫的檐角挂着昨夜寒霜
+风穿过城楼吹动戍卒的衣裳
+雪落在酒旗上像一封旧信笺
+琴声从深巷里飘出半阕苍凉
+驼铃摇碎一街灯火各自匆忙
+谁把灞桥柳折成离别的偏旁
+
+[Pre-Chorus]
+冰封了灞桥也冰封了归期
+琴弦上凝着未寄出的诗句
+
+[Chorus]
+长安落雪 长安落雪 长安落雪
+等故人归等雪化时再续半盏
+长安落雪 长安落雪 长安落雪
+何当共剪西窗烛却话巴山夜雨寒
+
+[Verse 2]
+雪埋了朱雀大街千年的车辙
+未央宫灯影里谁在补旧衣褶
+戍卒的铜甲结满冰凌的苦涩
+酒旗冻在风里像一句未竟的诺
+琴声断在第七弦无人来和
+驼铃消失在城墙外的暮色
+灞桥的柳枝垂成白发三千丈
+灞桥雪压着离人未寄的旧诗行
+折尽寒枝寄不到长安的那一方
+独留一纸空白在风里飘荡
+落雪无声白了千年城墙
+
+[Pre-Chorus]
+冰封了灞桥也冰封了归期
+琴弦上凝着未寄出的诗句
+
+[Chorus]
+长安落雪 长安落雪 长安落雪
+等故人归等雪化时再续半盏
+长安落雪 长安落雪 长安落雪
+何当共剪西窗烛却话巴山夜雨寒
+
+[Instrumental]
+古筝轮指扫过冰封的河面
+笛声穿过雪幕吹裂旧年
+马蹄声碎在千里冰封的城垣
+
+[Bridge]
+千里冰封万里雪飘长安城阙
+谁在未央宫阶前数尽更漏声咽
+戍卒的梦里江南正草长莺飞
+而灞桥的雪落了一年又一年
+琴声已断驼铃已远人未还
+
+[Chorus]
+长安落雪 长安落雪 长安落雪
+等故人归等雪化时再续半盏
+长安落雪 长安落雪 长安落雪
+何当共剪西窗烛却话巴山夜雨寒
+
+[Outro]
+雪落长安覆了旧年琴弦
+未央宫角残月沉入雪间
+等雪化时故人可归长安
+朱雀大街仍是旧时容颜
+故人梦里仍是少年模样
+一盏孤灯守着旧时街巷
+```
+
+## mmx 提示词（music-3.0）
+A Chinese traditional-style pop song at 90 BPM featuring guzheng and dizi, built on a canon chord progression. The arrangement is elegant and atmospheric with extended guzheng solo passages, leaving generous space between vocal lines. An operatic female vocal delivers poetic phrases with unhurried pacing. Long intro establishes the classical mood before the first verse enters.
+
+## Suno 提示词
+[Chinese traditional pop / guofeng], 90 BPM, guzheng and dizi featured, canon chord progression, elegant atmospheric arrangement with extended guzheng solo, operatic female vocal with poetic phrases, unhurried pacing, long classical intro. Title: 《长安落雪》
+
+## Cover 提示词
+An ancient Tang dynasty Chang'an city gate at dusk with snow falling gently on red palace walls and golden glazed roof tiles. A solitary figure in white hanfu standing on a bridge with willow branches heavy with snow. The Chinese characters '长安落雪' naturally appearing as part of the scene, carved into a stone stele at the gate. Ink-wash ivory white and faded vermillion palette, classical Chinese painting aesthetic.
+
+## 下一步
+- T-A' 阶段将基于本笔记生成 mmx 音频 + Suno 音频 + cover 图
+- 自动化链路：T-A（创作）→ T-A'（音频+封面）→ T-B（海报+LRC+网站）
