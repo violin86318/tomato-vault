@@ -220,8 +220,10 @@ def run_extract():
         'songs': songs
     }
 
-    with open(SONGS_JSON, 'w', encoding='utf-8') as f:
+    tmp = SONGS_JSON.with_name(SONGS_JSON.name + '.tmp')
+    with open(tmp, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
+    os.replace(tmp, SONGS_JSON)  # 原子替换：任意时刻要么旧完整版要么新完整版，杜绝半写
 
     print(f"\n✅ 生成 {SONGS_JSON}")
     print(f"   总计: {len(songs)} 首")
