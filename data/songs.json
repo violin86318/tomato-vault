@@ -1,7 +1,167 @@
 {
-  "generated_at": "2026-10-02T17:08:47.165814",
-  "total_songs": 512,
+  "generated_at": "2026-10-03T16:48:44.068748",
+  "total_songs": 517,
   "songs": [
+    {
+      "slug": "老家院子_2026-10-04",
+      "title": "老家院子",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_老家院子",
+      "date": "2026-10-04",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "老家院子_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_老家院子/老家院子_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.9
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_老家院子/cover_老家院子.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-04_老家院子/cover_老家院子.jpg"
+        ]
+      },
+      "poster": null,
+      "lyrics_file": "[Intro]\n今年我又一个人在外面漂了很久\n每次累的时候都会想起老家院子\n想给妈妈打一个电话却说不出话\n\n[Verse 1]\n坐上火车离开热闹的大城市\n回到了湖南老家的安乡县城\n拖着沉重的行李走过了村口\n老屋门口的大黑狗叫个不停\n妈妈从厨房小跑着迎出来\n围裙上还沾着刚揉好的面粉\n她拉着我的手眼眶一下子红了\n问我这些年在外面吃苦了没有\n\n[Chorus]\n想念老家院子里开满的花\n想念老家屋檐下落下的雨\n想念老家妈妈总念叨的话\n可为了生活我只能浪迹天涯\n想你啊 想你啊 我真的好想你\n想你啊 想你啊 我夜里放不下\n想你啊 想你啊 我多想抱抱你\n等今年挣了钱我一定早点回家\n\n[Verse 2]\n坐在院子的红砖台阶上面\n院角的老石磨落了一层灰\n妈妈端来热气腾腾的土鸡汤\n一直往我的小碗里面夹着肉\n她说在外面过得不好就回来\n家里永远有口热饭留给你吃\n我低着头扒饭眼泪掉在汤里\n这些年在外面受的委屈全散了\n\n[Pre-Chorus]\n窗外的夜风吹着院里的枣树\n妈妈的白头发又多了好几根\n我才明白最在乎我的只有家\n\n[Chorus]\n想念老家院子里开满的花\n想念老家屋檐下落下的雨\n想念老家妈妈总念叨的话\n可为了生活我只能浪迹天涯\n想你啊 想你啊 我真的好想你\n想你啊 想你啊 我夜里放不下\n想你啊 想你啊 我多想抱抱你\n等今年挣了钱我一定早点回家\n\n[Bridge]\n妈妈我爱你我从没对你说过\n总以为长大就能给你好生活\n现在才知道你只要我平平安安\n只要我推开门喊你一声妈妈\n\n[Chorus]\n想念老家院子里开满的花\n想念老家屋檐下落下的雨\n想念老家妈妈总念叨的话\n可为了生活我只能浪迹天涯\n想你啊 想你啊 我真的好想你\n想你啊 想你啊 我夜里放不下\n想你啊 想你啊 我多想抱抱你\n等今年挣了钱我一定早点回家\n\n[Chorus]\n想念老家院子里开满的花\n想念老家屋檐下落下的雨\n想念老家妈妈总念叨的话\n可为了生活我只能浪迹天涯\n想你啊 想你啊 我真的好想你\n想你啊 想你啊 我夜里放不下\n想你啊 想你啊 我多想抱抱你\n等今年挣了钱我一定早点回家\n\n[Outro]\n老家的院子还是当年的模样\n妈你一定要健健康康等我啊\n下次回来我就再也不走了",
+      "duration": 226
+    },
+    {
+      "slug": "甩开膀子_2026-10-04",
+      "title": "甩开膀子",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_甩开膀子",
+      "date": "2026-10-04",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "甩开膀子_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_甩开膀子/甩开膀子_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.7
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_甩开膀子/cover_甩开膀子.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-04_甩开膀子/cover_甩开膀子.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_甩开膀子/甩开膀子_poster.png",
+      "lyrics_file": "[Intro]\n今晚广场上的音乐响起来了\n所有的烦恼统统都丢在脑后\n跟着动感的节拍一起跳起来\n\n[Verse 1]\n吃完晚饭换上一双舒服的鞋\n叫上几个好姐妹去广场集合\n白天工作受的委屈全都不管\n音箱声音开大跟着节奏摇摆\n生活总有些事情让人心里烦\n坐着叹气不如出来出身透汗\n你看前面的大妈跳得多么美\n我们也要开开心心过好每天\n\n[Chorus]\n甩开膀子\n甩开膀子\n甩开膀子\n大步往前走不回头\n甩掉烦恼\n甩掉烦恼\n甩掉烦恼\n今晚我们要乐个够\n\n[Verse 2]\n手机放在口袋里谁也别理会\n跟上队伍转个圈把腰扭起来\n晚风吹在脸上感觉特别痛快\n只要身体健康其他都不算事\n想开看开日子才能越过越甜\n不顺心的小事情全都随风散\n大声笑一笑赶走心里的疲倦\n跟着节拍拍手越跳就越精神\n\n[Pre-Chorus]\n低音炮震得地板跟着一起颤\n大家排成整齐队伍一起向前\n听着口令现在马上就要开始\n\n[Chorus]\n甩开膀子\n甩开膀子\n甩开膀子\n大步往前走不回头\n甩掉烦恼\n甩掉烦恼\n甩掉烦恼\n今晚我们要乐个够\n\n[Bridge]\n一二三四五六七\n伸伸手来踢踢腿\n天天开心不显老\n健健康康最重要\n\n[Chorus]\n甩开膀子\n甩开膀子\n甩开膀子\n大步往前走不回头\n甩掉烦恼\n甩掉烦恼\n甩掉烦恼\n今晚我们要乐个够\n\n[Chorus]\n甩开膀子\n甩开膀子\n甩开膀子\n大步往前走不回头\n甩掉烦恼\n甩掉烦恼\n甩掉烦恼\n今晚我们要乐个够\n\n[Outro]\n跟着节奏一直跳不要停下来\n甩开膀子明天又是好日子\n大家一起开开心心回家睡觉",
+      "duration": 188
+    },
+    {
+      "slug": "甜到冒泡_2026-10-04",
+      "title": "甜到冒泡",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_甜到冒泡",
+      "date": "2026-10-04",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "甜到冒泡_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_甜到冒泡/甜到冒泡_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.7
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_甜到冒泡/cover_甜到冒泡.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-04_甜到冒泡/cover_甜到冒泡.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_甜到冒泡/甜到冒泡_poster.png",
+      "lyrics_file": "[Intro]\n咕噜噜 咕噜噜\n冒泡泡 冒泡泡\n遇见你之后每天都在甜到冒泡\n\n[Verse 1]\n今天下午在便利店门口遇到你\n你手里拿着两杯全糖的草莓奶昔\n看到我走过来你突然笑眯了眼睛\n笨拙地把吸管插好递到了我手里\n昨天晚上明明才刚刚打完了电话\n挂掉之后翻来覆去还是睡不着觉\n脑子里面装的全都是你说话声音\n恨不得马上坐地铁跑到你的身旁\n\n[Chorus]\n咕噜噜 咕噜噜 我想你想得甜到冒泡\n咕噜噜 咕噜噜 我看你看得甜到冒泡\n咕噜噜 咕噜噜 我抱你抱得甜到冒泡\n只要你对我笑一下我就开心到飞掉\n啵啵啵 啵啵啵 我喜欢你喜欢得甜到冒泡\n啵啵啵 啵啵啵 我黏着你黏得甜到冒泡\n啵啵啵 啵啵啵 我爱你爱得甜到冒泡\n这辈子除了你身边我哪里都不想跑\n\n[Verse 2]\n周末逛街你主动牵起我的右手\n两个人慢悠悠走在黄昏的街头\n走累了我们就坐在公园的长椅上\n你摸摸我的头说我是世界上最乖\n手指悄悄在你的掌心里画个爱心\n害羞得低头不敢看你的深情眼睛\n原来喜欢一个人感觉会这么明显\n连空气里面都飘着草莓味的香甜\n\n[Pre-Chorus]\n手机屏幕一亮全都是你的消息\n只要收到你的一句话我就开心\n心跳突然加速扑通扑通跳个不停\n\n[Chorus]\n咕噜噜 咕噜噜 我想你想得甜到冒泡\n咕噜噜 咕噜噜 我看你看得甜到冒泡\n咕噜噜 咕噜噜 我抱你抱得甜到冒泡\n只要你对我笑一下我就开心到飞掉\n啵啵啵 啵啵啵 我喜欢你喜欢得甜到冒泡\n啵啵啵 啵啵啵 我黏着你黏得甜到冒泡\n啵啵啵 啵啵啵 我爱你爱得甜到冒泡\n这辈子除了你身边我哪里都不想跑\n\n[Bridge]\n朋友都笑我谈恋爱变得太幼稚\n可我就是忍不住想要大声宣布\n遇到你是我这辈子最大的幸运\n我要天天都跟你腻在一起不分开\n\n[Chorus]\n咕噜噜 咕噜噜 我想你想得甜到冒泡\n咕噜噜 咕噜噜 我看你看得甜到冒泡\n咕噜噜 咕噜噜 我抱你抱得甜到冒泡\n只要你对我笑一下我就开心到飞掉\n啵啵啵 啵啵啵 我喜欢你喜欢得甜到冒泡\n啵啵啵 啵啵啵 我黏着你黏得甜到冒泡\n啵啵啵 啵啵啵 我爱你爱得甜到冒泡\n这辈子除了你身边我哪里都不想跑\n\n[Chorus]\n咕噜噜 咕噜噜 我想你想得甜到冒泡\n咕噜噜 咕噜噜 我看你看得甜到冒泡\n咕噜噜 咕噜噜 我抱你抱得甜到冒泡\n只要你对我笑一下我就开心到飞掉\n啵啵啵 啵啵啵 我喜欢你喜欢得甜到冒泡\n啵啵啵 啵啵啵 我黏着你黏得甜到冒泡\n啵啵啵 啵啵啵 我爱你爱得甜到冒泡\n这辈子除了你身边我哪里都不想跑\n\n[Outro]\n咕噜噜 咕噜噜\n每一天都要跟你甜到冒泡\n我真的超级超级超级喜欢你呀",
+      "duration": 221
+    },
+    {
+      "slug": "提灯走_2026-10-04",
+      "title": "提灯走",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_提灯走",
+      "date": "2026-10-04",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "提灯走_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_提灯走/提灯走_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 8.5
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_提灯走/cover_提灯走.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-04_提灯走/cover_提灯走.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_提灯走/提灯走_poster.png",
+      "lyrics_file": "[Intro]\n月光照在长街我提着灯笼走\n风吹灭了烛火我心里还在痛\n今夜我又想起你曾经的温柔\n\n[Verse 1]\n去年冬天我们在城南的小楼\n你弹着古琴说要陪我到白头\n后来一场大雪吹散了你和我\n你去了远方再也没有回过头\n我一个人守着屋檐看着月落\n桌上的凉茶倒掉了一杯又一杯\n我真的好想你却不敢对你说\n只能把所有委屈悄悄咽下喉\n\n[Chorus]\n提灯走啊提灯走 走过这长街夜\n提灯走啊提灯走 走过这风和雪\n提灯走啊提灯走 走到那旧小楼\n却怎么也等不到你再牵我的手\n想你想你 每一夜都在为你哭\n念你念你 每一天都觉得好苦\n盼你盼你 哪怕见一面就满足\n可你早就已经离开彻底不在乎\n\n[Verse 2]\n今年春天窗外的桃花又开了\n我走过你最爱去的那条小河\n桥头的茶馆里有人在唱着歌\n歌里的离别怎么唱得那么深刻\n朋友劝我忘掉你重新好好过\n可我的心里装满了你的轮廓\n我甚至留着你送我的旧玉镯\n每一分每一秒都过得好难过\n\n[Pre-Chorus]\n夜色越来越深冷风吹散了云\n我提着这盏灯不知该走向哪里\n其实我只想听你说一句对不起\n\n[Chorus]\n提灯走啊提灯走 走过这长街夜\n提灯走啊提灯走 走过这风和雪\n提灯走啊提灯走 走到那旧小楼\n却怎么也等不到你再牵我的手\n想你想你 每一夜都在为你哭\n念你念你 每一天都觉得好苦\n盼你盼你 哪怕见一面就满足\n可你早就已经离开彻底不在乎\n\n[Bridge]\n爱一个人为什么会这么痛苦\n明知道没有结果还要去付出\n我对着月亮问你到底在何处\n\n[Chorus]\n提灯走啊提灯走 走过这长街夜\n提灯走啊提灯走 走过这风和雪\n提灯走啊提灯走 走到那旧小楼\n却怎么也等不到你再牵我的手\n想你想你 每一夜都在为你哭\n念你念你 每一天都觉得好苦\n盼你盼你 哪怕见一面就满足\n可你早就已经离开彻底不在乎\n\n[Chorus]\n提灯走啊提灯走 走过这长街夜\n提灯走啊提灯走 走过这风和雪\n提灯走啊提灯走 走到那旧小楼\n却怎么也等不到你再牵我的手\n想你想你 每一夜都在为你哭\n念你念你 每一天都觉得好苦\n盼你盼你 哪怕见一面就满足\n可你早就已经离开彻底不在乎\n\n[Outro]\n火光渐渐熄灭长街只剩寂寞\n我提着红灯笼一步一步走过\n再见了那个我深深爱过的人",
+      "duration": 279
+    },
+    {
+      "slug": "拉黑了_2026-10-04",
+      "title": "拉黑了",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_拉黑了",
+      "date": "2026-10-04",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "拉黑了_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_拉黑了/拉黑了_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.3
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_拉黑了/cover_拉黑了.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-04_拉黑了/cover_拉黑了.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-04_拉黑了/拉黑了_poster.png",
+      "lyrics_file": "[Intro]\n红色感叹号在屏幕上闪烁\n这次我们是真的回不去了\n房间里只剩下我一个人的呼吸\n\n[Verse 1]\n凌晨两点我又失眠坐在沙发上面\n手机屏幕亮起又熄灭看了好多遍\n翻开对话框还停在上周吵架那天\n你说的狠话一句句扎在我心里面\n我一气之下按下了那个红色按键\n把你拉进黑名单以为能好过一点\n可是眼泪为什么还是忍不住往下流\n屋子里只剩我一个人在小声哭泣\n\n[Chorus]\n拉黑了你的微信我还在想你\n拉黑了你的电话我还在想你\n拉黑了所有照片我还在想你\n为什么算了吧这三个字这么难提\n放不下 放不下 放不下\n明知道你已经不会再爱我了\n放不下 放不下 放不下\n我到底要怎么做才能彻底解脱\n\n[Verse 2]\n早上出门习惯性看手机有没有消息\n走到常去的那家早餐店买两份豆浆\n老板问我今天怎么一个人过来排队\n我低下头尴尬地笑了笑没有回答\n坐上地铁戴着耳机听着伤感的歌\n每句歌词都好像在嘲笑我的懦弱\n我以为把你删掉就能彻底忘了你\n其实是我骗了自己根本就做不到\n\n[Pre-Chorus]\n朋友都劝我快点走出来别再犯傻\n说不合适的人分开了也是种解脱\n可我还是控制不住想去找你复合\n\n[Chorus]\n拉黑了你的微信我还在想你\n拉黑了你的电话我还在想你\n拉黑了所有照片我还在想你\n为什么算了吧这三个字这么难提\n放不下 放不下 放不下\n明知道你已经不会再爱我了\n放不下 放不下 放不下\n我到底要怎么做才能彻底解脱\n\n[Bridge]\n我真的好想你 我真的好爱你\n为什么深爱的人最后要变成路人\n只要你肯回头说一句你后悔了\n我就会立刻把你从黑名单里移出来\n\n[Chorus]\n拉黑了你的微信我还在想你\n拉黑了你的电话我还在想你\n拉黑了所有照片我还在想你\n为什么算了吧这三个字这么难提\n放不下 放不下 放不下\n明知道你已经不会再爱我了\n放不下 放不下 放不下\n我到底要怎么做才能彻底解脱\n\n[Chorus]\n拉黑了你的微信我还在想你\n拉黑了你的电话我还在想你\n拉黑了所有照片我还在想你\n为什么算了吧这三个字这么难提\n放不下 放不下 放不下\n明知道你已经不会再爱我了\n放不下 放不下 放不下\n我到底要怎么做才能彻底解脱\n\n[Outro]\n拉黑了你 却拉黑不了回忆\n我还是好想你 真的好想你\n算了吧 我们真的回不去了",
+      "duration": 206
+    },
     {
       "slug": "被你拿捏了_2026-10-03",
       "title": "被你拿捏了",
@@ -9,8 +169,8 @@
       "date": "2026-10-03",
       "genre_code": "viral_pop",
       "genre_label": "抖音热歌/口水歌/欢快洗脑",
-      "genre_icon": "🍬",
-      "genre_color": "#f39c12",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "4536251",
       "bpm": 115,
       "dimension": "番茄专项",
@@ -24,6 +184,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-03_被你拿捏了/被你拿捏了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-03_被你拿捏了/cover_被你拿捏了.jpg",
         "all_covers": [
@@ -34,13 +195,14 @@
       "lyrics_file": "[Intro]\n哎呀今天又没忍住想你了\n手机屏幕亮起来全都是你\n怎么办这次真的逃不掉了\n\n[Verse 1]\n早上刚睁开眼睛就看手机\n看看你有没有发来新消息\n明明昨天晚上才刚刚见过\n今天怎么又开始特别想你\n你发一个搞怪表情包过来\n我就对着屏幕傻笑了半天\n闺蜜说我现在的样子好蠢\n整个人像是丢了魂一样呢\n\n[Chorus]\n完蛋了完蛋了被你拿捏了\n跑不掉跑不掉被你拿捏了\n躲不开躲不开被你拿捏了\n我连生气都超不过三秒钟\n想你想你想你被你拿捏了\n黏着你黏着你被你拿捏了\n爱死你爱死你被你拿捏了\n我这辈子注定要栽给你了\n\n[Verse 2]\n下雨天非要和你撑一把伞\n故意往你的怀里靠得更紧\n你伸手捏捏我肉肉的小脸\n问我今天想吃火锅还是肉\n明明平时我自己很有主见\n到了你面前什么都说随便\n只要是你挑的我都特别爱\n我的喜好全跟着你在改变\n\n[Pre-Chorus]\n心跳扑通扑通跳得好大声\n脑子里全部都装满了你的笑\n我已经完全变成你的小猫\n\n[Chorus]\n完蛋了完蛋了被你拿捏了\n跑不掉跑不掉被你拿捏了\n躲不开躲不开被你拿捏了\n我连生气都超不过三秒钟\n想你想你想你被你拿捏了\n黏着你黏着你被你拿捏了\n爱死你爱死你被你拿捏了\n我这辈子注定要栽给你了\n\n[Bridge]\n以前我可是最酷的女孩子\n现在喝奶茶都要你插吸管\n只要你一皱眉我就马上投降\n谁让我真的超级无敌喜欢你\n\n[Chorus]\n完蛋了完蛋了被你拿捏了\n跑不掉跑不掉被你拿捏了\n躲不开躲不开被你拿捏了\n我连生气都超不过三秒钟\n想你想你想你被你拿捏了\n黏着你黏着你被你拿捏了\n爱死你爱死你被你拿捏了\n我这辈子注定要栽给你了\n\n[Chorus]\n完蛋了完蛋了被你拿捏了\n跑不掉跑不掉被你拿捏了\n躲不开躲不开被你拿捏了\n我连生气都超不过三秒钟\n想你想你想你被你拿捏了\n黏着你黏着你被你拿捏了\n爱死你爱死你被你拿捏了\n我这辈子注定要栽给你了\n\n[Outro]\n嘟嘟嘟电话怎么还不打来\n反正我就是被你死死拿捏\n你可要对我负一辈子责任",
       "duration": 185,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-02",
+      "youmind_cdn_date": "2026-10-03",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/6b6794a51b0f4f6f3ae905b53bc626052f00b96ff4326ba72a47084e013aaef5",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/6b6794a51b0f4f6f3ae905b53bc626052f00b96ff4326ba72a47084e013aaef5",
         "https://cdn.youmindassets.com/user-files/a9bc5a965350009756f45cc9d0a6804606f02147ca804df09df262ab162dfcca"
       ],
-      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/8b9e6eca602a3f09cdb26c4607d27226a679cf479a3ab2d8ff61e1cd33842b6a"
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/8b9e6eca602a3f09cdb26c4607d27226a679cf479a3ab2d8ff61e1cd33842b6a",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/12c6a8785df0e2326aa1c98e6b818d2d2e63f134e5934a087dfd0b59e2e5921a"
     },
     {
       "slug": "甩开步子_2026-10-03",
@@ -49,8 +211,8 @@
       "date": "2026-10-03",
       "genre_code": "dance",
       "genre_label": "广场舞/DJ舞曲/车载慢摇",
-      "genre_icon": "💃",
-      "genre_color": "#e74c5e",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "6415",
       "bpm": 128,
       "dimension": "番茄专项",
@@ -64,6 +226,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-03_甩开步子/甩开步子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-03_甩开步子/cover_甩开步子.jpg",
         "all_covers": [
@@ -74,13 +237,14 @@
       "lyrics_file": "[Intro]\n音乐响起来大家一起跳起来\n甩开所有的烦恼跟我朝前走\n今晚的广场就是我们的舞台\n\n[Verse 1]\n吃完晚饭我就换上这双运动鞋\n大广场上的音响早就放开了\n白天在公司受的气全都不去想\n那个负心的人也不值得我挂念\n左邻右舍的姐妹全都聚齐了\n排好队伍跟着节奏轻轻拍着手\n晚风吹过来吹走脸上的疲惫\n今晚谁也别提那些伤心的事\n\n[Chorus]\n甩开步子 甩开步子 甩开步子 往前走\n甩开步子 甩开步子 甩开步子 莫回头\n甩开步子 甩开步子 甩开步子 跟着拍\n大声笑出来心里烦恼全丢开\n甩开步子 甩开步子 甩开步子 往前走\n甩开步子 甩开步子 甩开步子 莫回头\n甩开步子 甩开步子 甩开步子 扭起来\n活得开开心心比什么都实在\n\n[Verse 2]\n你发的消息我一条都不想看\n你的那些借口我已经听腻了\n以前为你流眼泪实在太傻了\n现在我要为自己痛快活一场\n低音炮的声音震得地面都在抖\n手里的彩扇随着音乐转起来\n流一身热汗整个人都变轻松\n明天的事情留到明天再去愁\n\n[Pre-Chorus]\n姐妹们手拉着手排成一条线\n听着动感的节拍把腰扭起来\n现在就跟我一起数着拍子走\n\n[Chorus]\n甩开步子 甩开步子 甩开步子 往前走\n甩开步子 甩开步子 甩开步子 莫回头\n甩开步子 甩开步子 甩开步子 跟着拍\n大声笑出来心里烦恼全丢开\n甩开步子 甩开步子 甩开步子 往前走\n甩开步子 甩开步子 甩开步子 莫回头\n甩开步子 甩开步子 甩开步子 扭起来\n活得开开心心比什么都实在\n\n[Bridge]\n过去的破事就让它过去吧\n不爱我的人就让他走远吧\n人这一辈子就图个乐呵过\n迈开大步子谁也不能阻拦\n\n[Chorus]\n甩开步子 甩开步子 甩开步子 往前走\n甩开步子 甩开步子 甩开步子 莫回头\n甩开步子 甩开步子 甩开步子 跟着拍\n大声笑出来心里烦恼全丢开\n甩开步子 甩开步子 甩开步子 往前走\n甩开步子 甩开步子 甩开步子 莫回头\n甩开步子 甩开步子 甩开步子 扭起来\n活得开开心心比什么都实在\n\n[Chorus]\n甩开步子 甩开步子 甩开步子 往前走\n甩开步子 甩开步子 甩开步子 莫回头\n甩开步子 甩开步子 甩开步子 跟着拍\n大声笑出来心里烦恼全丢开\n甩开步子 甩开步子 甩开步子 往前走\n甩开步子 甩开步子 甩开步子 莫回头\n甩开步子 甩开步子 甩开步子 扭起来\n活得开开心心比什么都实在\n\n[Outro]\n甩开步子大步往前走\n甩掉烦恼天天都快乐\n明天晚上广场接着走",
       "duration": 219,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-02",
+      "youmind_cdn_date": "2026-10-03",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/8cbe892408164e2a0c391d051afc0438492b355b48dd44dc1b3a2c8858396772",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/8cbe892408164e2a0c391d051afc0438492b355b48dd44dc1b3a2c8858396772",
         "https://cdn.youmindassets.com/user-files/a9bc5a965350009756f45cc9d0a6804606f02147ca804df09df262ab162dfcca"
       ],
-      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/6fc312e40aad2094ffdc908afe5cb2e66b01e2d22e974e466520929e3cb38725"
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/6fc312e40aad2094ffdc908afe5cb2e66b01e2d22e974e466520929e3cb38725",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/0bc2532c22379dbd628f8054b296fdf82949a0b1831e9a11770e2e918c88724f"
     },
     {
       "slug": "折桃花_2026-10-03",
@@ -89,8 +253,8 @@
       "date": "2026-10-03",
       "genre_code": "guofeng",
       "genre_label": "民族风/古诗词改编/中国风",
-      "genre_icon": "🏮",
-      "genre_color": "#9b59b6",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "大调卡农",
       "bpm": 90,
       "dimension": "番茄专项",
@@ -104,6 +268,7 @@
           "size_mb": 7.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-03_折桃花/折桃花_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-03_折桃花/cover_折桃花.jpg",
         "all_covers": [
@@ -114,13 +279,14 @@
       "lyrics_file": "[Intro]\n小楼吹着风月光照在墙上\n院子里的琴声一声声响\n我一直都在这里等着你呀\n\n[Verse 1]\n那天你骑着白马离开了小镇\n你说等桃花开了就会回来看我\n我在院子里面种下一棵小桃树\n每天打水浇花盼着和你再见面\n一晃过去三年你还是没有消息\n隔壁的大娘劝我早点找人嫁了\n我摇摇头说我心里只有你一个\n除了你之外我谁都不想要\n\n[Chorus]\n我折桃花折桃花送给你呀\n我折桃花折桃花等信来呀\n我折桃花折桃花盼相见呀\n你到底什么时候才能回到身边\n我真的好想你真的放不下你\n我真的好想你夜夜为你弹琴\n我真的好想你等到青丝变白\n难道你真的把所有的承诺忘了\n\n[Verse 2]\n昨天晚上窗外又吹起了冷风\n我披着旧衣裳坐在高高楼上\n月亮照着屋顶雪花落在指尖\n琴声弹出来的全都是你名字\n路过的行人都说我是个傻子\n为一个不回来的人浪费青春\n其实我也知道时光不会倒流\n可我就是控制不住天天想你\n\n[Pre-Chorus]\n春天又来了树枝抽出新嫩芽\n粉红色的花苞一天比一天多\n我站在树下又想起你的笑脸\n\n[Chorus]\n我折桃花折桃花送给你呀\n我折桃花折桃花等信来呀\n我折桃花折桃花盼相见呀\n你到底什么时候才能回到身边\n我真的好想你真的放不下你\n我真的好想你夜夜为你弹琴\n我真的好想你等到青丝变白\n难道你真的把所有的承诺忘了\n\n[Bridge]\n别人都说你可能早已成了家\n我却固执地相信你绝不骗我\n哪怕再等十年我也不会后悔\n只想听你亲口说一句我爱你\n\n[Chorus]\n我折桃花折桃花送给你呀\n我折桃花折桃花等信来呀\n我折桃花折桃花盼相见呀\n你到底什么时候才能回到身边\n我真的好想你真的放不下你\n我真的好想你夜夜为你弹琴\n我真的好想你等到青丝变白\n难道你真的把所有的承诺忘了\n\n[Chorus]\n我折桃花折桃花送给你呀\n我折桃花折桃花等信来呀\n我折桃花折桃花盼相见呀\n你到底什么时候才能回到身边\n我真的好想你真的放不下你\n我真的好想你夜夜为你弹琴\n我真的好想你等到青丝变白\n难道你真的把所有的承诺忘了\n\n[Outro]\n桃花落了一地我还在原地等\n我是真的真的很想你啊\n你什么时候才能回到身边",
       "duration": 247,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-02",
+      "youmind_cdn_date": "2026-10-03",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/df96ac135482e8236c2835253405ad99a389fc54036d1138d5800ac2c4cd4968",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/df96ac135482e8236c2835253405ad99a389fc54036d1138d5800ac2c4cd4968",
         "https://cdn.youmindassets.com/user-files/a9bc5a965350009756f45cc9d0a6804606f02147ca804df09df262ab162dfcca"
       ],
-      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/dbd3061a91a0c335ea8b66a86cdd90c47f9674defd07fb43eabdfdc63fd98219"
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/dbd3061a91a0c335ea8b66a86cdd90c47f9674defd07fb43eabdfdc63fd98219",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/a6ae937d851430cf552c4f56efd3a37d9b8211e669f719a8b238d701b309707b"
     },
     {
       "slug": "妈煮的面_2026-10-03",
@@ -129,8 +295,8 @@
       "date": "2026-10-03",
       "genre_code": "hometown",
       "genre_label": "乡愁/励志/朴实口语",
-      "genre_icon": "🏠",
-      "genre_color": "#27ae60",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "卡农变体",
       "bpm": 100,
       "dimension": "番茄专项",
@@ -144,6 +310,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-03_妈煮的面/妈煮的面_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-03_妈煮的面/cover_妈煮的面.jpg",
         "all_covers": [
@@ -154,13 +321,14 @@
       "lyrics_file": "[Intro]\n小时候总觉得外面的世界大\n背上行囊就离开了村口老家\n走得再远也忘不掉那一碗面\n\n[Verse 1]\n老家在湖南衡阳常宁的乡下\n村口的老槐树年年都在发芽\n二十岁那年我坐火车去广东\n临走前你天没亮就生火起灶\n土灶台的大铁锅冒着白热气\n你切好细葱花撒在海碗里面\n碗底偷偷压了两个荷包金蛋\n你说吃饱了出门才不会想家\n\n[Chorus]\n妈煮的面 妈煮的面 总是那么香\n妈煮的面 妈煮的面 盛满了牵挂\n妈煮的面 妈煮的面 陪着我长大\n就算走到天涯海角我也放不下\n热腾腾 热腾腾 的汤能暖人心\n热腾腾 热腾腾 的蛋给足力气\n热腾腾 热腾腾 的泪掉在碗里\n妈我真的好爱你我真的好想你\n\n[Verse 2]\n如今我在深圳城中村租了房\n下班走在深南大道觉得好累\n吃过很多外卖味道都不太对\n街边的面馆写着正宗家乡味\n可吃进嘴里总少了一点温度\n电话那头你问我今天累不累\n你说钱赚多赚少人平安就好\n不行就买张车票回村里歇歇\n\n[Pre-Chorus]\n窗外的大雨下得人心里发慌\n想起老屋厨房那一盏昏黄的灯\n我的眼眶一下子变得红红的\n\n[Chorus]\n妈煮的面 妈煮的面 总是那么香\n妈煮的面 妈煮的面 盛满了牵挂\n妈煮的面 妈煮的面 陪着我长大\n就算走到天涯海角我也放不下\n热腾腾 热腾腾 的汤能暖人心\n热腾腾 热腾腾 的蛋给足力气\n热腾腾 热腾腾 的泪掉在碗里\n妈我真的好爱你我真的好想你\n\n[Bridge]\n村口的老屋如今只剩你一个人\n头发白了还要下地去拔青菜\n妈我不怕在大城市吃苦受委屈\n我只怕自己成功赶不上你老去\n\n[Chorus]\n妈煮的面 妈煮的面 总是那么香\n妈煮的面 妈煮的面 盛满了牵挂\n妈煮的面 妈煮的面 陪着我长大\n就算走到天涯海角我也放不下\n热腾腾 热腾腾 的汤能暖人心\n热腾腾 热腾腾 的蛋给足力气\n热腾腾 热腾腾 的泪掉在碗里\n妈我真的好爱你我真的好想你\n\n[Chorus]\n妈煮的面 妈煮的面 总是那么香\n妈煮的面 妈煮的面 盛满了牵挂\n妈煮的面 妈煮的面 陪着我长大\n就算走到天涯海角我也放不下\n热腾腾 热腾腾 的汤能暖人心\n热腾腾 热腾腾 的蛋给足力气\n热腾腾 热腾腾 的泪掉在碗里\n妈我真的好爱你我真的好想你\n\n[Outro]\n村口的老槐树又发了新芽\n今年过年我一定早点回家\n再吃一碗你亲手煮的热汤面",
       "duration": 203,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-02",
+      "youmind_cdn_date": "2026-10-03",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/5fc58645957944ec3752c0c0a8e4b446880b2f62fcbe9d34bb19e6e73be17d1a",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/5fc58645957944ec3752c0c0a8e4b446880b2f62fcbe9d34bb19e6e73be17d1a",
         "https://cdn.youmindassets.com/user-files/a9bc5a965350009756f45cc9d0a6804606f02147ca804df09df262ab162dfcca"
       ],
-      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/95641ab65c47dc4870977392d6949c217747a79d4f151bc9e5b20049e9e9109a"
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/95641ab65c47dc4870977392d6949c217747a79d4f151bc9e5b20049e9e9109a",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/a3a9877bf12a89bb59d8672ef20088fb2d081fdac8b926bb9565c2c9261aebcf"
     },
     {
       "slug": "哭完拉倒_2026-10-03",
@@ -169,8 +337,8 @@
       "date": "2026-10-03",
       "genre_code": "sad",
       "genre_label": "失恋/孤独/情感共鸣",
-      "genre_icon": "🌧️",
-      "genre_color": "#3498db",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "1645",
       "bpm": 80,
       "dimension": "番茄专项",
@@ -184,6 +352,7 @@
           "size_mb": 7.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-03_哭完拉倒/哭完拉倒_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-03_哭完拉倒/cover_哭完拉倒.jpg",
         "all_covers": [
@@ -194,13 +363,14 @@
       "lyrics_file": "[Intro]\n外面下着大雨我也在哭\n手机屏幕停在你的名字\n今晚我就最后为你难过\n\n[Verse 1]\n晚饭外卖放在桌上凉透了\n你的拖鞋还在门口没有拿走\n微信对话框打了字又全删掉\n明明说了分手却还是会习惯\n翻看着相册里我们去年的旅行\n那时候你说会一直一直爱我\n怎么走着走着你就突然变了\n留下我一个人在房间里发呆\n\n[Chorus]\n哭完拉倒 哭完拉倒 我好想你\n哭完拉倒 哭完拉倒 我放不下\n哭完拉倒 哭完拉倒 我好爱你\n天亮之后我保证全部都算了吧\n哭完拉倒 哭完拉倒 眼泪掉下\n哭完拉倒 哭完拉倒 谁来抱我\n哭完拉倒 哭完拉倒 彻底分了\n明天开始我再也不为你难过了\n\n[Verse 2]\n朋友劝我感情没了就该翻篇\n道理我都懂可心脏还是好疼\n半夜醒来下意识往旁边摸去\n空荡荡的被窝只有一阵冰凉\n你送的娃娃被我扔进垃圾桶\n过了十分钟我又跑去捡回来\n我觉得自己现在的样子真傻\n怎么就非你不可怎么走不出来\n\n[Pre-Chorus]\n窗外路灯照着深夜无人的街\n纸巾用光了垃圾桶已经堆满\n这颗心为你碎成了好几千片\n\n[Chorus]\n哭完拉倒 哭完拉倒 我好想你\n哭完拉倒 哭完拉倒 我放不下\n哭完拉倒 哭完拉倒 我好爱你\n天亮之后我保证全部都算了吧\n哭完拉倒 哭完拉倒 眼泪掉下\n哭完拉倒 哭完拉倒 谁来抱我\n哭完拉倒 哭完拉倒 彻底分了\n明天开始我再也不为你难过了\n\n[Bridge]\n其实我也知道你早就已经不爱了\n只有我一个人困在回忆里逞强\n再舍不得也换不回你一次回头\n今晚过后我真的要把你全删掉\n\n[Chorus]\n哭完拉倒 哭完拉倒 我好想你\n哭完拉倒 哭完拉倒 我放不下\n哭完拉倒 哭完拉倒 我好爱你\n天亮之后我保证全部都算了吧\n哭完拉倒 哭完拉倒 眼泪掉下\n哭完拉倒 哭完拉倒 谁来抱我\n哭完拉倒 哭完拉倒 彻底分了\n明天开始我再也不为你难过了\n\n[Chorus]\n哭完拉倒 哭完拉倒 我好想你\n哭完拉倒 哭完拉倒 我放不下\n哭完拉倒 哭完拉倒 我好爱你\n天亮之后我保证全部都算了吧\n哭完拉倒 哭完拉倒 眼泪掉下\n哭完拉倒 哭完拉倒 谁来抱我\n哭完拉倒 哭完拉倒 彻底分了\n明天开始我再也不为你难过了\n\n[Outro]\n天快亮了眼泪也流得差不多\n哭完拉倒我不要再继续想你\n这次真的彻底跟你算了吧",
       "duration": 242,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-02",
+      "youmind_cdn_date": "2026-10-03",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/1fd68c3f1ea07d62df8309e5b3e81501cc26ea037d680fa3558368347af4f461",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/1fd68c3f1ea07d62df8309e5b3e81501cc26ea037d680fa3558368347af4f461",
         "https://cdn.youmindassets.com/user-files/a9bc5a965350009756f45cc9d0a6804606f02147ca804df09df262ab162dfcca"
       ],
-      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/83a8ee888ab0761b2dcf4a152ef9984288fb406893a45e2444dcf356804f9424"
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/83a8ee888ab0761b2dcf4a152ef9984288fb406893a45e2444dcf356804f9424",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/72551bd66dc913884467f3c6cffda725d046adfa1ee4ebcab9f4a1d03de70979"
     },
     {
       "slug": "老院子_2026-10-02",
@@ -224,6 +394,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-02_老院子/老院子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-02_老院子/cover_老院子.jpg",
         "all_covers": [
@@ -265,6 +436,7 @@
           "size_mb": 8.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-02_空了心/空了心_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-02_空了心/cover_空了心.jpg",
         "all_covers": [
@@ -306,6 +478,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-02_甩起手/甩起手_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-02_甩起手/cover_甩起手.jpg",
         "all_covers": [
@@ -347,6 +520,7 @@
           "size_mb": 7.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-02_折枝花/折枝花_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-02_折枝花/cover_折枝花.jpg",
         "all_covers": [
@@ -388,6 +562,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-02_偷看你/偷看你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-02_偷看你/cover_偷看你.jpg",
         "all_covers": [
@@ -429,6 +604,7 @@
           "size_mb": 7.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_折杨柳/折杨柳_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_折杨柳/cover_折杨柳.jpg",
         "all_covers": [
@@ -470,6 +646,7 @@
           "size_mb": 6.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_广场碰头/广场碰头_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_广场碰头/cover_广场碰头.jpg",
         "all_covers": [
@@ -511,6 +688,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_妈熬的汤/妈熬的汤_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_妈熬的汤/cover_妈熬的汤.jpg",
         "all_covers": [
@@ -552,6 +730,7 @@
           "size_mb": 7.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_到此为止/到此为止_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_到此为止/cover_到此为止.jpg",
         "all_covers": [
@@ -593,6 +772,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_偷瞄你/偷瞄你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-01_偷瞄你/cover_偷瞄你.jpg",
         "all_covers": [
@@ -634,6 +814,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-30_老娘的手/老娘的手_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-30_老娘的手/cover_老娘的手.jpg",
         "all_covers": [
@@ -675,6 +856,7 @@
           "size_mb": 6.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-30_拉黑吧/拉黑吧_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-30_拉黑吧/cover_拉黑吧.jpg",
         "all_covers": [
@@ -716,6 +898,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-30_抢特价/抢特价_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-30_抢特价/cover_抢特价.jpg",
         "all_covers": [
@@ -757,6 +940,7 @@
           "size_mb": 7.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-30_打马过/打马过_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-30_打马过/cover_打马过.jpg",
         "all_covers": [
@@ -798,6 +982,7 @@
           "size_mb": 5.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-30_心砰砰/心砰砰_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-30_心砰砰/cover_心砰砰.jpg",
         "all_covers": [
@@ -839,6 +1024,7 @@
           "size_mb": 8.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-29_这次算了/这次算了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-29_这次算了/cover_这次算了.jpg",
         "all_covers": [
@@ -880,6 +1066,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-29_晚饭后集合/晚饭后集合_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-29_晚饭后集合/cover_晚饭后集合.jpg",
         "all_covers": [
@@ -921,6 +1108,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-29_忍不住看你/忍不住看你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-29_忍不住看你/cover_忍不住看你.jpg",
         "all_covers": [
@@ -962,6 +1150,7 @@
           "size_mb": 6.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-29_客栈歇歇脚/客栈歇歇脚_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-29_客栈歇歇脚/cover_客栈歇歇脚.jpg",
         "all_covers": [
@@ -1003,6 +1192,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-29_吃碗热汤面/吃碗热汤面_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-29_吃碗热汤面/cover_吃碗热汤面.jpg",
         "all_covers": [
@@ -1044,6 +1234,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-28_说书人/说书人_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-28_说书人/cover_说书人.jpg",
         "all_covers": [
@@ -1085,6 +1276,7 @@
           "size_mb": 8.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-28_算我认输/算我认输_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-28_算我认输/cover_算我认输.jpg",
         "all_covers": [
@@ -1126,6 +1318,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-28_瞄准你的心/瞄准你的心_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-28_瞄准你的心/cover_瞄准你的心.jpg",
         "all_covers": [
@@ -1167,6 +1360,7 @@
           "size_mb": 6.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-28_妈喊我吃饭/妈喊我吃饭_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-28_妈喊我吃饭/cover_妈喊我吃饭.jpg",
         "all_covers": [
@@ -1208,6 +1402,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-28_大家动起来/大家动起来_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-28_大家动起来/cover_大家动起来.jpg",
         "all_covers": [
@@ -1249,6 +1444,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-26_看对眼/看对眼_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-26_看对眼/cover_看对眼.jpg",
         "all_covers": [
@@ -1290,6 +1486,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-26_甩甩手/甩甩手_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-26_甩甩手/cover_甩甩手.jpg",
         "all_covers": [
@@ -1331,6 +1528,7 @@
           "size_mb": 7.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-26_桃花酿/桃花酿_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-26_桃花酿/cover_桃花酿.jpg",
         "all_covers": [
@@ -1372,6 +1570,7 @@
           "size_mb": 7.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-26_回家吃饭/回家吃饭_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-26_回家吃饭/cover_回家吃饭.jpg",
         "all_covers": [
@@ -1413,6 +1612,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-26_到这吧/到这吧_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-26_到这吧/cover_到这吧.jpg",
         "all_covers": [
@@ -1454,6 +1654,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-25_音响搬下楼/音响搬下楼_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -1487,6 +1688,7 @@
           "size_mb": 8.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-25_老屋亮灯了/老屋亮灯了_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -1520,6 +1722,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-25_翻篇/翻篇_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -1553,6 +1756,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-25_满脑子是你/满脑子是你_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -1586,6 +1790,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-25_桃花渡/桃花渡_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -1619,6 +1824,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_风火轮/风火轮_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_风火轮/cover_风火轮.jpg",
         "all_covers": [
@@ -1660,6 +1866,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_青衫薄/青衫薄_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_青衫薄/cover_青衫薄.jpg",
         "all_covers": [
@@ -1701,6 +1908,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_见你就笑/见你就笑_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_见你就笑/cover_见你就笑.jpg",
         "all_covers": [
@@ -1744,6 +1952,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_纸伞遮雨/纸伞遮雨_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_纸伞遮雨/cover_纸伞遮雨.jpg",
         "all_covers": [
@@ -1787,6 +1996,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_楼下音箱响/楼下音箱响_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_楼下音箱响/cover_楼下音箱响.jpg",
         "all_covers": [
@@ -1830,6 +2040,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_村口老槐/村口老槐_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_村口老槐/cover_村口老槐.jpg",
         "all_covers": [
@@ -1871,6 +2082,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_月光发霉/月光发霉_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_月光发霉/cover_月光发霉.jpg",
         "all_covers": [
@@ -1912,6 +2124,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_心跳乱了/心跳乱了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_心跳乱了/cover_心跳乱了.jpg",
         "all_covers": [
@@ -1953,6 +2166,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_妈在村口/妈在村口_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_妈在村口/cover_妈在村口.jpg",
         "all_covers": [
@@ -1996,6 +2210,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_删了又找回/删了又找回_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-24_删了又找回/cover_删了又找回.jpg",
         "all_covers": [
@@ -2039,6 +2254,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-22_谷穗弯/谷穗弯_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-22_谷穗弯/cover_谷穗弯.jpg",
         "all_covers": [
@@ -2082,6 +2298,7 @@
           "size_mb": 8.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-22_桃花扇/桃花扇_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-22_桃花扇/cover_桃花扇.jpg",
         "all_covers": [
@@ -2125,6 +2342,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-22_散了没/散了没_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-22_散了没/cover_散了没.jpg",
         "all_covers": [
@@ -2168,6 +2386,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-22_抱紧紧/抱紧紧_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-22_抱紧紧/cover_抱紧紧.jpg",
         "all_covers": [
@@ -2211,6 +2430,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-22_夜色跳跳/夜色跳跳_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-22_夜色跳跳/cover_夜色跳跳.jpg",
         "all_covers": [
@@ -2254,6 +2474,7 @@
           "size_mb": 8.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_雨打车窗/雨打车窗_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_雨打车窗/cover_雨打车窗.jpg",
         "all_covers": [
@@ -2296,6 +2517,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_长安落雪/长安落雪_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_长安落雪/cover_长安落雪.jpg",
         "all_covers": [
@@ -2338,6 +2560,7 @@
           "size_mb": 8.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_点亮霓虹/点亮霓虹_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_点亮霓虹/cover_点亮霓虹.jpg",
         "all_covers": [
@@ -2380,6 +2603,7 @@
           "size_mb": 7.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_山路那头/山路那头_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_山路那头/cover_山路那头.jpg",
         "all_covers": [
@@ -2422,6 +2646,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_上头警告/上头警告_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-21_上头警告/cover_上头警告.jpg",
         "all_covers": [
@@ -2464,6 +2689,7 @@
           "size_mb": 7.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_父亲的烟斗/父亲的烟斗_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_父亲的烟斗/cover_父亲的烟斗.jpg",
         "all_covers": [
@@ -2505,6 +2731,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_没等到/没等到_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -2538,6 +2765,7 @@
           "size_mb": 7.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_梨花白/梨花白_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_梨花白/cover_梨花白.jpg",
         "all_covers": [
@@ -2579,6 +2807,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_整条街在抖/整条街在抖_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_整条街在抖/cover_整条街在抖.jpg",
         "all_covers": [
@@ -2620,6 +2849,7 @@
           "size_mb": 6.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_扑进你怀里/扑进你怀里_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_扑进你怀里/cover_扑进你怀里.jpg",
         "all_covers": [
@@ -2661,6 +2891,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_心跳砰砰/心跳砰砰_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -2694,6 +2925,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_山鬼吟/山鬼吟_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -2727,6 +2959,7 @@
           "size_mb": 5.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_嗨起来啦/嗨起来啦_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -2760,6 +2993,7 @@
           "size_mb": 5.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_又一年/又一年_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -2793,6 +3027,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_假装没事/假装没事_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-20_假装没事/cover_假装没事.jpg",
         "all_covers": [
@@ -2834,6 +3069,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-18_黏你啊/黏你啊_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-18_黏你啊/cover_黏你啊.jpg",
         "all_covers": [
@@ -2878,6 +3114,7 @@
           "size_mb": 8.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-18_醉春风/醉春风_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-18_醉春风/cover_醉春风.jpg",
         "all_covers": [
@@ -2922,6 +3159,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-18_蹦到日出/蹦到日出_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-18_蹦到日出/cover_蹦到日出.jpg",
         "all_covers": [
@@ -2966,6 +3204,7 @@
           "size_mb": 6.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-18_说散就散/说散就散_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-18_说散就散/cover_说散就散.jpg",
         "all_covers": [
@@ -3010,6 +3249,7 @@
           "size_mb": 7.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-18_妈的手/妈的手_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-18_妈的手/cover_妈的手.jpg",
         "all_covers": [
@@ -3054,6 +3294,7 @@
           "size_mb": 7.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_摇到天亮/摇到天亮_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_摇到天亮/cover_摇到天亮.jpg",
         "all_covers": [
@@ -3098,6 +3339,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_心动砰砰/心动砰砰_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_心动砰砰/cover_心动砰砰.jpg",
         "all_covers": [
@@ -3142,6 +3384,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_妈妈的针线/妈妈的针线_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_妈妈的针线/cover_妈妈的针线.jpg",
         "all_covers": [
@@ -3186,6 +3429,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_好久不见/好久不见_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_好久不见/cover_好久不见.jpg",
         "all_covers": [
@@ -3230,6 +3474,7 @@
           "size_mb": 8.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_声声慢/声声慢_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_声声慢/cover_声声慢.jpg",
         "all_covers": [
@@ -3242,7 +3487,6 @@
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-09-17_声声慢/声声慢_poster.png",
       "lyrics_file": "[Intro]\n青砖墙外雨打湿了芭蕉叶\n旧时光它爬满了青苔台阶\n一盏茶香飘着谁的声声慢\n\n[Verse 1]\n月上西楼照见那扇旧窗棂\n晚风吹过桥头吹皱了心情\n抚琴人在深巷等不到归人影\n落雪无声覆盖了多少流年景\n烛火摇曳照着我手中的针线\n绣了一半鸳鸯却少了另一半\n那年你说的誓言还在耳边转\n如今只剩下这冷清清的庭院\n\n[Pre-Chorus]\n雁字回时月满西楼的寂寞\n三杯两盏淡酒暖不了心窝\n梧桐更兼细雨到黄昏时候\n\n[Chorus]\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n凄凄惨惨又几个秋冬\n这声声慢呀你听到了吗\n这声声慢呀我唱到沙哑\n\n[Verse 2]\n鸿雁飞过关山带不走我的念\n独坐窗前数着更漏一夜无眠\n泛黄书信字里行间的温柔显\n你的轮廓在雾中若隐若现\n小楼昨夜又刮起了西北风\n烛影摇红照见我满脸泪容\n琴瑟断了一根弦再也弹不动\n满地黄花堆积谁人与我同\n\n[Pre-Chorus]\n雁字回时月满西楼依旧\n三杯两盏淡酒浇不灭愁\n梧桐细雨点点滴滴到明昼\n\n[Chorus]\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n凄凄惨惨又几个秋冬\n这声声慢呀你听到了吗\n这声声慢呀我唱到沙哑\n\n[Instrumental]\n古筝与笛子\n\n[Bridge]\n往事如烟散尽了繁华旧梦\n只剩下这声声慢我还在诵\n不是不爱了是缘分它太匆匆\n就像那满地落花随水流向东\n\n[Chorus]\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n寻寻觅觅呀冷冷清清\n凄凄惨惨又几个秋冬\n这声声慢呀你听到了吗\n这声声慢呀我唱到沙哑\n\n[Outro]\n旧时光它藏着最初的承诺\n晚风会把我的思念轻轻托\n那一盏茶香还飘着声声慢\n故事结局不需要谁来问我",
       "duration": 287,
-      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-20_声声慢/声声慢.lrc",
       "youmind_uploaded": true,
       "youmind_cdn_date": "2026-09-11",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/12782295ea4c049e6ae862067539f9e62ffe7cba7814021de55fc2f1f227e3b9",
@@ -3275,6 +3519,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-16_醉赤壁/醉赤壁_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-16_醉赤壁/cover_醉赤壁.jpg",
         "all_covers": [
@@ -3318,6 +3563,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-16_糖分超标/糖分超标_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-16_糖分超标/cover_糖分超标.jpg",
         "all_covers": [
@@ -3361,6 +3607,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-16_娘做的菜/娘做的菜_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-16_娘做的菜/cover_娘做的菜.jpg",
         "all_covers": [
@@ -3404,6 +3651,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-16_夜里想你/夜里想你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-16_夜里想你/cover_夜里想你.jpg",
         "all_covers": [
@@ -3447,6 +3695,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-16_嗨爆街/嗨爆街_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-16_嗨爆街/cover_嗨爆街.jpg",
         "all_covers": [
@@ -3490,6 +3739,7 @@
           "size_mb": 8.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-14_梅花落/梅花落_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-14_梅花落/cover_梅花落.jpg",
         "all_covers": [
@@ -3534,6 +3784,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-14_放牛娃/放牛娃_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-14_放牛娃/cover_放牛娃.jpg",
         "all_covers": [
@@ -3578,6 +3829,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-14_心慌慌/心慌慌_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-14_心慌慌/cover_心慌慌.jpg",
         "all_covers": [
@@ -3622,6 +3874,7 @@
           "size_mb": 6.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-14_嗨翻天际/嗨翻天际_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-14_嗨翻天际/cover_嗨翻天际.jpg",
         "all_covers": [
@@ -3666,6 +3919,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-14_啵一口/啵一口_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-14_啵一口/cover_啵一口.jpg",
         "all_covers": [
@@ -3710,6 +3964,7 @@
           "size_mb": 6.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-13_青石巷/青石巷_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-13_青石巷/cover_青石巷.jpg",
         "all_covers": [
@@ -3753,6 +4008,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-13_村头大喇叭/村头大喇叭_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-13_村头大喇叭/cover_村头大喇叭.jpg",
         "all_covers": [
@@ -3796,6 +4052,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-13_戒不掉/戒不掉_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-13_戒不掉/cover_戒不掉.jpg",
         "all_covers": [
@@ -3839,6 +4096,7 @@
           "size_mb": 7.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-13_山路弯弯/山路弯弯_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-13_山路弯弯/cover_山路弯弯.jpg",
         "all_covers": [
@@ -3882,6 +4140,7 @@
           "size_mb": 4.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-13_吃醋啦/吃醋啦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-13_吃醋啦/cover_吃醋啦.jpg",
         "all_covers": [
@@ -3925,6 +4184,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-12_甜掉牙/甜掉牙_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-12_甜掉牙/cover_甜掉牙.jpg",
         "all_covers": [
@@ -3966,6 +4226,7 @@
           "size_mb": 7.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-12_柴火饭/柴火饭_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-12_柴火饭/cover_柴火饭.jpg",
         "all_covers": [
@@ -4007,6 +4268,7 @@
           "size_mb": 9.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-12_故人归/故人归_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-12_故人归/cover_故人归.jpg",
         "all_covers": [
@@ -4048,6 +4310,7 @@
           "size_mb": 8.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-12_嗨到天亮/嗨到天亮_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-12_嗨到天亮/cover_嗨到天亮.jpg",
         "all_covers": [
@@ -4089,6 +4352,7 @@
           "size_mb": 7.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-12_会呼吸的痛/会呼吸的痛_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-12_会呼吸的痛/cover_会呼吸的痛.jpg",
         "all_covers": [
@@ -4130,6 +4394,7 @@
           "size_mb": 8.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_老灶台/老灶台_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -4163,6 +4428,7 @@
           "size_mb": 6.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_老水井/老水井_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_老水井/cover_老水井.jpg",
         "all_covers": [
@@ -4204,6 +4470,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_粘人精本精/粘人精本精_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_粘人精本精/cover_粘人精本精.jpg",
         "all_covers": [
@@ -4245,6 +4512,7 @@
           "size_mb": 7.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_眼泪止不住/眼泪止不住_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -4278,6 +4546,7 @@
           "size_mb": 9.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_桃花笺/桃花笺_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -4311,6 +4580,7 @@
           "size_mb": 7.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_拍拍手/拍拍手_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -4344,6 +4614,7 @@
           "size_mb": 7.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_戒不掉的想你/戒不掉的想你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_戒不掉的想你/cover_戒不掉的想你.jpg",
         "all_covers": [
@@ -4385,6 +4656,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_恋爱啦/恋爱啦_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -4418,6 +4690,7 @@
           "size_mb": 7.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_寄明月/寄明月_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_寄明月/cover_寄明月.jpg",
         "all_covers": [
@@ -4459,6 +4732,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_嗨翻啦/嗨翻啦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-11_嗨翻啦/cover_嗨翻啦.jpg",
         "all_covers": [
@@ -4500,6 +4774,7 @@
           "size_mb": 6.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_黏上你/黏上你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_黏上你/cover_黏上你.jpg",
         "all_covers": [
@@ -4540,6 +4815,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_蹦一蹦/蹦一蹦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_蹦一蹦/cover_蹦一蹦.jpg",
         "all_covers": [
@@ -4580,6 +4856,7 @@
           "size_mb": 8.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_故园梦/故园梦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_故园梦/cover_故园梦.jpg",
         "all_covers": [
@@ -4620,6 +4897,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_土坯墙/土坯墙_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_土坯墙/cover_土坯墙.jpg",
         "all_covers": [
@@ -4660,6 +4938,7 @@
           "size_mb": 6.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_又失眠/又失眠_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-10_又失眠/cover_又失眠.jpg",
         "all_covers": [
@@ -4700,6 +4979,7 @@
           "size_mb": 7.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_醉西厢/醉西厢_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_醉西厢/cover_醉西厢.jpg",
         "all_covers": [
@@ -4740,6 +5020,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_甜到齁/甜到齁_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_甜到齁/cover_甜到齁.jpg",
         "all_covers": [
@@ -4780,6 +5061,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_想你入骨/想你入骨_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_想你入骨/cover_想你入骨.jpg",
         "all_covers": [
@@ -4820,6 +5102,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_小米粥/小米粥_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_小米粥/cover_小米粥.jpg",
         "all_covers": [
@@ -4860,6 +5143,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_嗨炸啦/嗨炸啦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-09_嗨炸啦/cover_嗨炸啦.jpg",
         "all_covers": [
@@ -4900,6 +5184,7 @@
           "size_mb": 6.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-08_麦穗黄/麦穗黄_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-08_麦穗黄/cover_麦穗黄.jpg",
         "all_covers": [
@@ -4940,6 +5225,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-08_爱不动了/爱不动了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-08_爱不动了/cover_爱不动了.jpg",
         "all_covers": [
@@ -4980,6 +5266,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-08_摇摆摇/摇摆摇_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-08_摇摆摇/cover_摇摆摇.jpg",
         "all_covers": [
@@ -5020,6 +5307,7 @@
           "size_mb": 8.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-08_念长安/念长安_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-08_念长安/cover_念长安.jpg",
         "all_covers": [
@@ -5060,6 +5348,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-08_小甜心/小甜心_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-08_小甜心/cover_小甜心.jpg",
         "all_covers": [
@@ -5100,6 +5389,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-07_醉月楼/醉月楼_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-07_醉月楼/cover_醉月楼.jpg",
         "all_covers": [
@@ -5140,6 +5430,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-07_跳起来嗨/跳起来嗨_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-07_跳起来嗨/cover_跳起来嗨.jpg",
         "all_covers": [
@@ -5180,6 +5471,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-07_老屋门/老屋门_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-07_老屋门/cover_老屋门.jpg",
         "all_covers": [
@@ -5220,6 +5512,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-07_撒娇啦/撒娇啦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-07_撒娇啦/cover_撒娇啦.jpg",
         "all_covers": [
@@ -5260,6 +5553,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-07_心凉了/心凉了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-07_心凉了/cover_心凉了.jpg",
         "all_covers": [
@@ -5300,6 +5594,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-06_村口那棵树/村口那棵树_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-06_村口那棵树/cover_村口那棵树.jpg",
         "all_covers": [
@@ -5342,6 +5637,7 @@
           "size_mb": 6.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-06_摇就完了/摇就完了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-06_摇就完了/cover_摇就完了.jpg",
         "all_covers": [
@@ -5384,6 +5680,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-06_折柳渡/折柳渡_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-06_折柳渡/cover_折柳渡.jpg",
         "all_covers": [
@@ -5426,6 +5723,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-06_我还是想你/我还是想你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-06_我还是想你/cover_我还是想你.jpg",
         "all_covers": [
@@ -5468,6 +5766,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-06_哄哄我/哄哄我_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-06_哄哄我/cover_哄哄我.jpg",
         "all_covers": [
@@ -5510,6 +5809,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_跳起来/跳起来_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_跳起来/cover_跳起来.jpg",
         "all_covers": [
@@ -5552,6 +5852,7 @@
           "size_mb": 7.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_老院墙/老院墙_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_老院墙/cover_老院墙.jpg",
         "all_covers": [
@@ -5594,6 +5895,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_忆长安/忆长安_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_忆长安/cover_忆长安.jpg",
         "all_covers": [
@@ -5636,6 +5938,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_心好酸/心好酸_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_心好酸/cover_心好酸.jpg",
         "all_covers": [
@@ -5678,6 +5981,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_别不理我/别不理我_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-05_别不理我/cover_别不理我.jpg",
         "all_covers": [
@@ -5720,6 +6024,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_走远啦/走远啦_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -5753,6 +6058,7 @@
           "size_mb": 4.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_老碾坊/老碾坊_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -5786,6 +6092,7 @@
           "size_mb": 4.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_甜蜜蜜呀/甜蜜蜜呀_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -5819,6 +6126,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_渡红尘/渡红尘_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -5852,6 +6160,7 @@
           "size_mb": 5.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-04_嗨起来呀/嗨起来呀_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -5885,6 +6194,7 @@
           "size_mb": 6.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_雨中曲/雨中曲_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_雨中曲/cover_雨中曲.jpg",
         "all_covers": [
@@ -5926,6 +6236,7 @@
           "size_mb": 7.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_蹦呲呲/蹦呲呲_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_蹦呲呲/cover_蹦呲呲.jpg",
         "all_covers": [
@@ -6033,6 +6344,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_爱爱爱/爱爱爱_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_爱爱爱/cover_爱爱爱.jpg",
         "all_covers": [
@@ -6118,6 +6430,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_心冷了/心冷了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_心冷了/cover_心冷了.jpg",
         "all_covers": [
@@ -6159,6 +6472,7 @@
           "size_mb": 8.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_小毛驴/小毛驴_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-03_小毛驴/cover_小毛驴.jpg",
         "all_covers": [
@@ -6200,6 +6514,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-02_醉花间/醉花间_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-02_醉花间/cover_醉花间.jpg",
         "all_covers": [
@@ -6240,6 +6555,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-02_老磨盘/老磨盘_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-02_老磨盘/cover_老磨盘.jpg",
         "all_covers": [
@@ -6280,6 +6596,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-02_空房子/空房子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-02_空房子/cover_空房子.jpg",
         "all_covers": [
@@ -6320,6 +6637,7 @@
           "size_mb": 6.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-02_手拉手/手拉手_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-02_手拉手/cover_手拉手.jpg",
         "all_covers": [
@@ -6360,6 +6678,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-02_嗨爆啦/嗨爆啦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-02_嗨爆啦/cover_嗨爆啦.jpg",
         "all_covers": [
@@ -6400,6 +6719,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-01_走不开/走不开_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-01_走不开/cover_走不开.jpg",
         "all_covers": [
@@ -6441,6 +6761,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-01_老碾子/老碾子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-01_老碾子/cover_老碾子.jpg",
         "all_covers": [
@@ -6482,6 +6803,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-01_撒野/撒野_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-01_撒野/cover_撒野.jpg",
         "all_covers": [
@@ -6523,6 +6845,7 @@
           "size_mb": 6.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-01_心碎了一地/心碎了一地_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-01_心碎了一地/cover_心碎了一地.jpg",
         "all_covers": [
@@ -6564,6 +6887,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-09-01_小重山/小重山_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-09-01_小重山/cover_小重山.jpg",
         "all_covers": [
@@ -6605,6 +6929,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_没你行/没你行_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_没你行/cover_没你行.jpg",
         "all_covers": [
@@ -6646,6 +6971,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_心痒痒/心痒痒_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_心痒痒/cover_心痒痒.jpg",
         "all_covers": [
@@ -6687,6 +7013,7 @@
           "size_mb": 8.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_大风吹/大风吹_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-31_大风吹/cover_大风吹.jpg",
         "all_covers": [
@@ -6728,6 +7055,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-30_燥起来/燥起来_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-30_燥起来/cover_燥起来.jpg",
         "all_covers": [
@@ -6769,6 +7097,7 @@
           "size_mb": 8.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-30_江城子/江城子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-30_江城子/cover_江城子.jpg",
         "all_covers": [
@@ -6810,6 +7139,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-30_好喜欢你/好喜欢你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-30_好喜欢你/cover_好喜欢你.jpg",
         "all_covers": [
@@ -6851,6 +7181,7 @@
           "size_mb": 7.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-30_回村的路/回村的路_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-30_回村的路/cover_回村的路.jpg",
         "all_covers": [
@@ -6892,6 +7223,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-30_回不去/回不去_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-30_回不去/cover_回不去.jpg",
         "all_covers": [
@@ -6933,6 +7265,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-29_跟着摇/跟着摇_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-29_跟着摇/cover_跟着摇.jpg",
         "all_covers": [
@@ -6973,6 +7306,7 @@
           "size_mb": 7.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-29_没你不行/没你不行_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-29_没你不行/cover_没你不行.jpg",
         "all_covers": [
@@ -7013,6 +7347,7 @@
           "size_mb": 7.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-29_柳梢青/柳梢青_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-29_柳梢青/cover_柳梢青.jpg",
         "all_covers": [
@@ -7053,6 +7388,7 @@
           "size_mb": 7.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-29_村口路/村口路_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-29_村口路/cover_村口路.jpg",
         "all_covers": [
@@ -7093,6 +7429,7 @@
           "size_mb": 6.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-29_喜欢你呦/喜欢你呦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-29_喜欢你呦/cover_喜欢你呦.jpg",
         "all_covers": [
@@ -7133,6 +7470,7 @@
           "size_mb": 5.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-28_贴过来抱抱/贴过来抱抱_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-28_贴过来抱抱/cover_贴过来抱抱.jpg",
         "all_covers": [
@@ -7173,6 +7511,7 @@
           "size_mb": 7.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-28_心还没凉/心还没凉_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-28_心还没凉/cover_心还没凉.jpg",
         "all_covers": [
@@ -7213,6 +7552,7 @@
           "size_mb": 7.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-28_土灶台/土灶台_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-28_土灶台/cover_土灶台.jpg",
         "all_covers": [
@@ -7253,6 +7593,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-28_嗨到飞起/嗨到飞起_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-28_嗨到飞起/cover_嗨到飞起.jpg",
         "all_covers": [
@@ -7293,6 +7634,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-28_一梦千年/一梦千年_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-28_一梦千年/cover_一梦千年.jpg",
         "all_covers": [
@@ -7333,6 +7675,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-27_蹦起来吧/蹦起来吧_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-27_蹦起来吧/cover_蹦起来吧.jpg",
         "all_covers": [
@@ -7373,6 +7716,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-27_该不该爱/该不该爱_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-27_该不该爱/cover_该不该爱.jpg",
         "all_covers": [
@@ -7413,6 +7757,7 @@
           "size_mb": 7.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-27_老屋/老屋_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-27_老屋/cover_老屋.jpg",
         "all_covers": [
@@ -7453,6 +7798,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-27_月下酌/月下酌_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-27_月下酌/cover_月下酌.jpg",
         "all_covers": [
@@ -7493,6 +7839,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-27_你走吧/你走吧_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-27_你走吧/cover_你走吧.jpg",
         "all_covers": [
@@ -7533,6 +7880,7 @@
           "size_mb": 6.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_跳一跳/跳一跳_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_跳一跳/cover_跳一跳.jpg",
         "all_covers": [
@@ -7573,6 +7921,7 @@
           "size_mb": 4.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_老井边/老井边_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_老井边/cover_老井边.jpg",
         "all_covers": [
@@ -7613,6 +7962,7 @@
           "size_mb": 7.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_江南忆/江南忆_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_江南忆/cover_江南忆.jpg",
         "all_covers": [
@@ -7653,6 +8003,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_小甜甜/小甜甜_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_小甜甜/cover_小甜甜.jpg",
         "all_covers": [
@@ -7693,6 +8044,7 @@
           "size_mb": 6.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_凌晨三点/凌晨三点_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-25_凌晨三点/cover_凌晨三点.jpg",
         "all_covers": [
@@ -7733,6 +8085,7 @@
           "size_mb": 9.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-24_醉清风/醉清风_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-24_醉清风/cover_醉清风.jpg",
         "all_covers": [
@@ -7773,6 +8126,7 @@
           "size_mb": 7.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-24_睡不着/睡不着_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-24_睡不着/cover_睡不着.jpg",
         "all_covers": [
@@ -7813,6 +8167,7 @@
           "size_mb": 7.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-24_心乱乱/心乱乱_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-24_心乱乱/cover_心乱乱.jpg",
         "all_covers": [
@@ -7853,6 +8208,7 @@
           "size_mb": 8.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-24_山沟沟/山沟沟_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-24_山沟沟/cover_山沟沟.jpg",
         "all_covers": [
@@ -7893,6 +8249,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-24_嚓嚓嚓/嚓嚓嚓_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-24_嚓嚓嚓/cover_嚓嚓嚓.jpg",
         "all_covers": [
@@ -7933,6 +8290,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-23_甩一甩/甩一甩_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-23_甩一甩/cover_甩一甩.jpg",
         "all_covers": [
@@ -7973,6 +8331,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-23_心好碎/心好碎_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-23_心好碎/cover_心好碎.jpg",
         "all_covers": [
@@ -8013,6 +8372,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-23_心动啊/心动啊_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-23_心动啊/cover_心动啊.jpg",
         "all_covers": [
@@ -8053,6 +8413,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-23_卜算子/卜算子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-23_卜算子/cover_卜算子.jpg",
         "all_covers": [
@@ -8093,6 +8454,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-22_长安花/长安花_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -8126,6 +8488,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-22_舞起来/舞起来_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -8159,6 +8522,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-22_稻田边/稻田边_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -8192,6 +8556,7 @@
           "size_mb": 7.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-22_心里甜/心里甜_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -8225,6 +8590,7 @@
           "size_mb": 6.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-22_半杯酒/半杯酒_v1.lrc",
       "cover": {
         "path": null,
         "all_covers": []
@@ -8258,6 +8624,7 @@
           "size_mb": 10.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-20_望江南/望江南_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-20_望江南/cover_望江南.jpg",
         "all_covers": [
@@ -8298,6 +8665,7 @@
           "size_mb": 9.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-20_想你啊/想你啊_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-20_想你啊/cover_想你啊.jpg",
         "all_covers": [
@@ -8338,6 +8706,7 @@
           "size_mb": 6.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-20_山里娃/山里娃_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-20_山里娃/cover_山里娃.jpg",
         "all_covers": [
@@ -8378,6 +8747,7 @@
           "size_mb": 6.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-20_嗨啦啦/嗨啦啦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-20_嗨啦啦/cover_嗨啦啦.jpg",
         "all_covers": [
@@ -8418,6 +8788,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-20_你没来/你没来_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-20_你没来/cover_你没来.jpg",
         "all_covers": [
@@ -8458,6 +8829,7 @@
           "size_mb": 7.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_醉长安/醉长安_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_醉长安/cover_醉长安.jpg",
         "all_covers": [
@@ -8467,7 +8839,6 @@
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_醉长安/醉长安_poster.png",
       "lyrics_file": "[Intro]\n月落长安西市楼  \n风卷残雪过朱门  \n一壶浊酒烫旧痕  \n\n[Verse 1]\n青砖缝里藏了春  \n檐角铜铃摇黄昏  \n谁家玉笛吹破晓  \n半城烟柳半城尘  \n\n石阶苔痕印马蹄  \n酒旗斜挑杏花雨  \n画楼西畔烛影深  \n琴声漫过旧宫门  \n\n[Pre-Chorus]\n且把金樽对月轮  \n醉眼朦胧认前身  \n\n[Chorus]\n醉长安 醉长安 醉长安  \n灯火阑珊处 谁在敲更鼓  \n醉长安 醉长安 醉长安  \n城墙外 胡笳咽 黄沙卷归途  \n\n[Verse 2]\n曲江池畔柳絮飞  \n雁塔斜阳镀金辉  \n胭脂井边残雪融  \n谁簪玉簪叹春回  \n\n朱雀大街车马稀  \n胡姬旋舞红袖垂  \n夜半钟声渡寒水  \n梦里不知身是客  \n\n[Pre-Chorus]\n再斟一杯琥珀光  \n敬这千年不夜城  \n\n[Chorus]\n醉长安 醉长安 醉长安  \n灯火阑珊处 谁在敲更鼓  \n醉长安 醉长安 醉长安  \n城墙外 胡笳咽 黄沙卷归途  \n\n[Instrumental]\n古筝拨乱千层浪  \n笛声穿云裂石梁  \n琵琶急奏催酒令  \n\n[Bridge]\n醉卧沙场君莫笑  \n古来征战几人回  \n今宵酒醒何处  \n杨柳岸 晓风残月  \n\n[Chorus]\n醉长安 醉长安 醉长安  \n灯火阑珊处 谁在敲更鼓  \n醉长安 醉长安 醉长安  \n城墙外 胡笳咽 黄沙卷归途  \n\n[Outro]\n醉倒长安不须归  \n任他明月下西楼  \n一梦千年 一醉方休",
       "duration": 243,
-      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_醉长安/醉长安.lrc",
       "mp3": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_醉长安/醉长安_v1.mp3",
       "lrc": false,
       "lyrics": "[Intro]\n月落长安西市楼  \n风卷残雪过朱门  \n一壶浊酒烫旧痕  \n\n[Verse 1]\n青砖缝里藏了春  \n檐角铜铃摇黄昏  \n谁家玉笛吹破晓  \n半城烟柳半城尘  \n\n石阶苔痕印马蹄  \n酒旗斜挑杏花雨  \n画楼西畔烛影深  \n琴声漫过旧宫门  \n\n[Pre-Chorus]\n且把金樽对月轮  \n醉眼朦胧认前身  \n\n[Chorus]\n醉长安 醉长安 醉长安  \n灯火阑珊处 谁在敲更鼓  \n醉长安 醉长安 醉长安  \n城墙外 胡笳咽 黄沙卷归途  \n\n[Verse 2]\n曲江池畔柳絮飞  \n雁塔斜阳镀金辉  \n胭脂井边残雪融  \n谁簪玉簪叹春回  \n\n朱雀大街车马稀  \n胡姬旋舞红袖垂  \n夜半钟声渡寒水  \n梦里不知身是客  \n\n[Pre-Chorus]\n再斟一杯琥珀光  \n敬这千年不夜城  \n\n[Chorus]\n醉长安 醉长安 醉长安  \n灯火阑珊处 谁在敲更鼓  \n醉长安 醉长安 醉长安  \n城墙外 胡笳咽 黄沙卷归途  \n\n[Instrumental]\n古筝拨乱千层浪  \n笛声穿云裂石梁  \n琵琶急奏催酒令  \n\n[Bridge]\n醉卧沙场君莫笑  \n古来征战几人回  \n今宵酒醒何处  \n杨柳岸 晓风残月  \n\n[Chorus]\n醉长安 醉长安 醉长安  \n灯火阑珊处 谁在敲更鼓  \n醉长安 醉长安 醉长安  \n城墙外 胡笳咽 黄沙卷归途  \n\n[Outro]\n醉倒长安不须归  \n任他明月下西楼  \n一梦千年 一醉方休",
@@ -8503,6 +8874,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_羞羞脸/羞羞脸_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_羞羞脸/cover_羞羞脸.jpg",
         "all_covers": [
@@ -8512,7 +8884,6 @@
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_羞羞脸/羞羞脸_poster.png",
       "lyrics_file": "[Intro]\n羞羞脸\n心太乱\n偷看一眼怎么办\n\n[Verse 1]\n刚洗完脸\n头发还没干\n你消息响\n我手忙脚乱\n对着镜子\n拍了几十张\n哪张好看\n我越看越慌张\n\n[Pre-Chorus]\n脸好烫\n像太阳\n你一笑我就投降\n\n[Chorus]\n羞羞脸 羞羞脸 羞羞脸 你别看\n羞羞脸 羞羞脸 羞羞脸 我心慌\n羞羞脸 羞羞脸 羞羞脸 红到耳尖尖\n原来喜欢一个人会发光\n\n[Verse 2]\n约好的店\n我等了一整晚\n你刚出现\n我低头看脚尖\n奶茶太甜\n是你点的口味\n吸管咬扁\n假装若无其事一遍\n\n[Pre-Chorus]\n别偷看\n我会乱\n心跳声它不听管\n\n[Chorus]\n羞羞脸 羞羞脸 羞羞脸 你别看\n羞羞脸 羞羞脸 羞羞脸 我心慌\n羞羞脸 羞羞脸 羞羞脸 红到耳尖尖\n原来喜欢一个人会发光\n\n[Bridge]\n怎么办 怎么办 眼神躲不开\n怎么办 怎么办 被你一眼看穿\n想靠近 想逃跑 心在乱撞\n你坏坏笑 说我就喜欢这样\n\n[Chorus]\n羞羞脸 羞羞脸 羞羞脸 你别看\n羞羞脸 羞羞脸 羞羞脸 我心慌\n羞羞脸 羞羞脸 羞羞脸 红到耳尖尖\n原来喜欢一个人会发光\n羞羞脸 羞羞脸 羞羞脸 藏不住\n羞羞脸 羞羞脸 羞羞脸 好喜欢\n羞羞脸 羞羞脸 羞羞脸 撞上你眼弯弯\n这下全世界都知道我完蛋\n\n[Chorus]\n羞羞脸 羞羞脸 羞羞脸 你别看\n羞羞脸 羞羞脸 羞羞脸 我心慌\n羞羞脸 羞羞脸 羞羞脸 红到耳尖尖\n原来喜欢一个人会发光\n羞羞脸 羞羞脸 羞羞脸 藏不住\n羞羞脸 羞羞脸 羞羞脸 好喜欢\n羞羞脸 羞羞脸 羞羞脸 撞上你眼弯弯\n这下全世界都知道我完蛋\n\n[Outro]\n羞羞脸\n别偷看\n偷看就把你 牵回家管",
       "duration": 179,
-      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_羞羞脸/羞羞脸.lrc",
       "mp3": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_羞羞脸/羞羞脸_v1.mp3",
       "lrc": false,
       "lyrics": "[Intro]\n羞羞脸\n心太乱\n偷看一眼怎么办\n\n[Verse 1]\n刚洗完脸\n头发还没干\n你消息响\n我手忙脚乱\n对着镜子\n拍了几十张\n哪张好看\n我越看越慌张\n\n[Pre-Chorus]\n脸好烫\n像太阳\n你一笑我就投降\n\n[Chorus]\n羞羞脸 羞羞脸 羞羞脸 你别看\n羞羞脸 羞羞脸 羞羞脸 我心慌\n羞羞脸 羞羞脸 羞羞脸 红到耳尖尖\n原来喜欢一个人会发光\n\n[Verse 2]\n约好的店\n我等了一整晚\n你刚出现\n我低头看脚尖\n奶茶太甜\n是你点的口味\n吸管咬扁\n假装若无其事一遍\n\n[Pre-Chorus]\n别偷看\n我会乱\n心跳声它不听管\n\n[Chorus]\n羞羞脸 羞羞脸 羞羞脸 你别看\n羞羞脸 羞羞脸 羞羞脸 我心慌\n羞羞脸 羞羞脸 羞羞脸 红到耳尖尖\n原来喜欢一个人会发光\n\n[Bridge]\n怎么办 怎么办 眼神躲不开\n怎么办 怎么办 被你一眼看穿\n想靠近 想逃跑 心在乱撞\n你坏坏笑 说我就喜欢这样\n\n[Chorus]\n羞羞脸 羞羞脸 羞羞脸 你别看\n羞羞脸 羞羞脸 羞羞脸 我心慌\n羞羞脸 羞羞脸 羞羞脸 红到耳尖尖\n原来喜欢一个人会发光\n羞羞脸 羞羞脸 羞羞脸 藏不住\n羞羞脸 羞羞脸 羞羞脸 好喜欢\n羞羞脸 羞羞脸 羞羞脸 撞上你眼弯弯\n这下全世界都知道我完蛋\n\n[Chorus]\n羞羞脸 羞羞脸 羞羞脸 你别看\n羞羞脸 羞羞脸 羞羞脸 我心慌\n羞羞脸 羞羞脸 羞羞脸 红到耳尖尖\n原来喜欢一个人会发光\n羞羞脸 羞羞脸 羞羞脸 藏不住\n羞羞脸 羞羞脸 羞羞脸 好喜欢\n羞羞脸 羞羞脸 羞羞脸 撞上你眼弯弯\n这下全世界都知道我完蛋\n\n[Outro]\n羞羞脸\n别偷看\n偷看就把你 牵回家管",
@@ -8548,6 +8919,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_心好冷/心好冷_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_心好冷/cover_心好冷.jpg",
         "all_covers": [
@@ -8557,7 +8929,6 @@
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_心好冷/心好冷_poster.png",
       "lyrics_file": "[Intro]\n窗外雨还在下\n房间没开灯\n像极了你说分手的那晚\n\n[Verse 1]\n手机屏亮了一下\n我以为是你\n结果是广告\n我又把它按灭\n茶早就凉了\n像你说过的那些话\n一口没喝\n端到嘴边又放下\n我删掉你的号码\n又凭着记忆\n一个数字一个数字\n把它拼回来\n\n[Pre-Chorus]\n冰箱还在响\n可家里好静\n静得我听见自己的心跳\n\n[Chorus]\n心好冷 冷被窝像一座空城\n心好冷 手心再也触不到你的体温\n心好冷 胸口还压着那句我们\n原来爱一个人 能冷到灵魂\n\n[Verse 2]\n从前你总把空调调低\n说这样抱我才更紧\n现在被子我卷了两层\n还是漏风\n你的枕头还放在那\n我不敢换\n怕一换\n就真的没了你的味道\n楼下便利店\n第二杯半价还在\n可我再也没买过\n两杯奶茶\n\n[Pre-Chorus]\n聊天记录翻到顶\n笑着笑着\n眼泪就滑进了嘴角\n\n[Chorus]\n心好冷 冷被窝像一座空城\n心好冷 手心再也触不到你的体温\n心好冷 胸口还压着那句我们\n原来爱一个人 能冷到灵魂\n\n[Bridge]\n我会关掉那盏等你的灯\n我会把冷茶倒掉重新续热\n我会把手机调成静音\n不再等你的消息\n我会慢慢习惯\n一个人把被窝睡暖和\n可眼泪它不争气\n一想起你\n又落了一整晚\n\n[Chorus]\n心好冷 冷被窝像一座空城\n心好冷 手心再也触不到你的体温\n心好冷 胸口还压着那句我们\n原来爱一个人 能冷到灵魂\n\n[Outro]\n天快亮了\n雨也停了\n可我的心\n为什么还是好冷",
       "duration": 182,
-      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_心好冷/心好冷.lrc",
       "mp3": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_心好冷/心好冷_v1.mp3",
       "lrc": false,
       "lyrics": "[Intro]\n窗外雨还在下\n房间没开灯\n像极了你说分手的那晚\n\n[Verse 1]\n手机屏亮了一下\n我以为是你\n结果是广告\n我又把它按灭\n茶早就凉了\n像你说过的那些话\n一口没喝\n端到嘴边又放下\n我删掉你的号码\n又凭着记忆\n一个数字一个数字\n把它拼回来\n\n[Pre-Chorus]\n冰箱还在响\n可家里好静\n静得我听见自己的心跳\n\n[Chorus]\n心好冷 冷被窝像一座空城\n心好冷 手心再也触不到你的体温\n心好冷 胸口还压着那句我们\n原来爱一个人 能冷到灵魂\n\n[Verse 2]\n从前你总把空调调低\n说这样抱我才更紧\n现在被子我卷了两层\n还是漏风\n你的枕头还放在那\n我不敢换\n怕一换\n就真的没了你的味道\n楼下便利店\n第二杯半价还在\n可我再也没买过\n两杯奶茶\n\n[Pre-Chorus]\n聊天记录翻到顶\n笑着笑着\n眼泪就滑进了嘴角\n\n[Chorus]\n心好冷 冷被窝像一座空城\n心好冷 手心再也触不到你的体温\n心好冷 胸口还压着那句我们\n原来爱一个人 能冷到灵魂\n\n[Bridge]\n我会关掉那盏等你的灯\n我会把冷茶倒掉重新续热\n我会把手机调成静音\n不再等你的消息\n我会慢慢习惯\n一个人把被窝睡暖和\n可眼泪它不争气\n一想起你\n又落了一整晚\n\n[Chorus]\n心好冷 冷被窝像一座空城\n心好冷 手心再也触不到你的体温\n心好冷 胸口还压着那句我们\n原来爱一个人 能冷到灵魂\n\n[Outro]\n天快亮了\n雨也停了\n可我的心\n为什么还是好冷",
@@ -8593,6 +8964,7 @@
           "size_mb": 6.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_娘的菜/娘的菜_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_娘的菜/cover_娘的菜.jpg",
         "all_covers": [
@@ -8602,7 +8974,6 @@
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_娘的菜/娘的菜_poster.png",
       "lyrics_file": "[Intro]\n张家沟村口那棵老槐树又发芽\n老屋的烟囱飘着一缕烟\n娘端着盘子站在院门前\n\n[Verse 1]\n小时候我总爱在屋后菜地里跑\n裤脚沾满泥巴也管不了\n她喊我回家吃饭的声音\n穿过半个村子那么亮\n桌上总有一碗青菜豆腐汤\n她说吃了才长得高长得壮\n炕头上的被子总晒得暖\n那是娘留给我的一方天\n\n[Pre-Chorus]\n那时候不懂什么叫牵挂\n只知道吃饱了就不想家\n一碗热饭就是天下\n\n[Chorus]\n娘的菜，是院子里黄瓜架上开的花\n开在晨雾里也开在我梦里\n娘的菜，是灶台上咕嘟咕嘟冒的热气啊\n热得我鼻子一酸想掉泪\n娘的菜，是那片青了又黄的小小菜地\n种着爹的烟袋和我的童年\n我一定要混出个人样再回去\n让她坐在桌前看我吃一碗\n\n[Verse 2]\n十八岁那年我背着包出门\n火车一开眼泪就不听话\n城里高楼多得看不见天\n盒饭吃了三年还是不够暖\n夜里加班走在空空的街上\n最想吃一口娘做的腌菜帮\n电话里的声音越来越轻\n她说孩子别太累别逞强\n\n[Pre-Chorus]\n电话那头她总是说没事\n别省着钱家里一切都好\n你在外头要照顾好自己\n\n[Chorus]\n娘的菜，是院子里黄瓜架上开的花\n开在晨雾里也开在我梦里\n娘的菜，是灶台上咕嘟咕嘟冒的热气啊\n热得我鼻子一酸想掉泪\n娘的菜，是那片青了又黄的小小菜地\n种着爹的烟袋和我的童年\n我一定要混出个人样再回去\n让她坐在桌前看我吃一碗\n\n[Bridge]\n再苦再累我不怕\n再难再远我不退\n为了爹娘那满头白发\n为了那口熟悉的滋味\n我要在这城市扎下根\n让他们过上像样的日子\n\n[Chorus]\n娘的菜，是院子里黄瓜架上开的花\n开在晨雾里也开在我梦里\n娘的菜，是灶台上咕嘟咕嘟冒的热气啊\n热得我鼻子一酸想掉泪\n娘的菜，是那片青了又黄的小小菜地\n种着爹的烟袋和我的童年\n我一定要混出个人样再回去\n让她坐在桌前看我吃一碗\n\n[Outro]\n等哪天我挣够了钱\n就回老家盖间新房\n天天吃娘炒的菜\n夜夜陪娘唠家常",
       "duration": 212,
-      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_娘的菜/娘的菜.lrc",
       "mp3": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_娘的菜/娘的菜_v1.mp3",
       "lrc": false,
       "lyrics": "[Intro]\n张家沟村口那棵老槐树又发芽\n老屋的烟囱飘着一缕烟\n娘端着盘子站在院门前\n\n[Verse 1]\n小时候我总爱在屋后菜地里跑\n裤脚沾满泥巴也管不了\n她喊我回家吃饭的声音\n穿过半个村子那么亮\n桌上总有一碗青菜豆腐汤\n她说吃了才长得高长得壮\n炕头上的被子总晒得暖\n那是娘留给我的一方天\n\n[Pre-Chorus]\n那时候不懂什么叫牵挂\n只知道吃饱了就不想家\n一碗热饭就是天下\n\n[Chorus]\n娘的菜，是院子里黄瓜架上开的花\n开在晨雾里也开在我梦里\n娘的菜，是灶台上咕嘟咕嘟冒的热气啊\n热得我鼻子一酸想掉泪\n娘的菜，是那片青了又黄的小小菜地\n种着爹的烟袋和我的童年\n我一定要混出个人样再回去\n让她坐在桌前看我吃一碗\n\n[Verse 2]\n十八岁那年我背着包出门\n火车一开眼泪就不听话\n城里高楼多得看不见天\n盒饭吃了三年还是不够暖\n夜里加班走在空空的街上\n最想吃一口娘做的腌菜帮\n电话里的声音越来越轻\n她说孩子别太累别逞强\n\n[Pre-Chorus]\n电话那头她总是说没事\n别省着钱家里一切都好\n你在外头要照顾好自己\n\n[Chorus]\n娘的菜，是院子里黄瓜架上开的花\n开在晨雾里也开在我梦里\n娘的菜，是灶台上咕嘟咕嘟冒的热气啊\n热得我鼻子一酸想掉泪\n娘的菜，是那片青了又黄的小小菜地\n种着爹的烟袋和我的童年\n我一定要混出个人样再回去\n让她坐在桌前看我吃一碗\n\n[Bridge]\n再苦再累我不怕\n再难再远我不退\n为了爹娘那满头白发\n为了那口熟悉的滋味\n我要在这城市扎下根\n让他们过上像样的日子\n\n[Chorus]\n娘的菜，是院子里黄瓜架上开的花\n开在晨雾里也开在我梦里\n娘的菜，是灶台上咕嘟咕嘟冒的热气啊\n热得我鼻子一酸想掉泪\n娘的菜，是那片青了又黄的小小菜地\n种着爹的烟袋和我的童年\n我一定要混出个人样再回去\n让她坐在桌前看我吃一碗\n\n[Outro]\n等哪天我挣够了钱\n就回老家盖间新房\n天天吃娘炒的菜\n夜夜陪娘唠家常",
@@ -8638,6 +9009,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_嗨咿呀/嗨咿呀_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_嗨咿呀/cover_嗨咿呀.jpg",
         "all_covers": [
@@ -8647,7 +9019,6 @@
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_嗨咿呀/嗨咿呀_poster.png",
       "lyrics_file": "[Intro]\nMusic start\n灯亮起来\n大家一起来\n嗨咿呀\n\n[Verse 1]\n广场上人挤人\n音响开到最大声\n红裙子转个圈\n汗水流得真过瘾\n左手挥一挥\n右脚踩一踩\n今晚不回家\n跳到天亮才够本\n\n[Chorus]\n嗨咿呀 跳起来\n嗨咿呀 扭起来\n嗨咿呀 摆起来\n今晚我最帅\n嗨咿呀 摇起来\n嗨咿呀 甩起来\n嗨咿呀 嗨起来\n快乐不用买\n\n[Verse 2]\n大姐笑哈哈\n大哥把手拉\n音箱咚咚响\n舞步别停下\n前后左右晃\n快慢都有样\n不管会不会\n跟着节奏晃\n\n[Pre-Chorus]\n音乐别停\n继续嗨\n跳起来\n\n[Instrumental]\n\n[Verse 3]\n一二三四\n五六七八\n手臂举高高\n屁股扭一下\n左边的朋友\n右边的朋友\n一起跺跺脚\n大声喊出来\n\n[Chorus]\n嗨咿呀 跳起来\n嗨咿呀 扭起来\n嗨咿呀 摆起来\n今晚我最帅\n嗨咿呀 摇起来\n嗨咿呀 甩起来\n嗨咿呀 嗨起来\n快乐不用买\n嗨咿呀 跳起来\n嗨咿呀 扭起来\n嗨咿呀 摆起来\n今晚我最帅\n嗨咿呀 摇起来\n嗨咿呀 甩起来\n嗨咿呀 嗨起来\n快乐不用买\n\n[Chorus]\n嗨咿呀 跳起来\n嗨咿呀 扭起来\n嗨咿呀 摆起来\n今晚我最帅\n嗨咿呀 摇起来\n嗨咿呀 甩起来\n嗨咿呀 嗨起来\n快乐不用买\n\n[Outro]\n嗨咿呀\n再来一遍\n嗨咿呀\n跳到天亮",
       "duration": 177,
-      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_嗨咿呀/嗨咿呀.lrc",
       "mp3": "/Users/wanglingwei/Music/番茄音乐/2026-08-19_嗨咿呀/嗨咿呀_v1.mp3",
       "lrc": false,
       "lyrics": "[Intro]\nMusic start\n灯亮起来\n大家一起来\n嗨咿呀\n\n[Verse 1]\n广场上人挤人\n音响开到最大声\n红裙子转个圈\n汗水流得真过瘾\n左手挥一挥\n右脚踩一踩\n今晚不回家\n跳到天亮才够本\n\n[Chorus]\n嗨咿呀 跳起来\n嗨咿呀 扭起来\n嗨咿呀 摆起来\n今晚我最帅\n嗨咿呀 摇起来\n嗨咿呀 甩起来\n嗨咿呀 嗨起来\n快乐不用买\n\n[Verse 2]\n大姐笑哈哈\n大哥把手拉\n音箱咚咚响\n舞步别停下\n前后左右晃\n快慢都有样\n不管会不会\n跟着节奏晃\n\n[Pre-Chorus]\n音乐别停\n继续嗨\n跳起来\n\n[Instrumental]\n\n[Verse 3]\n一二三四\n五六七八\n手臂举高高\n屁股扭一下\n左边的朋友\n右边的朋友\n一起跺跺脚\n大声喊出来\n\n[Chorus]\n嗨咿呀 跳起来\n嗨咿呀 扭起来\n嗨咿呀 摆起来\n今晚我最帅\n嗨咿呀 摇起来\n嗨咿呀 甩起来\n嗨咿呀 嗨起来\n快乐不用买\n嗨咿呀 跳起来\n嗨咿呀 扭起来\n嗨咿呀 摆起来\n今晚我最帅\n嗨咿呀 摇起来\n嗨咿呀 甩起来\n嗨咿呀 嗨起来\n快乐不用买\n\n[Chorus]\n嗨咿呀 跳起来\n嗨咿呀 扭起来\n嗨咿呀 摆起来\n今晚我最帅\n嗨咿呀 摇起来\n嗨咿呀 甩起来\n嗨咿呀 嗨起来\n快乐不用买\n\n[Outro]\n嗨咿呀\n再来一遍\n嗨咿呀\n跳到天亮",
@@ -8683,6 +9054,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-18_蹦嚓嚓/蹦嚓嚓_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-18_蹦嚓嚓/cover_蹦嚓嚓.jpg",
         "all_covers": [
@@ -8723,6 +9095,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-18_心好疼/心好疼_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-18_心好疼/cover_心好疼.jpg",
         "all_covers": [
@@ -8763,6 +9136,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-18_就爱你/就爱你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-18_就爱你/cover_就爱你.jpg",
         "all_covers": [
@@ -8803,6 +9177,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-18_回家吧/回家吧_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-18_回家吧/cover_回家吧.jpg",
         "all_covers": [
@@ -8843,6 +9218,7 @@
           "size_mb": 7.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-18_一念长安/一念长安_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-18_一念长安/cover_一念长安.jpg",
         "all_covers": [
@@ -8883,6 +9259,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-17_麦田里/麦田里_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-17_麦田里/cover_麦田里.jpg",
         "all_covers": [
@@ -8923,6 +9300,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-17_心好空/心好空_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-17_心好空/cover_心好空.jpg",
         "all_covers": [
@@ -8963,6 +9341,7 @@
           "size_mb": 7.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-17_心动啦/心动啦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-17_心动啦/cover_心动啦.jpg",
         "all_covers": [
@@ -9003,6 +9382,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-17_嗨到爆/嗨到爆_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-17_嗨到爆/cover_嗨到爆.jpg",
         "all_covers": [
@@ -9043,6 +9423,7 @@
           "size_mb": 6.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-17_一纸长安/一纸长安_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-17_一纸长安/cover_一纸长安.jpg",
         "all_covers": [
@@ -9083,6 +9464,7 @@
           "size_mb": 7.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-16_雪落长安/雪落长安_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-16_雪落长安/cover_雪落长安.jpg",
         "all_covers": [
@@ -9123,6 +9505,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-16_蹦蹦跳跳/蹦蹦跳跳_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-16_蹦蹦跳跳/cover_蹦蹦跳跳.jpg",
         "all_covers": [
@@ -9163,6 +9546,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-16_眼泪不听话/眼泪不听话_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-16_眼泪不听话/cover_眼泪不听话.jpg",
         "all_covers": [
@@ -9203,6 +9587,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-16_想你想你/想你想你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-16_想你想你/cover_想你想你.jpg",
         "all_covers": [
@@ -9243,6 +9628,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-16_外婆的蒲扇/外婆的蒲扇_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-16_外婆的蒲扇/cover_外婆的蒲扇.jpg",
         "all_covers": [
@@ -9283,6 +9669,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-15_灯光闪/灯光闪_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-15_灯光闪/cover_灯光闪.jpg",
         "all_covers": [
@@ -9323,6 +9710,7 @@
           "size_mb": 7.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-15_清平乐/清平乐_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-15_清平乐/cover_清平乐.jpg",
         "all_covers": [
@@ -9363,6 +9751,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-15_扑通扑通/扑通扑通_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-15_扑通扑通/cover_扑通扑通.jpg",
         "all_covers": [
@@ -9403,6 +9792,7 @@
           "size_mb": 7.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-15_妈妈的呼唤/妈妈的呼唤_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-15_妈妈的呼唤/cover_妈妈的呼唤.jpg",
         "all_covers": [
@@ -9443,6 +9833,7 @@
           "size_mb": 6.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-15_不打扰/不打扰_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-15_不打扰/cover_不打扰.jpg",
         "all_covers": [
@@ -9483,6 +9874,7 @@
           "size_mb": 8.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-14_玉楼春/玉楼春_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-14_玉楼春/cover_玉楼春.jpg",
         "all_covers": [
@@ -9523,6 +9915,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-14_父亲的扁担/父亲的扁担_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-14_父亲的扁担/cover_父亲的扁担.jpg",
         "all_covers": [
@@ -9563,6 +9956,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-14_恋爱脑/恋爱脑_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-14_恋爱脑/cover_恋爱脑.jpg",
         "all_covers": [
@@ -9603,6 +9997,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-14_大秧歌/大秧歌_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-14_大秧歌/cover_大秧歌.jpg",
         "all_covers": [
@@ -9643,6 +10038,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-14_凌晨三点半/凌晨三点半_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-14_凌晨三点半/cover_凌晨三点半.jpg",
         "all_covers": [
@@ -9683,6 +10079,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-13_红绸带/红绸带_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-13_红绸带/cover_红绸带.jpg",
         "all_covers": [
@@ -9723,6 +10120,7 @@
           "size_mb": 8.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-13_烛影摇红/烛影摇红_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-13_烛影摇红/cover_烛影摇红.jpg",
         "all_covers": [
@@ -9763,6 +10161,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-13_打谷场/打谷场_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-13_打谷场/cover_打谷场.jpg",
         "all_covers": [
@@ -9803,6 +10202,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-13_心动信号/心动信号_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-13_心动信号/cover_心动信号.jpg",
         "all_covers": [
@@ -9843,6 +10243,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-13_删不掉/删不掉_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-13_删不掉/cover_删不掉.jpg",
         "all_covers": [
@@ -9883,6 +10284,7 @@
           "size_mb": 8.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-12_油纸伞/油纸伞_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-12_油纸伞/cover_油纸伞.jpg",
         "all_covers": [
@@ -9923,6 +10325,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-12_已读不回/已读不回_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-12_已读不回/cover_已读不回.jpg",
         "all_covers": [
@@ -9963,6 +10366,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-12_姐妹团/姐妹团_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-12_姐妹团/cover_姐妹团.jpg",
         "all_covers": [
@@ -10003,6 +10407,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-12_千层底/千层底_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-12_千层底/cover_千层底.jpg",
         "all_covers": [
@@ -10043,6 +10448,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-12_全糖去冰/全糖去冰_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-12_全糖去冰/cover_全糖去冰.jpg",
         "all_covers": [
@@ -10083,6 +10489,7 @@
           "size_mb": 7.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-11_西江月/西江月_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-11_西江月/cover_西江月.jpg",
         "all_covers": [
@@ -10123,6 +10530,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-11_老木门/老木门_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-11_老木门/cover_老木门.jpg",
         "all_covers": [
@@ -10163,6 +10571,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-11_棉花糖/棉花糖_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-11_棉花糖/cover_棉花糖.jpg",
         "all_covers": [
@@ -10203,6 +10612,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-11_未接来电/未接来电_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-11_未接来电/cover_未接来电.jpg",
         "all_covers": [
@@ -10243,6 +10653,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-11_扇子舞/扇子舞_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-11_扇子舞/cover_扇子舞.jpg",
         "all_covers": [
@@ -10283,6 +10694,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-10_麦田黄了/麦田黄了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-10_麦田黄了/cover_麦田黄了.jpg",
         "all_covers": [
@@ -10323,6 +10735,7 @@
           "size_mb": 7.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-10_旧号码/旧号码_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-10_旧号码/cover_旧号码.jpg",
         "all_covers": [
@@ -10363,6 +10776,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-10_念君安/念君安_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-10_念君安/cover_念君安.jpg",
         "all_covers": [
@@ -10403,6 +10817,7 @@
           "size_mb": 4.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-10_小冤家/小冤家_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-10_小冤家/cover_小冤家.jpg",
         "all_covers": [
@@ -10443,6 +10858,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-10_大花袄/大花袄_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-10_大花袄/cover_大花袄.jpg",
         "all_covers": [
@@ -10483,6 +10899,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-09_长相忆/长相忆_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-09_长相忆/cover_长相忆.jpg",
         "all_covers": [
@@ -10523,6 +10940,7 @@
           "size_mb": 4.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-09_甩起来/甩起来_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-09_甩起来/cover_甩起来.jpg",
         "all_covers": [
@@ -10563,6 +10981,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-09_恋恋恋/恋恋恋_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-09_恋恋恋/cover_恋恋恋.jpg",
         "all_covers": [
@@ -10603,6 +11022,7 @@
           "size_mb": 8.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-09_土房子/土房子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-09_土房子/cover_土房子.jpg",
         "all_covers": [
@@ -10643,6 +11063,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-09_删了吧/删了吧_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-09_删了吧/cover_删了吧.jpg",
         "all_covers": [
@@ -10683,6 +11104,7 @@
           "size_mb": 7.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-08_鹧鸪天/鹧鸪天_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-08_鹧鸪天/cover_鹧鸪天.jpg",
         "all_covers": [
@@ -10723,6 +11145,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-08_甜滋滋/甜滋滋_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-08_甜滋滋/cover_甜滋滋.jpg",
         "all_covers": [
@@ -10763,6 +11186,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-08_扭一扭/扭一扭_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-08_扭一扭/cover_扭一扭.jpg",
         "all_covers": [
@@ -10803,6 +11227,7 @@
           "size_mb": 6.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-08_妈妈的白发/妈妈的白发_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-08_妈妈的白发/cover_妈妈的白发.jpg",
         "all_covers": [
@@ -10843,6 +11268,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-08_你还好吗/你还好吗_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-08_你还好吗/cover_你还好吗.jpg",
         "all_covers": [
@@ -10883,6 +11309,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-07_谁在乎/谁在乎_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-07_谁在乎/cover_谁在乎.jpg",
         "all_covers": [
@@ -10923,6 +11350,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-07_老井台/老井台_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-07_老井台/cover_老井台.jpg",
         "all_covers": [
@@ -10963,6 +11391,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-07_糖罐子/糖罐子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-07_糖罐子/cover_糖罐子.jpg",
         "all_covers": [
@@ -11003,6 +11432,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-07_烟雨楼/烟雨楼_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-07_烟雨楼/cover_烟雨楼.jpg",
         "all_covers": [
@@ -11043,6 +11473,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-07_乐不停/乐不停_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-07_乐不停/cover_乐不停.jpg",
         "all_covers": [
@@ -11083,6 +11514,7 @@
           "size_mb": 7.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-06_满庭芳/满庭芳_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-06_满庭芳/cover_满庭芳.jpg",
         "all_covers": [
@@ -11123,6 +11555,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-06_泥巴路/泥巴路_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-06_泥巴路/cover_泥巴路.jpg",
         "all_covers": [
@@ -11163,6 +11596,7 @@
           "size_mb": 7.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-06_我认了/我认了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-06_我认了/cover_我认了.jpg",
         "all_covers": [
@@ -11203,6 +11637,7 @@
           "size_mb": 7.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-06_啵啵啵/啵啵啵_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-06_啵啵啵/cover_啵啵啵.jpg",
         "all_covers": [
@@ -11243,6 +11678,7 @@
           "size_mb": 7.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-06_动起来/动起来_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-06_动起来/cover_动起来.jpg",
         "all_covers": [
@@ -11283,6 +11719,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-05_蹦跶蹦跶/蹦跶蹦跶_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-05_蹦跶蹦跶/cover_蹦跶蹦跶.jpg",
         "all_covers": [
@@ -11323,6 +11760,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-05_老爸的酒/老爸的酒_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-05_老爸的酒/cover_老爸的酒.jpg",
         "all_covers": [
@@ -11363,6 +11801,7 @@
           "size_mb": 5.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-05_粘人精/粘人精_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-05_粘人精/cover_粘人精.jpg",
         "all_covers": [
@@ -11403,6 +11842,7 @@
           "size_mb": 9.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-05_墨色江南/墨色江南_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-05_墨色江南/cover_墨色江南.jpg",
         "all_covers": [
@@ -11443,6 +11883,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-05_不想了/不想了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-05_不想了/cover_不想了.jpg",
         "all_covers": [
@@ -11483,6 +11924,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-04_踏踏踏/踏踏踏_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-04_踏踏踏/cover_踏踏踏.jpg",
         "all_covers": [
@@ -11523,6 +11965,7 @@
           "size_mb": 6.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-04_绿皮车/绿皮车_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-04_绿皮车/cover_绿皮车.jpg",
         "all_covers": [
@@ -11563,6 +12006,7 @@
           "size_mb": 7.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-04_簪花记/簪花记_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-04_簪花记/cover_簪花记.jpg",
         "all_covers": [
@@ -11603,6 +12047,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-04_秒回你/秒回你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-04_秒回你/cover_秒回你.jpg",
         "all_covers": [
@@ -11643,6 +12088,7 @@
           "size_mb": 8.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-04_我没事/我没事_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-04_我没事/cover_我没事.jpg",
         "all_covers": [
@@ -11683,6 +12129,7 @@
           "size_mb": 8.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-03_采莲曲/采莲曲_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-03_采莲曲/cover_采莲曲.jpg",
         "all_covers": [
@@ -11723,6 +12170,7 @@
           "size_mb": 10.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-03_老茶馆/老茶馆_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-03_老茶馆/cover_老茶馆.jpg",
         "all_covers": [
@@ -11763,6 +12211,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-03_泡泡泡/泡泡泡_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-03_泡泡泡/cover_泡泡泡.jpg",
         "all_covers": [
@@ -11803,6 +12252,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-03_想不通/想不通_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-03_想不通/cover_想不通.jpg",
         "all_covers": [
@@ -11843,6 +12293,7 @@
           "size_mb": 4.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-03_响当当/响当当_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-03_响当当/cover_响当当.jpg",
         "all_covers": [
@@ -11883,6 +12334,7 @@
           "size_mb": 7.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-02_西窗烛/西窗烛_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-02_西窗烛/cover_西窗烛.jpg",
         "all_covers": [
@@ -11923,6 +12375,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-02_棒棒糖/棒棒糖_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-02_棒棒糖/cover_棒棒糖.jpg",
         "all_covers": [
@@ -11963,6 +12416,7 @@
           "size_mb": 7.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-02_恰恰恰/恰恰恰_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-02_恰恰恰/cover_恰恰恰.jpg",
         "all_covers": [
@@ -12003,6 +12457,7 @@
           "size_mb": 9.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-02_小卖部/小卖部_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-02_小卖部/cover_小卖部.jpg",
         "all_covers": [
@@ -12043,6 +12498,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-02_好想哭/好想哭_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-02_好想哭/cover_好想哭.jpg",
         "all_covers": [
@@ -12083,6 +12539,7 @@
           "size_mb": 7.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-01_长安月/长安月_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-01_长安月/cover_长安月.jpg",
         "all_covers": [
@@ -12123,6 +12580,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-01_背包装满/背包装满_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-01_背包装满/cover_背包装满.jpg",
         "all_covers": [
@@ -12163,6 +12621,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-01_糖葫芦/糖葫芦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-01_糖葫芦/cover_糖葫芦.jpg",
         "all_covers": [
@@ -12203,6 +12662,7 @@
           "size_mb": 7.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-01_空房间/空房间_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-01_空房间/cover_空房间.jpg",
         "all_covers": [
@@ -12243,6 +12703,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-08-01_灯光球/灯光球_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-08-01_灯光球/cover_灯光球.jpg",
         "all_covers": [
@@ -12283,6 +12744,7 @@
           "size_mb": 8.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-29_舍不得你/舍不得你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-29_舍不得你/cover_舍不得你.jpg",
         "all_covers": [
@@ -12323,6 +12785,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-29_摇啊摇啊摇/摇啊摇啊摇_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-29_摇啊摇啊摇/cover_摇啊摇啊摇.jpg",
         "all_covers": [
@@ -12363,6 +12826,7 @@
           "size_mb": 10.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-29_忆江南/忆江南_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-29_忆江南/cover_忆江南.jpg",
         "all_covers": [
@@ -12403,6 +12867,7 @@
           "size_mb": 8.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-29_妈妈的灶台/妈妈的灶台_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-29_妈妈的灶台/cover_妈妈的灶台.jpg",
         "all_covers": [
@@ -12443,6 +12908,7 @@
           "size_mb": 7.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-29_嗡嗡嗡/嗡嗡嗡_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-29_嗡嗡嗡/cover_嗡嗡嗡.jpg",
         "all_covers": [
@@ -12483,6 +12949,7 @@
           "size_mb": 5.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-28_山路长/山路长_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-28_山路长/cover_山路长.jpg",
         "all_covers": [
@@ -12523,6 +12990,7 @@
           "size_mb": 4.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-28_宠着你/宠着你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-28_宠着你/cover_宠着你.jpg",
         "all_covers": [
@@ -12563,6 +13031,7 @@
           "size_mb": 6.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-28_嗨起来/嗨起来_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-28_嗨起来/cover_嗨起来.jpg",
         "all_covers": [
@@ -12604,6 +13073,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-28_东风破/东风破_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-28_东风破/cover_东风破.jpg",
         "all_covers": [
@@ -12644,6 +13114,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-28_不回头/不回头_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-28_不回头/cover_不回头.jpg",
         "all_covers": [
@@ -12684,6 +13155,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-27_追着你/追着你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-27_追着你/cover_追着你.jpg",
         "all_covers": [
@@ -12724,6 +13196,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-27_琵琶行/琵琶行_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-27_琵琶行/cover_琵琶行.jpg",
         "all_covers": [
@@ -12764,6 +13237,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-27_望爹娘/望爹娘_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-27_望爹娘/cover_望爹娘.jpg",
         "all_covers": [
@@ -12804,6 +13278,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-27_恨自己/恨自己_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-27_恨自己/cover_恨自己.jpg",
         "all_covers": [
@@ -12844,6 +13319,7 @@
           "size_mb": 6.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-27_乐翻天/乐翻天_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-27_乐翻天/cover_乐翻天.jpg",
         "all_covers": [
@@ -12884,6 +13360,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-26_醉一场/醉一场_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-26_醉一场/cover_醉一场.jpg",
         "all_covers": [
@@ -12924,6 +13401,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-26_田埂上/田埂上_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-26_田埂上/cover_田埂上.jpg",
         "all_covers": [
@@ -12964,6 +13442,7 @@
           "size_mb": 5.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-26_扭起来/扭起来_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-26_扭起来/cover_扭起来.jpg",
         "all_covers": [
@@ -13004,6 +13483,7 @@
           "size_mb": 4.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-26_只为你/只为你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-26_只为你/cover_只为你.jpg",
         "all_covers": [
@@ -13044,6 +13524,7 @@
           "size_mb": 6.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-26_凤求凰/凤求凰_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-26_凤求凰/cover_凤求凰.jpg",
         "all_covers": [
@@ -13084,6 +13565,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-25_满江红/满江红_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-25_满江红/cover_满江红.jpg",
         "all_covers": [
@@ -13124,6 +13606,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-25_梦醒时/梦醒时_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-25_梦醒时/cover_梦醒时.jpg",
         "all_covers": [
@@ -13164,6 +13647,7 @@
           "size_mb": 7.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-25_快乐转转转/快乐转转转_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-25_快乐转转转/cover_快乐转转转.jpg",
         "all_covers": [
@@ -13204,6 +13688,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-25_山那边/山那边_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-25_山那边/cover_山那边.jpg",
         "all_covers": [
@@ -13244,6 +13729,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-25_咬一口/咬一口_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-25_咬一口/cover_咬一口.jpg",
         "all_covers": [
@@ -13284,6 +13770,7 @@
           "size_mb": 5.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-24_蹦叉叉/蹦叉叉_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-24_蹦叉叉/cover_蹦叉叉.jpg",
         "all_covers": [
@@ -13324,6 +13811,7 @@
           "size_mb": 4.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-24_老石桥/老石桥_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-24_老石桥/cover_老石桥.jpg",
         "all_covers": [
@@ -13364,6 +13852,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-24_等不到/等不到_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-24_等不到/cover_等不到.jpg",
         "all_covers": [
@@ -13404,6 +13893,7 @@
           "size_mb": 6.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-24_相见欢/相见欢_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-24_相见欢/cover_相见欢.jpg",
         "all_covers": [
@@ -13444,6 +13934,7 @@
           "size_mb": 4.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-24_怦怦怦/怦怦怦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-24_怦怦怦/cover_怦怦怦.jpg",
         "all_covers": [
@@ -13484,6 +13975,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-23_蹦跶哒/蹦跶哒_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-23_蹦跶哒/cover_蹦跶哒.jpg",
         "all_covers": [
@@ -13524,6 +14016,7 @@
           "size_mb": 4.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-23_滴答滴/滴答滴_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-23_滴答滴/cover_滴答滴.jpg",
         "all_covers": [
@@ -13564,6 +14057,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-23_想你了/想你了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-23_想你了/cover_想你了.jpg",
         "all_covers": [
@@ -13604,6 +14098,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-23_回家过年/回家过年_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-23_回家过年/cover_回家过年.jpg",
         "all_covers": [
@@ -13644,6 +14139,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-22_老屋前/老屋前_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-22_老屋前/cover_老屋前.jpg",
         "all_covers": [
@@ -13684,6 +14180,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-22_甜不腻/甜不腻_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-22_甜不腻/cover_甜不腻.jpg",
         "all_covers": [
@@ -13724,6 +14221,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-22_渔家傲/渔家傲_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-22_渔家傲/cover_渔家傲.jpg",
         "all_covers": [
@@ -13764,6 +14262,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-22_摇啊摇/摇啊摇_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-22_摇啊摇/cover_摇啊摇.jpg",
         "all_covers": [
@@ -13806,6 +14305,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-22_心好痛/心好痛_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-22_心好痛/cover_心好痛.jpg",
         "all_covers": [
@@ -13846,6 +14346,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-21_望乡台/望乡台_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-21_望乡台/cover_望乡台.jpg",
         "all_covers": [
@@ -13886,6 +14387,7 @@
           "size_mb": 5.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-21_明月夜/明月夜_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-21_明月夜/cover_明月夜.jpg",
         "all_covers": [
@@ -13926,6 +14428,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-21_忘川河/忘川河_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-21_忘川河/cover_忘川河.jpg",
         "all_covers": [
@@ -13966,6 +14469,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-21_乐开怀/乐开怀_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-21_乐开怀/cover_乐开怀.jpg",
         "all_covers": [
@@ -14006,6 +14510,7 @@
           "size_mb": 6.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-21_乐哈哈/乐哈哈_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-21_乐哈哈/cover_乐哈哈.jpg",
         "all_covers": [
@@ -14046,6 +14551,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-20_赶大集/赶大集_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-20_赶大集/cover_赶大集.jpg",
         "all_covers": [
@@ -14099,6 +14605,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-20_渔歌子/渔歌子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-20_渔歌子/cover_渔歌子.jpg",
         "all_covers": [
@@ -14152,6 +14659,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-20_抱一抱/抱一抱_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-20_抱一抱/cover_抱一抱.jpg",
         "all_covers": [
@@ -14205,6 +14713,7 @@
           "size_mb": 6.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-20_咚恰啦/咚恰啦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-20_咚恰啦/cover_咚恰啦.jpg",
         "all_covers": [
@@ -14258,6 +14767,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-20_半夜醒/半夜醒_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-20_半夜醒/cover_半夜醒.jpg",
         "all_covers": [
@@ -14311,6 +14821,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-19_老磨坊/老磨坊_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-19_老磨坊/cover_老磨坊.jpg",
         "all_covers": [
@@ -14356,6 +14867,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-19_红盖头/红盖头_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-19_红盖头/cover_红盖头.jpg",
         "all_covers": [
@@ -14401,6 +14913,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-19_空杯子/空杯子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-19_空杯子/cover_空杯子.jpg",
         "all_covers": [
@@ -14446,6 +14959,7 @@
           "size_mb": 5.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-19_嘭嚓嚓/嘭嚓嚓_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-19_嘭嚓嚓/cover_嘭嚓嚓.jpg",
         "all_covers": [
@@ -14491,6 +15005,7 @@
           "size_mb": 4.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-19_凑过来/凑过来_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-19_凑过来/cover_凑过来.jpg",
         "all_covers": [
@@ -14536,6 +15051,7 @@
           "size_mb": 6.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-17_踏莎行/踏莎行_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-17_踏莎行/cover_踏莎行.jpg",
         "all_covers": [
@@ -14579,6 +15095,7 @@
           "size_mb": 4.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-17_跳跳糖/跳跳糖_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-17_跳跳糖/cover_跳跳糖.jpg",
         "all_covers": [
@@ -14622,6 +15139,7 @@
           "size_mb": 5.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-17_甜甜圈/甜甜圈_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-17_甜甜圈/cover_甜甜圈.jpg",
         "all_covers": [
@@ -14665,6 +15183,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-17_回娘家/回娘家_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-17_回娘家/cover_回娘家.jpg",
         "all_covers": [
@@ -14708,6 +15227,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-17_别回头/别回头_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-17_别回头/cover_别回头.jpg",
         "all_covers": [
@@ -14751,6 +15271,7 @@
           "size_mb": 4.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-16_转圈圈/转圈圈_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-16_转圈圈/cover_转圈圈.jpg",
         "all_covers": [
@@ -14792,6 +15313,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-16_菩萨蛮/菩萨蛮_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-16_菩萨蛮/cover_菩萨蛮.jpg",
         "all_covers": [
@@ -14833,6 +15355,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-16_脸红红/脸红红_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-16_脸红红/cover_脸红红.jpg",
         "all_covers": [
@@ -14874,6 +15397,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-16_留不住/留不住_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-16_留不住/cover_留不住.jpg",
         "all_covers": [
@@ -14915,6 +15439,7 @@
           "size_mb": 6.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-16_柴火灶/柴火灶_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-16_柴火灶/cover_柴火灶.jpg",
         "all_covers": [
@@ -14956,6 +15481,7 @@
           "size_mb": 6.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-15_老渡口/老渡口_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-15_老渡口/cover_老渡口.jpg",
         "all_covers": [
@@ -14996,6 +15522,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-15_满眼你/满眼你_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-15_满眼你/cover_满眼你.jpg",
         "all_covers": [
@@ -15036,6 +15563,7 @@
           "size_mb": 4.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-15_晃晃晃/晃晃晃_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-15_晃晃晃/cover_晃晃晃.jpg",
         "all_covers": [
@@ -15076,6 +15604,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-15_不值得/不值得_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-15_不值得/cover_不值得.jpg",
         "all_covers": [
@@ -15116,6 +15645,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-13_老槐树/老槐树_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-13_老槐树/cover_老槐树.jpg",
         "all_covers": [
@@ -15158,6 +15688,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-13_抱一下/抱一下_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-13_抱一下/cover_抱一下.jpg",
         "all_covers": [
@@ -15200,6 +15731,7 @@
           "size_mb": 5.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-13_忘不掉/忘不掉_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-13_忘不掉/cover_忘不掉.jpg",
         "all_covers": [
@@ -15242,6 +15774,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-13_如梦令/如梦令_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-13_如梦令/cover_如梦令.jpg",
         "all_covers": [
@@ -15284,6 +15817,7 @@
           "size_mb": 5.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-12_陪你走/陪你走_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-12_陪你走/cover_陪你走.jpg",
         "all_covers": [
@@ -15326,6 +15860,7 @@
           "size_mb": 4.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-12_跳跳跳/跳跳跳_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-12_跳跳跳/cover_跳跳跳.jpg",
         "all_covers": [
@@ -15368,6 +15903,7 @@
           "size_mb": 4.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-12_赶集去/赶集去_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-12_赶集去/cover_赶集去.jpg",
         "all_covers": [
@@ -15410,6 +15946,7 @@
           "size_mb": 4.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-12_走远了/走远了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-12_走远了/cover_走远了.jpg",
         "all_covers": [
@@ -15452,6 +15989,7 @@
           "size_mb": 6.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-12_苏幕遮/苏幕遮_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-12_苏幕遮/cover_苏幕遮.jpg",
         "all_covers": [
@@ -15494,6 +16032,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-11_青玉案/青玉案_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-11_青玉案/cover_青玉案.jpg",
         "all_covers": [
@@ -15535,6 +16074,7 @@
           "size_mb": 4.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-11_甜到爆/甜到爆_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-11_甜到爆/cover_甜到爆.jpg",
         "all_covers": [
@@ -15576,6 +16116,7 @@
           "size_mb": 3.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-11_晒谷场/晒谷场_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-11_晒谷场/cover_晒谷场.jpg",
         "all_covers": [
@@ -15617,6 +16158,7 @@
           "size_mb": 4.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-11_散了吧/散了吧_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-11_散了吧/cover_散了吧.jpg",
         "all_covers": [
@@ -15658,6 +16200,7 @@
           "size_mb": 4.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-10_麦收了/麦收了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-10_麦收了/cover_麦收了.jpg",
         "all_covers": [
@@ -15702,6 +16245,7 @@
           "size_mb": 5.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-10_甜不甜/甜不甜_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-10_甜不甜/cover_甜不甜.jpg",
         "all_covers": [
@@ -15746,6 +16290,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-10_浣溪沙/浣溪沙_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-10_浣溪沙/cover_浣溪沙.jpg",
         "all_covers": [
@@ -15790,6 +16335,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-10_散就散/散就散_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-10_散就散/cover_散就散.jpg",
         "all_covers": [
@@ -15834,6 +16380,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-10_动动动/动动动_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-10_动动动/cover_动动动.jpg",
         "all_covers": [
@@ -15878,6 +16425,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-09_蹦蹦蹦/蹦蹦蹦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-09_蹦蹦蹦/cover_蹦蹦蹦.jpg",
         "all_covers": [
@@ -15931,6 +16479,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-09_老照片/老照片_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-09_老照片/cover_老照片.jpg",
         "all_covers": [
@@ -15984,6 +16533,7 @@
           "size_mb": 6.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-09_水调歌头/水调歌头_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-09_水调歌头/cover_水调歌头.jpg",
         "all_covers": [
@@ -16037,6 +16587,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-09_心跳跳/心跳跳_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-09_心跳跳/cover_心跳跳.jpg",
         "all_covers": [
@@ -16090,6 +16641,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-09_别等了/别等了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-09_别等了/cover_别等了.jpg",
         "all_covers": [
@@ -16143,6 +16695,7 @@
           "size_mb": 6.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-08_跟我跳/跟我跳_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-08_跟我跳/cover_跟我跳.png",
         "all_covers": [
@@ -16183,6 +16736,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-08_炊烟起/炊烟起_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-08_炊烟起/cover_炊烟起.png",
         "all_covers": [
@@ -16223,6 +16777,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-08_定风波/定风波_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-08_定风波/cover_定风波.png",
         "all_covers": [
@@ -16263,6 +16818,7 @@
           "size_mb": 4.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-08_嘻嘻嘻/嘻嘻嘻_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-08_嘻嘻嘻/cover_嘻嘻嘻.png",
         "all_covers": [
@@ -16303,6 +16859,7 @@
           "size_mb": 4.8
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-08_又想你了/又想你了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-08_又想你了/cover_又想你了.png",
         "all_covers": [
@@ -16343,6 +16900,7 @@
           "size_mb": 4.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-07_等等我/等等我_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-07_等等我/cover_等等我.jpg",
         "all_covers": [
@@ -16383,6 +16941,7 @@
           "size_mb": 5.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-07_团圆饭/团圆饭_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-07_团圆饭/cover_团圆饭.jpg",
         "all_covers": [
@@ -16423,6 +16982,7 @@
           "size_mb": 4.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-07_嗨翻天/嗨翻天_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-07_嗨翻天/cover_嗨翻天.jpg",
         "all_covers": [
@@ -16463,6 +17023,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-07_临江仙/临江仙_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-07_临江仙/cover_临江仙.jpg",
         "all_covers": [
@@ -16503,6 +17064,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-07_一个人/一个人_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-07_一个人/cover_一个人.jpg",
         "all_covers": [
@@ -16543,6 +17105,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-05_老家的小河/老家的小河_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-05_老家的小河/cover_老家的小河.jpg",
         "all_covers": [
@@ -16583,6 +17146,7 @@
           "size_mb": 4.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-05_牵牵手/牵牵手_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-05_牵牵手/cover_牵牵手.jpg",
         "all_covers": [
@@ -16623,6 +17187,7 @@
           "size_mb": 5.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-05_清平调/清平调_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-05_清平调/cover_清平调.jpg",
         "all_covers": [
@@ -16663,6 +17228,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-05_哭一场/哭一场_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-05_哭一场/cover_哭一场.jpg",
         "all_covers": [
@@ -16703,6 +17269,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-05_咚咚锵/咚咚锵_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-05_咚咚锵/cover_咚咚锵.jpg",
         "all_covers": [
@@ -16743,6 +17310,7 @@
           "size_mb": 7.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_鹊桥仙/鹊桥仙_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_鹊桥仙/cover_鹊桥仙.jpg",
         "all_covers": [
@@ -16753,7 +17321,6 @@
       "lyrics_file": "[Intro]\n纤云弄巧 飞星传恨\n银汉迢迢暗度\n金风玉露一相逢\n便胜却人间无数\n\n[Verse 1]\n那年七夕月如钩\n我在鹊桥下等了你一夜\n银河两岸星子明灭\n像你眼里的光忽明忽暗\n你说神仙一年才见一回\n我们凡人不该这样的\n我说那就每年七夕见一面\n见面就是一生一世\n你笑了笑说你傻不傻\n天上一年人间百年\n我们都等不起的\n\n[Pre-Chorus]\n柔情似水 佳期如梦\n忍顾鹊桥归路\n两情若是久长时\n又岂在朝朝暮暮\n\n[Chorus]\n鹊桥仙 鹊桥仙 银河两岸遥相望\n鹊桥仙 鹊桥仙 一年一夜诉衷肠\n鹊桥仙 鹊桥仙 金风玉露又相逢\n便胜却 人间无数 此情天地长\n\n[Verse 2]\n后来你去了很远的地方\n说要寻访仙山求长生术\n我独守这座空城等你\n一年又过了一年又一年\n窗外的梧桐叶子落了又满\n满的又落了一地\n我给你的信写了九十九封\n没有一封送到你手上\n听说你在一座很高的山上\n采了千年灵芝要炼丹药\n我只想说不用长生不老\n我只想 再见你一面\n\n[Pre-Chorus]\n柔情似水 佳期如梦\n忍顾鹊桥归路\n两情若是久长时\n又岂在朝朝暮暮\n\n[Chorus]\n鹊桥仙 鹊桥仙 银河两岸遥相望\n鹊桥仙 鹊桥仙 一年一夜诉衷肠\n鹊桥仙 鹊桥仙 金风玉露又相逢\n便胜却 人间无数 此情天地长\n\n[Instrumental]\n\n[Bridge]\n如果人真的能活千年万年\n但见不到你 又有什么意思\n我不求长生 只求一夕\n像牛郎织女一样\n一年一夜 只要是你\n刹那也够我回味千年\n\n[Chorus]\n鹊桥仙 鹊桥仙 银河两岸遥相望\n鹊桥仙 鹊桥仙 一年一夜诉衷肠\n鹊桥仙 鹊桥仙 金风玉露又相逢\n便胜却 人间无数 此情天地长\n\n[Outro]\n鹊桥仙……\n今夜又是七夕\n你在哪一座山上\n看的是不是同一片星空\n鹊桥仙……",
       "duration": 236,
       "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_鹊桥仙",
-      "lrc_url": "",
       "source": "tomato",
       "mmx_prompt": "style: Chinese traditional style pop, guzheng and dizi, operatic female vocal (戏腔), poetic lyrics, 90 BPM, canon chord progression, elegant and atmospheric, full length song 3-4 minutes, extended guzheng solo, long intro",
       "suno_prompt": "Style: Chinese traditional pop, guzheng and dizi instruments, female operatic vocal (戏腔), poetic lyrical style, 90 BPM, canon progression, atmospheric and elegant, full song 3-4 minutes, instrumental break",
@@ -16791,6 +17358,7 @@
           "size_mb": 6.5
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_蹦擦擦/蹦擦擦_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_蹦擦擦/cover_蹦擦擦.jpg",
         "all_covers": [
@@ -16801,7 +17369,6 @@
       "lyrics_file": "[Intro]\n蹦擦擦 蹦擦擦\n左脚右脚 一起蹦擦擦\n蹦擦擦 蹦擦擦\n今晚不嗨不回家\n\n[Verse 1]\n天擦黑 广场灯亮了\n张大爷推着他的大音响\n刚到广场就插上了电\n砰的一声 整条街都震了\n刘阿姨穿了一身荧光绿\n站在第一排特别扎眼\n她腰上别了个小音箱\n说是儿媳妇给她新买的\n旁边卖烤冷面的推着车来了\n铲子一放就跟着蹦了起来\n连那只流浪狗都惊呆了\n站在路边跟着节奏摇头\n\n[Chorus]\n蹦擦擦 蹦擦擦 把烦恼蹦走呀\n蹦擦擦 蹦擦擦 把快乐擦出来\n蹦擦擦 蹦擦擦 左蹦右擦一起嗨\n蹦擦擦 蹦擦擦 全场跟我蹦起来\n\n[Verse 2]\n王阿姨今天染了葡萄紫的头发\n跳起来发丝在灯下一闪一闪的\n她老公老赵坐在旁边长椅上\n举着保温杯一边喝一边拍视频\n小两口遛狗路过这里\n本来只想看看热闹就走\n没想到狗先冲进去了\n主人只好跟着一起蹦\n后面的大妈队形齐刷刷\n动作整齐得像阅兵一样\n蹦得地面都在震\n连路灯都跟着晃了两下\n\n[Pre-Chorus]\n一二三四 蹦起来\n五六七八 擦起来\n快乐就这么简单\n今晚谁都不许走\n\n[Chorus]\n蹦擦擦 蹦擦擦 把烦恼蹦走呀\n蹦擦擦 蹦擦擦 把快乐擦出来\n蹦擦擦 蹦擦擦 左蹦右擦一起嗨\n蹦擦擦 蹦擦擦 全场跟我蹦起来\n\n[Instrumental]\n\n[Verse 3]\n往前蹦呀往后擦\n转个圈来拍拍手\n左脚蹦三下 右脚擦三下\n汗流浃背也不肯停\n张大爷喊了一声换队形\n全场哗啦一下变两排\n连路过的外卖小哥\n都停车跟着蹦了八拍\n\n[Chorus]\n蹦擦擦 蹦擦擦 把烦恼蹦走呀\n蹦擦擦 蹦擦擦 把快乐擦出来\n蹦擦擦 蹦擦擦 左蹦右擦一起嗨\n蹦擦擦 蹦擦擦 全场跟我蹦起来\n\n[Chorus]\n蹦擦擦 蹦擦擦 把烦恼蹦走呀\n蹦擦擦 蹦擦擦 把快乐擦出来\n蹦擦擦 蹦擦擦 左蹦右擦一起嗨\n蹦擦擦 蹦擦擦 全场跟我蹦起来\n\n[Outro]\n蹦擦擦呀蹦擦擦\n明天晚上继续蹦\n蹦擦擦……",
       "duration": 214,
       "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_蹦擦擦",
-      "lrc_url": "",
       "source": "tomato",
       "mmx_prompt": "style: high energy Chinese square dance, DJ remix, four-on-the-floor beat, 128 BPM, female vocal chops, catchy synth melody, bass drop, full length song 3-4 minutes, extended instrumental breaks, long intro and outro",
       "suno_prompt": "Style: upbeat Chinese square dance pop, DJ remix energy, 128 BPM, female vocal, four-on-the-floor beat, catchy synth melody, bass drop, repetitive hook, full song 3-4 minutes, extended instrumental breaks",
@@ -16839,6 +17406,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_断了线/断了线_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_断了线/cover_断了线.jpg",
         "all_covers": [
@@ -16849,7 +17417,6 @@
       "lyrics_file": "[Intro]\n雨下了一整夜\n风把窗帘吹得乱飞\n手机屏幕亮了又暗\n我们的聊天记录 停在上个月\n\n[Verse 1]\n你走的时候什么都没带\n却把你的牙刷落在了杯子里\n我每天刷牙的时候看到它\n心里就咯噔一下\n衣柜里你留了一件外套\n我舍不得洗 上面还有你的味道\n每次想你了就拿出来闻一闻\n像你在身边一样\n你的香水瓶还摆在梳妆台上\n瓶子盖没拧紧 香味早就散完了\n可我舍不得扔掉它\n因为那是你最后碰过的东西\n\n[Pre-Chorus]\n断了线的风筝 飘到哪里去了\n断了线的电话 嘟嘟嘟没人接\n断了线的感情 怎么接回去\n\n[Chorus]\n断了线 断了线 我跟你断了线\n断了线 断了线 再也联系不上\n断了线 断了线 我还在原地等\n你走得太远了 我的线够不到了\n\n[Verse 2]\n昨天路过我们一起逛过的超市\n下意识推了购物车\n走到零食区才想起来\n已经不用帮你买薯片了\n收银台排队的全是情侣\n只有我一个人结了一袋泡面\n回到家打开灯\n房间还是那么安静\n电视开着但谁在看呢\n床上你的枕头我还没收\n每天晚上我都把它抱在怀里\n假装你还在\n\n[Pre-Chorus]\n断了线的风筝 飘到哪里去了\n断了线的电话 嘟嘟嘟没人接\n断了线的感情 怎么接回去\n\n[Chorus]\n断了线 断了线 我跟你断了线\n断了线 断了线 再也联系不上\n断了线 断了线 我还在原地等\n你走得太远了 我的线够不到了\n\n[Bridge]\n我也知道该放下了\n可是手机里删了你的号码\n脑子里却没删掉你的脸\n走在路上看到背影像你的人\n心跳都会漏一拍\n转过来发现不是你\n心又碎一次\n这样的日子 什么时候才到头\n\n[Chorus]\n断了线 断了线 我跟你断了线\n断了线 断了线 再也联系不上\n断了线 断了线 我还在原地等\n你走得太远了 我的线够不到了\n\n[Outro]\n断了线……\n风筝飞走了……\n线还在我手里攥着\n可那一头 已经没人了\n断了线……",
       "duration": 197,
       "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_断了线",
-      "lrc_url": "",
       "source": "tomato",
       "mmx_prompt": "style: emotional Chinese ballad, melancholy, slow tempo 80 BPM, breathy female vocal, piano and strings, crying tone, 1645 progression, full length song 3-4 minutes, long instrumental intro, extended outro",
       "suno_prompt": "Style: emotional Chinese sad ballad, breathy female vocal with crying tone, slow 80 BPM, piano and strings, 1645 chord progression, full song 3-4 minutes, long intro, extended ending",
@@ -16887,6 +17454,7 @@
           "size_mb": 5.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_哒哒哒/哒哒哒_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_哒哒哒/cover_哒哒哒.jpg",
         "all_covers": [
@@ -16897,7 +17465,6 @@
       "lyrics_file": "[Intro]\n哒哒哒 哒哒哒\n心跳在哒哒哒\n哒哒哒 哒哒哒\n见到你就哒哒哒\n\n[Verse 1]\n早上起床第一件事\n拿起手机看你的消息\n你发了个早安的表情包\n我对着屏幕笑了十分钟\n刷牙的时候对着镜子\n嘴角的牙膏泡沫都笑掉了\n换衣服换了五套\n总觉得哪套都不够好看\n出门前喷了三次香水\n怕多了又怕少了\n在地铁上偷偷练习跟你说话的语气\n旁边大妈用看傻子的眼神看我\n\n[Pre-Chorus]\n心跳哒哒哒 哒哒哒\n脸上热辣辣 辣辣辣\n怎么办我好像中招了\n一见到你就失控了\n\n[Chorus]\n哒哒哒 心跳哒哒哒\n哒哒哒 见到你哒哒哒\n哒哒哒 一想到你哒哒哒\n你可不可以 告诉我你也是哒哒哒\n\n[Verse 2]\n约好了今天在奶茶店见\n我提前半小时就到了\n点了你最爱的芝士莓莓\n自己也点了一杯一样的\n你推门进来的时候\n我假装刚刷完手机抬头\n你穿了那条白色碎花裙\n我整个人直接愣住了\n你冲我笑了笑说等很久了吧\n我说没有没有我也刚到\n其实手心全是汗\n但我觉得值了\n\n[Pre-Chorus]\n心跳哒哒哒 哒哒哒\n脸上热辣辣 辣辣辣\n怎么办我好像中招了\n一见到你就失控了\n\n[Chorus]\n哒哒哒 心跳哒哒哒\n哒哒哒 见到你哒哒哒\n哒哒哒 一想到你哒哒哒\n你可不可以 告诉我你也是哒哒哒\n\n[Bridge]\n朋友说我太明显了\n全世界都知道我喜欢你\n只有你自己不知道\n好吧 那我今天就告诉你\n我喜欢你 喜欢到心哒哒哒\n你呢 你对我是什么感觉\n你给我个准话吧\n别让我一个人在这哒哒哒了\n\n[Chorus]\n哒哒哒 心跳哒哒哒\n哒哒哒 见到你哒哒哒\n哒哒哒 一想到你哒哒哒\n你可不可以 告诉我你也是哒哒哒\n\n[Chorus]\n哒哒哒 心跳哒哒哒\n哒哒哒 见到你哒哒哒\n哒哒哒 一想到你哒哒哒\n你可不可以 告诉我你也是哒哒哒\n\n[Outro]\n哒哒哒呀哒哒哒\n我的心在为你哒哒哒\n你听到了吗\n哒哒哒……",
       "duration": 164,
       "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_哒哒哒",
-      "lrc_url": "",
       "source": "tomato",
       "mmx_prompt": "style: catchy Chinese pop, viral earworm, upbeat tempo 115 BPM, sweet female vocal (夹子音), 4536251 chord progression, repetitive hook, full length song 3-4 minutes, extended chorus repeats, bridge section",
       "suno_prompt": "Style: catchy Chinese viral pop, sweet female vocal with 夹子音, upbeat 115 BPM, 4536251 progression, repetitive hook with onomatopoeia, full song 3-4 minutes, extended chorus, bridge",
@@ -16935,6 +17502,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_一碗面/一碗面_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_一碗面/cover_一碗面.jpg",
         "all_covers": [
@@ -16945,7 +17513,6 @@
       "lyrics_file": "[Intro]\n妈 我想吃你做的面了\n面要宽 汤要清\n葱花要多 辣子要足\n一碗面 我就回家了\n\n[Verse 1]\n小时候放学跑回家\n隔老远就闻到厨房的香味\n妈系着那条洗得发白的围裙\n站在灶台前揉面擀面\n她手上有面粉 额头上是汗\n看到我回来就笑了\n说快去洗手 面马上好\n我趴在厨房门框上看\n她把宽面往锅里一丢\n面在滚水里翻了两翻就浮起来了\n捞到碗里 浇上肉臊子\n撒一把葱花 一勺油泼辣子\n热油淋上去呲啦一声响\n那味道我这辈子都忘不了\n\n[Pre-Chorus]\n一碗面 暖了肚子暖了心\n一碗面 再大的事都能扛过去\n妈说吃饱了就不想家了\n可是吃饱了 更想家了\n\n[Chorus]\n一碗面 是妈的手擀面\n一碗面 是我回家的车票\n一碗面 从小吃到大吃不腻\n一碗面 这辈子最暖的滋味\n\n[Verse 2]\n来城里打工第三年了\n租的房子在城中村\n楼下有家陕西面馆\n老板是陕西人 口音跟老家差不多\n我每次去吃面都多要一勺辣子\n老板问我是不是陕西的\n我说不是 但离陕西不远\n后来熟了 老板说我知道\n你吃面的样子 跟我儿子一样\n他在深圳打工 也爱吃面\n我低头吸了一口面\n眼泪掉进碗里 面汤咸了点\n\n[Pre-Chorus]\n一碗面 暖了肚子暖了心\n一碗面 再大的事都能扛过去\n妈说吃饱了就不想家了\n可是吃饱了 更想家了\n\n[Chorus]\n一碗面 是妈的手擀面\n一碗面 是我回家的车票\n一碗面 从小吃到大吃不腻\n一碗面 这辈子最暖的滋味\n\n[Bridge]\n我在这个城市吃过很多面\n兰州拉面 重庆小面 武汉热干面\n都不如妈做的那一碗\n面是同样的面 但揉面的手不一样\n妈的手粗糙了 但面越来越好吃\n我打了个电话回家说妈我想吃面了\n妈说你回来 妈给你做\n我挂了电话 眼泪终于没忍住\n\n[Chorus]\n一碗面 是妈的手擀面\n一碗面 是我回家的车票\n一碗面 从小吃到大吃不腻\n一碗面 这辈子最暖的滋味\n\n[Outro]\n一碗面……\n妈 我买到票了\n周末就回去\n你给我留一碗 不要凉了\n一碗面…… 我想家了",
       "duration": 175,
       "song_dir": "/Users/wanglingwei/Music/番茄音乐/2026-07-03_一碗面",
-      "lrc_url": "",
       "source": "tomato",
       "mmx_prompt": "style: Chinese folk pop, warm male vocal, acoustic guitar, 100 BPM, nostalgic and uplifting, countryside imagery, canon variation progression, full length song 3-4 minutes, extended instrumental sections, bridge",
       "suno_prompt": "Style: Chinese folk pop, warm male vocals, acoustic guitar-driven, 100 BPM, nostalgic yet uplifting, countryside and hometown imagery, canon variation progression, full song 3-4 minutes, bridge section",
@@ -17954,6 +18521,7 @@
           "size_mb": 4.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-27_蜜蜜蜜/蜜蜜蜜_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-27_蜜蜜蜜/cover_蜜蜜蜜.jpg",
         "all_covers": [
@@ -17994,6 +18562,7 @@
           "size_mb": 6.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-27_稻花香/稻花香_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-27_稻花香/cover_稻花香.jpg",
         "all_covers": [
@@ -18034,6 +18603,7 @@
           "size_mb": 4.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-27_摇摇摆/摇摇摆_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-27_摇摇摆/cover_摇摇摆.jpg",
         "all_covers": [
@@ -18074,6 +18644,7 @@
           "size_mb": 5.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-27_心碎了/心碎了_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-27_心碎了/cover_心碎了.jpg",
         "all_covers": [
@@ -18114,6 +18685,7 @@
           "size_mb": 5.4
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-27_一剪梅/一剪梅_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-27_一剪梅/cover_一剪梅.jpg",
         "all_covers": [
@@ -18369,6 +18941,7 @@
           "size_mb": 4.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-25_甩手舞/甩手舞_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-25_甩手舞/cover_甩手舞.jpg",
         "all_covers": [
@@ -18411,6 +18984,7 @@
           "size_mb": 5.7
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-25_想你想/想你想_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-25_想你想/cover_想你想.jpg",
         "all_covers": [
@@ -18453,6 +19027,7 @@
           "size_mb": 6.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-25_念奴娇/念奴娇_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-25_念奴娇/cover_念奴娇.jpg",
         "all_covers": [
@@ -18495,6 +19070,7 @@
           "size_mb": 4.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-25_奶奶的灶台/奶奶的灶台_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-25_奶奶的灶台/cover_奶奶的灶台.jpg",
         "all_covers": [
@@ -18537,6 +19113,7 @@
           "size_mb": 5.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-25_凌晨四点/凌晨四点_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-25_凌晨四点/cover_凌晨四点.jpg",
         "all_covers": [
@@ -19851,6 +20428,7 @@
           "size_mb": 7.0
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-17_醉花阴/醉花阴_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-17_醉花阴/cover_醉花阴.jpg",
         "all_covers": [
@@ -19893,6 +20471,7 @@
           "size_mb": 5.9
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-17_蹦恰恰/蹦恰恰_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-17_蹦恰恰/cover_蹦恰恰.jpg",
         "all_covers": [
@@ -19935,6 +20514,7 @@
           "size_mb": 4.3
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-17_贴贴贴/贴贴贴_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-17_贴贴贴/cover_贴贴贴.jpg",
         "all_covers": [
@@ -19977,6 +20557,7 @@
           "size_mb": 5.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-17_老家的院子/老家的院子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-17_老家的院子/cover_老家的院子.jpg",
         "all_covers": [
@@ -20019,6 +20600,7 @@
           "size_mb": 5.1
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-17_没你的日子/没你的日子_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-17_没你的日子/cover_没你的日子.jpg",
         "all_covers": [
@@ -20276,6 +20858,7 @@
           "size_mb": 0.6
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-16_final_test/final_test_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-16_final_test/cover_test.jpg",
         "all_covers": [
@@ -20404,6 +20987,7 @@
           "size_mb": 5.2
         }
       ],
+      "lrc_url": "/Users/wanglingwei/Music/番茄音乐/2026-06-15_深夜的城市/深夜的城市_v1.lrc",
       "cover": {
         "path": "/Users/wanglingwei/Music/番茄音乐/2026-06-15_深夜的城市/cover_深夜的城市.jpg",
         "all_covers": [
