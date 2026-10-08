@@ -1,7 +1,207 @@
 {
-  "generated_at": "2026-10-06T17:04:01.507575",
-  "total_songs": 532,
+  "generated_at": "2026-10-07T17:25:37.422485",
+  "total_songs": 537,
   "songs": [
+    {
+      "slug": "纸伞过桥_2026-10-08",
+      "title": "纸伞过桥",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_纸伞过桥",
+      "date": "2026-10-08",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "纸伞过桥_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_纸伞过桥/纸伞过桥_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.9
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_纸伞过桥/cover_纸伞过桥.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-08_纸伞过桥/cover_纸伞过桥.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_纸伞过桥/纸伞过桥_poster.png",
+      "lyrics_file": "[Intro]\n月照青石桥头\n风吹纸伞轻摇\n雪落琴声慢慢飘\n\n[Verse 1]\n我撑一把纸伞走过小桥\n桥下流水照见我的眼角\n你曾站在那棵老柳树边\n笑着对我说要陪我到老\n如今楼台空空风还在吹\n我数着台阶一步又一步\n想起你爱在雪里弹琴谣\n我的心事像河水停不了\n\n[Chorus]\n纸伞过桥 滴答滴\n想你的心 不停息\n纸伞过桥 滴答滴\n桥那头没有你 我放不下你\n纸伞过桥 滴答滴\n念你的话 落满地\n纸伞过桥 滴答滴\n风里雨里 我还是爱你\n\n[Verse 2]\n那年元宵灯火亮过楼角\n你牵我手穿过人群热闹\n后来一封书信断了消息\n我在桥边等到天都亮了\n雪落琴弦弹出旧时曲调\n月照空楼只剩风声呼啸\n我对自己说不要再想了\n可是每个夜里都睡不着\n\n[Pre-Chorus]\n我站在桥中间把纸伞转一圈\n看着水面倒影想起你的脸\n我知道这份牵挂一直没走远\n\n[Chorus]\n纸伞过桥 滴答滴\n想你的心 不停息\n纸伞过桥 滴答滴\n桥那头没有你 我放不下你\n纸伞过桥 滴答滴\n念你的话 落满地\n纸伞过桥 滴答滴\n风里雨里 我还是爱你\n\n[Bridge]\n我爱你 这句话我藏了太久\n我想你 每个黄昏每个白昼\n放不下 你给过的温柔\n纸伞下 我等你回头\n\n[Chorus]\n纸伞过桥 滴答滴\n想你的心 不停息\n纸伞过桥 滴答滴\n桥那头没有你 我放不下你\n纸伞过桥 滴答滴\n念你的话 落满地\n纸伞过桥 滴答滴\n风里雨里 我还是爱你\n\n[Chorus]\n纸伞过桥 滴答滴\n想你的心 不停息\n纸伞过桥 滴答滴\n桥那头没有你 我放不下你\n纸伞过桥 滴答滴\n念你的话 落满地\n纸伞过桥 滴答滴\n风里雨里 我还是爱你\n\n[Outro]\n纸伞过桥 滴答滴\n我还在等你\n我爱你",
+      "duration": 194,
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-10-07",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/b5b343a8de9eeb0cda1cdc9cf1cd5d7deb4bbad5fc244c08eda6155b928a48b2",
+      "youmind_cover_cdn_all": [
+        "https://cdn.youmindassets.com/user-files/b5b343a8de9eeb0cda1cdc9cf1cd5d7deb4bbad5fc244c08eda6155b928a48b2"
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/897f06de9fc170e4341ed83a7c4ff110d9c3a01529496967c1edcd8dc2d36be2",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/63b6bf8e58dcf25232da42d1dc66bc83d2180dd58164cf4931adfdd985b036fa"
+    },
+    {
+      "slug": "爹娘在等_2026-10-08",
+      "title": "爹娘在等",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_爹娘在等",
+      "date": "2026-10-08",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "爹娘在等_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_爹娘在等/爹娘在等_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.5
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_爹娘在等/cover_爹娘在等.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-08_爹娘在等/cover_爹娘在等.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_爹娘在等/爹娘在等_poster.png",
+      "lyrics_file": "[Intro]\n广州的夜车开往驻马店\n窗外的风一直吹个不停\n我知道村口有人在等\n\n[Verse 1]\n妈妈打电话问我到哪了\n我说火车晚点你别担心\n她笑着说锅里留着热饭\n老屋的灯还亮在半夜\n爹在院子里抽完一根烟\n他说男儿出门要争口气\n我挂了电话眼泪往下掉\n原来想家从来不用学\n\n[Chorus]\n爹娘在等 村口的风在等\n爹娘在等 老屋的灯在等\n爹娘在等 妈妈的白发在等\n我却总说忙完这阵就回\n爹娘在等 桌上的饭在等\n爹娘在等 电话那头在等\n爹娘在等 我的良心在等\n我这就回去 不再让你等\n\n[Verse 2]\n今年春节我买了站票回家\n车厢里挤满和我一样的人\n有人打牌有人靠着行李睡\n我盯着窗外麦田一片片退\n到驻马店时天刚刚蒙蒙亮\n妈妈站在出站口把我张望\n她接过行李说我瘦了好多\n我笑着说外面的饭不香\n\n[Pre-Chorus]\n走进老屋看见爹在修板凳\n墙上挂着我小时候的奖状\n他说回来就好别想太多\n\n[Chorus]\n爹娘在等 村口的风在等\n爹娘在等 老屋的灯在等\n爹娘在等 妈妈的白发在等\n我却总说忙完这阵就回\n爹娘在等 桌上的饭在等\n爹娘在等 电话那头在等\n爹娘在等 我的良心在等\n我这就回去 不再让你等\n\n[Bridge]\n如果时间能够慢慢走\n我想陪你们多住几宿\n妈妈我想你 我真的放不下\n妈妈我爱你 我现在就回家\n\n[Chorus]\n爹娘在等 村口的风在等\n爹娘在等 老屋的灯在等\n爹娘在等 妈妈的白发在等\n我却总说忙完这阵就回\n爹娘在等 桌上的饭在等\n爹娘在等 电话那头在等\n爹娘在等 我的良心在等\n我这就回去 不再让你等\n\n[Chorus]\n爹娘在等 村口的风在等\n爹娘在等 老屋的灯在等\n爹娘在等 妈妈的白发在等\n我却总说忙完这阵就回\n爹娘在等 桌上的饭在等\n爹娘在等 电话那头在等\n爹娘在等 我的良心在等\n我这就回去 不再让你等\n\n[Outro]\n爹娘在等 我也在等\n村口的风吹过老屋门\n我回来了 以后不走了",
+      "duration": 212,
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-10-07",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/60260099398785b17b29e4d13caf5a0f9b4ab8e4960ba08333ab3ca3ba3f4ee2",
+      "youmind_cover_cdn_all": [
+        "https://cdn.youmindassets.com/user-files/60260099398785b17b29e4d13caf5a0f9b4ab8e4960ba08333ab3ca3ba3f4ee2"
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/78f0402194ca2b4c24ce7e656573bea6592891c21fb4fd91d848bdb45ad99029",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/312d1b9094d1f2907ffd978df5c24441f468c4064d9682a095c092b4f0d6a6bf"
+    },
+    {
+      "slug": "心跳到爆_2026-10-08",
+      "title": "心跳到爆",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_心跳到爆",
+      "date": "2026-10-08",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "心跳到爆_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_心跳到爆/心跳到爆_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.2
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_心跳到爆/cover_心跳到爆.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-08_心跳到爆/cover_心跳到爆.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_心跳到爆/心跳到爆_poster.png",
+      "lyrics_file": "[Intro]\n今天天气很好我心情在发烧\n心跳的声音你听不听得见\n我好像已经喜欢你到无可救药\n\n[Verse 1]\n今天早上我打开手机看消息\n你没回我我却一直盯着屏幕\n朋友约我出去逛街我也没兴趣\n满脑子都是你笑的样子\n我假装不在意其实心里在着急\n连喝奶茶都忘记加珍珠\n晚上回家路上看见一对情侣\n我又想起你牵我手的画面\n\n[Chorus]\n心跳到爆 爆 爆\n心跳到爆 爆 爆\n心跳到爆 爆 爆\n可我只想你能知道\n想你想你 想想想\n想你想你 想想想\n想你想你 想想想\n你快点回来好不好\n\n[Verse 2]\n第二天我鼓起勇气给你发消息\n你回了一个笑脸让我心跳到爆\n我马上问你要不要一起看电影\n你说好啊顺便带上你闺蜜\n我嘴上说没问题心里却有点失落\n但只要能见到你我就开心得飞起\n晚上翻来覆去想着你睡不着\n干脆爬起来写这首歌唱给你听\n\n[Pre-Chorus]\n我知道我这样可能有点太主动\n可是喜欢一个人根本没办法藏住\n所以我现在大声对你说\n\n[Chorus]\n心跳到爆 爆 爆\n心跳到爆 爆 爆\n心跳到爆 爆 爆\n可我只想你能知道\n想你想你 想想想\n想你想你 想想想\n想你想你 想想想\n你快点回来好不好\n\n[Bridge]\n如果你也喜欢我就点点头\n如果你不喜欢我我就继续追\n反正我的心跳已经为你到爆\n你逃不掉我也不想逃\n\n[Chorus]\n心跳到爆 爆 爆\n心跳到爆 爆 爆\n心跳到爆 爆 爆\n可我只想你能知道\n想你想你 想想想\n想你想你 想想想\n想你想你 想想想\n你快点回来好不好\n\n[Chorus]\n心跳到爆 爆 爆\n心跳到爆 爆 爆\n心跳到爆 爆 爆\n可我只想你能知道\n想你想你 想想想\n想你想你 想想想\n想你想你 想想想\n你快点回来好不好\n\n[Outro]\n心跳到爆我控制不了\n你听见了吗我的信号\n快点来我身边好不好",
+      "duration": 203,
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-10-07",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/895aa1b6b1e8a312fe9d27d5c40197770df096560bbff185b3d60c220b7b6d91",
+      "youmind_cover_cdn_all": [
+        "https://cdn.youmindassets.com/user-files/895aa1b6b1e8a312fe9d27d5c40197770df096560bbff185b3d60c220b7b6d91"
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/6d7e412e331172d2105f1f56c85db086a3587d7c33cc024397d3dd28f7e40cf1",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/c6159bf8822915613aef592ccfdaea30192b8d823905ed2b01fa4b97e5cf41ce"
+    },
+    {
+      "slug": "广场舞步_2026-10-08",
+      "title": "广场舞步",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_广场舞步",
+      "date": "2026-10-08",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "广场舞步_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_广场舞步/广场舞步_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.1
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_广场舞步/cover_广场舞步.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-08_广场舞步/cover_广场舞步.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_广场舞步/广场舞步_poster.png",
+      "lyrics_file": "[Intro]\n今晚小区广场音乐响起来\n你发消息说马上就会来\n我把外套脱了先跳第一排\n\n[Verse 1]\n今晚七点小区门口音乐已经响起\n我换上那双红色运动鞋就出门\n老张在调音响小李占好第一排\n你说要来陪我跳完这一整夜\n我嘴上说随便心里一直在等你\n路灯亮起来风也跟着节拍吹\n如果看到你走过来我会笑出声\n牵不牵手其实我都不介意\n\n[Chorus]\n跳起来 跳起来 跳起来\n摇起来 摇起来 摇起来\n笑起来 笑起来 笑起来\n今天谁也别想先走\n手举高 手举高 手举高\n脚踩点 脚踩点 脚踩点\n腰扭开 腰扭开 腰扭开\n可我只想牵你的手\n\n[Verse 2]\n八点半的时候你终于发来消息\n说路上堵车让我再等几分钟\n我假装不在意却把手机握很紧\n旁边阿姨问我是不是在等男朋友\n我说不是啦只是普通朋友而已\n可音乐每一下都像敲在我心头\n你出现那刻全场灯光好像变亮\n我拉你进队伍跟着大家一起扭\n\n[Pre-Chorus]\n音乐一响我就想起你的笑脸\n今天你要不要来我身边\n别让我一个人跳完这夜晚\n\n[Chorus]\n跳起来 跳起来 跳起来\n摇起来 摇起来 摇起来\n笑起来 笑起来 笑起来\n今天谁也别想先走\n手举高 手举高 手举高\n脚踩点 脚踩点 脚踩点\n腰扭开 腰扭开 腰扭开\n可我只想牵你的手\n\n[Bridge]\n如果明天音乐停了你会不会来\n如果老了跳不动了你还爱不爱\n现在别想那么多跟着拍子摇摆\n我爱你这句话大声唱出来\n\n[Chorus]\n跳起来 跳起来 跳起来\n摇起来 摇起来 摇起来\n笑起来 笑起来 笑起来\n今天谁也别想先走\n手举高 手举高 手举高\n脚踩点 脚踩点 脚踩点\n腰扭开 腰扭开 腰扭开\n可我只想牵你的手\n\n[Chorus]\n跳起来 跳起来 跳起来\n摇起来 摇起来 摇起来\n笑起来 笑起来 笑起来\n今天谁也别想先走\n手举高 手举高 手举高\n脚踩点 脚踩点 脚踩点\n腰扭开 腰扭开 腰扭开\n可我只想牵你的手\n\n[Outro]\n明晚同一时间我还在老地方等你\n音乐响起的时候请你牵住我的手\n广场舞步跳完这首我们就一起走",
+      "duration": 200,
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-10-07",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/910fc4ca07ba179f55e0439375e24f8387d31ca8524a94c6a0dbb3d0fc7c5fd7",
+      "youmind_cover_cdn_all": [
+        "https://cdn.youmindassets.com/user-files/910fc4ca07ba179f55e0439375e24f8387d31ca8524a94c6a0dbb3d0fc7c5fd7"
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/bb5863da6dbc4ef86f6934e9dfc198ec4020848bc85f22ff25e75fe4ebbbaaa0",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/803cd9b3dd9f591d6e4d9d64509d69b7be91889eb7c21b7f27751b6c103ded7a"
+    },
+    {
+      "slug": "删掉合照_2026-10-08",
+      "title": "删掉合照",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_删掉合照",
+      "date": "2026-10-08",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "删掉合照_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_删掉合照/删掉合照_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.4
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_删掉合照/cover_删掉合照.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-08_删掉合照/cover_删掉合照.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-08_删掉合照/删掉合照_poster.png",
+      "lyrics_file": "[Intro]\n凌晨两点的房间安静得可怕\n手机屏幕亮着我们的合照\n我盯着删除键看了好久\n\n[Verse 1]\n凌晨两点我还坐在床沿\n手机相册翻到去年夏天\n你笑得像没离开我身边\n我手指停在删除的按键\n窗外雨声陪我一起失眠\n咖啡凉了像我们的从前\n朋友问我最近过得怎样\n我说还好只是有点不习惯\n\n[Chorus]\n删掉合照第一张\n删掉合照第二张\n删掉合照第三张\n还是删不掉你的模样\n删掉聊天第一行\n删掉聊天第二行\n删掉聊天第三行\n还是删不掉你的声响\n\n[Verse 2]\n今天路过我们常去的影院\n海报换成一部新的影片\n我买了单人票坐在后排\n身边空位像你还在那边\n回家路上收到你的动态\n你和新朋友笑得很甜\n我点了个赞又马上取消\n怕你发现我还没有翻篇\n\n[Pre-Chorus]\n我把手机相册从头翻到尾\n还是舍不得按下全部删除\n其实我知道早该把你放走\n\n[Chorus]\n删掉合照第一张\n删掉合照第二张\n删掉合照第三张\n还是删不掉你的模样\n删掉聊天第一行\n删掉聊天第二行\n删掉聊天第三行\n还是删不掉你的声响\n\n[Bridge]\n删掉合照删不掉你的温度\n删掉合照删不掉我的在乎\n算了吧我还是会认输\n因为爱你这件事我藏不住\n\n[Chorus]\n删掉合照第一张\n删掉合照第二张\n删掉合照第三张\n还是删不掉你的模样\n删掉聊天第一行\n删掉聊天第二行\n删掉聊天第三行\n还是删不掉你的声响\n\n[Chorus]\n删掉合照第一张\n删掉合照第二张\n删掉合照第三张\n还是删不掉你的模样\n删掉聊天第一行\n删掉聊天第二行\n删掉聊天第三行\n还是删不掉你的声响\n\n[Outro]\n最后一张合照停在屏幕\n我闭眼按下删除\n可心里那个位置还留着你的名字",
+      "duration": 178,
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-10-07",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/34633ed1f3c84abe963732815f10afcf22bcaf81c44d3f09ea3102adf52da368",
+      "youmind_cover_cdn_all": [
+        "https://cdn.youmindassets.com/user-files/34633ed1f3c84abe963732815f10afcf22bcaf81c44d3f09ea3102adf52da368"
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/b66311e7a62d207ae35a3c6095c0ef4507a2572c36e3f2f2aee38cb01245eabc",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/485503d65b0f0b453f8062c75f80aac1b46b59383cb8b12a80a86cb9b076bf28"
+    },
     {
       "slug": "超喜欢_2026-10-07",
       "title": "超喜欢",
@@ -9,8 +209,8 @@
       "date": "2026-10-07",
       "genre_code": "viral_pop",
       "genre_label": "抖音热歌/口水歌/欢快洗脑",
-      "genre_icon": "🍬",
-      "genre_color": "#f39c12",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "4536251",
       "bpm": 115,
       "dimension": "番茄专项",
@@ -49,8 +249,8 @@
       "date": "2026-10-07",
       "genre_code": "sad",
       "genre_label": "失恋/孤独/情感共鸣",
-      "genre_icon": "🌧️",
-      "genre_color": "#3498db",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "1645",
       "bpm": 80,
       "dimension": "番茄专项",
@@ -89,8 +289,8 @@
       "date": "2026-10-07",
       "genre_code": "dance",
       "genre_label": "广场舞/DJ舞曲/车载慢摇",
-      "genre_icon": "💃",
-      "genre_color": "#e74c5e",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "6415",
       "bpm": 128,
       "dimension": "番茄专项",
@@ -129,8 +329,8 @@
       "date": "2026-10-07",
       "genre_code": "guofeng",
       "genre_label": "民族风/古诗词改编/中国风",
-      "genre_icon": "🏮",
-      "genre_color": "#9b59b6",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "大调卡农",
       "bpm": 90,
       "dimension": "番茄专项",
@@ -169,8 +369,8 @@
       "date": "2026-10-07",
       "genre_code": "hometown",
       "genre_label": "乡愁/励志/朴实口语",
-      "genre_icon": "🏠",
-      "genre_color": "#27ae60",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "卡农变体",
       "bpm": 100,
       "dimension": "番茄专项",
