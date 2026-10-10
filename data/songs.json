@@ -1,7 +1,159 @@
 {
-  "generated_at": "2026-10-09T16:56:04.523509",
-  "total_songs": 547,
+  "generated_at": "2026-10-10T16:50:59.617022",
+  "total_songs": 552,
   "songs": [
+    {
+      "slug": "甩掉卡路里_2026-10-11",
+      "title": "甩掉卡路里",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_甩掉卡路里",
+      "date": "2026-10-11",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "甩掉卡路里_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_甩掉卡路里/甩掉卡路里_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.1
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_甩掉卡路里/cover_甩掉卡路里.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-11_甩掉卡路里/cover_甩掉卡路里.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_甩掉卡路里/甩掉卡路里_poster.png",
+      "lyrics_file": "[Intro]\n动起来把烦恼都抛开\n跟着音乐节拍摇摆起来\n今晚我们一起甩掉卡路里\n\n[Verse 1]\n今天晚上吃了一大碗牛肉面\n低头看见肚子又胖了一小圈\n赶紧换上运动鞋走到小广场\n音响里面放着最带劲的音乐\n隔壁王姐早就已经站在前排\n拉着我的双手让我快点跟上\n出汗的感觉真的比吃肉还爽\n今晚的目标就是瘦下两公斤\n\n[Chorus]\n甩甩甩 甩掉它\n甩甩甩 甩掉它\n甩甩甩 甩掉它\n动起来我就最潇洒\n跳跳跳 停不下\n跳跳跳 停不下\n跳跳跳 停不下\n把所有脂肪全融化\n\n[Verse 2]\n左边踢踢腿右边再扭一扭腰\n不知不觉衣服全都已经湿透\n谁说减肥必须要天天饿肚子\n只要迈开脚步就能变得漂亮\n跟着节拍拍手心情特别舒畅\n所有烦恼和压力都扔在脑后\n明天早上称体重一定会下降\n做个健康快乐自信的大美女\n\n[Pre-Chorus]\n前面的姐妹大家把队伍排好\n后面的朋友举起双手一起摇\n重低音响起来谁也不许偷懒\n\n[Chorus]\n甩甩甩 甩掉它\n甩甩甩 甩掉它\n甩甩甩 甩掉它\n动起来我就最潇洒\n跳跳跳 停不下\n跳跳跳 停不下\n跳跳跳 停不下\n把所有脂肪全融化\n\n[Bridge]\n不管你是二十还是五十岁\n只要音乐响起大家都是姐妹\n擦干汗水继续往前冲不用累\n大声喊出我们最美的口号\n\n[Chorus]\n甩甩甩 甩掉它\n甩甩甩 甩掉它\n甩甩甩 甩掉它\n动起来我就最潇洒\n跳跳跳 停不下\n跳跳跳 停不下\n跳跳跳 停不下\n把所有脂肪全融化\n\n[Chorus]\n甩甩甩 甩掉它\n甩甩甩 甩掉它\n甩甩甩 甩掉它\n动起来我就最潇洒\n跳跳跳 停不下\n跳跳跳 停不下\n跳跳跳 停不下\n把所有脂肪全融化\n\n[Outro]\n一二三四跟着节奏别停下\n卡路里通通都跟我说拜拜\n明天晚上七点半广场不见不散",
+      "duration": 168
+    },
+    {
+      "slug": "提灯照夜_2026-10-11",
+      "title": "提灯照夜",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_提灯照夜",
+      "date": "2026-10-11",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "提灯照夜_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_提灯照夜/提灯照夜_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.7
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_提灯照夜/cover_提灯照夜.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-11_提灯照夜/cover_提灯照夜.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_提灯照夜/提灯照夜_poster.png",
+      "lyrics_file": "[Intro]\n月光洒在长街照亮这漫漫长夜\n琴声停了以后只剩下冷风在吹\n我提着红灯笼站在了风雪里面\n\n[Verse 1]\n今天我又一个人回到老茶楼坐着\n桌上还摆着你曾经弹过的那张琴\n窗外的北风吹得窗纸沙沙响不停\n街上的行人都赶着回家关上大门\n我倒了一杯凉透的茶水一口喝下\n心里全都是我们去年相遇的画面\n那时候你说过这一生不离开我\n现在怎么只留我一个人受尽折磨\n\n[Chorus]\n我提一盏灯在长夜里苦苦等着你\n我提一盏灯在冷风里拼命念着你\n我提一盏灯在大雪里一直想着你\n为何走遍了人间还是找不到了你\n等等等 盼盼盼 我真的放不下你\n等等等 盼盼盼 心碎了也没关系\n只要你能回头我就把整颗心给你\n\n[Verse 2]\n雪花落在石桥上面结成厚厚的冰\n我提着红灯笼走过了三条旧巷子\n每一家客栈我都走进去打听消息\n掌柜都说很久没见过穿白衣的人\n眼泪掉下来把手里的灯光都打湿\n我多想现在就能扑进你的怀抱里\n听你亲口对我说一句你也很想我\n这漫漫长夜没有你陪伴真的太冷\n\n[Pre-Chorus]\n古琴断了弦再弹不出当年的曲子\n天上那一轮明月照着孤单的身影\n我扯着嗓子大声喊出我真的想你\n\n[Chorus]\n我提一盏灯在长夜里苦苦等着你\n我提一盏灯在冷风里拼命念着你\n我提一盏灯在大雪里一直想着你\n为何走遍了人间还是找不到了你\n等等等 盼盼盼 我真的放不下你\n等等等 盼盼盼 心碎了也没关系\n只要你能回头我就把整颗心给你\n\n[Bridge]\n天都快要亮了你究竟会去了哪里\n哪怕走烂了绣花鞋我也要找到你\n这世上千千万万人我只要你一个\n只要你肯回来我什么都可以不要\n\n[Chorus]\n我提一盏灯在长夜里苦苦等着你\n我提一盏灯在冷风里拼命念着你\n我提一盏灯在大雪里一直想着你\n为何走遍了人间还是找不到了你\n等等等 盼盼盼 我真的放不下你\n等等等 盼盼盼 心碎了也没关系\n只要你能回头我就把整颗心给你\n\n[Chorus]\n我提一盏灯在长夜里苦苦等着你\n我提一盏灯在冷风里拼命念着你\n我提一盏灯在大雪里一直想着你\n为何走遍了人间还是找不到了你\n等等等 盼盼盼 我真的放不下你\n等等等 盼盼盼 心碎了也没关系\n只要你能回头我就把整颗心给你\n\n[Outro]\n长夜快要过去了雪花还在慢慢落\n手里的这盏红灯笼终于燃尽了\n明天晚上我还会在这里继续等你",
+      "duration": 221
+    },
+    {
+      "slug": "心跳漏半拍_2026-10-11",
+      "title": "心跳漏半拍",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_心跳漏半拍",
+      "date": "2026-10-11",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_心跳漏半拍/cover_心跳漏半拍.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-11_心跳漏半拍/cover_心跳漏半拍.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_心跳漏半拍/心跳漏半拍_poster.png",
+      "lyrics_file": "[Intro]\n今天的天气真的超级晴朗\n我好像有一点点喜欢上你\n你到底知不知道这件事情\n\n[Verse 1]\n今天出门刚好在地铁口遇见你\n你手里拿着给我买的热热豆浆\n我低头看手机其实在偷偷看你\n你的白衬衫今天洗得真的干净\n我们并排走着连影子靠在一起\n你突然转过头问我今天开不开心\n我结结巴巴半天一句话都说不清\n脸红得像个番茄真的太没出息\n\n[Chorus]\n咚咚咚 咚咚咚 你突然看我一眼心跳漏半拍\n咚咚咚 咚咚咚 你轻轻喊我名字心跳漏半拍\n咚咚咚 咚咚咚 你低头靠近一点心跳漏半拍\n完蛋啦 完蛋啦 这一次肯定是超级喜欢你\n咚咚咚 咚咚咚 喝一口甜牛奶也心跳漏半拍\n咚咚咚 咚咚咚 走同一条小路也心跳漏半拍\n咚咚咚 咚咚咚 站在你右手边就心跳漏半拍\n怎么办 怎么办 我今天就想直接和你恋爱\n\n[Verse 2]\n下午上课的时候你坐在我的前排\n微风吹过来你头发上有薄荷香\n你悄悄往后递过来一张小纸条\n上面画着小猫问我放学去哪里\n我心乱如麻橡皮擦掉到了地上\n你弯下腰帮我捡起来放在手心\n手指碰到的那一秒温度好高啊\n整间教室里我只能听见你呼吸\n\n[Pre-Chorus]\n原来喜欢一个人根本藏不住啊\n我的眼神早就把你出卖得彻底\n下一步要怎么做你快点告诉我\n\n[Chorus]\n咚咚咚 咚咚咚 你突然看我一眼心跳漏半拍\n咚咚咚 咚咚咚 你轻轻喊我名字心跳漏半拍\n咚咚咚 咚咚咚 你低头靠近一点心跳漏半拍\n完蛋啦 完蛋啦 这一次肯定是超级喜欢你\n咚咚咚 咚咚咚 喝一口甜牛奶也心跳漏半拍\n咚咚咚 咚咚咚 走同一条小路也心跳漏半拍\n咚咚咚 咚咚咚 站在你右手边就心跳漏半拍\n怎么办 怎么办 我今天就想直接和你恋爱\n\n[Bridge]\n全世界都看出来我有多么想你\n每天翻看聊天记录翻来又覆去\n要是你也刚好喜欢我那就太好\n我们现在立刻马上就谈恋爱吧\n\n[Chorus]\n咚咚咚 咚咚咚 你突然看我一眼心跳漏半拍\n咚咚咚 咚咚咚 你轻轻喊我名字心跳漏半拍\n咚咚咚 咚咚咚 你低头靠近一点心跳漏半拍\n完蛋啦 完蛋啦 这一次肯定是超级喜欢你\n咚咚咚 咚咚咚 喝一口甜牛奶也心跳漏半拍\n咚咚咚 咚咚咚 走同一条小路也心跳漏半拍\n咚咚咚 咚咚咚 站在你右手边就心跳漏半拍\n怎么办 怎么办 我今天就想直接和你恋爱\n\n[Chorus]\n咚咚咚 咚咚咚 你突然看我一眼心跳漏半拍\n咚咚咚 咚咚咚 你轻轻喊我名字心跳漏半拍\n咚咚咚 咚咚咚 你低头靠近一点心跳漏半拍\n完蛋啦 完蛋啦 这一次肯定是超级喜欢你\n咚咚咚 咚咚咚 喝一口甜牛奶也心跳漏半拍\n咚咚咚 咚咚咚 走同一条小路也心跳漏半拍\n咚咚咚 咚咚咚 站在你右手边就心跳漏半拍\n怎么办 怎么办 我今天就想直接和你恋爱\n\n[Outro]\n咚咚咚 咚咚咚 心跳漏半拍\n今天就要和你认认真真恋爱\n说好啦拉勾就绝对不许反悔",
+      "duration": 180
+    },
+    {
+      "slug": "回家吃口饭_2026-10-11",
+      "title": "回家吃口饭",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_回家吃口饭",
+      "date": "2026-10-11",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "回家吃口饭_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_回家吃口饭/回家吃口饭_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.6
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_回家吃口饭/cover_回家吃口饭.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-11_回家吃口饭/cover_回家吃口饭.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_回家吃口饭/回家吃口饭_poster.png",
+      "lyrics_file": "[Intro]\n车轮在铁轨上面不知疲倦地旋转\n广播报站说前方马上就要到邵阳\n我提着行李箱心情激动不能平静\n\n[Verse 1]\n穿过熟悉的车站坐上回村的小巴\n两旁的小路开满了不知名的野花\n离家三年为了生活天天都在拼命\n咽下所有的委屈从来不敢对人讲\n妈妈在电话里总说家里一切都好\n让我一个人在外面千万别太节省\n看到村口那棵大槐树心里直发酸\n老屋的烟囱里已经飘起淡淡炊烟\n\n[Chorus]\n回家吃口饭 回家吃口饭\n就算外面的风雨再大也别怕艰难\n回家吃口饭 回家吃口饭\n热腾腾的饭菜一直都在桌上摆满\n想你啊妈妈 屋檐下的辣椒晒得好看\n想你啊妈妈 灶台上的土鸡汤炖得喷香\n想你啊妈妈 站在村口张望等了一天\n我放下所有包袱大声对你说我爱你\n\n[Verse 2]\n推开斑驳的木门看见妈妈的身影\n她的两鬓不知何时添了许多白发\n院子里的老黄狗高兴地围着我转\n饭桌上摆满了我从小爱吃的菜肴\n妈妈笑着给我盛了满满一碗米饭\n夹起一块红烧肉放进我嘴里尝尝\n泪水忍不住掉进碗里模糊了双眼\n原来世界上最幸福的就是这顿饭\n\n[Pre-Chorus]\n外面的世界很大却常常让人疲惫\n只有回到老屋心才能真正踏实下来\n听着妈妈在身边唠唠叨叨说家常\n\n[Chorus]\n回家吃口饭 回家吃口饭\n就算外面的风雨再大也别怕艰难\n回家吃口饭 回家吃口饭\n热腾腾的饭菜一直都在桌上摆满\n想你啊妈妈 屋檐下的辣椒晒得好看\n想你啊妈妈 灶台上的土鸡汤炖得喷香\n想你啊妈妈 站在村口张望等了一天\n我放下所有包袱大声对你说我爱你\n\n[Bridge]\n那些受过的伤吃过的苦全都不算啥\n家人的牵挂是我咬牙坚持的理由\n喝完这碗热汤明天我就重新出发\n无论走到哪里我都不会忘记家乡\n\n[Chorus]\n回家吃口饭 回家吃口饭\n就算外面的风雨再大也别怕艰难\n回家吃口饭 回家吃口饭\n热腾腾的饭菜一直都在桌上摆满\n想你啊妈妈 屋檐下的辣椒晒得好看\n想你啊妈妈 灶台上的土鸡汤炖得喷香\n想你啊妈妈 站在村口张望等了一天\n我放下所有包袱大声对你说我爱你\n\n[Chorus]\n回家吃口饭 回家吃口饭\n就算外面的风雨再大也别怕艰难\n回家吃口饭 回家吃口饭\n热腾腾的饭菜一直都在桌上摆满\n想你啊妈妈 屋檐下的辣椒晒得好看\n想你啊妈妈 灶台上的土鸡汤炖得喷香\n想你啊妈妈 站在村口张望等了一天\n我放下所有包袱大声对你说我爱你\n\n[Outro]\n老屋的灯光温暖照亮回家的路\n妈妈站在门口笑着对我挥挥手\n这一口热饭让我浑身充满了力量",
+      "duration": 249
+    },
+    {
+      "slug": "到此为止吧_2026-10-11",
+      "title": "到此为止吧",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_到此为止吧",
+      "date": "2026-10-11",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "到此为止吧_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_到此为止吧/到此为止吧_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 8.8
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_到此为止吧/cover_到此为止吧.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-11_到此为止吧/cover_到此为止吧.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-11_到此为止吧/到此为止吧_poster.png",
+      "lyrics_file": "[Intro]\n天又快亮了\n我还是没睡着\n好想你啊\n\n[Verse 1]\n房间里的灯我一直都忘了关\n手机屏幕亮起又暗了好几遍\n对话框里打了又删那些字句\n最后还是没有勇气发给你看\n外面的雨从昨晚一直下到现在\n我抱着被子把眼睛都哭肿了\n朋友劝我别再为了你折磨自己\n可是我真的不知道该怎么办了\n\n[Chorus]\n我们到此为止吧就别再联系了\n我们到此为止吧别再互相折磨\n我们到此为止吧把回忆都删了\n可为什么说出口心还是会痛呢\n算了吧\n算了吧\n算了吧\n我还是好想你可我该放手了\n\n[Verse 2]\n桌上还放着我们去年的合照呢\n你送的水杯我每天都还在用着\n习惯了你每天晚上对我说晚安\n现在空荡的房间只剩下沉默了\n去超市总会买你爱吃的零食\n走到路口才想起我们已经分开了\n我以为我可以装作一点都不难过\n眼泪却在挂断电话后流出来了\n\n[Pre-Chorus]\n我其实一直都舍不得放开你的\n只是你好像已经不在乎我了\n那我就成全你想要的那种自由\n\n[Chorus]\n我们到此为止吧就别再联系了\n我们到此为止吧别再互相折磨\n我们到此为止吧把回忆都删了\n可为什么说出口心还是会痛呢\n算了吧\n算了吧\n算了吧\n我还是好想你可我该放手了\n\n[Bridge]\n我知道爱一个人不该这么卑微\n我也知道你再也不会回头看我\n放不下你是我自己没有出息\n这一次我真的要逼自己死心了\n\n[Chorus]\n我们到此为止吧就别再联系了\n我们到此为止吧别再互相折磨\n我们到此为止吧把回忆都删了\n可为什么说出口心还是会痛呢\n算了吧\n算了吧\n算了吧\n我还是好想你可我该放手了\n\n[Chorus]\n我们到此为止吧就别再联系了\n我们到此为止吧别再互相折磨\n我们到此为止吧把回忆都删了\n可为什么说出口心还是会痛呢\n算了吧\n算了吧\n算了吧\n我真的放不下可必须放手了\n\n[Outro]\n算了吧\n到此为止吧\n我真的该把你彻底忘记了",
+      "duration": 290
+    },
     {
       "slug": "温壶老酒_2026-10-10",
       "title": "温壶老酒",
@@ -9,8 +161,8 @@
       "date": "2026-10-10",
       "genre_code": "guofeng",
       "genre_label": "民族风/古诗词改编/中国风",
-      "genre_icon": "🏮",
-      "genre_color": "#9b59b6",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "大调卡农",
       "bpm": 90,
       "dimension": "番茄专项",
@@ -25,12 +177,24 @@
         }
       ],
       "cover": {
-        "path": null,
-        "all_covers": []
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-10_温壶老酒/cover_温壶老酒.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-10_温壶老酒/cover_温壶老酒.jpg"
+        ],
+        "generated_at": "2026-10-10T00:12:26",
+        "tool": "backfill-20261009"
       },
-      "poster": null,
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-10_温壶老酒/温壶老酒_poster.png",
       "lyrics_file": "[Intro]\n风吹过西楼我又温一壶老酒\n今夜的大雪下得停也停不住\n我是真的好想你你知不知道\n\n[Verse 1]\n门外寒风呼呼吹落满地枯叶\n我在空荡荡的小楼弹起了琴\n桌上的青瓷酒壶冒着热气儿\n想起当年你笑着拉过我的手\n那时候我们说好永远不分开\n谁能想到后来你走得那么急\n如今这屋里只剩下我一个人\n每喝一口酒心里就更痛一次\n\n[Chorus]\n温一壶老酒想你想到心发慌\n温一壶老酒等你等到了天亮\n温一壶老酒盼你盼了多少年\n可你走远了再也没有回过头\n念念念 念着你\n念念念 念着你\n我是真的放不下你给的温柔\n醉倒在雪里眼泪还是止不住\n\n[Verse 2]\n天上的月亮被乌云遮住了光\n院子里那棵老梅树又开了花\n你说过梅花开时就会来看我\n这句话我记了整整三年五载\n琴弦断了一根我也懒得去换\n反正弹得再好也没有人来听\n邻居劝我别再傻傻等下去了\n可我心里全都是你的模样\n\n[Pre-Chorus]\n风雪越来越大把前路都封死\n手里的酒杯已经慢慢变凉了\n我还在痴痴望着路口的尽头\n\n[Chorus]\n温一壶老酒想你想到心发慌\n温一壶老酒等你等到了天亮\n温一壶老酒盼你盼了多少年\n可你走远了再也没有回过头\n念念念 念着你\n念念念 念着你\n我是真的放不下你给的温柔\n醉倒在雪里眼泪还是止不住\n\n[Bridge]\n别人都说时间能冲淡了一切\n可我怎么越过越觉得难受\n只要闭上眼睛全都是回忆\n我该拿什么把你彻底忘记\n\n[Chorus]\n温一壶老酒想你想到心发慌\n温一壶老酒等你等到了天亮\n温一壶老酒盼你盼了多少年\n可你走远了再也没有回过头\n念念念 念着你\n念念念 念着你\n我是真的放不下你给的温柔\n醉倒在雪里眼泪还是止不住\n\n[Chorus]\n温一壶老酒想你想到心发慌\n温一壶老酒等你等到了天亮\n温一壶老酒盼你盼了多少年\n可你走远了再也没有回过头\n念念念 念着你\n念念念 念着你\n我是真的放不下你给的温柔\n醉倒在雪里眼泪还是止不住\n\n[Outro]\n雪停了酒冷了我还在等你\n温一壶老酒醉倒在这西楼\n我是真的好想你快回来吧",
-      "duration": 275
+      "duration": 275,
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-10-10",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/4799aaebbb9c350ee4af9b79d6e40aadce74aa10c2e5f835688f4d7770a7eafa",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/bf0ed07509e7ba4f922172de2fd9e9ba7904e7a4df5bef6bb556003b96197c25",
+      "youmind_cover_cdn_all": [
+        "https://cdn.youmindassets.com/user-files/bf0ed07509e7ba4f922172de2fd9e9ba7904e7a4df5bef6bb556003b96197c25"
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/6a6fa3d039f69f2ba9acf121f89fb156ae2e51fd90fb74cb892adfe822ebb76c"
     },
     {
       "slug": "扭腰歌_2026-10-10",
@@ -39,8 +203,8 @@
       "date": "2026-10-10",
       "genre_code": "dance",
       "genre_label": "广场舞/DJ舞曲/车载慢摇",
-      "genre_icon": "💃",
-      "genre_color": "#e74c5e",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "6415",
       "bpm": 128,
       "dimension": "番茄专项",
@@ -55,12 +219,24 @@
         }
       ],
       "cover": {
-        "path": null,
-        "all_covers": []
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-10_扭腰歌/cover_扭腰歌.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-10_扭腰歌/cover_扭腰歌.jpg"
+        ],
+        "generated_at": "2026-10-10T00:13:51",
+        "tool": "backfill-20261009"
       },
-      "poster": null,
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-10_扭腰歌/扭腰歌_poster.png",
       "lyrics_file": "[Intro]\n动次打次音乐响起来\n今晚的节拍谁也别停\n准备好了大家跟我摇\n\n[Verse 1]\n今天下班走在大街上\n路边的音乐开得特别响\n大妈大叔排队站成行\n生活压力全部放一旁\n你别一个人坐在角落\n快点过来拉住我的手\n跟着节奏身体晃一晃\n今晚谁也不许想忧伤\n\n[Chorus]\n扭扭腰 扭扭腰 扭扭腰\n扭扭腰 扭扭腰 摆摆胯\n扭扭腰 扭扭腰 跳起来\n所有烦恼全都忘掉吧\n扭扭腰 扭扭腰 扭扭腰\n扭扭腰 扭扭腰 拍拍手\n扭扭腰 扭扭腰 晃起来\n今天晚上跟我一起嗨\n\n[Verse 2]\n打开车窗吹吹晚风吧\n车载音响低音轰隆隆\n不要再去想那个渣男\n他不值得你再掉眼泪\n日子天天过得这么快\n何必天天把自己为难\n看那霓虹灯光多好看\n脚步踩着节拍转个圈\n\n[Pre-Chorus]\n把双手举起来向天空招招手\n深呼吸一口气甩掉所有疲惫\n准备好了没有马上就要开始\n\n[Chorus]\n扭扭腰 扭扭腰 扭扭腰\n扭扭腰 扭扭腰 摆摆胯\n扭扭腰 扭扭腰 跳起来\n所有烦恼全都忘掉吧\n扭扭腰 扭扭腰 扭扭腰\n扭扭腰 扭扭腰 拍拍手\n扭扭腰 扭扭腰 晃起来\n今天晚上跟我一起嗨\n\n[Bridge]\n左边扭一下右边扭一下\n前面摆一下后面晃一下\n不管几岁开心才是最大\n现在全场一起大声叫吧\n\n[Chorus]\n扭扭腰 扭扭腰 扭扭腰\n扭扭腰 扭扭腰 摆摆胯\n扭扭腰 扭扭腰 跳起来\n所有烦恼全都忘掉吧\n扭扭腰 扭扭腰 扭扭腰\n扭扭腰 扭扭腰 拍拍手\n扭扭腰 扭扭腰 晃起来\n今天晚上跟我一起嗨\n\n[Chorus]\n扭扭腰 扭扭腰 扭扭腰\n扭扭腰 扭扭腰 摆摆胯\n扭扭腰 扭扭腰 跳起来\n所有烦恼全都忘掉吧\n扭扭腰 扭扭腰 扭扭腰\n扭扭腰 扭扭腰 拍拍手\n扭扭腰 扭扭腰 晃起来\n今天晚上跟我一起嗨\n\n[Outro]\n扭扭腰呀扭扭腰\n明天又是开心的日子\n最后再跟我扭一次腰",
-      "duration": 187
+      "duration": 187,
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-10-10",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/02cc39d73c903d9335da6dd84ea2fad0571da6e84ff3dfd9d504eec145b5d20d",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/2193f590a9e035613766fa1448ef3b054d9cae1b466289debf781af84853386b",
+      "youmind_cover_cdn_all": [
+        "https://cdn.youmindassets.com/user-files/2193f590a9e035613766fa1448ef3b054d9cae1b466289debf781af84853386b"
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/32e5477569ce40249f59210b89aa140adadc7d9e70d805e1504b558d5ccb6a7d"
     },
     {
       "slug": "想抱抱_2026-10-10",
@@ -69,8 +245,8 @@
       "date": "2026-10-10",
       "genre_code": "viral_pop",
       "genre_label": "抖音热歌/口水歌/欢快洗脑",
-      "genre_icon": "🍬",
-      "genre_color": "#f39c12",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "4536251",
       "bpm": 115,
       "dimension": "番茄专项",
@@ -85,12 +261,24 @@
         }
       ],
       "cover": {
-        "path": null,
-        "all_covers": []
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-10_想抱抱/cover_想抱抱.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-10_想抱抱/cover_想抱抱.jpg"
+        ],
+        "generated_at": "2026-10-10T00:15:11",
+        "tool": "backfill-20261009"
       },
-      "poster": null,
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-10_想抱抱/想抱抱_poster.png",
       "lyrics_file": "[Intro]\n嘀嗒嘀嗒时间走得好慢呀\n我今天有一百个心事想讲\n其实最想说的只有三个字\n\n[Verse 1]\n今天早上闹钟响了第三遍\n我迷迷糊糊从被窝里爬起来\n拿起手机第一件事看你的消息\n屏幕上面全都是昨晚的晚安\n走在路上风吹得脸蛋有点凉\n街角奶茶店飘出甜甜的香味\n我站在路口发呆看着红绿灯\n心里一直在想你现在在干嘛\n\n[Chorus]\n想抱抱 想抱抱 睁开眼睛想抱抱\n想抱抱 想抱抱 走到哪里想抱抱\n想抱抱 想抱抱 吹着晚风想抱抱\n你再不过来我就真的要闹了\n想抱抱 想抱抱 开心时候想抱抱\n想抱抱 想抱抱 委屈时候想抱抱\n想抱抱 想抱抱 每天每天想抱抱\n只要你在身边我就不会烦恼\n\n[Verse 2]\n下午的阳光照在书桌的右边\n我托着下巴看着窗外的小鸟\n草稿纸上面写满了你的名字\n闺蜜笑我整天魂不守舍的样子\n我假装生气把小玩偶扔过去\n谁让你这么久还不回我微信\n哪怕你发一个表情包也可以\n至少让我知道你也在想着我\n\n[Pre-Chorus]\n秒针滴答滴答转了一圈又一圈\n我的耐心快要被思念消耗光\n你现在必须马上出现在我眼前\n\n[Chorus]\n想抱抱 想抱抱 睁开眼睛想抱抱\n想抱抱 想抱抱 走到哪里想抱抱\n想抱抱 想抱抱 吹着晚风想抱抱\n你再不过来我就真的要闹了\n想抱抱 想抱抱 开心时候想抱抱\n想抱抱 想抱抱 委屈时候想抱抱\n想抱抱 想抱抱 每天每天想抱抱\n只要你在身边我就不会烦恼\n\n[Bridge]\n我不是无理取闹的小朋友\n我只是太喜欢太喜欢你了\n把你的外套分给我穿一半\n我们要一直一直走下去呀\n\n[Chorus]\n想抱抱 想抱抱 睁开眼睛想抱抱\n想抱抱 想抱抱 走到哪里想抱抱\n想抱抱 想抱抱 吹着晚风想抱抱\n你再不过来我就真的要闹了\n想抱抱 想抱抱 开心时候想抱抱\n想抱抱 想抱抱 委屈时候想抱抱\n想抱抱 想抱抱 每天每天想抱抱\n只要你在身边我就不会烦恼\n\n[Chorus]\n想抱抱 想抱抱 睁开眼睛想抱抱\n想抱抱 想抱抱 走到哪里想抱抱\n想抱抱 想抱抱 吹着晚风想抱抱\n你再不过来我就真的要闹了\n想抱抱 想抱抱 开心时候想抱抱\n想抱抱 想抱抱 委屈时候想抱抱\n想抱抱 想抱抱 每天每天想抱抱\n只要你在身边我就不会烦恼\n\n[Outro]\n嘀嗒嘀嗒时间又过去一分钟\n门铃响了是不是你到了楼下\n快张开双手让我抱一下嘛",
-      "duration": 242
+      "duration": 242,
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-10-10",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/f00d2884b8614496df3c50ed41c8923b404489c3777fadbb6775a0ae7d771b9e",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/57f71f3f4e1f80a485457873ca19be82d9dacbd014273238fcfd7d402b6d5c0d",
+      "youmind_cover_cdn_all": [
+        "https://cdn.youmindassets.com/user-files/57f71f3f4e1f80a485457873ca19be82d9dacbd014273238fcfd7d402b6d5c0d"
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/69c1c4f4c52ef6f330905f1b8edf04abbcfca39ab93b9674db3b447a0bbc5f6c"
     },
     {
       "slug": "妈妈的唠叨_2026-10-10",
@@ -99,8 +287,8 @@
       "date": "2026-10-10",
       "genre_code": "hometown",
       "genre_label": "乡愁/励志/朴实口语",
-      "genre_icon": "🏠",
-      "genre_color": "#27ae60",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "卡农变体",
       "bpm": 100,
       "dimension": "番茄专项",
@@ -115,12 +303,24 @@
         }
       ],
       "cover": {
-        "path": null,
-        "all_covers": []
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-10_妈妈的唠叨/cover_妈妈的唠叨.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-10_妈妈的唠叨/cover_妈妈的唠叨.jpg"
+        ],
+        "generated_at": "2026-10-10T00:16:28",
+        "tool": "backfill-20261009"
       },
-      "poster": null,
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-10_妈妈的唠叨/妈妈的唠叨_poster.png",
       "lyrics_file": "[Intro]\n火车开出站台已经走得很远\n车窗外面全是高楼和大马路\n我耳朵里全是妈妈刚才的叮嘱\n\n[Verse 1]\n老家在湖南邵阳黄桥镇的老屋\n村口大樟树底下站着我的母亲\n上个月收拾好行李准备去远方\n她往我包里塞满晒干的红薯片\n一遍又一遍问我火车票买没有\n她说外面的天气冷了要多穿衣\n平时工作再忙也要记得吃早饭\n那一刻我只觉得心里全是酸楚\n\n[Chorus]\n念啊念 念啊念\n妈妈的唠叨总是在耳边回响\n妈妈的唠叨总是在梦里温暖\n妈妈的唠叨总是在心里陪伴\n现在的我终于懂得这是最深的爱\n想你啊 想你啊\n我在陌生城市里真的好想你\n多想再听你当面啰嗦上一整天\n\n[Verse 2]\n出租屋的厨房没有家里的柴火\n自己煮一碗泡面常常吃到很晚\n晚上九点妈妈打来了视频电话\n问我今天加班累不累辛不辛苦\n她说一个人在外面千万别省钱\n遇到受委屈的事情要跟我讲讲\n村口老屋的房间天天打扫干净\n我看着手机屏幕偷偷擦掉了泪\n\n[Pre-Chorus]\n漂泊的日子里总有太多不容易\n每一次跌倒都是靠你的话撑住\n妈妈我想对你说我现在很努力\n\n[Chorus]\n念啊念 念啊念\n妈妈的唠叨总是在耳边回响\n妈妈的唠叨总是在梦里温暖\n妈妈的唠叨总是在心里陪伴\n现在的我终于懂得这是最深的爱\n想你啊 想你啊\n我在陌生城市里真的好想你\n多想再听你当面啰嗦上一整天\n\n[Bridge]\n妈妈我爱你这句话从没当面说\n总以为自己长大就能飞得很远\n可是飞得再高也放不下你的白发\n今年过年我一定早点买票回家\n\n[Chorus]\n念啊念 念啊念\n妈妈的唠叨总是在耳边回响\n妈妈的唠叨总是在梦里温暖\n妈妈的唠叨总是在心里陪伴\n现在的我终于懂得这是最深的爱\n想你啊 想你啊\n我在陌生城市里真的好想你\n多想再听你当面啰嗦上一整天\n\n[Chorus]\n念啊念 念啊念\n妈妈的唠叨总是在耳边回响\n妈妈的唠叨总是在梦里温暖\n妈妈的唠叨总是在心里陪伴\n现在的我终于懂得这是最深的爱\n想你啊 想你啊\n我在陌生城市里真的好想你\n多想再听你当面啰嗦上一整天\n\n[Outro]\n村口的老屋亮着一盏灯火\n妈妈你别担心我真的长大了\n我爱你妈妈我现在好想回家",
-      "duration": 233
+      "duration": 233,
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-10-10",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/b8af4c8d1a695fa383e84738163bce4ed72ea7a700c7fef0a40129ed680b8489",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/c2b38f44eb661e2c565358143f9a05ef7abfc498e0a0624fb2c214ec99b010d1",
+      "youmind_cover_cdn_all": [
+        "https://cdn.youmindassets.com/user-files/c2b38f44eb661e2c565358143f9a05ef7abfc498e0a0624fb2c214ec99b010d1"
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/8ad1268809fb9ff321e924460165bc8d4ee9e806948c6ddd949edd68433cb949"
     },
     {
       "slug": "不联系了_2026-10-10",
@@ -129,8 +329,8 @@
       "date": "2026-10-10",
       "genre_code": "sad",
       "genre_label": "失恋/孤独/情感共鸣",
-      "genre_icon": "🌧️",
-      "genre_color": "#3498db",
+      "genre_icon": "🎵",
+      "genre_color": "#c41e1e",
       "chord": "1645",
       "bpm": 80,
       "dimension": "番茄专项",
@@ -145,12 +345,24 @@
         }
       ],
       "cover": {
-        "path": null,
-        "all_covers": []
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-10-10_不联系了/cover_不联系了.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-10-10_不联系了/cover_不联系了.jpg"
+        ],
+        "generated_at": "2026-10-10T00:17:49",
+        "tool": "backfill-20261009"
       },
-      "poster": null,
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-10-10_不联系了/不联系了_poster.png",
       "lyrics_file": "[Intro]\n我们真的已经好久没联系了\n翻看你的头像换了一套风格\n原来没有我你也能过得很好\n\n[Verse 1]\n晚上下班回家一个人坐地铁\n耳机里播放着你最爱的老歌\n出了站台外面突然下起了雨\n我习惯性拿出手机想打给你\n点开界面才想起我们分手了\n红色感叹号提醒我已被删除\n原来你早就开始了自己的生活\n只有我还留在原地走不出来\n\n[Chorus]\n不联系了 不联系了\n我还是会想你 一个人坐到天亮\n我还是放不下 那些说好的以后\n我还是好爱你 想到心口都在发慌\n可是你的身边已经有了新的人\n不联系了 不联系了\n我们再也不会有任何故事了\n那就这样算了吧 我把眼泪擦干\n\n[Verse 2]\n昨天路过我们常去的那家店\n老板还问起你怎么没一起来\n我只能尴尬地笑笑说你太忙\n点了你最爱吃的菜却吃不下\n你的旧外套我还放在柜子里\n连空气里残留的味道都没散\n朋友劝我别再折磨自己快放下\n可真正爱过的人怎么能忘记\n\n[Pre-Chorus]\n每天晚上闭上眼睛全部是你\n真的很想问问你最近好不好\n可是我再也没有身份去打扰\n\n[Chorus]\n不联系了 不联系了\n我还是会想你 一个人坐到天亮\n我还是放不下 那些说好的以后\n我还是好爱你 想到心口都在发慌\n可是你的身边已经有了新的人\n不联系了 不联系了\n我们再也不会有任何故事了\n那就这样算了吧 我把眼泪擦干\n\n[Bridge]\n爱一个人怎么会这么痛苦呢\n付出所有最后换来一句不合适\n你说放手是对我们最好的解脱\n可真正难过的人一直都是我\n\n[Chorus]\n不联系了 不联系了\n我还是会想你 一个人坐到天亮\n我还是放不下 那些说好的以后\n我还是好爱你 想到心口都在发慌\n可是你的身边已经有了新的人\n不联系了 不联系了\n我们再也不会有任何故事了\n那就这样算了吧 我把眼泪擦干\n\n[Chorus]\n不联系了 不联系了\n我还是会想你 一个人坐到天亮\n我还是放不下 那些说好的以后\n我还是好爱你 想到心口都在发慌\n可是你的身边已经有了新的人\n不联系了 不联系了\n我们再也不会有任何故事了\n那就这样算了吧 我把眼泪擦干\n\n[Outro]\n不联系了 不联系了\n希望你以后真的能过得幸福\n我也该慢慢习惯没有你的生活",
-      "duration": 244
+      "duration": 244,
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-10-10",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/bc175003da44325900e2330284ebb692e483410023b6a2638c900ea5d5d2240b",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/bbbd16e93f5b30abe84475e5e3cd5a9547db7704cd87652505eedd726e2385e3",
+      "youmind_cover_cdn_all": [
+        "https://cdn.youmindassets.com/user-files/bbbd16e93f5b30abe84475e5e3cd5a9547db7704cd87652505eedd726e2385e3"
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/89a4db3f0d9bc85383114af2d6e68b805fc5646b5b6a1ceac46cd42dc7e3fb18"
     },
     {
       "slug": "老家炊烟_2026-10-09",
