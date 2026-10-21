@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T03:42:14.553033",
+  "generated_at": "2026-10-21T03:52:33.017926",
   "total_songs": 602,
   "songs": [
     {
@@ -167,7 +167,8 @@
       "duration": 220,
       "youmind_uploaded": true,
       "youmind_cdn_date": "2026-10-21",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/5b0f4aafb168842ee78e4a0791fb06bc5fa88aee3df1df09628c4a16368bf22f"
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/5b0f4aafb168842ee78e4a0791fb06bc5fa88aee3df1df09628c4a16368bf22f",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/ffe775f9201f0798b66d61adefbb833bf2856acb687ed5471ef784e18096a50f"
     },
     {
       "slug": "不再等了_2026-10-21",
