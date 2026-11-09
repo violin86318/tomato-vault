@@ -1,7 +1,195 @@
 {
-  "generated_at": "2026-11-08T10:42:49.511797",
-  "total_songs": 695,
+  "generated_at": "2026-11-08T17:37:16.158959",
+  "total_songs": 700,
   "songs": [
+    {
+      "slug": "跳个够_2026-11-09",
+      "title": "跳个够",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_跳个够",
+      "date": "2026-11-09",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "跳个够_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_跳个够/跳个够_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.6
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_跳个够/cover_跳个够.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-09_跳个够/cover_跳个够.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_跳个够/跳个够_poster.png",
+      "lyrics_file": "[Intro]\n今晚的广场特别的热闹\n音乐一响我的心就跳\n一起来吧朋友别害羞\n\n[Verse 1]\n晚上七点半广场的灯亮了\n音响一开老老少少围过来\n王姐穿了她新买的红裙子\n李哥手里摇着一把大扇子\n白天上班累得腰都直不起\n晚上跳舞就是我的解药啊\n烦恼随着汗水一起流走了\n越跳越开心越跳越年轻了\n\n[Chorus]\n跳个够 跳个够 跳个够\n今晚我要跳个够\n音乐不停我不走\n烦恼甩在脑后头\n跳个够 跳个够 跳个够\n朋友一起跳个够\n汗水流了也痛快\n跳到天亮才罢休\n\n[Verse 2]\n广场舞的音乐换了一首\n旋律比刚才还要更带感\n妈妈拉着爸爸一起上场\n孩子在一旁拍手又蹦跳\n隔壁的张奶奶也来凑热闹\n她说跳起舞来忘了年纪\n手机放一边不用再忙了\n此刻的快乐来得最实在\n\n[Pre-Chorus]\n心跳跟着鼓点越跳越快了\n整个人都变得轻盈起来了\n准备好了吗跟我一起唱\n\n[Chorus]\n跳个够 跳个够 跳个够\n今晚我要跳个够\n音乐不停我不走\n烦恼甩在脑后头\n跳个够 跳个够 跳个够\n朋友一起跳个够\n汗水流了也痛快\n跳到天亮才罢休\n\n[Bridge]\n跳了一年又一年还是要跳\n好朋友聚在一起就是热闹\n明天的事情明天再去想吧\n今晚就让我们跳个痛快吧\n\n[Chorus]\n跳个够 跳个够 跳个够\n今晚我要跳个够\n音乐不停我不走\n烦恼甩在脑后头\n跳个够 跳个够 跳个够\n朋友一起跳个够\n汗水流了也痛快\n跳到天亮才罢休\n\n[Chorus]\n跳个够 跳个够 跳个够\n今晚我要跳个够\n音乐不停我不走\n烦恼甩在脑后头\n跳个够 跳个够 跳个够\n朋友一起跳个够\n汗水流了也痛快\n跳到天亮才罢休\n\n[Outro]\n音乐慢慢停下来月亮还挂着\n回家的路上还在哼着旋律\n明天晚上老地方接着跳",
+      "duration": 185
+    },
+    {
+      "slug": "心动了_2026-11-09",
+      "title": "心动了",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_心动了",
+      "date": "2026-11-09",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "心动了_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_心动了/心动了_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.7
+        },
+        {
+          "filename": "心动了_v1_192k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_心动了/心动了_v1_192k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.0
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_心动了/cover_心动了.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-09_心动了/cover_心动了.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_心动了/心动了_poster.png",
+      "lyrics_file": "[Intro]\n嘿 就在那一秒\n世界好像突然安静了\n我知道我是真的心动了\n\n[Verse 1]\n那天下午我在奶茶店门口排队\n你撑着伞从雨里向我走过来\n你笑着说这雨下得真是突然\n我点点头心跳快得像打鼓一样\n你把伞悄悄往我这边移过来\n雨水淋湿了你半边的肩膀\n雨停了我们还站着谁也没走\n\n[Chorus]\n心动了 心动了\n心跳快得像小鹿在乱跳\n心动了 心动了\n脸红得像苹果甜到冒泡\n心动了 心动了\n闭上眼全是你对我的笑\n完了完了逃不掉\n掉进你甜甜的圈套\n\n[Verse 2]\n后来你加了我微信每天说晚安\n你记得我不吃香菜的小习惯\n下班你总是绕远路送我回家\n路灯把我们的影子拉得好长\n你说和我聊天时间过得好快\n我说其实我心里也是这么想\n\n[Pre-Chorus]\n朋友都笑我一提到你就傻笑\n我才发现你已经这么重要\n想你放不下每一秒都想见你\n\n[Chorus]\n心动了 心动了\n心跳快得像小鹿在乱跳\n心动了 心动了\n脸红得像苹果甜到冒泡\n心动了 心动了\n闭上眼全是你对我的笑\n完了完了逃不掉\n掉进你甜甜的圈套\n\n[Bridge]\n如果你也心动了就牵我的手\n别让这份喜欢偷偷溜走了\n我爱你这句话想说给你听\n\n[Chorus]\n心动了 心动了\n心跳快得像小鹿在乱跳\n心动了 心动了\n脸红得像苹果甜到冒泡\n心动了 心动了\n闭上眼全是你对我的笑\n完了完了逃不掉\n掉进你甜甜的圈套\n\n[Chorus]\n心动了 心动了\n心跳快得像小鹿在乱跳\n心动了 心动了\n脸红得像苹果甜到冒泡\n心动了 心动了\n闭上眼全是你对我的笑\n完了完了逃不掉\n掉进你甜甜的圈套\n\n[Outro]\n心动的感觉真好\n全世界的糖都不如你甜\n谢谢你让我心动了",
+      "duration": 219
+    },
+    {
+      "slug": "妈妈的菜_2026-11-09",
+      "title": "妈妈的菜",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_妈妈的菜",
+      "date": "2026-11-09",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "妈妈的菜_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_妈妈的菜/妈妈的菜_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.7
+        },
+        {
+          "filename": "妈妈的菜_v1_160k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_妈妈的菜/妈妈的菜_v1_160k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 4.8
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_妈妈的菜/cover_妈妈的菜.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-09_妈妈的菜/cover_妈妈的菜.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_妈妈的菜/妈妈的菜_poster.png",
+      "lyrics_file": "[Intro]\n村口的老槐树下 炊烟又升起来了\n李家湾的傍晚 谁家的妈妈在喊吃饭\n风一吹 我就想你了 妈\n\n[Verse 1]\n村口的老槐树又开花了\n我在三千公里外的出租屋\n想起小时候放学的路上\n远远就闻到辣椒炒肉的香\n妈妈系着围裙站在灶台边\n大铁锅里炖着排骨汤\n她总说慢点吃没人跟你抢\n那碗土豆丝我吃了十几年\n\n[Chorus]\n妈妈的菜 妈妈的菜 香过村口那阵风\n妈妈的菜 妈妈的菜 暖过冬天那炉火\n妈妈的菜 妈妈的菜 甜过六月那麦糖\n吃遍了山珍海味 还是那碗白米饭最香\n喊一声妈我回来了 眼泪掉进了滚烫的汤\n原来我爱吃的从来不是菜 是有人等我回家的灯光\n李家湾的风啊 替我抱一抱我妈\n\n[Verse 2]\n十八岁我背着包去了广州\n妈妈往我行李塞了一罐辣酱\n她说外面的菜没有家里的香\n想家了就挖一勺拌着饭吃\n如今我加班到深夜的地铁上\n吃着便利店打折的盒饭\n才懂那年灶台边上的烟火\n是我这辈子最想回去的地方\n\n[Pre-Chorus]\n上个星期我给妈妈打了电话\n她说老屋灶台上还留着我的碗\n我说妈 今年过年我一定回家\n\n[Chorus]\n妈妈的菜 妈妈的菜 香过村口那阵风\n妈妈的菜 妈妈的菜 暖过冬天那炉火\n妈妈的菜 妈妈的菜 甜过六月那麦糖\n吃遍了山珍海味 还是那碗白米饭最香\n喊一声妈我回来了 眼泪掉进了滚烫的汤\n原来我爱吃的从来不是菜 是有人等我回家的灯光\n李家湾的风啊 替我抱一抱我妈\n\n[Bridge]\n妈妈说她眼睛花了 盐都放不准了\n可她还记着我不吃香菜爱喝汤\n过年的车票我已经买好了\n妈 你站在村口等我 别着急\n\n[Chorus]\n妈妈的菜 妈妈的菜 香过村口那阵风\n妈妈的菜 妈妈的菜 暖过冬天那炉火\n妈妈的菜 妈妈的菜 甜过六月那麦糖\n吃遍了山珍海味 还是那碗白米饭最香\n喊一声妈我回来了 眼泪掉进了滚烫的汤\n原来我爱吃的从来不是菜 是有人等我回家的灯光\n李家湾的风啊 替我抱一抱我妈\n\n[Chorus]\n妈妈的菜 妈妈的菜 香过村口那阵风\n妈妈的菜 妈妈的菜 暖过冬天那炉火\n妈妈的菜 妈妈的菜 甜过六月那麦糖\n吃遍了山珍海味 还是那碗白米饭最香\n喊一声妈我回来了 眼泪掉进了滚烫的汤\n原来我爱吃的从来不是菜 是有人等我回家的灯光\n李家湾的风啊 替我抱一抱我妈\n\n[Outro]\n妈 我已经买好了回家的票\n我想你 我爱你 我马上就回来\n再给我做一锅辣椒炒肉吧",
+      "duration": 251
+    },
+    {
+      "slug": "墨未干_2026-11-09",
+      "title": "墨未干",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_墨未干",
+      "date": "2026-11-09",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "墨未干_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_墨未干/墨未干_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 8.0
+        },
+        {
+          "filename": "墨未干_v1_160k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_墨未干/墨未干_v1_160k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.0
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_墨未干/cover_墨未干.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-09_墨未干/cover_墨未干.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_墨未干/墨未干_poster.png",
+      "lyrics_file": "[Intro]\n月光落在西楼 雪落在窗前\n我磨好了墨 又想起你的脸\n这封信 从春天写到了冬天\n\n[Verse 1]\n夜里雪落在小楼的窗台上\n我点亮灯磨好了半砚的墨\n你在春天骑马去了很远的地方\n一封信写了一年还没有寄出去\n月光落在没有写完的纸上\n我又提笔写下你的名字\n写到这里手又开始发抖\n原来想你比写字还要难\n\n[Chorus]\n墨未干 墨未干\n我把想你写满了一整张纸\n墨未干 墨未干\n我把放不下折进信封里面\n墨未干 墨未干\n我把你的名字念了一千遍\n就算有一天这墨迹会干\n我爱你这三个字永远不干\n\n[Verse 2]\n你留下的琴还摆在老地方\n灰尘落满了我也不敢去碰\n风从北边吹过空空的院子\n吹得门口的灯笼晃了又晃\n听说你去了江南又去了塞北\n天冷了不知道你添衣没有\n我把信折好放进袖口里\n想你的时候拿出来看一遍\n\n[Pre-Chorus]\n雪下了整夜灯也亮了整夜\n我数着更声一遍又一遍\n天亮之前把想念全部写完\n\n[Chorus]\n墨未干 墨未干\n我把想你写满了一整张纸\n墨未干 墨未干\n我把放不下折进信封里面\n墨未干 墨未干\n我把你的名字念了一千遍\n就算有一天这墨迹会干\n我爱你这三个字永远不干\n\n[Bridge]\n总有一天纸上的墨会干透\n总有一年门口的雪会化完\n可我想你从春天到冬天\n从来没有一天停过笔\n\n[Chorus]\n墨未干 墨未干\n我把想你写满了一整张纸\n墨未干 墨未干\n我把放不下折进信封里面\n墨未干 墨未干\n我把你的名字念了一千遍\n就算有一天这墨迹会干\n我爱你这三个字永远不干\n\n[Chorus]\n墨未干 墨未干\n我把想你写满了一整张纸\n墨未干 墨未干\n我把放不下折进信封里面\n墨未干 墨未干\n我把你的名字念了一千遍\n就算有一天这墨迹会干\n我爱你这三个字永远不干\n\n[Outro]\n天快亮了墨还微微地湿润\n你快回来吧别让我等太久\n墨未干 想你的心也未干",
+      "duration": 262
+    },
+    {
+      "slug": "不等你了_2026-11-09",
+      "title": "不等你了",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_不等你了",
+      "date": "2026-11-09",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "不等你了_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_不等你了/不等你了_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.9
+        },
+        {
+          "filename": "不等你了_v1_192k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_不等你了/不等你了_v1_192k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.2
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_不等你了/cover_不等你了.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-09_不等你了/cover_不等你了.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-09_不等你了/不等你了_poster.png",
+      "lyrics_file": "[Intro]\n又是自己一个人回家\n房间安静得能听见心跳\n算了 不等你了\n\n[Verse 1]\n手机屏幕亮了可惜不是你\n凌晨两点又翻了一遍聊天记录\n你爱喝的那杯奶茶我还在点\n店员笑着问我怎么还是两杯\n你留下的外套还挂在门口\n我总以为你还会回来拿它\n朋友都劝我应该往前走了\n我点了点头心却留在原地\n\n[Chorus]\n不等你了 不等你了 我说给自己听\n不等你了 不等你了 眼泪不答应\n不等你了 不等你了 说好要清醒\n最后一句我爱你 就散在风里\n想你了 想你了 骗人说算了\n放不下 放不下 心不讲道理\n我知道你不会回来了 我认了结局\n可我还是想你 每天每夜地想你\n\n[Verse 2]\n删掉了微信又去搜索你名字\n你换了头像我盯了一整晚\n生日那天没有等来你的消息\n蛋糕上的蜡烛我自己吹熄\n路过我们以前常去的餐厅\n门口换了招牌我站在风里\n原来没有你生活还在继续\n只是笑到一半眼泪就掉了\n\n[Pre-Chorus]\n我知道你真的不会回来了\n我也该学会一个人过日子\n可是一闭上眼睛全都是你\n\n[Chorus]\n不等你了 不等你了 我说给自己听\n不等你了 不等你了 眼泪不答应\n不等你了 不等你了 说好要清醒\n最后一句我爱你 就散在风里\n想你了 想你了 骗人说算了\n放不下 放不下 心不讲道理\n我知道你不会回来了 我认了结局\n可我还是想你 每天每夜地想你\n\n[Bridge]\n如果某天你突然想起了我\n心里也会有一点点难过吗\n这些问题我不再问了\n反正你早就走得很远了\n\n[Chorus]\n不等你了 不等你了 我说给自己听\n不等你了 不等你了 眼泪不答应\n不等你了 不等你了 说好要清醒\n最后一句我爱你 就散在风里\n想你了 想你了 骗人说算了\n放不下 放不下 心不讲道理\n我知道你不会回来了 我认了结局\n可我还是想你 每天每夜地想你\n\n[Chorus]\n不等你了 不等你了 我说给自己听\n不等你了 不等你了 眼泪不答应\n不等你了 不等你了 说好要清醒\n最后一句我爱你 就散在风里\n想你了 想你了 骗人说算了\n放不下 放不下 心不讲道理\n我知道你不会回来了 我认了结局\n可我还是想你 每天每夜地想你\n\n[Outro]\n灯我关了 门我也锁了\n这一次真的不等你了\n晚安 还在想你的我",
+      "duration": 226
+    },
     {
       "slug": "越跳越美_2026-11-08",
       "title": "越跳越美",
