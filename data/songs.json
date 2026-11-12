@@ -1,7 +1,181 @@
 {
-  "generated_at": "2026-11-10T19:59:21.156688",
-  "total_songs": 710,
+  "generated_at": "2026-11-11T17:36:56.241331",
+  "total_songs": 715,
   "songs": [
+    {
+      "slug": "跟上节拍_2026-11-12",
+      "title": "跟上节拍",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_跟上节拍",
+      "date": "2026-11-12",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "跟上节拍_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_跟上节拍/跟上节拍_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.6
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_跟上节拍/cover_跟上节拍.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-12_跟上节拍/cover_跟上节拍.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_跟上节拍/跟上节拍_poster.png",
+      "lyrics_file": "[Intro]\n鼓点响起来 灯光亮起来\n姐妹们都到齐了就等你来\n今晚我们一起跟上节拍\n\n[Verse 1]\n下班回家换上运动鞋\n七点半准时来到广场边\n老姐妹们招手叫我快过来\n音响一开我心里就痛快\n白天上班受了多少累\n今晚全都跳出去不管它\n跟着鼓点迈开我的脚步\n越跳越精神越跳越年轻\n\n[Chorus]\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n烦恼甩开 快乐回来\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n今晚我最嗨 越跳越痛快\n\n[Verse 2]\n周末开车去江边吹吹风\n车载音响放着这首慢摇\n手指敲着方向盘跟着摇\n红灯停下来心还在跳\n从小我就喜欢跟着音乐跳舞\n到现在我依然放不下它\n只要鼓点一响脚就痒痒\n这份热爱谁也拿不走\n\n[Pre-Chorus]\n心跳跟着鼓点越来越快\n把手举起来跟我一起嗨\n\n[Chorus]\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n烦恼甩开 快乐回来\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n今晚我最嗨 越跳越痛快\n\n[Bridge]\n音乐不要停 我们不要停\n汗水流下来 笑容更灿烂\n你不服老 我也不服老\n跳到八十岁我们还是伴\n\n[Chorus]\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n烦恼甩开 快乐回来\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n今晚我最嗨 越跳越痛快\n\n[Chorus]\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n烦恼甩开 快乐回来\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n跟上节拍 跟上节拍\n今晚我最嗨 越跳越痛快\n\n[Outro]\n今晚跳到广场灯光熄灭\n明天老地方我们不见不散\n快乐的日子还长着呢",
+      "duration": 185
+    },
+    {
+      "slug": "等我回来_2026-11-12",
+      "title": "等我回来",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_等我回来",
+      "date": "2026-11-12",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "等我回来_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_等我回来/等我回来_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.7
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_等我回来/cover_等我回来.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-12_等我回来/cover_等我回来.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_等我回来/等我回来_poster.png",
+      "lyrics_file": "[Intro]\n村口的老槐树又开花了\n妈妈你还站在那儿望吗\n我在很远的城市想你了\n\n[Verse 1]\n十八岁那年我背起行囊\n坐上大巴离开了李家湾\n你把煮好的鸡蛋塞我手里\n说到了城里要吃饱穿暖\n车开了你在村口不停挥手\n我看见你转身抹了一把脸\n从那天起我一个人在外面闯\n打电话你总说家里都挺好\n\n[Chorus]\n等我回来 等我回来\n村口的老树你等我回来\n等我回来 等我回来\n老屋的灯光你等我回来\n等我回来 等我回来\n妈妈这回我把心带回来\n不再走了 不再走了\n往后每一天我都在\n\n[Verse 2]\n城里的霓虹灯亮到半夜\n出租屋里我泡一碗面\n工地上汗水湿透了衣裳\n加班到凌晨也不敢喊累\n电话里你问我瘦没瘦\n我说妈你别担心我好着呢\n挂了电话我一个人哭了\n哭完擦干眼泪继续干\n\n[Pre-Chorus]\n这些年我省吃俭用攒了钱\n车票就放在贴身的口袋\n我最放不下的就是你了\n\n[Chorus]\n等我回来 等我回来\n村口的老树你等我回来\n等我回来 等我回来\n老屋的灯光你等我回来\n等我回来 等我回来\n妈妈这回我把心带回来\n不再走了 不再走了\n往后每一天我都在\n\n[Bridge]\n妈妈对不起让你等了这么久\n儿子想说一句我爱你\n这一次回来我就不走了\n\n[Chorus]\n等我回来 等我回来\n村口的老树你等我回来\n等我回来 等我回来\n老屋的灯光你等我回来\n等我回来 等我回来\n妈妈这回我把心带回来\n不再走了 不再走了\n往后每一天我都在\n\n[Chorus]\n等我回来 等我回来\n村口的老树你等我回来\n等我回来 等我回来\n老屋的灯光你等我回来\n等我回来 等我回来\n妈妈这回我把心带回来\n不再走了 不再走了\n往后每一天我都在\n\n[Outro]\n村口的老槐树又开花了\n妈 我回来了\n这一次再也不走了",
+      "duration": 251
+    },
+    {
+      "slug": "官宣了_2026-11-12",
+      "title": "官宣了",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_官宣了",
+      "date": "2026-11-12",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "官宣了_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_官宣了/官宣了_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.4
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_官宣了/cover_官宣了.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-12_官宣了/cover_官宣了.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_官宣了/官宣了_poster.png",
+      "lyrics_file": "[Intro]\n今天的心情好到快要飞起来\n有一件大事必须马上宣布\n我家那位从今天起正式转正啦\n\n[Verse 1]\n那天你牵我的手走在街上\n路过的人都回头看我们俩\n我下意识想把手抽回来\n你却握得更紧说别怕\n你说谈恋爱又不是做什么错事\n何必躲躲藏藏不敢声张\n我看着你的眼睛突然明白了\n爱一个人就要大大方方\n\n[Chorus]\n官宣了 官宣了 我爱你不打烊\n官宣了 官宣了 恋爱晒着太阳\n官宣了 官宣了 牵手不再躲藏\n单身的日子下架 全世界围观鼓掌\n官宣了 官宣了 头像换成同框\n官宣了 官宣了 朋友圈刷九张\n官宣了 官宣了 幸福正在生长\n往后余生每一天 有你陪在身旁\n\n[Verse 2]\n照片刚发出去评论瞬间火爆\n点赞的人排着队比过年还热闹\n闺蜜激动地留言说总算等到了\n我妈也评论说小伙子看着挺好\n你的兄弟起哄喊着喜糖不能少\n我说早就买好就等你们来讨\n你在旁边笑着把我搂进怀抱\n说这辈子赖定我了别想逃跑\n\n[Pre-Chorus]\n以前约会偷偷摸摸像做贼一样\n现在恨不得拿个喇叭到处去讲\n攒了这么久的爱今天全部释放\n\n[Chorus]\n官宣了 官宣了 我爱你不打烊\n官宣了 官宣了 恋爱晒着太阳\n官宣了 官宣了 牵手不再躲藏\n单身的日子下架 全世界围观鼓掌\n官宣了 官宣了 头像换成同框\n官宣了 官宣了 朋友圈刷九张\n官宣了 官宣了 幸福正在生长\n往后余生每一天 有你陪在身旁\n\n[Bridge]\n朋友问我你到底哪里好\n我说不上来就是放不下\n今天当着全世界我要说\n我爱你往后余生都是你呀\n\n[Chorus]\n官宣了 官宣了 我爱你不打烊\n官宣了 官宣了 恋爱晒着太阳\n官宣了 官宣了 牵手不再躲藏\n单身的日子下架 全世界围观鼓掌\n官宣了 官宣了 头像换成同框\n官宣了 官宣了 朋友圈刷九张\n官宣了 官宣了 幸福正在生长\n往后余生每一天 有你陪在身旁\n\n[Chorus]\n官宣了 官宣了 我爱你不打烊\n官宣了 官宣了 恋爱晒着太阳\n官宣了 官宣了 牵手不再躲藏\n单身的日子下架 全世界围观鼓掌\n官宣了 官宣了 头像换成同框\n官宣了 官宣了 朋友圈刷九张\n官宣了 官宣了 幸福正在生长\n往后余生每一天 有你陪在身旁\n\n[Outro]\n官宣了 我的心愿圆满了\n往后余生请多多指教\n爱你这件事我要做一辈子",
+      "duration": 177
+    },
+    {
+      "slug": "半盏茶_2026-11-12",
+      "title": "半盏茶",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_半盏茶",
+      "date": "2026-11-12",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "半盏茶_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_半盏茶/半盏茶_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.3
+        },
+        {
+          "filename": "半盏茶_v1_160k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_半盏茶/半盏茶_v1_160k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 4.6
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_半盏茶/cover_半盏茶.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-12_半盏茶/cover_半盏茶.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_半盏茶/半盏茶_poster.png",
+      "lyrics_file": "[Intro]\n月光爬上了小楼 风吹动檐下的铃\n雪落在青瓦上 我烧水泡了一盏茶\n茶香飘出了窗外 没有人来喝它\n\n[Verse 1]\n那年你推门进来 带着一身的风雪\n我烫热了茶杯 泡你最爱的那款茶\n你说这茶真香 以后天天都要来喝\n后来你说要远行 挣了钱就回来呀\n我送你到城门口 雪落满你的头发\n你说最多等半年 让我别胡思乱想\n我笑着答应你 转身眼泪就掉下来\n如今三年过去 茶凉了又续新茶\n\n[Chorus]\n半盏茶 半盏茶 我在月下想你呀\n半盏茶 半盏茶 我在楼上等你呀\n半盏茶 半盏茶 我在雪里盼你呀\n茶凉了我又续满 你什么时候回家\n放不下 放不下 想你想得放不下\n我爱你这三个字 茶都替我记着啦\n\n[Verse 2]\n你走后我学会 对着月亮说心里话\n琴弦轻轻一拨 满屋子都是你呀\n你教的那支曲子 我天天都要弹它\n弹到最好听那句 眼泪就先掉下啦\n楼下人来人往 我一个个看仔细\n生怕错过你回来 敲门的那一下\n雪又下起来了 和你走那天一样啊\n我把茶泡好了 摆在你常坐的桌旁\n\n[Pre-Chorus]\n夜深了灯还亮着 我还坐在老地方\n楼梯上脚步一响 我就当是你回啦\n明知道不是你 心还是会跳一下\n\n[Chorus]\n半盏茶 半盏茶 我在月下想你呀\n半盏茶 半盏茶 我在楼上等你呀\n半盏茶 半盏茶 我在雪里盼你呀\n茶凉了我又续满 你什么时候回家\n放不下 放不下 想你想得放不下\n我爱你这三个字 茶都替我记着啦\n\n[Bridge]\n有人说你在远方 早就成了家啦\n我不听也不信 凉了就再换新茶\n就算全世界都劝我 让我趁早放下\n只要没听你亲口说 我就不算输呀\n\n[Chorus]\n半盏茶 半盏茶 我在月下想你呀\n半盏茶 半盏茶 我在楼上等你呀\n半盏茶 半盏茶 我在雪里盼你呀\n茶凉了我又续满 你什么时候回家\n放不下 放不下 想你想得放不下\n我爱你这三个字 茶都替我记着啦\n\n[Chorus]\n半盏茶 半盏茶 我在月下想你呀\n半盏茶 半盏茶 我在楼上等你呀\n半盏茶 半盏茶 我在雪里盼你呀\n茶温在炉子上 说不定明天就到家\n放不下 放不下 想你想得放不下\n我爱你这三个字 留着当面告诉你\n\n[Outro]\n雪停了 月亮还照着这座小楼\n我把这半盏茶 温在小炉子上等\n你回来的时候 茶一定是热的",
+      "duration": 240
+    },
+    {
+      "slug": "一个人走_2026-11-12",
+      "title": "一个人走",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_一个人走",
+      "date": "2026-11-12",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "一个人走_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_一个人走/一个人走_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 9.1
+        },
+        {
+          "filename": "一个人走_v1_128k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_一个人走/一个人走_v1_128k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 4.5
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_一个人走/cover_一个人走.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-12_一个人走/cover_一个人走.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-12_一个人走/一个人走_poster.png",
+      "lyrics_file": "[Intro]\n手机里还存着你的晚安语音\n我听了很久最后还是没删\n从今天起我要学着一个人走\n\n[Verse 1]\n下班绕过我们常去的那家店\n老板还问你怎么没有一起来\n我笑着说你在加班别多问\n其实我已经三天没有睡好\n回家的路突然变得好长好长\n路灯把影子拉得好长好长\n电梯里还有你洗发水的味道\n我在门口站了很久才开门\n\n[Chorus]\n一个人走 一个人走\n一个人走 天黑也不回头\n一个人走 一个人走\n一个人走 疼了也不开口\n算了吧 你早就松开了我的手\n放不下 也只能陪你走到路口\n想你 我还是很想你\n只是这句话再没机会说出口\n\n[Verse 2]\n朋友约我出来唱歌喝酒\n我点了你最爱唱的那一首\n唱到一半突然就唱不下去\n借口去洗手间其实是哭了\n镜子里的人眼睛红得吓人\n回到家习惯说了一句我回来了\n才发现再没有人会回应我\n房间安静得让人心里发慌\n\n[Pre-Chorus]\n他们说时间会治好一切\n可我数着日子越来越想你\n今天是你离开的第四十七天\n\n[Chorus]\n一个人走 一个人走\n一个人走 天黑也不回头\n一个人走 一个人走\n一个人走 疼了也不开口\n算了吧 你早就松开了我的手\n放不下 也只能陪你走到路口\n想你 我还是很想你\n只是这句话再没机会说出口\n\n[Bridge]\n如果你在别的城市过得很好\n就不要再让我听到你的消息\n我怕我会忍不住买票去找你\n然后再被你客气地推开一次\n\n[Chorus]\n一个人走 一个人走\n一个人走 天黑也不回头\n一个人走 一个人走\n一个人走 疼了也不开口\n算了吧 你早就松开了我的手\n放不下 也只能陪你走到路口\n想你 我还是很想你\n只是这句话再没机会说出口\n\n[Chorus]\n一个人走 一个人走\n一个人走 天黑也不回头\n一个人走 一个人走\n一个人走 疼了也不开口\n算了吧 你早就松开了我的手\n放不下 也只能陪你走到路口\n想你 我还是很想你\n只是这句话再没机会说出口\n\n[Outro]\n今晚这条路还是要自己走完\n走累了就抬头看一看月亮\n就当你还陪在我身边一样",
+      "duration": 297
+    },
     {
       "slug": "跟着节拍走_2026-11-11",
       "title": "跟着节拍走",
@@ -32,7 +206,14 @@
       },
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-11_跟着节拍走/跟着节拍走_poster.png",
       "lyrics_file": "[Intro]\n今晚的广场比往常热闹\n音响的声音传得很远\n路过的人都停下脚步\n\n[Verse 1]\n傍晚的广场聚满了老朋友\n音响一开大家就笑开怀\n李姐今天穿了新的花裙子\n王叔扭了腰还来跳一段\n今天的烦心事先放一边\n跟着节奏身体摇起来\n不管明天还有多少事情\n此刻开心才是最要紧\n\n[Chorus]\n跟着走 跟着走\n跟着走 别停留\n跟着走 跟着走\n烦恼通通丢脑后\n拍拍手 拍拍手\n拍拍手 抬起头\n拍拍手 拍拍手\n快乐跟着节拍走\n\n[Verse 2]\n车里放着最爱的这首歌\n一路绿灯心情特别顺\n周末约好姐妹去兜风\n后视镜里都是好心情\n老板的电话今天不接了\n给自己放一天假吧\n压力和疲惫甩在风里\n节拍就是最好的解药\n\n[Pre-Chorus]\n准备好了就深吸一口气\n把手举起来跟着我摇摆\n数到三烦恼全甩出去\n\n[Chorus]\n跟着走 跟着走\n跟着走 别停留\n跟着走 跟着走\n烦恼通通丢脑后\n拍拍手 拍拍手\n拍拍手 抬起头\n拍拍手 拍拍手\n快乐跟着节拍走\n\n[Bridge]\n汗水流出来心就轻松了\n跳完这一曲回家睡好觉\n明天太阳照样会升起来\n日子就是要越跳越痛快\n\n[Chorus]\n跟着走 跟着走\n跟着走 别停留\n跟着走 跟着走\n烦恼通通丢脑后\n拍拍手 拍拍手\n拍拍手 抬起头\n拍拍手 拍拍手\n快乐跟着节拍走\n\n[Chorus]\n跟着走 跟着走\n跟着走 别停留\n跟着走 跟着走\n烦恼通通丢脑后\n拍拍手 拍拍手\n拍拍手 抬起头\n拍拍手 拍拍手\n快乐跟着节拍走\n\n[Outro]\n音乐慢慢停下来\n心跳还踩在节拍上\n明天老地方不见不散",
-      "duration": 208
+      "duration": 208,
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/64511d7b0013b0e002fdb408c127f784cc52232d0b1fa9a9643178512370f112",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-11",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/b3b886c74ff70c46931a4ec8bf98e5f2eb46235dfa4a6fa5e7b557d695a3d0d3",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/38924a95575b311a09558af9340eaca39a528c0f4946fc4049640d474b3c3235",
+      "emotion": "",
+      "genre": ""
     },
     {
       "slug": "爸的白发_2026-11-11",
@@ -64,7 +245,14 @@
       },
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-11_爸的白发/爸的白发_poster.png",
       "lyrics_file": "[Intro]\n村口的老槐树又发了新芽\n爸的头发却一年比一年白了\n没说出口的话 我写进了这首歌\n\n[Verse 1]\n十六岁那年我背着包走出村口\n爸送我到县城坐最早的一班车\n他没说什么只往我兜里塞了钱\n我头也没回就挤进了南下的火车\n这些年搬了多少次家加了多少班\n电话里他总说家里一切都好\n叫我别惦记爸妈要按时吃饭\n可妈妈说他腰疼得整夜睡不着\n\n[Chorus]\n白了白了 爸的黑发白了\n白了白了 妈的双手糙了\n白了白了 老屋的门矮了\n可村口的灯一直亮着等我\n白了白了 我的眼泪掉了\n爸 我想你 我放不下\n这句我爱你欠了你半辈子\n今天我想当面说给你听\n\n[Verse 2]\n今年过年我提前买好了回家的票\n火车开得再快也觉得这一天太慢\n远远就看见爸站在村口张望\n他的头发白得我差点认不出来\n妈妈在老屋里煮着我爱吃的面\n墙上还贴着我小学得的那张奖状\n爸笑着接过行李说怎么瘦了\n我低着头眼泪就掉了下来\n\n[Pre-Chorus]\n小时候他背着我走过多少山路\n现在换我牵着他慢慢往前走\n时光啊求求你别再催他变老\n\n[Chorus]\n白了白了 爸的黑发白了\n白了白了 妈的双手糙了\n白了白了 老屋的门矮了\n可村口的灯一直亮着等我\n白了白了 我的眼泪掉了\n爸 我想你 我放不下\n这句我爱你欠了你半辈子\n今天我想当面说给你听\n\n[Bridge]\n别再等我赚大钱买什么大房子\n爸妈在的地方才是我的家\n以后每个年每个节我都回去\n陪你们说话陪你们慢慢变老\n\n[Chorus]\n白了白了 爸的黑发白了\n白了白了 妈的双手糙了\n白了白了 老屋的门矮了\n可村口的灯一直亮着等我\n白了白了 我的眼泪掉了\n爸 我想你 我放不下\n这句我爱你欠了你半辈子\n今天我想当面说给你听\n\n[Chorus]\n白了白了 爸的黑发白了\n白了白了 妈的双手糙了\n白了白了 我长大才知道\n你们把我养大有多不容易\n爸 我爱你 妈 我爱你们\n下辈子还想做你们的孩子\n你们陪我长大 我陪你们变老\n这些话以后我天天说给你们听\n\n[Outro]\n村口的风还在吹 老屋的灯还亮\n这一次回家 我想多住几天\n爸 妈 我回来了",
-      "duration": 229
+      "duration": 229,
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/2ab4e98527ee6262052fd8e1654a2a350f014fe296bb6bccc1629e2e6acddde9",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-11",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/bb38b9a909a3b5a99f5c0a9c1dfe1ff063120c1829206d00cefe5516f340190b",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/63ed9fdd47b2b3349b9ecb1514baae2e2b9eb5a830c34e0238e76fe08afcd5fd",
+      "emotion": "",
+      "genre": ""
     },
     {
       "slug": "乌篷船_2026-11-11",
@@ -103,7 +291,14 @@
       },
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-11_乌篷船/乌篷船_poster.png",
       "lyrics_file": "[Intro]\n月照水巷 摇来一条乌篷船\n风过桥头 吹皱一河的思念\n这个故事 要从那年春天说起\n\n[Verse 1]\n那年你摇着船经过我家楼下\n船头挂着一盏亮亮的灯\n你抬头朝我笑问我借一把伞\n我红着脸把伞扔给了你\n后来你常常摇船到楼下看我\n我们坐在船头说了好多话\n你说要出去闯两年就回来娶我\n我站在窗前看着船越摇越远\n\n[Chorus]\n乌篷船 摇啊摇\n想你想到月亮掉进水里啦\n乌篷船 摇啊摇\n想你想到风吹乱我的长发\n乌篷船 摇啊摇\n想你想到琴弦落满了雪花\n想你有什么用 你倒是回来呀\n\n[Verse 2]\n第一年冬天的雪下了整三天\n我把你留下的那把伞擦了又擦\n我学着弹你教我的那首曲子\n弹着弹着眼泪就掉了下来\n第二年春天桃花开满了两岸\n我天天坐在桥头数着过往的船\n每一艘靠岸我都踮起脚去看\n每一次都不是你我就再等明天\n\n[Pre-Chorus]\n一晃三年桃花开了又落了\n我把想说的话都弹进琴声里\n翻来覆去其实就那三个字 我爱你\n\n[Chorus]\n乌篷船 摇啊摇\n想你想到月亮掉进水里啦\n乌篷船 摇啊摇\n想你想到风吹乱我的长发\n乌篷船 摇啊摇\n想你想到琴弦落满了雪花\n想你有什么用 你倒是回来呀\n\n[Bridge]\n风也吹过 雪也下过 月缺了又圆\n琴也弹了一遍又一遍 你没有回来\n别人笑我傻 我不跟他们争辩\n我爱你这三个字 等你亲耳听见\n\n[Chorus]\n乌篷船 摇啊摇\n想你想到月亮掉进水里啦\n乌篷船 摇啊摇\n想你想到风吹乱我的长发\n乌篷船 摇啊摇\n想你想到琴弦落满了雪花\n可你到底还记不记得回家的路啊\n\n[Chorus]\n乌篷船 摇啊摇\n想你想到月亮掉进水里啦\n乌篷船 摇啊摇\n想你想到风吹乱我的长发\n乌篷船 摇啊摇\n想你想到琴弦落满了雪花\n河上摇过来一盏灯 是你回来了吗\n\n[Outro]\n月亮还照着你摇过的那条河\n桥头那盏灯我每晚都给你留着\n我放不下你 回来吧这里还是家",
-      "duration": 234
+      "duration": 234,
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/2033f33767af6ca50916e4f8c96202c999b8eba50b057e4cc50e17373878b6a3",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-11",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/d0e11deb12b01d8bbfa7eaf5eea997638ac02c72fdcbbffd3aec3e9826b6e948",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/2b3fa979652627b76e1ebb6593686870d93d8b610046f36078a8bb82d3b45477",
+      "emotion": "",
+      "genre": ""
     },
     {
       "slug": "上头了_2026-11-11",
@@ -135,7 +330,14 @@
       },
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-11_上头了/上头了_poster.png",
       "lyrics_file": "[Intro]\n最近有点奇怪 嘴角总往上翘\n手机一震我就笑出声\n完了 我可能是上头了\n\n[Verse 1]\n那天奶茶店你排在我后面\n转头问我是不是也爱三分甜\n就这样聊起来加了微信\n从今天天气聊到昨晚的梦\n你发的表情包我全存进相册\n朋友说我最近笑得有点傻\n手机一亮我就秒回不犹豫\n这感觉就像汽水不停冒泡\n\n[Chorus]\n想你 想你 一天想你八百遍\n念你 念你 一条语音听整夜\n等你 等你 头像一亮就出现\n上头了 上头了 我对你上头了\n心跳 心跳 节奏乱了套\n傻笑 傻笑 见你就想笑\n全世界都知道我藏不住\n怎么办 我是真的上头了\n\n[Verse 2]\n第一次约会就在楼下便利店\n一瓶汽水我们能聊到半夜\n你送我到楼下不肯先转身\n我数着台阶一步三回头\n你点赞的每条视频我都看完\n闺蜜问我是不是恋爱了\n我说没有其实心里开了花\n这份心动比奶茶还要甜\n\n[Pre-Chorus]\n这种感觉好像有点不受控\n越想冷静下来心越跳得凶\n糟糕 是心动的感觉没错了\n\n[Chorus]\n想你 想你 一天想你八百遍\n念你 念你 一条语音听整夜\n等你 等你 头像一亮就出现\n上头了 上头了 我对你上头了\n心跳 心跳 节奏乱了套\n傻笑 傻笑 见你就想笑\n全世界都知道我藏不住\n怎么办 我是真的上头了\n\n[Bridge]\n你知不知道我每天都在等你消息\n别让我一个人上头上到天亮\n如果你也心动就大胆告诉我\n两个人一起上头刚刚好\n\n[Chorus]\n想你 想你 一天想你八百遍\n念你 念你 一条语音听整夜\n等你 等你 头像一亮就出现\n上头了 上头了 我对你上头了\n心跳 心跳 节奏乱了套\n傻笑 傻笑 见你就想笑\n全世界都知道我藏不住\n怎么办 我是真的上头了\n\n[Chorus]\n想你 想你 一天想你八百遍\n念你 念你 一条语音听整夜\n等你 等你 头像一亮就出现\n上头了 上头了 我对你上头了\n心跳 心跳 节奏乱了套\n傻笑 傻笑 见你就想笑\n全世界都知道我藏不住\n怎么办 我是真的上头了\n\n[Outro]\n今晚的月亮替我看着你\n上头就上头吧 反正我乐意\n明天见 你要记得想我",
-      "duration": 176
+      "duration": 176,
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/4c19f0f2c129efa6e6990b5935e43d2335626c5b1ea55dfdb49ea2032b73a332",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-11",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/1e8fe4d869306f9fb58fd8c716ef99706f8a0828e82c1e366d2bad8590d8b736",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/c2cde3ceab7b6d34997b9882df09a7bcc5af7c10fb7fee93cb5d80177f91fdd7",
+      "emotion": "",
+      "genre": ""
     },
     {
       "slug": "一个人过_2026-11-11",
@@ -167,7 +369,14 @@
       },
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-11_一个人过/一个人过_poster.png",
       "lyrics_file": "[Intro]\n又是一个人的深夜\n歌单还放着我们的歌\n原来一个人过是这种滋味\n\n[Verse 1]\n凌晨两点我还是睡不着\n翻遍手机你没有新消息\n冰箱里放着你爱的酸奶\n过期了我也不舍得扔掉\n你留下的外套我没舍得洗\n上面还有你熟悉的味道\n外卖习惯点两个人的量\n吃到一半才想起你不在\n\n[Chorus]\n想你 想你 我还是好想你\n想你 想你 半夜翻着旧消息\n想你 想你 忍住不去打扰你\n算了吧 算了吧 我一个人过\n一个人过 一个人过\n一个人吃饭一个人哭泣\n一个人过 一个人过\n嘴上说算了吧心里全是你\n\n[Verse 2]\n下班路过我们常去的小店\n老板还问你怎么没一起来\n我笑着说你在加班\n转身眼泪就掉进了风里\n朋友圈里你去了新城市\n照片里你笑得那么开心\n打了又删的那句你好吗\n最后连一个赞都没敢点\n\n[Pre-Chorus]\n朋友都劝我该往前走了\n可我的心不听话还在疼\n放不下你 我骗不了自己\n\n[Chorus]\n想你 想你 我还是好想你\n想你 想你 半夜翻着旧消息\n想你 想你 忍住不去打扰你\n算了吧 算了吧 我一个人过\n一个人过 一个人过\n一个人吃饭一个人哭泣\n一个人过 一个人过\n嘴上说算了吧心里全是你\n\n[Bridge]\n我不怪你也不恨你\n我只是每天还在想你\n没说完的那句我爱你\n就留给我自己慢慢听\n\n[Chorus]\n想你 想你 我还是好想你\n想你 想你 半夜翻着旧消息\n想你 想你 忍住不去打扰你\n算了吧 算了吧 我一个人过\n一个人过 一个人过\n一个人吃饭一个人哭泣\n一个人过 一个人过\n嘴上说算了吧心里全是你\n\n[Chorus]\n想你 想你 我还是好想你\n想你 想你 半夜翻着旧消息\n想你 想你 忍住不去打扰你\n算了吧 算了吧 我一个人过\n一个人过 一个人过\n一个人吃饭一个人哭泣\n一个人过 一个人过\n会不会 会不会 你也想我\n\n[Outro]\n晚安这句话我说给自己听\n就算一个人也要好好过\n只是想你的夜 真的有点长",
-      "duration": 236
+      "duration": 236,
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/675ab6f1d3b2e7244ba986616c319650e87c822c936d33cedc1e286dcb9801d9",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-11",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/402c89f3c2e6837e7a18ca710aa359639b68844f2c5388369367dd4cb7806b75",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/74dbf87f5e2c0104e4cbc81e872668995452d23c173a15799af57ac5df49c1d9",
+      "emotion": "",
+      "genre": ""
     },
     {
       "slug": "音响一开_2026-11-10",
