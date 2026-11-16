@@ -1,7 +1,193 @@
 {
-  "generated_at": "2026-11-15T16:23:12.207561",
-  "total_songs": 735,
+  "generated_at": "2026-11-16T15:54:25.460531",
+  "total_songs": 740,
   "songs": [
+    {
+      "slug": "跟着节奏走_2026-11-17",
+      "title": "跟着节奏走",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_跟着节奏走",
+      "date": "2026-11-17",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "跟着节奏走_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_跟着节奏走/跟着节奏走_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 4.8
+        }
+      ],
+      "cover": {
+        "path": null,
+        "all_covers": []
+      },
+      "poster": null,
+      "lyrics_file": "[Intro]\n晚上八点音乐响\n广场的灯光全亮了\n跟着节奏走\n\n[Verse 1]\n晚上七点半灯光亮堂堂\n我换上新鞋出门去广场\n姐妹们早就等在小路旁\n老张把音响搬到了现场\n前奏一响我心里就发痒\n白天不开心的事放一放\n阿姨们排好队站成行\n就等鼓点一响全部登场\n\n[Chorus]\n跟我走 跟我走\n跟着节奏一起走\n跟我走 跟我走\n烦恼甩在我身后\n跟我走 跟我走\n快乐跟着节拍扭\n今晚我不想回头\n幸福就在我左右\n\n[Verse 2]\n手机放一边别再刷不停\n心里那点事就别再惦记\n明天要上班也没啥关系\n跳出一身汗睡得更甜蜜\n你看王阿姨多有力气\n六十岁跳出十六的活力\n路过的小伙子停下看戏\n看着看着也跟着扭起\n\n[Pre-Chorus]\n音乐的节奏越来越快\n心跳跟着鼓点一起摇摆\n所有人把手举起来\n\n[Chorus]\n跟我走 跟我走\n跟着节奏一起走\n跟我走 跟我走\n烦恼甩在我身后\n跟我走 跟我走\n快乐跟着节拍扭\n今晚我不想回头\n幸福就在我左右\n\n[Bridge]\n音乐停了明天还会响起\n今天累了回家睡个好觉\n明天晚上我们还约在这里\n快乐这东西要自己抓牢\n\n[Chorus]\n跟我走 跟我走\n跟着节奏一起走\n跟我走 跟我走\n烦恼甩在我身后\n跟我走 跟我走\n快乐跟着节拍扭\n今晚我不想回头\n幸福就在我左右\n\n[Chorus]\n跟我走 跟我走\n跟着节奏一起走\n跟我走 跟我走\n烦恼甩在我身后\n跟我走 跟我走\n快乐跟着节拍扭\n今晚我不想回头\n幸福就在我左右\n\n[Outro]\n音乐慢慢淡下去\n脚步还在打着拍\n跟着节奏走",
+      "duration": 157
+    },
+    {
+      "slug": "见你就想笑_2026-11-17",
+      "title": "见你就想笑",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_见你就想笑",
+      "date": "2026-11-17",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "见你就想笑_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_见你就想笑/见你就想笑_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.9
+        },
+        {
+          "filename": "见你就想笑_v1_192k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_见你就想笑/见你就想笑_v1_192k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.1
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_见你就想笑/cover_见你就想笑.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-17_见你就想笑/cover_见你就想笑.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_见你就想笑/见你就想笑_poster.png",
+      "lyrics_file": "[Intro]\n嘿 我跟你说个小秘密\n我最近有一点点不对劲\n一见到某个人就想笑\n\n[Verse 1]\n那天你借走我一把小雨伞\n还伞的时候请我喝了奶茶\n你笑起来眼睛弯成了月牙\n从那以后心里痒得像猫抓\n每天抱着手机等你消息呀\n你回一个哈哈我能乐开花\n姐妹笑我恋爱脑上头啦\n只有我自己心里知道为啥\n\n[Chorus]\n笑一笑 笑一笑 见你就想笑\n笑一笑 笑一笑 嘴角往上翘\n笑一笑 笑一笑 心怦怦乱跳\n喜欢你我不想再逃跑\n想一想 想一想 想你就想笑\n想一想 想一想 做梦都会笑\n想一想 想一想 心里冒泡泡\n爱你我要让全世界知道\n\n[Verse 2]\n昨晚我们聊到深夜十二点\n你说晚安听得我心发软\n每条消息我都看了七八遍\n朋友圈翻到三年前也不嫌烦\n你随口一句话我想一整天\n姐妹说我已经彻底沦陷\n我承认这份喜欢有点明显\n今天我就想站到你的面前\n\n[Pre-Chorus]\n我放不下你也藏不住笑\n深吸一口气大步往你跑\n今天我一定要让你知道\n\n[Chorus]\n笑一笑 笑一笑 见你就想笑\n笑一笑 笑一笑 嘴角往上翘\n笑一笑 笑一笑 心怦怦乱跳\n喜欢你我不想再逃跑\n想一想 想一想 想你就想笑\n想一想 想一想 做梦都会笑\n想一想 想一想 心里冒泡泡\n爱你我要让全世界知道\n\n[Bridge]\n没想到你笑着牵起我的手\n说你等这句话等了好久\n原来你想我也想了很久\n这份心动来得刚刚好\n\n[Chorus]\n笑一笑 笑一笑 见你就想笑\n笑一笑 笑一笑 嘴角往上翘\n笑一笑 笑一笑 心怦怦乱跳\n喜欢你我不想再逃跑\n想一想 想一想 想你就想笑\n想一想 想一想 做梦都会笑\n想一想 想一想 心里冒泡泡\n爱你我要让全世界知道\n\n[Chorus]\n笑一笑 笑一笑 见你就想笑\n笑一笑 笑一笑 嘴角往上翘\n笑一笑 笑一笑 心怦怦乱跳\n牵着你我不想再逃跑\n想一想 想一想 想你就想笑\n想一想 想一想 做梦都会笑\n想一想 想一想 心里冒泡泡\n爱你终于让全世界知道\n\n[Outro]\n后来我们天天一起喝奶茶\n你一笑我就跟着笑出了声\n爱笑的人运气都不会差",
+      "duration": 224
+    },
+    {
+      "slug": "烛花落_2026-11-17",
+      "title": "烛花落",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_烛花落",
+      "date": "2026-11-17",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "烛花落_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_烛花落/烛花落_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.7
+        },
+        {
+          "filename": "烛花落_v1_160k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_烛花落/烛花落_v1_160k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 4.8
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_烛花落/cover_烛花落.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-17_烛花落/cover_烛花落.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_烛花落/烛花落_poster.png",
+      "lyrics_file": "[Intro]\n夜风吹上西楼蜡烛在晃\n灯花结了又落我还没睡\n原来我又在想你了\n\n[Verse 1]\n那年冬夜你在楼下弹琴\n一曲弹完月亮都停住了\n你说雪停了就回来接我\n我笑着点头心里全是甜\n后来北风把你送出了门\n我站在楼上望着你走远\n雪落了一层又盖了一层\n你的脚印再没有回来过\n\n[Chorus]\n烛花落 烛花落\n我想你想得蜡烛烧到了三更\n我想你想得月亮躲进了云里\n我想你想得琴上落满了灰\n可雪停了你还是没回来\n放不下 放不下\n烛花落 烛花落\n\n[Verse 2]\n如今我还是住在那座楼\n每晚点一支蜡烛陪着自己\n雪化了一年又下了一年\n你的琴还摆在老地方\n风一吹过琴弦就轻轻响\n我总以为是你在楼下弹\n跑到窗前才看见没有人\n原来是风在替你想我呀\n\n[Pre-Chorus]\n别人都劝我把你忘了吧\n可我试了很多次做不到\n一想到你就到了天亮\n\n[Chorus]\n烛花落 烛花落\n我想你想得蜡烛烧到了三更\n我想你想得月亮躲进了云里\n我想你想得琴上落满了灰\n可雪停了你还是没回来\n放不下 放不下\n烛花落 烛花落\n\n[Bridge]\n蜡烛烧完一支再点一支\n我爱你一天就多等你一天\n就算这辈子等不到了\n\n[Chorus]\n烛花落 烛花落\n我想你想得蜡烛烧到了三更\n我想你想得月亮躲进了云里\n我想你想得琴上落满了灰\n可雪停了你还是没回来\n放不下 放不下\n烛花落 烛花落\n\n[Chorus]\n烛花落 烛花落\n我想你想得春雪又白了楼头\n我想你想得月亮都认得我\n我想你想得琴声都替我喊你\n可下辈子我还是要等你\n放不下 放不下\n烛花落 烛花落\n\n[Outro]\n夜风把最后一截蜡烛吹灭\n黑暗里我还是在想你\n就当是你回来替我吹的灯",
+      "duration": 252
+    },
+    {
+      "slug": "奶奶的蒲扇_2026-11-17",
+      "title": "奶奶的蒲扇",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_奶奶的蒲扇",
+      "date": "2026-11-17",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "奶奶的蒲扇_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_奶奶的蒲扇/奶奶的蒲扇_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.0
+        },
+        {
+          "filename": "奶奶的蒲扇_v1_192k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_奶奶的蒲扇/奶奶的蒲扇_v1_192k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.3
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_奶奶的蒲扇/cover_奶奶的蒲扇.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-17_奶奶的蒲扇/cover_奶奶的蒲扇.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_奶奶的蒲扇/奶奶的蒲扇_poster.png",
+      "lyrics_file": "[Intro]\n村口的老槐树又开花了\n城里的晚风一吹我就想起她\n奶奶的蒲扇 摇了一整个夏天\n\n[Verse 1]\n小时候的夏天住在陈家湾\n老屋门前有一条小河淌\n奶奶搬着竹凳坐在晒谷场\n一把蒲扇摇到我睡着\n蚊子来了她轻轻地赶\n汗湿了她自己的衣裳\n我在她怀里数着星星\n数到一半就梦见了远方\n\n[Chorus]\n蒲扇摇啊摇 摇啊摇\n摇走了蚊子 摇来了风\n蒲扇摇啊摇 摇啊摇\n摇着我长大 摇白了头\n蒲扇摇啊摇 摇啊摇\n摇不回老屋门口的夏天\n奶奶我好想你 你知道吗\n\n[Verse 2]\n后来我背起书包去了县城\n一年只回家看奶奶两三趟\n她的头发白了背也驼了\n手里的蒲扇还是摇不停\n她说孩子在外别怕吃苦\n家里的稻子替你好好长\n我走的那天她送到村口\n蒲扇挥了挥像在说加油\n\n[Pre-Chorus]\n如今我在城市里面打拼\n加班到深夜也不会喊累\n想起奶奶的话就又有劲了\n\n[Chorus]\n蒲扇摇啊摇 摇啊摇\n摇走了蚊子 摇来了风\n蒲扇摇啊摇 摇啊摇\n摇着我长大 摇白了头\n蒲扇摇啊摇 摇啊摇\n摇不回老屋门口的夏天\n奶奶我好想你 你知道吗\n\n[Bridge]\n去年秋天奶奶走了\n蒲扇还挂在老屋的土墙上\n我把它带回城里的家\n想她的时候就轻轻摇一摇\n\n[Chorus]\n蒲扇摇啊摇 摇啊摇\n摇走了蚊子 摇来了风\n蒲扇摇啊摇 摇啊摇\n摇着我长大 摇白了头\n蒲扇摇啊摇 摇啊摇\n摇不回老屋门口的夏天\n奶奶我好想你 你知道吗\n\n[Chorus]\n蒲扇摇啊摇 摇啊摇\n摇过了多少个夏天\n蒲扇摇啊摇 摇啊摇\n把你的爱留在了我心里\n蒲扇摇啊摇 摇啊摇\n以后的路我勇敢往前走\n奶奶你看着 我不哭啦\n\n[Outro]\n村口的老槐树又开花了\n奶奶我会好好的 你放心吧\n那把蒲扇我一辈子都留着",
+      "duration": 231
+    },
+    {
+      "slug": "哭完就好_2026-11-17",
+      "title": "哭完就好",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_哭完就好",
+      "date": "2026-11-17",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "哭完就好_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_哭完就好/哭完就好_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.6
+        },
+        {
+          "filename": "哭完就好_v1_192k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_哭完就好/哭完就好_v1_192k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 4.9
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_哭完就好/cover_哭完就好.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-17_哭完就好/cover_哭完就好.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-17_哭完就好/哭完就好_poster.png",
+      "lyrics_file": "[Intro]\n又是凌晨两点半了\n你的语音我一直没删\n反复听到手机没电\n\n[Verse 1]\n你说分手那天语气平静得可怕\n我坐在沙发上半天没说出话\n外卖不小心还是点了两份饭\n门口摆着你没带走的那双拖鞋\n朋友都劝我拿得起要放得下\n可我想你这件事真的控制不了\n我爱你说过的话还在耳边转\n现在再说给谁听都没有用了\n\n[Chorus]\n想你 想你 从天黑想到天亮\n想你 想你 放不下也没人知道\n想你 想你 眼泪越擦越多\n哭完就好 哭完就好 我对自己说\n算了吧 算了吧 你不会再回来\n算了吧 算了吧 道理我全都懂\n算了吧 算了吧 心还是那么疼\n哭完就好 哭完就好 日子还得过\n\n[Verse 2]\n你留下的外套我一直没有洗\n它还有你身上熟悉的味道\n一个人去看我们常看的电影\n旁边的空座位让我哭到散场\n给你的消息打了一段又删掉\n最后只发了一句最近还好吗\n你回了一个笑脸什么都没说\n原来你早就已经过得很好了\n\n[Pre-Chorus]\n道理我全都懂可是没有用\n想念这种东西从来不讲理\n它说来就来我一秒就投降\n\n[Chorus]\n想你 想你 从天黑想到天亮\n想你 想你 放不下也没人知道\n想你 想你 眼泪越擦越多\n哭完就好 哭完就好 我对自己说\n算了吧 算了吧 你不会再回来\n算了吧 算了吧 道理我全都懂\n算了吧 算了吧 心还是那么疼\n哭完就好 哭完就好 日子还得过\n\n[Bridge]\n要是哭有用我愿意一直哭\n要是忘得掉我早就不想了\n可是都没有用啊\n那就让我哭完这一次\n\n[Chorus]\n想你 想你 从天黑想到天亮\n想你 想你 放不下也没人知道\n想你 想你 眼泪越擦越多\n哭完就好 哭完就好 我对自己说\n算了吧 算了吧 你不会再回来\n算了吧 算了吧 道理我全都懂\n算了吧 算了吧 心还是那么疼\n哭完就好 哭完就好 日子还得过\n\n[Chorus]\n想你 想你 从深夜想到清晨\n想你 想你 放不下也装作没事\n想你 想你 枕头又湿一片\n哭完就好 哭完就好 这是最后一次\n算了吧 算了吧 你有你的生活\n算了吧 算了吧 我该往前走了\n算了吧 算了吧 总会过去的\n哭完就好 哭完就好 我会好好的\n\n[Outro]\n哭完就好\n今晚就到这里吧\n晚安 我爱过的人",
+      "duration": 215
+    },
     {
       "slug": "蹦起来_2026-11-16",
       "title": "蹦起来",
@@ -39,7 +225,14 @@
       },
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-16_蹦起来/蹦起来_poster.png",
       "lyrics_file": "[Intro]\n音乐已经打开 灯光已经亮起来\n朋友都到齐了 就差你还没进来\n把手举起来 今晚我们一起嗨\n\n[Verse 1]\n晚上七点半我准时下了班\n换上运动鞋就往小广场赶\n音响放的正是我最爱那段\n张阿姨招手喊我站她旁边\n白天上班攒下的那些疲惫\n跳到第二首就全都甩光了\n妈妈说多蹦蹦身体就轻快\n我觉得这话说得实在太对了\n\n[Chorus]\n蹦起来 蹦起来 音乐一响就摇摆\n蹦起来 蹦起来 双手举高别等待\n蹦起来 蹦起来 快乐要自己安排\n烦恼是什么 我已经想不起来\n蹦起来 蹦起来 脚步跟上这节拍\n蹦起来 蹦起来 越蹦越是有状态\n蹦起来 蹦起来 青春它一直都在\n就算明天早起 今晚也要嗨\n\n[Verse 2]\n周末开车带上爸妈去兜风\n车载音响放起我最爱的歌\n爸爸跟着点头妈妈打拍子\n等红灯的时候我们一起摇\n后座的娃娃也跟着扭一扭\n一家人笑得比太阳还灿烂\n跟着音乐大声唱不怕跑调\n这样的日子越过越有味道\n\n[Pre-Chorus]\n广场的灯光一闪一闪亮\n心跳跟着鼓点越敲越快\n准备好了就跟着我一起喊出来\n\n[Chorus]\n蹦起来 蹦起来 音乐一响就摇摆\n蹦起来 蹦起来 双手举高别等待\n蹦起来 蹦起来 快乐要自己安排\n烦恼是什么 我已经想不起来\n蹦起来 蹦起来 脚步跟上这节拍\n蹦起来 蹦起来 越蹦越是有状态\n蹦起来 蹦起来 青春它一直都在\n就算明天早起 今晚也要嗨\n\n[Bridge]\n年轻的年老的都别在旁边看\n跟着节奏晃起来比啥都划算\n快乐不要钱跟着音乐随便玩\n\n[Chorus]\n蹦起来 蹦起来 音乐一响就摇摆\n蹦起来 蹦起来 双手举高别等待\n蹦起来 蹦起来 快乐要自己安排\n烦恼是什么 我已经想不起来\n蹦起来 蹦起来 脚步跟上这节拍\n蹦起来 蹦起来 越蹦越是有状态\n蹦起来 蹦起来 青春它一直都在\n就算明天早起 今晚也要嗨\n\n[Chorus]\n蹦起来 蹦起来 音乐一响就摇摆\n蹦起来 蹦起来 双手举高别等待\n蹦起来 蹦起来 快乐要自己安排\n烦恼是什么 我已经想不起来\n蹦起来 蹦起来 脚步跟上这节拍\n蹦起来 蹦起来 越蹦越是有状态\n蹦起来 蹦起来 青春它一直都在\n就算明天早起 今晚也要嗨\n\n[Outro]\n音乐慢慢停了心跳还没停\n今晚这一身汗流得真痛快\n明晚老地方我们接着蹦起来",
-      "duration": 213
+      "duration": 213,
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/625f0b83ddc1d92950215f1c9ade7b8212a2311dc6e8972c64afac8f8cdf08d7",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-16",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/c77a20e962050b28c5409972da595c16258b4f37aa56d6e9e7eedb62b2dff286",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/0befb6e173c880c1230b175b7b38693484fad1c825f8d45f33340f7257aa6688",
+      "emotion": "",
+      "genre": ""
     },
     {
       "slug": "脸红了_2026-11-16",
@@ -71,7 +264,14 @@
       },
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-16_脸红了/脸红了_poster.png",
       "lyrics_file": "[Intro]\n喂 你在偷看我吗\n别装作在看风景呀\n我的脸已经红透啦\n\n[Verse 1]\n今天在奶茶店的门口\n你朝我笑着打招呼\n一句最近好吗没说完\n我的耳朵先烫了起来\n回家的路上一直回想\n你笑起来弯弯的眼睛\n妈妈问我干嘛傻笑呢\n我说没什么跑回了房间\n\n[Chorus]\n看到你呀 脸红了\n想着你呀 脸红了\n梦到你呀 脸红了\n小秘密快藏不住了\n牵你手呀 脸红了\n你看我呀 脸红了\n你一笑呀 脸红了\n那我说 我喜欢你呀\n\n[Verse 2]\n晚上刷到你发的动态\n点赞的手指停不下来\n聊天框里打了又删掉\n最后只发了一个表情\n你回了一个月亮爱心\n我抱着手机滚来滚去\n闺蜜说我八成是恋爱\n我嘴上否认脸却更红\n\n[Pre-Chorus]\n对着镜子练了一百遍\n喜欢两个字就在嘴边\n这次我一定要说出来\n\n[Chorus]\n看到你呀 脸红了\n想着你呀 脸红了\n梦到你呀 脸红了\n小秘密快藏不住了\n牵你手呀 脸红了\n你看我呀 脸红了\n你一笑呀 脸红了\n那我说 我喜欢你呀\n\n[Bridge]\n其实你看到我也会脸红\n你的耳朵早就把你出卖\n那我们就一起红着脸吧\n把喜欢两个字换成爱\n\n[Chorus]\n看到你呀 脸红了\n想着你呀 脸红了\n梦到你呀 脸红了\n小秘密快藏不住了\n牵你手呀 脸红了\n你看我呀 脸红了\n你一笑呀 脸红了\n那我说 我喜欢你呀\n\n[Chorus]\n看到你呀 脸红了\n想着你呀 脸红了\n梦到你呀 脸红了\n小秘密快藏不住了\n牵你手呀 脸红了\n你看我呀 脸红了\n你一笑呀 脸红了\n那我说 我喜欢你呀\n\n[Outro]\n原来脸红就是喜欢的证据\n最简单也最直接的心意\n你的脸也红啦 那就在一起",
-      "duration": 181
+      "duration": 181,
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/bfcfd251b7ab4a0f075e19491e2acbed3eeff9ae5e99ff95df7d76e8e31db29b",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-16",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/e34a5382da6cc9352cb758c9a49ddd5725492e873dbc427460723f53808934cc",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/737f6fd4d198e312bfff5bea14a69cf7f957e7e9b4d81808f8fc73c31b39f002",
+      "emotion": "",
+      "genre": ""
     },
     {
       "slug": "桥边柳_2026-11-16",
@@ -110,7 +310,14 @@
       },
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-16_桥边柳/桥边柳_poster.png",
       "lyrics_file": "[Intro]\n村口的小桥 桥下的流水\n桥头的柳树老了 我还没老\n这首歌 唱给远方的你听\n\n[Verse 1]\n那一年桥头的月光底下\n你站在柳树下面笑着我\n你弹了一曲琴说是相思\n说好了开春就回来看我\n后来春风吹散你的承诺\n我从柳绿一直站到柳黄\n后来我才懂什么叫想你\n就是每天晚上翻来覆去\n\n[Chorus]\n桥边柳 桥边柳\n我在桥头又等你一年\n我在桥头又望月一年\n我在桥头又数雪一年\n可我等的人还没有回来\n桥边柳 桥边柳\n我想你 就迎着风喊你\n喊哑了嗓子我也不停口\n\n[Verse 2]\n小楼外面的风一直吹着\n吹散了我没寄出的书信\n冬天雪花落在青石桥面\n我穿上你夸过的红衣裳\n邻人都劝我该放就放下\n可我就是放不下这段情\n你要是还记得那句誓言\n就早点回来 我还在桥头\n\n[Pre-Chorus]\n柳枝发了嫩绿又黄了一遍\n月亮圆了又缺了多少遍\n我真的想问你在哪一边\n\n[Chorus]\n桥边柳 桥边柳\n我在桥头又等你一年\n我在桥头又望月一年\n我在桥头又数雪一年\n可我等的人还没有回来\n桥边柳 桥边柳\n我想你 就迎着风喊你\n喊哑了嗓子我也不停口\n\n[Bridge]\n人家说姑娘的青春没几年\n可我愿意都留给你一个人\n因为爱一个人不需要道理\n\n[Chorus]\n桥边柳 桥边柳\n我在桥头又等你一年\n我在桥头又望月一年\n我在桥头又数雪一年\n可我等的人还没有回来\n桥边柳 桥边柳\n我想你 就迎着风喊你\n喊哑了嗓子我也不停口\n\n[Chorus]\n桥边柳 桥边柳\n我在桥头又等你一年\n我在桥头又望月一年\n我在桥头又数雪一年\n可我的年华都快等没了\n桥边柳 桥边柳\n我爱你 就爱得明明白白\n下辈子我还在这桥头等你\n\n[Outro]\n桥边柳 桥边柳\n我还在等你 等一辈子\n桥头的这个故事 全都是你",
-      "duration": 251
+      "duration": 251,
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/03061e24f76603220d3ab9658fd6bf0c455822d531556e63773dae40934d0e71",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-16",
+      "emotion": "",
+      "genre": "",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/1cf106c0a11261b12dd85f3a70143c5ca2f1794fc798467fd6d8e99457a640b1",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/77fd21e93d744e27fc909a64d2720e0d6aa48bee5b10e92d057a8317e3d1ccbb"
     },
     {
       "slug": "放你走_2026-11-16",
@@ -149,7 +356,14 @@
       },
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-16_放你走/放你走_poster.png",
       "lyrics_file": "[Intro]\n你说要走的那天外面在下雨\n我帮你把行李搬下了楼\n从那天起我学会了沉默\n\n[Verse 1]\n你收拾东西的那个下午\n房间安静得能听见心跳\n你说别送了就到楼下吧\n我点点头不敢看你眼睛\n出租车在楼下按了两声喇叭\n你转身走得没有一点犹豫\n我站在原地数着地上的砖\n原来失去一个人这么安静\n\n[Chorus]\n放你走 放你走\n眼泪不听话一直往下流\n放你走 放你走\n挽留的话卡在喉咙说不出口\n放你走 放你走\n祝你以后想要什么都有\n可是我还是好想你\n想你想到整夜睡不着\n\n[Verse 2]\n一个人吃饭还摆着两副碗筷\n习惯性走到你家楼下的路口\n手机里存着我们的合照\n删了又恢复来回好几遍\n朋友都劝我时间会冲淡一切\n道理我都懂可是没有用\n我白天装得像没事的人\n一到晚上就想你想到失眠\n\n[Pre-Chorus]\n我知道留不住一个想走的人\n可心不听话总往回走\n爱到最后只剩我一个人执着\n\n[Chorus]\n放你走 放你走\n眼泪不听话一直往下流\n放你走 放你走\n挽留的话卡在喉咙说不出口\n放你走 放你走\n祝你以后想要什么都有\n可是我还是好想你\n想你想到整夜睡不着\n\n[Bridge]\n听说你过得很好我就放心了\n这句话我练了很多遍才自然\n如果有一天你偶然想起我\n希望你笑着 别太难过\n\n[Chorus]\n放你走 放你走\n我一个人也会好好生活\n放你走 放你走\n再想你也不会去找你了\n放你走 放你走\n把你留在昨天留在心里\n算了吧 就到这里\n我爱你 所以放你走\n\n[Chorus]\n放你走 放你走\n眼泪不听话一直往下流\n放你走 放你走\n挽留的话卡在喉咙说不出口\n放你走 放你走\n祝你以后想要什么都有\n可是我真的爱你\n这句话你再也听不见了\n\n[Outro]\n放你走 是我说过最狠的话\n说完这句话我哭了很久\n这首歌送给还放不下的人",
-      "duration": 219
+      "duration": 219,
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/b1ad11b1ce3a02774df72d3cb6614ca9ebfc4adafd889d2e92e22432287d251c",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-16",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/86a446186fd5db874e686e701f7917a1243a9814d400984fcce7893f945da082",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/c49069d675fae7b6043bc3497e8f01e796394732dfce10a4ccbfa48034f96ac6",
+      "emotion": "",
+      "genre": ""
     },
     {
       "slug": "妈妈的饭_2026-11-16",
@@ -188,7 +402,14 @@
       },
       "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-16_妈妈的饭/妈妈的饭_poster.png",
       "lyrics_file": "[Intro]\n炊烟升起来 天就要黑了\n柳树屯的娃 该回家吃饭了\n妈妈 我在外地又想你了\n\n[Verse 1]\n我家在湘西一个叫柳树屯的地方\n老屋的烟囱一到饭点就冒烟\n妈妈系着围裙在灶台前忙\n一锅米饭的香味飘过半个村\n十八岁那年我从村口走出去\n妈妈塞给我两个热乎的鸡蛋\n她说外面的饭再贵也要吃饱\n我点头却哭得说不出一句话\n\n[Chorus]\n妈妈的饭 香呀香\n妈妈的饭 暖呀暖\n妈妈的饭 甜呀甜\n吃遍全天下还是你那碗最香\n妈妈的饭 香呀香\n妈妈的饭 暖呀暖\n妈妈我想你 想回家吃你一碗饭\n\n[Verse 2]\n现在我在深圳的写字楼上班\n加完班的外卖吃起来没味道\n租的房子灯再亮也觉得冷清\n翻遍手机没有妈妈那一碗香\n电话里妈妈问我吃饭了没\n我说吃了眼泪却掉进了碗里\n她说累了就回来饭给你留着\n这句话暖了我一千多个夜晚\n\n[Pre-Chorus]\n高铁票买了三次又退了三次\n不是我狠心 是活儿放不下\n妈妈你等等我 这个年假就回家\n\n[Chorus]\n妈妈的饭 香呀香\n妈妈的饭 暖呀暖\n妈妈的饭 甜呀甜\n吃遍全天下还是你那碗最香\n妈妈的饭 香呀香\n妈妈的饭 暖呀暖\n妈妈我想你 想回家吃你一碗饭\n\n[Bridge]\n有人问我一个人为什么这么拼\n我说因为家里有个做饭的妈妈\n等我攒够了钱就回去陪你\n你煮饭我烧火 我们慢慢说话\n\n[Chorus]\n妈妈的饭 香呀香\n妈妈的饭 暖呀暖\n妈妈的饭 甜呀甜\n吃遍全天下还是你那碗最香\n妈妈的饭 香呀香\n妈妈的饭 暖呀暖\n妈妈我想你 想回家吃你一碗饭\n\n[Chorus]\n妈妈的饭 香呀香\n妈妈的饭 暖呀暖\n妈妈的饭 甜呀甜\n吃遍全天下还是你那碗最香\n妈妈的饭 香呀香\n妈妈的饭 暖呀暖\n妈妈我爱你 这碗饭我要吃到老\n\n[Outro]\n柳树屯的炊烟又升起来了\n妈妈 我爱你 你听见了吗\n这一次回家我要吃三碗饭",
-      "duration": 227
+      "duration": 227,
+      "emotion": "",
+      "genre": "",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/50f0a592397f42fb6b371040610ec66fa8a4382690b38341d83dc9c86cde2925",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/72a94bf2dc9bad7369981dca31765dce72ca4b2a579b9585563d9b2ed7a9e472",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/abe5c2f884a45ace3daea45e69519f9dbd19392e1f017c24494905a689bf7fc9"
     },
     {
       "slug": "旧折扇_2026-11-15",
@@ -661,8 +882,9 @@
       "lyrics_file": "[Intro]\n月光落在旧铜镜上\n照出我一个人梳头的模样\n风把窗纸吹得轻轻地响\n\n[Verse 1]\n你走的那年把铜镜留给了我\n你说镜子能照出两个人的团圆\n后来你在城门口上马去了北边\n我抱着镜子在楼上哭了很久\n如今它还摆在我梳妆台右边\n每天早上我梳头都要看一眼\n镜子里的我眉眼还像从前\n只是一想起你眼眶就红了\n\n[Chorus]\n铜镜啊铜镜啊 替我照一照他\n铜镜啊铜镜啊 替我问一问他\n铜镜啊铜镜啊 替我等一等他\n镜子静静地躺在桌上不说话\n我想你 从春天想到落雪花\n我想你 从青丝想到白头发\n放不下 我真的放不下\n你什么时候才能够回家呀\n\n[Verse 2]\n去年冬天有人从北边捎来一封信\n信上说你一切都好叫我别担心\n我把信压在铜镜下面天天看一遍\n今年雪下了三场风也刮了三场\n我把那把旧琴搬到楼上弹了一夜\n弹到琴弦断了一根才停下来\n楼下的梅花开了红得像那年\n我折了一枝插在铜镜旁边等你\n\n[Pre-Chorus]\n昨夜我梦见你推开门喊我的名字\n醒来时窗外落下今年的第一场雪\n我没有哭 只把铜镜擦得更亮\n\n[Chorus]\n铜镜啊铜镜啊 替我照一照他\n铜镜啊铜镜啊 替我问一问他\n铜镜啊铜镜啊 替我等一等他\n镜子静静地躺在桌上不说话\n我想你 从春天想到落雪花\n我想你 从青丝想到白头发\n放不下 我真的放不下\n你什么时候才能够回家呀\n\n[Bridge]\n就算你回来的时候我已经老了\n铜镜里的我你还能认出来吗\n就算这面镜子有一天生了锈\n我爱你的心还是当年那么亮\n\n[Chorus]\n铜镜啊铜镜啊 替我照一照他\n铜镜啊铜镜啊 替我问一问他\n铜镜啊铜镜啊 替我等一等他\n镜子静静地躺在桌上不说话\n我想你 从春天想到落雪花\n我想你 从青丝想到白头发\n放不下 我真的放不下\n你什么时候才能够回家呀\n\n[Chorus]\n铜镜啊铜镜啊 替我照一照他\n铜镜啊铜镜啊 替我问一问他\n铜镜啊铜镜啊 替我等一等他\n镜子静静地躺在桌上不说话\n我想你 从春天想到落雪花\n我想你 从青丝想到白头发\n放不下 我真的放不下\n你什么时候才能够回家呀\n\n[Outro]\n月光又落在铜镜上\n镜子里的我在笑\n因为我知道你快回来了",
       "duration": 259,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-11-12",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/ec535f0b0746d09c3f2cb178785bfe309df31c296023a9f0e526b6719ae43a69"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/ec535f0b0746d09c3f2cb178785bfe309df31c296023a9f0e526b6719ae43a69",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/74fb9de632ac4ba62b486e2780e7502afdf759723a5e50e22448ab4a5dec9cd0"
     },
     {
       "slug": "赶早市_2026-11-13",
@@ -696,8 +918,9 @@
       "lyrics_file": "[Intro]\n天还没亮 路灯还亮着\n街口支起了小摊\n走喽 赶早市喽\n\n[Verse 1]\n五点半闹钟一响我就起床\n洗把脸套上外套就往外赶\n巷口的包子铺冒着白气\n油条在锅里滋滋打着转\n卖菜大姐的嗓门亮又甜\n带着露水的青菜摆了一摊\n我问一句能不能便宜点\n她笑着多送我两根大葱\n\n[Chorus]\n赶早市 赶早市 天不亮就出发\n赶早市 赶早市 白菜水灵像朵花\n赶早市 赶早市 砍价砍得笑哈哈\n就差你了 我的小尾巴\n赶早市 赶早市 豆浆油条热乎哒\n赶早市 赶早市 便宜实惠人人夸\n赶早市 赶早市 十块钱拎回一兜瓜\n我想你了 快回来陪我呀\n\n[Verse 2]\n卖鱼大哥问你怎么没一起来\n我说你在城里加班走不开\n他多抓一把香菜塞我口袋\n说给你留条最大的等你回来\n你发消息说下个月就回来\n让我别省着吃多买点菜\n我把这些话都记在心里\n就等着天不亮一起出发呀\n\n[Pre-Chorus]\n太阳慢慢爬上了屋檐\n吆喝声一浪高过一浪\n我心里想的全都是你\n\n[Chorus]\n赶早市 赶早市 天不亮就出发\n赶早市 赶早市 白菜水灵像朵花\n赶早市 赶早市 砍价砍得笑哈哈\n就差你了 我的小尾巴\n赶早市 赶早市 豆浆油条热乎哒\n赶早市 赶早市 便宜实惠人人夸\n赶早市 赶早市 十块钱拎回一兜瓜\n我想你了 快回来陪我呀\n\n[Bridge]\n等你回来那天我定好闹钟\n拉着你的手天不亮就出门\n豆浆买甜的油条买两根\n这辈子就想和你赶早市\n\n[Chorus]\n赶早市 赶早市 天不亮就出发\n赶早市 赶早市 白菜水灵像朵花\n赶早市 赶早市 砍价砍得笑哈哈\n就差你了 我的小尾巴\n赶早市 赶早市 豆浆油条热乎哒\n赶早市 赶早市 便宜实惠人人夸\n赶早市 赶早市 十块钱拎回一兜瓜\n我想你了 快回来陪我呀\n\n[Chorus]\n赶早市 赶早市 天不亮就出发\n赶早市 赶早市 白菜水灵像朵花\n赶早市 赶早市 砍价砍得笑哈哈\n就差你了 我的小尾巴\n赶早市 赶早市 豆浆油条热乎哒\n赶早市 赶早市 便宜实惠人人夸\n赶早市 赶早市 十块钱拎回一兜瓜\n我想你了 快回来陪我呀\n\n[Outro]\n菜篮子满了 心也满了\n明天天不亮 老地方见\n赶早市去咯",
       "duration": 198,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-11-12",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/1ccd168c6d6af9b90541bf16ef0c5a0a02d7dedfd86b0d09250c2b1b23f6de58"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/1ccd168c6d6af9b90541bf16ef0c5a0a02d7dedfd86b0d09250c2b1b23f6de58",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/39a54d00852d953fc4a9420480f517f5a7e2c3f04728f97aa751d77ee9a36f56"
     },
     {
       "slug": "想见你_2026-11-13",
@@ -731,8 +954,9 @@
       "lyrics_file": "[Intro]\n手机屏幕亮了又暗没有你消息\n我数着时间走怎么这么慢\n想见你这句话我说了一百遍\n\n[Verse 1]\n下班路上经过那家奶茶店\n你最爱的三分糖一点没变\n朋友圈翻了三遍没有新动态\n我发的消息你到底回不回\n一个人吃饭点了你爱吃的菜\n服务员问几位我说等一位\n窗外的天慢慢黑了下来\n我对你的想念藏也藏不住\n\n[Chorus]\n想见你 想见你 就是想见你\n想见你 想见你 一秒等不及\n想见你 想见你 梦里都是你\n醒来枕头旁边空得让我叹气\n想见你 想见你 生气也想见你\n想见你 想见你 下雨也想见你\n想见你 想见你 你到底在哪里\n这条消息发出去你回我一句\n\n[Verse 2]\n周末一个人逛了我们约过的街\n路边的小猫都比我过得开心\n姐妹喊我出门去看一场电影\n我说我没心情只想一个人发呆\n你以前说最喜欢看我的笑\n现在我的笑容给谁看才好\n手机相册翻到我们的合照\n越看越想你想到睡不着\n\n[Pre-Chorus]\n十一点半的路灯陪我等\n我对着镜子练习要说的话\n见到你的第一句我准备好了\n\n[Chorus]\n想见你 想见你 就是想见你\n想见你 想见你 一秒等不及\n想见你 想见你 梦里都是你\n醒来枕头旁边空得让我叹气\n想见你 想见你 生气也想见你\n想见你 想见你 下雨也想见你\n想见你 想见你 你到底在哪里\n这条消息发出去你回我一句\n\n[Bridge]\n其实我要的真的很简单\n一个拥抱一句迟到的晚安\n我爱你三个字练了一百遍\n就等你出现说给你听\n\n[Chorus]\n想见你 想见你 就是想见你\n想见你 想见你 一秒等不及\n想见你 想见你 梦里都是你\n醒来枕头旁边空得让我叹气\n想见你 想见你 生气也想见你\n想见你 想见你 下雨也想见你\n想见你 想见你 你到底在哪里\n这条消息发出去你回我一句\n\n[Chorus]\n想见你 想见你 终于见到你\n想见你 想见你 一秒不分离\n想见你 想见你 牵手就到底\n原来你也偷偷等着我说这句\n想见你 想见你 每天想见你\n想见你 想见你 明天想见你\n想见你 想见你 后天想见你\n往后每一天都想和你在一起\n\n[Outro]\n晚风吹过我们回家的路\n你说笨蛋别哭了我在这呢\n下一次想见你随时都可以",
       "duration": 211,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-11-12",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/915b379dc2ee9aa3445de62fe248cfbb0dac18ff79490557ef7e77962128b05f"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/915b379dc2ee9aa3445de62fe248cfbb0dac18ff79490557ef7e77962128b05f",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/6826440adeb3719cf64917a48e8997934c8bd7ea06331ac228e6830ab40e04a1"
     },
     {
       "slug": "妈妈的味道_2026-11-13",
@@ -766,8 +990,9 @@
       "lyrics_file": "[Intro]\n又是深夜 加班回家的路上\n路过小面馆闻到了熟悉的味道\n我一下子就想起了李家湾\n\n[Verse 1]\n我家住在山脚下的李家湾\n屋后有一片妈妈种的菜园\n天不亮她就起来烧火做饭\n香味顺着风飘到了村口边\n那时候我总嫌她唠叨得烦\n一心想去山外面看一看\n十八岁那年我坐上了南下的火车\n到了广州最想念的还是那碗面\n\n[Chorus]\n想妈妈 想妈妈\n妈妈的味道是一碗手擀面\n想妈妈 想妈妈\n妈妈的味道是灶台升起的炊烟\n想妈妈 想妈妈\n妈妈的味道是腌菜坛里的酸和甜\n吃遍了山南海北的大饭店\n最想的还是她煮的那碗面\n\n[Verse 2]\n现在我在写字楼里加班到很晚\n天天点外卖吃得嘴里发淡\n妈妈的电话总在晚上八点半\n开口就问我在外吃得惯不惯\n她说家里枣树今年结得特别甜\n都晒好了留着等我回去解解馋\n挂了电话我鼻子酸了半天\n我想回家再吃一碗她煮的面\n\n[Pre-Chorus]\n火车开过一座山又一座山\n车窗外的风景越来越像从前\n我知道老屋的灯还亮着没关\n\n[Chorus]\n想妈妈 想妈妈\n妈妈的味道是一碗手擀面\n想妈妈 想妈妈\n妈妈的味道是灶台升起的炊烟\n想妈妈 想妈妈\n妈妈的味道是腌菜坛里的酸和甜\n吃遍了山南海北的大饭店\n最想的还是她煮的那碗面\n\n[Bridge]\n妈妈 我爱你 这句话藏了太多年\n今天我回来了 就坐在你的面前\n你笑着给我盛了一大碗饭\n我低着头吃眼泪在眼眶打转\n\n[Chorus]\n想妈妈 想妈妈\n妈妈的味道是一碗手擀面\n想妈妈 想妈妈\n妈妈的味道是灶台升起的炊烟\n想妈妈 想妈妈\n妈妈的味道是腌菜坛里的酸和甜\n吃遍了山南海北的大饭店\n最想的还是她煮的那碗面\n\n[Chorus]\n想妈妈 想妈妈\n妈妈的味道是一碗手擀面\n想妈妈 想妈妈\n妈妈的味道是灶台升起的炊烟\n想妈妈 想妈妈\n妈妈的味道是腌菜坛里的酸和甜\n等我在这城市闯出了一片天\n我就回家陪你过好每一年\n\n[Outro]\n李家湾的炊烟飘过了屋檐\n妈妈的味道是我放不下的思念\n我想你 妈妈 我爱你",
       "duration": 197,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-11-12",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/7cb88466fc23d371796602e009ac7ab6ceec45b196fbc31b61a1107efe60b5d7"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/7cb88466fc23d371796602e009ac7ab6ceec45b196fbc31b61a1107efe60b5d7",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/463fbe57756bf6f1b990ecbefdabc2ce5120c2e6588e9d77b628d2f3d0f34b6e"
     },
     {
       "slug": "他不配_2026-11-13",
@@ -808,8 +1033,9 @@
       "lyrics_file": "[Intro]\n又是凌晨 想你想到失眠\n手机屏幕亮了又暗了下去\n这首歌 我想唱给自己听\n\n[Verse 1]\n凌晨两点半我又醒了过来\n习惯性点开你最近的朋友圈\n新的头像里站着别的女孩\n笑得像我们当初刚认识那般\n朋友劝我不要再这样折磨自己\n我还是舍不得删掉聊天记录\n我说这是最后一次想你了\n眼泪却从来没有答应过我\n\n[Chorus]\n他不配 让我掉的眼泪\n他不配 让我整夜不睡\n他不配 让我委屈到心碎\n算了吧 我要头也不回\n他不配 让我深夜买醉\n他不配 让我苦苦奉陪\n他不配 占据我所有的喜悲\n这一次 我要把自己找回\n\n[Verse 2]\n周末我路过熟悉的便利店\n看见你牵着她的手挑甜点\n我低头装作什么都没看见\n转过身眼泪就掉了下来\n你说过的一生一世的誓言\n原来比牛奶过期还要快些\n我删了照片又偷偷地恢复\n骂自己没出息又心疼自己\n\n[Pre-Chorus]\n我承认想你变成了习惯\n我承认还是放不下从前\n但我不想再为谁委屈自己\n\n[Chorus]\n他不配 让我掉的眼泪\n他不配 让我整夜不睡\n他不配 让我委屈到心碎\n算了吧 我要头也不回\n他不配 让我深夜买醉\n他不配 让我苦苦奉陪\n他不配 占据我所有的喜悲\n这一次 我要把自己找回\n\n[Bridge]\n如果爱一个人要弄丢自己\n那这份爱我就原样还给他\n我爱你 但我更该爱自己\n往后的日子我把自己放第一\n\n[Chorus]\n他不配 让我掉的眼泪\n他不配 让我整夜不睡\n他不配 让我委屈到心碎\n算了吧 我要头也不回\n他不配 让我深夜买醉\n他不配 让我苦苦奉陪\n他不配 占据我所有的喜悲\n这一次 我要把自己找回\n\n[Chorus]\n他不配 让我掉的眼泪\n他不配 让我整夜不睡\n他不配 让我委屈到心碎\n算了吧 我要头也不回\n他不配 让我深夜买醉\n他不配 让我苦苦奉陪\n他不配 占据我所有的喜悲\n这一次 我要把自己找回\n\n[Outro]\n他不配 得到我全部的眼泪\n我要留给那个真正爱我的人\n晚安 这次是真的说晚安",
       "duration": 210,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-11-12",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/341c8e8f8aa59cf58bb974523f1c13b0335b865988e1bbba4bf38519deb52773"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/341c8e8f8aa59cf58bb974523f1c13b0335b865988e1bbba4bf38519deb52773",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/75888ddace478631b6d4098d8d159a6c6e43428373e70652c8daa0a4ffe68203"
     },
     {
       "slug": "跟上节拍_2026-11-12",
@@ -6820,7 +7046,7 @@
       "lyrics_file": "[Intro]\n喂喂喂听得到我的心跳吗\n雷达哔哔哔已经锁定你了哦\n三二一准备好了没有呀\n\n[Verse 1]\n今天下午在奶茶店拐角遇见你\n你穿白色短袖笑得超级卡哇伊\n假装看手机偷偷拍下你的背影\n屏幕反光出我红透脸颊的秘密\n你突然转头对我轻轻眨眨眼睛\n手忙脚乱差点把奶茶打翻在地\n我的心跳瞬间加速到了一百八\n像有只小兔子在胸口不停蹦跶\n\n[Chorus]\n哔哔哔 心动雷达锁定了你\n哔哔哔 怎么满脑子都是你\n哔哔哔 连呼吸都开始想你\n快点承认你也对我动了心\n扑通通 扑通通 心跳好着急\n好喜欢 好喜欢 真的好喜欢你\n快牵手 快牵手 别再装神秘\n今天开始做我专属的唯一\n\n[Verse 2]\n晚上翻遍你朋友圈每一条动态\n每张照片我都放大仔仔细细看\n想要给你发消息又害怕太主动\n打好的字删删减减实在太纠结\n手机屏幕突然亮起弹出了提示\n居然是你发来问我睡了没有呢\n抱着枕头在床上开心转了个圈\n赶紧回复我也刚好在想你呢呀\n\n[Pre-Chorus]\n信号接收器收到了甜蜜的电波\n现在我的全世界全都被你占领\n我已经完全忍不住想要告诉你\n\n[Chorus]\n哔哔哔 心动雷达锁定了你\n哔哔哔 怎么满脑子都是你\n哔哔哔 连呼吸都开始想你\n快点承认你也对我动了心\n扑通通 扑通通 心跳好着急\n好喜欢 好喜欢 真的好喜欢你\n快牵手 快牵手 别再装神秘\n今天开始做我专属的唯一\n\n[Bridge]\n不要再跟我躲猫猫捉迷藏啦\n我的小心思早就全部暴露了\n现在就站在原地不要动好不好\n张开双手等我一步一步跑向你\n\n[Chorus]\n哔哔哔 心动雷达锁定了你\n哔哔哔 怎么满脑子都是你\n哔哔哔 连呼吸都开始想你\n快点承认你也对我动了心\n扑通通 扑通通 心跳好着急\n好喜欢 好喜欢 真的好喜欢你\n快牵手 快牵手 别再装神秘\n今天开始做我专属的唯一\n\n[Chorus]\n哔哔哔 心动雷达锁定了你\n哔哔哔 怎么满脑子都是你\n哔哔哔 连呼吸都开始想你\n快点承认你也对我动了心\n扑通通 扑通通 心跳好着急\n好喜欢 好喜欢 真的好喜欢你\n快牵手 快牵手 别再装神秘\n今天开始做我专属的唯一\n\n[Outro]\n哔哔哔 心动雷达永远不关机\n好喜欢你 真的好喜欢你\n明天也要第一秒就见到你",
       "duration": 188,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-14",
+      "youmind_cdn_date": "2026-11-15",
       "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/98c0d39500e13d46081481a02f9ae8832786cbae53ce432f7120db51cb15696b",
       "emotion": "",
       "genre": "",
@@ -6828,7 +7054,8 @@
       "source_note_ids": "",
       "source_brief": "",
       "privacy_policy": "",
-      "style_author_normalized": ""
+      "style_author_normalized": "",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/76e3c82bcbbc69428927760a016488cb370e4f6c08ce369fb0d7f6b2cfa29bfb"
     },
     {
       "slug": "广场最靓_2026-10-15",
@@ -6984,12 +7211,13 @@
       "lyrics_file": "[Intro]\n扑通通 扑通通\n脸红红 脸红红\n我好像真的喜欢上你了啦\n\n[Verse 1]\n今天出门前特意挑了粉色裙子\n站在奶茶店门口悄悄看着你\n你手里拿着两杯全糖热奶茶\n微笑着走过来喊出我的名字\n我的手心怎么突然开始冒汗\n明明今天天气也不是特别热\n你低下头问我为什么不说话\n我连呼吸都变得有一点结巴\n\n[Chorus]\n扑通通 扑通通 我的心跳\n你看我一眼我就脸红心跳\n你拉我一下我就脸红心跳\n你对我一笑我就脸红心跳\n怎么办我今天彻底逃不掉\n砰砰砰 砰砰砰 停不下来\n我真的超级超级喜欢你呀\n快点抱紧我不要让我走掉\n\n[Verse 2]\n电影院里面我们坐得那么近\n你的胳膊不小心碰到了我的手\n爆米花甜甜的香气飘在身边\n荧幕上放什么我根本没看清\n你悄悄凑到我耳边说了句话\n问我散场以后要不要去散步\n我的耳朵一下子变得超级烫\n脑袋里面好像全都在放烟花\n\n[Pre-Chorus]\n路灯把两个人的影子拉得好长\n你突然伸手牵住了我的右手\n那一秒钟全世界好像都安静\n\n[Chorus]\n扑通通 扑通通 我的心跳\n你看我一眼我就脸红心跳\n你拉我一下我就脸红心跳\n你对我一笑我就脸红心跳\n怎么办我今天彻底逃不掉\n砰砰砰 砰砰砰 停不下来\n我真的超级超级喜欢你呀\n快点抱紧我不要让我走掉\n\n[Bridge]\n好想直接对你大声说我喜欢你\n再也不想每天猜来猜去好累\n你能不能主动说你也很想我\n明天我也想和你一直在一起\n\n[Chorus]\n扑通通 扑通通 我的心跳\n你看我一眼我就脸红心跳\n你拉我一下我就脸红心跳\n你对我一笑我就脸红心跳\n怎么办我今天彻底逃不掉\n砰砰砰 砰砰砰 停不下来\n我真的超级超级喜欢你呀\n快点抱紧我不要让我走掉\n\n[Chorus]\n扑通通 扑通通 我的心跳\n你看我一眼我就脸红心跳\n你拉我一下我就脸红心跳\n你对我一笑我就脸红心跳\n怎么办我今天彻底逃不掉\n砰砰砰 砰砰砰 停不下来\n我真的超级超级喜欢你呀\n快点抱紧我不要让我走掉\n\n[Outro]\n扑通通 扑通通\n脸红红 脸红红\n明天也要继续喜欢你呀",
       "duration": 175,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-14",
+      "youmind_cdn_date": "2026-11-15",
       "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/bac69c2174431a0fd7854e70eaa5dd7c15e423d9f29ef460e35ffb67c7587119",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/4939601730e660440de0c2113d4171383fc154b6be6da20416270d7fc794e325",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/4939601730e660440de0c2113d4171383fc154b6be6da20416270d7fc794e325"
-      ]
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/63d4963878b37988e6caf2a8cad7bcb579fa2bee31146b511d5274e68ee97e75"
     },
     {
       "slug": "早起跳操_2026-10-14",
@@ -7105,12 +7333,13 @@
       "lyrics_file": "[Intro]\n东风吹过江面带走昨夜的霜\n我站在城楼上看着月光很凉\n心里全都是你根本无法遗忘\n\n[Verse 1]\n那一年春天在江边和你初相遇\n你弹着古琴说要陪我走过风雨\n后来你收拾行囊去了遥远北方\n留我一个人守着空荡荡的西楼\n院子里的桃花开了又谢了好几回\n冬天的大雪落满了回家的长街\n我每天都在打听你现在的消息\n朋友劝我别等可我真的放不下\n\n[Chorus]\n我借东风吹散漫天风雪好想你\n我借东风吹过千里江水去找你\n我借东风吹进你的梦里说爱你\n可这东风吹不回已经离开的你\n借东风 借东风 吹痛了我的胸口\n吹不散 吹不散 我对你的这等候\n如果能重来我绝对不放开你的手\n这一生我只想陪着你一起到白头\n\n[Verse 2]\n桌上的古琴落了灰我舍不得擦\n琴弦断了一根就像我碎掉的心\n夜深的时候月亮照着床前冰凉\n我翻开从前你写给我的旧信件\n你说过无论多远都会回到我身边\n可现在过了三年你还是没出现\n我逢人就问有没有见过你的脸\n他们都说你早就开始了新生活\n\n[Pre-Chorus]\n江边的风又吹乱了我的长头发\n我看着江水流向你所在的地方\n眼泪掉下来我还是好想好想你\n\n[Chorus]\n我借东风吹散漫天风雪好想你\n我借东风吹过千里江水去找你\n我借东风吹进你的梦里说爱你\n可这东风吹不回已经离开的你\n借东风 借东风 吹痛了我的胸口\n吹不散 吹不散 我对你的这等候\n如果能重来我绝对不放开你的手\n这一生我只想陪着你一起到白头\n\n[Bridge]\n为什么真心相爱最后要分开\n天上的月亮知道我有多悲哀\n我对着漫天大风喊出你的名字\n你能不能回头看一看我的等待\n\n[Chorus]\n我借东风吹散漫天风雪好想你\n我借东风吹过千里江水去找你\n我借东风吹进你的梦里说爱你\n可这东风吹不回已经离开的你\n借东风 借东风 吹痛了我的胸口\n吹不散 吹不散 我对你的这等候\n如果能重来我绝对不放开你的手\n这一生我只想陪着你一起到白头\n\n[Chorus]\n我借东风吹散漫天风雪好想你\n我借东风吹过千里江水去找你\n我借东风吹进你的梦里说爱你\n可这东风吹不回已经离开的你\n借东风 借东风 吹痛了我的胸口\n吹不散 吹不散 我对你的这等候\n如果能重来我绝对不放开你的手\n这一生我只想陪着你一起到白头\n\n[Outro]\n东风吹过长江带不走我的深情\n我站在高楼上哭着喊你的姓名\n这一辈子我都不会停止去爱你",
       "duration": 327,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-14",
+      "youmind_cdn_date": "2026-11-15",
       "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/fd942075bc450a2655f9d6d26b080044a6cbd413b0d8df5c861e0f0490bb889a",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/3113e96c53b7bd414d44b6da5b326f27ce45728c547ac4cbc713c011720e2a85",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/3113e96c53b7bd414d44b6da5b326f27ce45728c547ac4cbc713c011720e2a85"
-      ]
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/661b383e50317b93e61ad7228d505610d2458075884fb2ae5b380d89c083a673"
     },
     {
       "slug": "不欠了_2026-10-14",
@@ -7346,12 +7575,13 @@
       "lyrics_file": "[Intro]\n瞄一眼 瞄一眼 瞄一眼\n看一眼 看一眼 看一眼\n今天又偷偷多看了你一眼\n\n[Verse 1]\n今天下午在图书馆靠窗的角落\n你戴着白色耳机低头认真写字\n我故意拿了一本看不懂的英语\n假装坐在你的对面假装在复习\n桌上的冰美式杯壁一直在出汗\n我的心跳声大得快要把我出卖\n你突然抬头好像朝我看了过来\n我赶紧低下头去翻开下一页书\n\n[Chorus]\n偷偷瞄你一眼心跳就会漏一拍\n偷偷瞄你一眼脸红就停不下来\n偷偷瞄你一眼脑袋全都变空白\n你怎么还不快点过来跟我告白\n瞄一眼 瞄一眼 瞄一眼\n看一眼 看一眼 看一眼\n我真的好想好想成为你的例外\n快点牵我的手现在就谈恋爱\n\n[Verse 2]\n放学路上天空突然下起了小雨\n你撑着黑色的雨伞走在我前面\n我故意放慢脚步跟在你的身后\n踩着你踩过的水坑心里也很甜\n真的很想冲上前去和你打招呼\n问你明天周末有没有空去逛街\n可是我太害羞还是不敢开口说\n只能看着你的背影慢慢走远了\n\n[Pre-Chorus]\n朋友都说我表现得实在太明显\n每次聊到你的名字眼睛都在发光\n其实我心里早就已经喜欢你很久\n\n[Chorus]\n偷偷瞄你一眼心跳就会漏一拍\n偷偷瞄你一眼脸红就停不下来\n偷偷瞄你一眼脑袋全都变空白\n你怎么还不快点过来跟我告白\n瞄一眼 瞄一眼 瞄一眼\n看一眼 看一眼 看一眼\n我真的好想好想成为你的例外\n快点牵我的手现在就谈恋爱\n\n[Bridge]\n我不想再每天偷偷看你的动态\n我只想把所有喜欢全都说出来\n你到底懂不懂我对你的小期待\n明天可不可以不要再让我猜\n\n[Chorus]\n偷偷瞄你一眼心跳就会漏一拍\n偷偷瞄你一眼脸红就停不下来\n偷偷瞄你一眼脑袋全都变空白\n你怎么还不快点过来跟我告白\n瞄一眼 瞄一眼 瞄一眼\n看一眼 看一眼 看一眼\n我真的好想好想成为你的例外\n快点牵我的手现在就谈恋爱\n\n[Chorus]\n偷偷瞄你一眼心跳就会漏一拍\n偷偷瞄你一眼脸红就停不下来\n偷偷瞄你一眼脑袋全都变空白\n你怎么还不快点过来跟我告白\n瞄一眼 瞄一眼 瞄一眼\n看一眼 看一眼 看一眼\n我真的好想好想成为你的例外\n快点牵我的手现在就谈恋爱\n\n[Outro]\n瞄一眼 瞄一眼 瞄一眼\n明天还要继续偷瞄你一眼\n你快点发现我也超喜欢你吧",
       "duration": 189,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-14",
+      "youmind_cdn_date": "2026-11-15",
       "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/d11479841dd18ba0049c0c7f7967a469d8426d585e1b266ccea6605a94ea74a5",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/7ba0cc779754c007c09569d782f17e98177c0031c0f104d8d3702c56bd0ffde7",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/7ba0cc779754c007c09569d782f17e98177c0031c0f104d8d3702c56bd0ffde7"
-      ]
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/6195176b0f4027f1e569bd00bc4d06ca2f06f5cca926f152bfc3fb205786853e"
     },
     {
       "slug": "老家那碗面_2026-10-12",
@@ -15477,11 +15707,12 @@
       "lyrics_file": "[Intro]\n音乐一响 人就晃\n广场中央 来登场\n今晚咱们一起浪\n\n[Verse 1]\n大爷别光站 跟上跟上\n大妈甩起手 别慌别慌\n左脚一跺 右脚一甩\n胯骨扭三扭 精神爽\n甩开膀子 嗨起来\n谁跳谁年轻 谁跳谁漂亮\n\n[Chorus]\n跳疯了 跳疯了 跳疯了\n摇疯了 摇疯了 摇疯了\n扭疯了 扭疯了 扭疯了\n今晚谁都不回家\n跳疯了 跳疯了 跳疯了\n唱疯了 唱疯了 唱疯了\n笑疯了 笑疯了 笑疯了\n烦恼统统都丢下\n\n[Verse 2]\n音响开到最大 别害臊\n花手摇一摇 热情冒\n前排大姐 扭得俏\n后排大哥 蹦得高\n跟着节拍 别思考\n越跳越热乎 越跳越逍遥\n\n[Pre-Chorus]\n来吧来吧 别装文静\n躁起来躁起来 谁也别停\n这节奏一起 就要到天明\n\n[Chorus]\n跳疯了 跳疯了 跳疯了\n摇疯了 摇疯了 摇疯了\n扭疯了 扭疯了 扭疯了\n今晚谁都不回家\n跳疯了 跳疯了 跳疯了\n唱疯了 唱疯了 唱疯了\n笑疯了 笑疯了 笑疯了\n烦恼统统都丢下\n\n[Instrumental]\n咚咚锵 咚咚锵 跳起来跳起来\n\n[Verse 3]\n汗水流成河 也乐意\n跳到月亮上 不休息\n老头老太 都给力\n这广场 就是我们的天地\n\n[Chorus]\n跳疯了 跳疯了 跳疯了\n摇疯了 摇疯了 摇疯了\n扭疯了 扭疯了 扭疯了\n今晚谁都不回家\n跳疯了 跳疯了 跳疯了\n唱疯了 唱疯了 唱疯了\n笑疯了 笑疯了 笑疯了\n烦恼统统都丢下\n\n[Chorus]\n跳疯了 跳疯了 跳疯了\n摇疯了 摇疯了 摇疯了\n扭疯了 扭疯了 扭疯了\n全场一起嗨到炸\n跳疯了 跳疯了 跳疯了\n唱疯了 唱疯了 唱疯了\n笑疯了 笑疯了 笑疯了\n明天接着再来呀\n\n[Outro]\n跳疯了 跳疯了\n明天接着来\n咱们广场舞 越跳越开怀",
       "duration": 180,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-09",
+      "youmind_cdn_date": "2026-11-15",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/9f9c7fe19d787dc5193f02675aa3070bf76b51e15847a009a599c13c8ec07993",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/9f9c7fe19d787dc5193f02675aa3070bf76b51e15847a009a599c13c8ec07993"
-      ]
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/d2b79a53c4cb97c701f2fbd947a8442eff4155fb654304db69717bef380fb9a4"
     },
     {
       "slug": "老扁担_2026-09-03",
@@ -15509,11 +15740,12 @@
       "lyrics_file": "[Intro]\n村口那棵老槐树下\n矮矮的老屋飘着烟\n墙根靠着那根老扁担\n\n[Verse 1]\n父亲挑起两只木桶\n老井台上的青苔滑\n吱呀一声 晃悠悠\n一担清水 晃着日头\n柴火压肩 山路弯弯\n汗水滴在石板上\n扁担压弯了父亲的肩\n却把我高高挑过坎\n\n[Pre-Chorus]\n我数着青石板回家\n听着吱呀就不怕\n\n[Chorus]\n老扁担 吱呀呀\n老扁担 吱呀呀\n老扁担 吱呀呀\n挑着一担清水回家\n老扁担 吱呀呀\n挑着月亮挑着娃\n一头挑山 一头挑家\n挑着日子慢慢爬\n\n[Verse 2]\n我背着行李走出村口\n老扁担靠在墙根头\n父亲搓着手没说够\n只叫我累了就回头\n车轮滚滚离家越来越远\n城市的灯亮得像白昼\n可半夜里想起那吱呀\n眼泪就往心里流\n\n[Pre-Chorus]\n我望着高楼望不到家\n耳边还响着老扁担的话\n\n[Chorus]\n老扁担 吱呀呀\n老扁担 吱呀呀\n老扁担 吱呀呀\n挑着一担清水回家\n老扁担 吱呀呀\n挑着月亮挑着娃\n一头挑山 一头挑家\n挑着日子慢慢爬\n\n[Bridge]\n生活再重我不趴下\n因为肩膀要像他\n我要把梦想挑起来\n一步一步 往上爬\n山那边有我的老家\n有根老扁担 在等我回家\n\n[Chorus]\n老扁担 吱呀呀\n老扁担 吱呀呀\n老扁担 吱呀呀\n挑着一担清水回家\n老扁担 吱呀呀\n挑着月亮挑着娃\n一头挑山 一头挑家\n挑着日子慢慢爬\n\n[Outro]\n老扁担 吱呀呀\n挑着岁月不说话\n老扁担 吱呀呀\n我到家了 爸",
       "duration": 180,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-09",
+      "youmind_cdn_date": "2026-11-15",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/6c06dfba2c6340494b1510ae8cebdfd90e260cca3fbaa30e28ffef87e36a7145",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/6c06dfba2c6340494b1510ae8cebdfd90e260cca3fbaa30e28ffef87e36a7145"
-      ]
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/2fbcad909cbcb9b9080b9f7aa5b7677421386041c815d29796a1a65ff76c794b"
     },
     {
       "slug": "破阵子_2026-09-03",
@@ -15541,11 +15773,12 @@
       "lyrics_file": "《破阵子》\n\n[Intro]\n月光落在旧剑穗\n风过辕门吹酒醒\n一纸战书催天明\n\n[Verse 1]\n写字楼里灯火如星\n键盘敲成铁马金戈声\n报表堆成山 压力如潮涌\n谁在格子间 挑灯看剑到天明\n房贷车贷是身上的甲\n孩子的笑是软肋也是兵\n中年人的沙场没有号角\n只有闹钟响 催我出征\n\n[Pre-Chorus]\n醉里挑灯 看的是生活这柄剑\n了却天下事 不过是柴米油盐\n\n[Chorus]\n破阵子 破阵子 破阵子\n我这一剑 斩不断的是账单\n破阵子 破阵子 破阵子\n我这一战 为的是万家灯暖\n破阵子 破阵子 破阵子\n纵使白发 也要把山河看完\n\n[Verse 2]\n凌晨三点的医院长廊\n陪护椅就是我的马背和鞍\n吊瓶滴答像更漏在催\n一夜未眠 看剑气已阑珊\n送外卖的兄弟穿过风雨\n电动车轮卷起黄沙漫漫\n每一个努力活着的人\n都是自己的 将军帐前\n\n[Pre-Chorus]\n醉里挑灯 看的是生活这柄剑\n了却天下事 不过是柴米油盐\n\n[Chorus]\n破阵子 破阵子 破阵子\n我这一剑 斩不断的是账单\n破阵子 破阵子 破阵子\n我这一战 为的是万家灯暖\n破阵子 破阵子 破阵子\n纵使白发 也要把山河看完\n\n[Instrumental]\n（古筝轮指接笛子破空）\n\n[Bridge]\n想当年 少年意气 笑谈渴饮匈奴血\n到如今 端起保温杯 把枸杞看\n不是英雄气短\n是懂得了 肩上扛着天\n这一杯浊酒 敬给所有\n咬着牙 不肯倒下的平凡\n\n[Chorus]\n破阵子 破阵子 破阵子\n我这一剑 斩不断的是账单\n破阵子 破阵子 破阵子\n我这一战 为的是万家灯暖\n破阵子 破阵子 破阵子\n纵使白发 也要把山河看完\n\n[Verse 3]\n故乡的麦苗绿了又黄\n父母的电话是千里传觞\n不能常伴膝下尽孝道\n只能把工资 寄作还乡\n妻子的手心有了薄茧\n那是与我同袍的勋章\n少年梦没有真的死去\n它只是换成了 奶粉一罐\n\n[Pre-Chorus]\n醉里挑灯 看的是生活这柄剑\n了却天下事 不过是柴米油盐\n\n[Chorus]\n破阵子 破阵子 破阵子\n我这一剑 斩不断的是账单\n破阵子 破阵子 破阵子\n我这一战 为的是万家灯暖\n破阵子 破阵子 破阵子\n纵使白发 也要把山河看完\n\n[Outro]\n剑未老 人未眠\n挑灯再看 明朝路远\n了却君王天下事\n不负人间 这一碗面",
       "duration": 180,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-09",
+      "youmind_cdn_date": "2026-11-15",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/529d21ea57eabb3453996f2d401a402a15de34238157d45b3192525b70d546a0",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/529d21ea57eabb3453996f2d401a402a15de34238157d45b3192525b70d546a0"
-      ]
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/2572080afc36a1b6887ee15d7ef3660a1ef66c92f56459062e282712bcdf9407"
     },
     {
       "slug": "爱爱爱_2026-09-03",
@@ -15616,11 +15849,12 @@
       "lyrics_file": "[Intro]\n手机响啦 是你吗\n屏幕亮起 我心乱啦\n今天换啦 新香水呀\n\n[Verse 1]\n偷偷看你 第六遍啦\n假装路过 你教室门前\n你笑起来 像太阳呀\n我低着头 脸红红啦\n手心的汗 擦了又擦\n想说的话 删了又删\n对话框里 全是点点点\n暗恋真的好麻烦呀\n\n[Pre-Chorus]\n你眼神过来 我躲一下\n深呼吸啦 不能再怕\n这次换我 主动说话\n\n[Chorus]\n抱我一下\n抱我一下\n抱我一下\n我就沦陷在你怀里啦\n抱我一下\n抱我一下\n抱我一下\n别再把我当朋友呀\n\n[Verse 2]\n昨晚梦见 你牵我手\n醒来以后 枕巾湿啦\n翻了翻你 所有动态\n每条点赞 都在想你呀\n闺蜜说我 太没出息\n喜欢个人 憋成内伤\n今天终于 鼓起勇气\n把手机攥得紧紧哒\n\n[Pre-Chorus]\n你回消息 我炸开花\n心咚咚咚 快要爆炸\n这一秒我 必须说话\n\n[Chorus]\n抱我一下\n抱我一下\n抱我一下\n我就沦陷在你怀里啦\n抱我一下\n抱我一下\n抱我一下\n别再把我当朋友呀\n\n[Bridge]\n不要再说 再等一下\n我等不了 盛夏到雪花\n暗恋太长 我装不下\n喜欢就要 大声说出来\n你就勇敢 一点点嘛\n把心交给我保管吧\n\n[Chorus] (Double)\n抱我一下\n抱我一下\n抱我一下\n我就沦陷在你怀里啦\n抱我一下\n抱我一下\n抱我一下\n别再把我当朋友呀\n抱我一下\n抱我一下\n抱我一下\n我要做你的小傻瓜\n\n[Chorus]\n抱我一下\n抱我一下\n抱我一下\n我就沦陷在你怀里啦\n抱我一下\n抱我一下\n抱我一下\n别再把我当朋友呀\n\n[Outro]\n抱我一下 抱我一下\n这一下 就是一辈子呀\n抱我一下 我等你呀",
       "duration": 180,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-09",
+      "youmind_cdn_date": "2026-11-15",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/0065b43630917a61a15f29117e30b58f70b78fdfc0782ee760aedd9f0d186e76",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/0065b43630917a61a15f29117e30b58f70b78fdfc0782ee760aedd9f0d186e76"
-      ]
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/1966a80599911d40dc704fa808e5826e79bc979b87111edeb48b68a60bb04814"
     },
     {
       "slug": "心好累_2026-09-03",
@@ -15648,11 +15882,12 @@
       "lyrics_file": "[Intro]\n窗外的雨 下了一整夜\n空房间里 只剩我自己\n茶几上 还放着你没喝完的酒\n\n[Verse 1]\n沙发上 堆着你留下的外套\n拖鞋还摆着 两双没挪地方\n烟灰缸里 还有你抽剩的半支烟\n我盯着手机屏幕 亮了又暗\n你的头像 再也没有新消息\n冰箱里的菜 过期了我都没扔\n一个人的饭 做多了也没人吃\n日子就这么 一天天往下撑\n\n[Pre-Chorus]\n眼泪它不听话 自己往下掉\n我忍了一天 现在只想大哭一场\n胸口像压着一块大石头\n\n[Chorus]\n心好累 心好累 心好累\n想你想到 我流眼泪\n心好累 心好累 心好累\n爱你爱到 我心破碎\n心好累 心好累 心好累\n算了吧 我不配 我撤退\n\n[Verse 2]\n早上醒来 枕头还是湿的\n镜子里的我 眼睛肿得不像话\n手机闹钟 响了我也不想动\n昨夜的剩饭 还在餐桌上摆着\n你的朋友圈 我不敢再点开\n怕看见你 和别人笑得那么甜\n我把窗帘拉紧 假装天还没亮\n这样的日子 到底还要过多久\n\n[Pre-Chorus]\n胸口像压着一块大石头\n我连呼吸 都觉得好难受\n你走了以后 天都是灰的\n\n[Chorus]\n心好累 心好累 心好累\n想你想到 我不能睡\n心好累 心好累 心好累\n爱你爱到 把自己逼到崩溃\n心好累 心好累 心好累\n算了吧 我收回\n\n[Bridge]\n曾经以为 我们会走到最后\n如今只剩 我一个人守空房\n你说过的话 我全都记得\n可你人啊 却早已不知去向\n我也想忘了你 重新活一场\n可回忆它 不放过我 不放过我\n\n[Chorus]\n心好累 心好累 心好累\n想你想到 我流眼泪\n心好累 心好累 心好累\n爱你爱到 我心破碎\n心好累 心好累 心好累\n算了吧 我不配\n\n[Outro]\n心好累 心好累\n算了 就这样吧\n我一个人 也能慢慢熬\n天亮了 总会好的",
       "duration": 180,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-09",
+      "youmind_cdn_date": "2026-11-15",
       "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/bd0a7fc77e2cb450db14121978a53e4fd9fe60252d4e19897fbf57b8eb1d2b5c",
       "youmind_cover_cdn_all": [
         "https://cdn.youmindassets.com/user-files/bd0a7fc77e2cb450db14121978a53e4fd9fe60252d4e19897fbf57b8eb1d2b5c"
-      ]
+      ],
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/42546b985350cd96a4a21ebaf8c4f13ab9e92c6d56323257d7064f70e28185e7"
     },
     {
       "slug": "心冷了_2026-09-03",
@@ -17561,8 +17796,9 @@
       "lyrics_file": "[Intro]\n村口的老槐树还在不在\n老屋的烟囱又冒烟了\n我站在千里之外闻到了\n\n[Verse 1]\n老井边的石板凉悠悠\n妈妈提着水桶走在前头\n我光着脚丫跟在后面走\n捧着井水真凉啊\n老屋的门轴吱呀吱呀响\n煤油灯把墙照得黄\n她总说慢点喝别呛着\n这些话我现在还念着\n\n[Pre-Chorus]\n要到外面去闯一闯\n不能再守着这面墙\n心里头装着老地方\n\n[Chorus]\n想回家 想回老井边\n梦里面都是老井边\n想回家 想喝那口甜\n走多远都记得那口甜\n想回家 想看妈妈的脸\n妈妈的笑脸在眼前\n我要站着回去把路走宽\n让全村人都看得见\n\n[Verse 2]\n那天我背着包往外走\n妈妈送到村口柳树下\n她没哭我只是挥挥手\n火车开了一夜那么长\n城市的楼高得晃眼睛\n灯很亮 人很吵 睡不着\n我躺在出租屋里一角\n心里头念着那口老井\n\n[Pre-Chorus]\n再苦再累我不害怕\n因为身后有我的家\n咬碎了牙也要往上爬\n\n[Chorus]\n想回家 想回老井边\n梦里面都是老井边\n想回家 想喝那口甜\n走多远都记得那口甜\n想回家 想看妈妈的脸\n妈妈的笑脸在眼前\n我要站着回去把路走宽\n让全村人都看得见\n\n[Bridge]\n老井的水养大了我\n我不能就这么算了\n就算浑身是伤是痛\n也要混出个人样来\n为了妈妈不再弯腰\n为了老屋不再漏风\n\n[Chorus]\n想回家 想回老井边\n梦里面都是老井边\n想回家 想喝那口甜\n走多远都记得那口甜\n想回家 想看妈妈的脸\n妈妈的笑脸在眼前\n我要站着回去把路走宽\n让全村人都看得见\n\n[Outro]\n老井边 老井边\n妈妈还在老井边\n等我回 等我回\n我一定回",
       "duration": 195,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-26",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/ae29896085f4147de29b9fa3d90e174b7f8e3b0516c0978581c3bc13a8d70b06"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/ae29896085f4147de29b9fa3d90e174b7f8e3b0516c0978581c3bc13a8d70b06",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/90ced7608bfb2bb3612f431e29414c20937fe69574b3fbfffcb45d4612bf2846"
     },
     {
       "slug": "甩一甩_2026-08-23",
@@ -23408,8 +23644,9 @@
       "lyrics_file": "[Intro]\n月照孤城楼外楼\n风卷残雪落肩头\n一弦琴声冷如秋\n\n[Verse 1]\n高楼望断天涯路\n月照寒江舟自横\n风起时 雪满衣袖\n谁在长夜抚琴等候\n旧时山河入梦中\n八千路遥云追月\n三十功名尘与土\n半生飘零何处归\n\n[Pre-Chorus]\n酒入愁肠化剑气\n斩不断 这人间别离\n\n[Chorus]\n满江红遍 山河未改\n一曲琴音 祭我尘埃\n铁马冰河 入梦而来\n千古兴亡 都付楼台风雪埋\n\n[Verse 2]\n残雪压枝低 楼前风又起\n月下独酌 酒冷琴声稀\n塞上长城空自许\n镜中衰鬓已先斑\n胡尘未灭 鬓先秋\n泪空流 此身已老沧洲\n\n[Pre-Chorus]\n剑光映雪 照见少年游\n江山如旧 人独倚危楼\n\n[Chorus]\n满江红遍 山河未改\n一曲琴音 祭我尘埃\n铁马冰河 入梦而来\n千古兴亡 都付楼台风雪埋\n\n[Instrumental]\n古筝如雨落 笛声裂长空\n\n[Bridge]\n谁记当年 踏雪过江东\n剑指天涯 气贯长虹\n如今只剩 残月照孤峰\n琴弦断 酒盏空 往事都随风\n\n[Verse 3]\n塞外风霜 铁衣寒透骨\n孤城落日 征人望乡路\n雁字回时 月满西楼处\n一杯浊酒 祭千古兴亡\n壮志未酬 身已赴黄泉\n青史留名 不过一行书\n\n[Chorus]\n满江红遍 山河未改\n一曲琴音 祭我尘埃\n铁马冰河 入梦而来\n千古兴亡 都付楼台风雪埋\n\n[Outro]\n月落楼头 雪满天涯路\n琴碎酒冷 故人从此无\n风烟散尽 此身归何处\n满江红 染透春秋书\n满江红 染透春秋书\n满江红 染透春秋书",
       "duration": 196,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-26",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/1eed242af12dc4835c0b71afab3f31260e173adb74ce49a30983a2b8f503019a"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/1eed242af12dc4835c0b71afab3f31260e173adb74ce49a30983a2b8f503019a",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/fd1745f79b078d72bd6d9138b88bcc30ee866852f651bf51e9a21fd2c21be004"
     },
     {
       "slug": "想你了_2026-07-23",
@@ -24949,8 +25186,9 @@
       "lyrics_file": "# 渔家傲\n\n[Intro]\n月照江楼\n风满袖\n谁在等候\n一曲未休\n\n[Verse 1]\n塞下秋风又起\n吹乱我的发丝\n天边雁阵向南飞\n可曾经过你住的地方\n四面边声连角起\n我站在千嶂里\n看长烟落日孤城闭\n想起你说的那句等你\n\n[Pre-Chorus]\n琴声悠悠飘过水面\n渔火点点映着天边\n我划着小舟慢慢地\n慢慢地靠近从前\n\n[Chorus]\n渔家傲 渔家傲 渔家傲\n我把思念唱成歌谣\n渔家傲 渔家傲 渔家傲\n风里雨里我都不逃\n渔家傲 渔家傲 渔家傲\n江水滔滔我心不老\n渔家傲 渔家傲 渔家傲\n等你回来陪我走一遭\n\n[Verse 2]\n霜雪落满船头\n白了少年头\n浊酒一杯家万里\n回家的路有多长\n羌管悠悠霜满地\n我睡不着\n披着月光起身看\n看那江水往东流\n\n[Pre-Chorus]\n琴声悠悠飘过水面\n渔火点点映着天边\n我划着小舟慢慢地\n慢慢地靠近从前\n\n[Chorus]\n渔家傲 渔家傲 渔家傲\n我把思念唱成歌谣\n渔家傲 渔家傲 渔家傲\n风里雨里我都不逃\n渔家傲 渔家傲 渔家傲\n江水滔滔我心不老\n渔家傲 渔家傲 渔家傲\n等你回来陪我走一遭\n\n[Bridge]\n（戏腔）\n啊——\n千山万水隔不断\n这一腔热血柔肠\n雁去又回花开花落\n我还在老地方\n在江上\n唱这一曲渔家傲\n\n[Chorus]\n渔家傲 渔家傲 渔家傲\n我把思念唱成歌谣\n渔家傲 渔家傲 渔家傲\n风里雨里我都不逃\n渔家傲 渔家傲 渔家傲\n江水滔滔我心不老\n渔家傲 渔家傲 渔家傲\n等你回来陪我走一遭\n\n[Outro]\n月照江楼\n风满袖\n渔火点点\n一曲未休\n渔家傲",
       "duration": 200,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-26",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/6bc496d6eecd720271ad0f447c95c0f001c3ca1b7feaccabbc047b0d87bdcb77"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/6bc496d6eecd720271ad0f447c95c0f001c3ca1b7feaccabbc047b0d87bdcb77",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/141fa553a558e73edf8b3440bf4c52724f832ed08b68f1a104de3c9ff185763b"
     },
     {
       "slug": "晃晃晃_2026-07-15",
@@ -25109,8 +25347,9 @@
       "lyrics_file": "[Intro]\n晚上七点半 广场灯火亮\n喇叭一开嗓 全身都发痒\n别管今儿啥事 先放一放\n穿上那双舞鞋 跟我晃一晃\n\n[Verse 1]\n王姐从菜场 刚称了二两姜\n围裙还没解 就冲进舞场中央\n李叔的茶杯 枸杞泡得发黄\n他说跳完这曲 再喝特别香\n张大妈烫了头 卷得跟花一样\n踩准了鼓点 她就是今晚女王\n小孙刚下班 领带甩到肩上\n管他老板不老板 现在只想疯狂\n\n[Pre-Chorus]\n来 一二三四 举起你的手掌\n来 五六七八 脚尖把地敲响\n别再刷手机 别再想惆怅\n跟着这节奏 把烦恼都甩光\n\n[Chorus]\n摇啊摇啊摇啊摇 甩头甩掉那疲劳\n摇啊摇啊摇啊摇 扭腰扭走那烦恼\n摇啊摇啊摇啊摇 跺脚跺得地皮跳\n摇到外婆桥 今晚我们不睡觉\n摇啊摇啊摇啊摇 转圈转出那微笑\n摇啊摇啊摇啊摇 整个世界都轻飘飘\n摇啊摇啊摇啊摇 汗流浃背才叫好\n摇到外婆桥 整个广场都在燃烧\n\n[Beat]\n[Drop] 纯音乐 16 小节\n\n[Verse 2]\n刘婶的折扇 摇得呼啦呼啦响\n老赵的皮鞋 擦得锃亮反着光\n小周的辣条 分给大家尝一尝\n吃完这口劲 再战三百个回合不投降\n音响在震 心脏跟着哐哐哐\n路灯在闪 好像也在跟着晃\n树上的麻雀 吓得飞走两三趟\n管它呢 我们的快乐就是要嚣张\n\n[Pre-Chorus]\n来 一二三四 举起你的手掌\n来 五六七八 脚尖把地敲响\n别再刷手机 别再想惆怅\n跟着这节奏 把烦恼都甩光\n\n[Chorus]\n摇啊摇啊摇啊摇 甩头甩掉那疲劳\n摇啊摇啊摇啊摇 扭腰扭走那烦恼\n摇啊摇啊摇啊摇 跺脚跺得地皮跳\n摇到外婆桥 今晚我们不睡觉\n摇啊摇啊摇啊摇 转圈转出那微笑\n摇啊摇啊摇啊摇 整个世界都轻飘飘\n摇啊摇啊摇啊摇 汗流浃背才叫好\n摇到外婆桥 整个广场都在燃烧\n\n[Beat]\n[Drop] 纯音乐 16 小节\n\n[Bridge]\n换条手绢 擦擦汗\n喝口茶水 接着干\n什么报表 什么账单\n明天再算 今晚必须跳翻\n\n[Chorus]\n摇啊摇啊摇啊摇 甩头甩掉那疲劳\n摇啊摇啊摇啊摇 扭腰扭走那烦恼\n摇啊摇啊摇啊摇 跺脚跺得地皮跳\n摇到外婆桥 今晚我们不睡觉\n摇啊摇啊摇啊摇 转圈转出那微笑\n手拉手 我们一起摇\n赵姨陈伯 快来报到\n摇到外婆桥 这个夜晚最逍遥\n\n[Outro]\n音响关了 心还在跳\n月亮底下 扭着回家\n摇啊摇 摇啊摇\n摇到梦里 继续摇\n明天晚上 老地方见\n不见不散 摇到天荒地老",
       "duration": 201,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-26",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/8456e9fe1aa9d0720e220f0355bd5c8db6f3d3ca35ecc8ca19a2153fad31a252"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/8456e9fe1aa9d0720e220f0355bd5c8db6f3d3ca35ecc8ca19a2153fad31a252",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/7160d4ead5b349f65a211083f49be21171f57836e9e21790ff09231686ce85df"
     },
     {
       "slug": "抱一下_2026-07-13",
@@ -25656,8 +25895,9 @@
       "lyrics_file": "[Intro]\n天黑啦天黑啦\n音乐响起来啦\n快下楼别磨蹭啦\n\n[Verse 1]\n王姐换了新运动鞋\n李叔穿上红T恤衫\n张大妈的花裙子飘\n音响拉到了小广场\n七点半路灯刚亮起\n老陈把线都接好了\n手机电量满格的呢\n今晚要跳到九点半\n\n[Chorus]\n嗨起来嗨起来嗨起来\n举起手跟着节奏摇摆\n嗨起来嗨起来嗨起来\n跺跺脚把烦恼都甩开\n嗨起来嗨起来嗨起来\n转个圈今天就要痛快\n不开心的事明天再说\n\n[Verse 2]\n刘阿姨刚学会新舞步\n小赵带着她妈一起来\n前排后排都站满了人\n领舞的大姐冲着前面\n先来一段热身操拉开\n左边扭扭右边扭扭腰\n伸展伸展胳膊腿腿脚\n汗珠子淌下来才叫爽\n\n[Pre-Chorus]\n节奏越来越快啦\n心跳跟上鼓点啦\n\n[Chorus]\n嗨起来嗨起来嗨起来\n举起手跟着节奏摇摆\n嗨起来嗨起来嗨起来\n跺跺脚把烦恼都甩开\n嗨起来嗨起来嗨起来\n转个圈今天就要痛快\n不开心的事明天再说\n\n[Instrumental]\n\n[Verse 3]\n张叔的舞步越来越溜\n王婶的辫子甩得飞起\n老李头今天新理了发\n谁说年纪大就不能嗨\n跳到尽兴谁也不喊累\n一瓶水咕咚咕咚下肚\n\n[Chorus]\n嗨起来嗨起来嗨起来\n举起手跟着节奏摇摆\n嗨起来嗨起来嗨起来\n跺跺脚把烦恼都甩开\n嗨起来嗨起来嗨起来\n转个圈今天就要痛快\n不开心的事明天再说\n\n[Outro]\n音乐停了人还不散\n明天晚上继续来跳\n嗨起来就这么简单",
       "duration": 132,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-26",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/330404383507062402c5bcbb12ce1c630969988e973f02c3e760862ad96f23e8"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/330404383507062402c5bcbb12ce1c630969988e973f02c3e760862ad96f23e8",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/c8268d43c89b76c3792db2071041789d24843962c4a9437b42dd6f05fa595435"
     },
     {
       "slug": "麦收了_2026-07-10",
@@ -27636,8 +27876,9 @@
       "lyrics_file": "[Intro]\n昨夜雨疏风骤\n浓睡不消残酒\n试问卷帘人\n却道海棠依旧\n\n[Verse 1]\n那年三月桃花渡\n你骑白马过长街\n折了一枝桃花插我鬓角\n说此生只为我停留\n风吹落花满衣袍\n你的笑意在眉梢\n我说愿陪你天涯海角\n你说来年桃花开时再来\n\n[Pre-Chorus]\n知否 知否\n应是绿肥红瘦\n你走后再无春色\n\n[Chorus]\n如梦令 如梦令 昨夜风雨你不在\n如梦令 如梦令 海棠花落又一载\n如梦令 如梦令 浓睡不消这相思\n如梦令 如梦令 梦里见你醒不来\n等你等到青丝白 何时归来看花开\n知否知否 此情应似海棠红\n\n[Verse 2]\n秋风吹落满院梧桐\n你的琴还摆在窗台\n弦上落了厚厚的灰\n再无人听我弹一曲\n你送的玉佩握在手心\n晨露暮霜凝在簪头\n好像你从未走远\n可是回头空无一人\n\n[Pre-Chorus]\n知否 知否\n应是绿肥红瘦\n你走后再无春色\n\n[Chorus]\n如梦令 如梦令 昨夜风雨你不在\n如梦令 如梦令 海棠花落又一载\n如梦令 如梦令 浓睡不消这相思\n如梦令 如梦令 梦里见你醒不来\n等你等到青丝白 何时归来看花开\n知否知否 此情应似海棠红\n\n[Instrumental]\n\n[Bridge]\n人说浮生若梦\n我偏要在这梦里等你\n就算等到沧海桑田\n也要等你看最后一树海棠\n花开花落 我还在\n\n[Chorus]\n如梦令 如梦令 昨夜风雨你不在\n如梦令 如梦令 海棠花落又一载\n如梦令 如梦令 浓睡不消这相思\n如梦令 如梦令 梦里见你醒不来\n等你等到青丝白 何时归来看花开\n知否知否 此情应似海棠红\n\n[Outro]\n如梦令……\n海棠又开了……\n你在何方……\n何时归来……",
       "duration": 171,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-26",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/5566cfb703274b508c11ad9a8b73cfac1af71c2d0764528ef09444c886680182"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/5566cfb703274b508c11ad9a8b73cfac1af71c2d0764528ef09444c886680182",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/f7098f410daadb962dbee365b56e6a481b2f1ab7c352641ff362a12c9eb837ed"
     },
     {
       "slug": "雨霖铃_2026-06-29",
@@ -28007,8 +28248,9 @@
       "lyrics_file": "[Intro]\n昨夜雨疏风骤\n浓睡不消残酒\n试问卷帘人\n却道海棠依旧\n\n[Verse 1]\n那年春来花满楼\n你执笔为我画眉\n你说眉间一点朱砂\n抵得过满城春色\n你研磨墨的时候\n袖口沾了一片花瓣\n我在铜镜里偷看你\n你正好也抬头看我\n四目相对的那一瞬间\n窗外落花忽然停了\n风也忘了吹\n时间也忘了走\n\n[Pre-Chorus]\n如梦令 如梦令\n梦里不知身是客\n如梦令 如梦令\n醒来方觉一晌贪欢\n\n[Chorus]\n如梦令 如梦令 花落知多少\n如梦令 如梦令 醒来泪沾裳\n如梦令 如梦令 昨夜梦回长安道\n如梦令 如梦令 不见画眉人\n\n[Verse 2]\n又是一年海棠开\n满院落花无人扫\n我坐在窗前卷帘望\n故人不知在何方\n你走时说去寻功名\n归来为我描蛾眉\n如今花开了又谢了\n谢了又开好几回\n铜镜落了灰\n胭脂也干透了\n只有那支玉簪子\n还插在妆台上等主人\n\n[Pre-Chorus]\n如梦令 如梦令\n梦里不知身是客\n如梦令 如梦令\n醒来方觉一晌贪欢\n\n[Chorus]\n如梦令 如梦令 花落知多少\n如梦令 如梦令 醒来泪沾裳\n如梦令 如梦令 昨夜梦回长安道\n如梦令 如梦令 不见画眉人\n\n[Instrumental]\n\n[Bridge]\n昨夜的梦又梦见你\n你坐在花树下研磨\n我走过去想碰你的手\n一伸手你就散了\n化作满院海棠花瓣\n落了我满身满头\n梦醒了枕畔冰凉\n窗外雨打芭蕉声声碎\n\n[Chorus]\n如梦令 如梦令 花落知多少\n如梦令 如梦令 醒来泪沾裳\n如梦令 如梦令 昨夜梦回长安道\n如梦令 如梦令 不见画眉人\n\n[Outro]\n如梦令……\n海棠花又开了……\n你在哪里画眉……\n等你在每一个梦里……\n如梦令……",
       "duration": 241,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-26",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/aa56f9a0c0cc945cb9071bea0de27090262dcdd684fb0f162bae4fc339771e9f"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/aa56f9a0c0cc945cb9071bea0de27090262dcdd684fb0f162bae4fc339771e9f",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/89bbde1997f86e9f09220956a42449ed19356f32fabcb1acd077f46b5ac77f2f"
     },
     {
       "slug": "删了你_2026-06-28",
@@ -29521,8 +29763,9 @@
       "lyrics_file": "[Intro]\n声声慢 声声慢\n寻寻觅觅冷冷清清\n声声慢 声声慢\n凄凄惨惨戚戚\n\n[Verse 1]\n乍暖还寒时候最难将息\n三杯两盏淡酒怎敌他晚来风急\n雁过也正伤心却是旧时相识\n满地黄花堆积憔悴损如今有谁堪摘\n\n[Pre-Chorus]\n守着窗儿独自怎生得黑\n梧桐更兼细雨到黄昏点点滴滴\n这次第怎一个愁字了得\n这次第怎一个愁字了得\n\n[Chorus]\n声声慢 声声慢 我在等一个人\n声声慢 声声慢 等到青丝变白发\n声声慢 声声慢 等到花瓣落满地\n声声慢 声声慢 此生只为你守候\n\n[Verse 2]\n云中谁寄锦书来\n雁字回时月满西楼\n花自飘零水自流\n一种相思两处闲愁\n此情无计可消除\n才下眉头却上心头\n\n[Pre-Chorus]\n守着窗儿独自怎生得黑\n梧桐更兼细雨到黄昏点点滴滴\n这次第怎一个愁字了得\n这次第怎一个愁字了得\n\n[Chorus]\n声声慢 声声慢 我在等一个人\n声声慢 声声慢 等到青丝变白发\n声声慢 声声慢 等到花瓣落满地\n声声慢 声声慢 此生只为你守候\n\n[Instrumental]\n（古筝独奏，笛声悠扬，如泣如诉，琵琶轻拢慢捻）\n\n[Bridge]\n人说相思最是无用\n我偏要用这无用换永恒\n就算等到海枯石烂\n我也要等你回来\n\n[Chorus]\n声声慢 声声慢 我在等一个人\n声声慢 声声慢 等到青丝变白发\n声声慢 声声慢 等到花瓣落满地\n声声慢 声声慢 此生只为你守候\n\n[Outro]\n声声慢……\n你何时归……\n我还在等……\n等你回来……",
       "duration": 206,
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-10-26",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/46f650b753e5cb571f27583fcb8f03648627ef7f37724e679366037838cd886c"
+      "youmind_cdn_date": "2026-11-15",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/46f650b753e5cb571f27583fcb8f03648627ef7f37724e679366037838cd886c",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/c328988e719f2a2b38e66daac8c6c9c658382aab5723c50a9ee2f664c6d3fef8"
     },
     {
       "slug": "亲亲亲_2026-06-20",
