@@ -1,7 +1,202 @@
 {
-  "generated_at": "2026-11-17T17:21:58.051625",
-  "total_songs": 745,
+  "generated_at": "2026-11-18T16:03:13.489755",
+  "total_songs": 750,
   "songs": [
+    {
+      "slug": "被你电到_2026-11-19",
+      "title": "被你电到",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_被你电到",
+      "date": "2026-11-19",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "被你电到_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_被你电到/被你电到_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.0
+        },
+        {
+          "filename": "被你电到_v1_192k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_被你电到/被你电到_v1_192k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.3
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_被你电到/cover_被你电到.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-19_被你电到/cover_被你电到.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_被你电到/被你电到_poster.png",
+      "lyrics_file": "[Intro]\n你一笑 我当场就短路了\n你一开口 我立马就死机了\n这感觉 就是被你电到了\n\n[Verse 1]\n那天奶茶店排着长长的队\n你排我前面回头笑了一下\n就那一下我的心跳全乱了\n连珍珠掉了都没有发现\n后来你加了我的微信好友\n没事就找我聊天到半夜\n你说我笨我就假装生气\n其实想多听你叫我笨蛋\n\n[Chorus]\n电到了 电到了 我被你电到了\n心跳了 心跳了 心跳不听话了\n脸红了 脸红了 红成番茄了\n完了完了 我真的恋爱了\n电到了 电到了 我被你电到了\n想念了 想念了 想得睡不着了\n靠近了 靠近了 心快跳出来了\n认了吧我就是喜欢你\n\n[Verse 2]\n上个星期你约我去看电影\n黑暗里你的手碰到我的手\n你没有躲开我也没有动\n爆米花甜得像在偷笑\n散场之后你送我到楼下\n你说下次还想再见我\n我点点头心里放起了烟花\n回家路上忍不住笑出了声\n\n[Pre-Chorus]\n手机屏幕亮了是你发的晚安\n就这两个字我开心一整晚\n完了这回我是真的栽了\n\n[Chorus]\n电到了 电到了 我被你电到了\n心跳了 心跳了 心跳不听话了\n脸红了 脸红了 红成番茄了\n完了完了 我真的恋爱了\n电到了 电到了 我被你电到了\n想念了 想念了 想得睡不着了\n靠近了 靠近了 心快跳出来了\n认了吧我就是喜欢你\n\n[Bridge]\n朋友都笑我最近魂不守舍\n只有我自己知道这是甜的\n因为那个人是你呀\n被电一百次我也愿意\n\n[Chorus]\n电到了 电到了 我被你电到了\n心跳了 心跳了 心跳不听话了\n脸红了 脸红了 红成番茄了\n完了完了 我真的恋爱了\n电到了 电到了 我被你电到了\n想念了 想念了 想得睡不着了\n靠近了 靠近了 心快跳出来了\n认了吧我就是喜欢你\n\n[Chorus]\n电到了 电到了 我被你电到了\n心跳了 心跳了 心跳不听话了\n脸红了 脸红了 红成番茄了\n完了完了 我真的恋爱了\n电到了 电到了 我被你电到了\n想念了 想念了 想得睡不着了\n靠近了 靠近了 心快跳出来了\n认了吧我就是喜欢你\n\n[Outro]\n原来喜欢一个人是这种感觉\n麻麻的 甜甜的\n被你电到 我心甘情愿",
+      "duration": 230
+    },
+    {
+      "slug": "老来俏_2026-11-19",
+      "title": "老来俏",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_老来俏",
+      "date": "2026-11-19",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "老来俏_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_老来俏/老来俏_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 7.3
+        },
+        {
+          "filename": "老来俏_v1_160k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_老来俏/老来俏_v1_160k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 4.6
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_老来俏/cover_老来俏.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-19_老来俏/cover_老来俏.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_老来俏/老来俏_poster.png",
+      "lyrics_file": "[Intro]\n夕阳落在广场上晚风吹得正好\n音乐就要响起来姐妹们陆续来到\n今晚的我们就是全场最靓的主角\n\n[Verse 1]\n退休的日子越过越美好\n清晨的公园遛弯又做操\n白天买菜做饭收拾家务\n晚上七点广场准时来到\n红裙子一穿小皮鞋一蹬\n烫了卷发口红抹得刚刚好\n镜子里的自己越看越俏\n六十岁的年纪十八的心跳\n\n[Chorus]\n老来俏 老来俏 越活越有味道\n老来俏 老来俏 舞步踩着节拍摇\n老来俏 老来俏 笑容比花还俏\n岁月算个啥呀 开心最重要\n老来俏 老来俏 红裙子迎风飘\n老来俏 老来俏 唱歌又蹦又跳\n老来俏 老来俏 幸福往身边绕\n七老八十也要 活出自己的骄傲\n\n[Verse 2]\n小孙女夸奶奶今天真漂亮\n老伴也说我像当年一样俏\n跳了三年舞腰不酸腿不疼\n体检的数字个个都挺好\n邻居阿姨拉着我要取取经\n问这精气神儿到底咋保养\n我笑着回答快乐就是法宝\n好心情就是最好的不老药\n\n[Pre-Chorus]\n姐妹们到齐了音乐也响起来了\n把手举起来跟着我摇一摇\n今晚咱们就是最快乐的主角\n\n[Chorus]\n老来俏 老来俏 越活越有味道\n老来俏 老来俏 舞步踩着节拍摇\n老来俏 老来俏 笑容比花还俏\n岁月算个啥呀 开心最重要\n老来俏 老来俏 红裙子迎风飘\n老来俏 老来俏 唱歌又蹦又跳\n老来俏 老来俏 幸福往身边绕\n七老八十也要 活出自己的骄傲\n\n[Bridge]\n大风大浪大半辈子都走过来了\n往后的日子要好好为自己活\n儿孙有儿孙的福气不用多操心\n身体健康心情舒畅就是好生活\n\n[Chorus]\n老来俏 老来俏 越活越有味道\n老来俏 老来俏 舞步踩着节拍摇\n老来俏 老来俏 笑容比花还俏\n岁月算个啥呀 开心最重要\n老来俏 老来俏 红裙子迎风飘\n老来俏 老来俏 唱歌又蹦又跳\n老来俏 老来俏 幸福往身边绕\n七老八十也要 活出自己的骄傲\n\n[Chorus]\n老来俏 老来俏 越活越有味道\n老来俏 老来俏 舞步踩着节拍摇\n老来俏 老来俏 笑容比花还俏\n岁月算个啥呀 开心最重要\n老来俏 老来俏 红裙子迎风飘\n老来俏 老来俏 唱歌又蹦又跳\n老来俏 老来俏 幸福往身边绕\n七老八十也要 活出自己的骄傲\n\n[Outro]\n音乐停了大家还舍不得走\n约好明天老地方接着跳\n老姐妹们不见不散乐逍遥",
+      "duration": 240
+    },
+    {
+      "slug": "灯花落_2026-11-19",
+      "title": "灯花落",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_灯花落",
+      "date": "2026-11-19",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "灯花落_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_灯花落/灯花落_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.0
+        },
+        {
+          "filename": "灯花落_v1_224k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_灯花落/灯花落_v1_224k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.2
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_灯花落/cover_灯花落.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-19_灯花落/cover_灯花落.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_灯花落/灯花落_poster.png",
+      "lyrics_file": "[Intro]\n月亮爬上西楼 照着半开的窗\n风一路吹过来 撞响了旧屋檐\n灯芯轻轻一晃 落下第一朵灯花\n\n[Verse 1]\n夜风吹开了半旧的窗\n我把油灯挑亮了一点\n你留下的那把旧琴\n还摆在桌上落了灰\n去年你说开春就回来\n我在门前种了一排柳\n数着日子过完一个冬\n月亮圆了又缺了好几回\n\n[Chorus]\n灯花落 灯花落\n想你想到天都亮了\n灯花落 灯花落\n等你等到雪都化了\n灯花落 灯花落\n爱你爱到头发白了\n灯花落 心也落\n放不下的还是你一个\n\n[Verse 2]\n邻家的姑娘都嫁去了南边\n我一个人守着空空的楼\n白天把茶煮了又放凉\n夜里把琴弹给风来听\n街上灯笼红了一整条\n成双的人说笑从我身边过\n我低头走回点灯的屋里\n灯花一落我又开始想你\n\n[Pre-Chorus]\n老人说灯花落了有远客到\n我等了一年又一年没等来\n是不是你在路上把我忘了\n\n[Chorus]\n灯花落 灯花落\n想你想到天都亮了\n灯花落 灯花落\n等你等到雪都化了\n灯花落 灯花落\n爱你爱到头发白了\n灯花落 心也落\n放不下的还是你一个\n\n[Bridge]\n戏文里的有情人最后都团圆\n偏偏我们隔着山隔着一场雪\n我不求金榜不求满堂红\n只求你平安回来喊我一声\n\n[Chorus]\n灯花落 灯花落\n想你想到天都亮了\n灯花落 灯花落\n等你等到雪都化了\n灯花落 灯花落\n爱你爱到头发白了\n灯花落 心也落\n放不下的还是你一个\n\n[Chorus]\n灯花落 灯花落\n想你想到月亮老了\n灯花落 灯花落\n等你等到琴弦断了\n灯花落 灯花落\n爱你爱到灯油尽了\n灯花落 心也落\n这辈子我只爱过你一个\n\n[Outro]\n灯花又落下一朵\n我把它捧在手心里\n你什么时候回来 灯就一直亮着",
+      "duration": 195
+    },
+    {
+      "slug": "想我妈_2026-11-19",
+      "title": "想我妈",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_想我妈",
+      "date": "2026-11-19",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "想我妈_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_想我妈/想我妈_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 6.8
+        },
+        {
+          "filename": "想我妈_v1_192k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_想我妈/想我妈_v1_192k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.1
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_想我妈/cover_想我妈.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-19_想我妈/cover_想我妈.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_想我妈/想我妈_poster.png",
+      "lyrics_file": "[Intro]\n村口的老槐树又开花了\n风一吹我就想起了家\n妈 您在家里还好吗\n\n[Verse 1]\n十八岁那年我背上旧行囊\n班车开出了县城的车站\n您站在村口的老槐树下\n手里拎着一兜煮好的鸡蛋\n您说外面的世界要好好闯\n累了就回家别一个人扛\n我不敢回头怕您看见\n我眼眶里打转的泪光\n\n[Chorus]\n想我妈 想我妈\n灶台上的粥还热着吧\n想我妈 想我妈\n村口的灯还亮着吧\n想我妈 想我妈\n您的腰还疼不疼啊\n我在外面挺好的别牵挂\n等攒够了钱我就回家\n\n[Verse 2]\n城里的出租屋不到十平米\n加班到深夜路灯送我回去\n您发来的语音我舍不得删\n想家的时候就放来听一听\n工头夸我干活踏实肯吃苦\n工资卡里的数字在慢慢涨\n每攒下一点我就在心里想\n离接您进城又近了一步\n\n[Pre-Chorus]\n电话里您总说家里都好\n可我听见了您咳嗽的声音\n妈 这一次换我来疼您\n\n[Chorus]\n想我妈 想我妈\n灶台上的粥还热着吧\n想我妈 想我妈\n村口的灯还亮着吧\n想我妈 想我妈\n您的白发又多了几根吧\n我在外面挺好的别牵挂\n等攒够了钱我就回家\n\n[Bridge]\n等春天来了我就回去看您\n陪您坐在老屋门口晒太阳\n就像小时候一样拉拉家常\n妈 我爱您这句话当面讲\n\n[Chorus]\n想我妈 想我妈\n灶台上的粥还热着吧\n想我妈 想我妈\n村口的灯还亮着吧\n想我妈 想我妈\n您的腰还疼不疼啊\n我在外面挺好的别牵挂\n等攒够了钱我就回家\n\n[Chorus]\n想我妈 想我妈\n车票就攥在我的手心啦\n想我妈 想我妈\n明天的班车就到家啦\n想我妈 想我妈\n老屋的炊烟升起来吧\n妈 这一回我真的回家啦\n让您好好看看您的娃\n\n[Outro]\n村口的老槐树下站着妈\n我加快脚步喊了一声妈\n这一次我要在家多住几天",
+      "duration": 224
+    },
+    {
+      "slug": "不回头了_2026-11-19",
+      "title": "不回头了",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_不回头了",
+      "date": "2026-11-19",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "不回头了_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_不回头了/不回头了_v1.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 9.9
+        },
+        {
+          "filename": "不回头了_v1_128k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_不回头了/不回头了_v1_128k.mp3",
+          "platform": "mmx",
+          "version_tag": "v1",
+          "size_mb": 5.0
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_不回头了/cover_不回头了.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-19_不回头了/cover_不回头了.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-19_不回头了/不回头了_poster.png",
+      "lyrics_file": "[Intro]\n凌晨两点我又想起了你\n房间安静得只剩下呼吸\n这首歌写完我就不哭了\n\n[Verse 1]\n你走的那天外面下着雨\n我站在门口没有拉住你\n你说感情淡了就到这里\n我笑着说好我没有关系\n关上门我蹲在地上哭\n又不敢哭得太大声\n你留下的那件旧外套\n我抱了一整夜没有洗\n\n[Chorus]\n我不回头了 我不回头了\n把你送的东西全收起来了\n我不回头了 我不回头了\n把聊天记录全都删掉了\n我不回头了 我不回头了\n告诉自己这一次真的算了\n可是一转身 我还是好想好想你\n\n[Verse 2]\n现在我一个人下班回家\n楼下的路灯陪我说说话\n冰箱里还有你买的酸奶\n过期了我也舍不得扔掉\n朋友约我出去散散心\n我笑着说早就没事了\n只有我自己心里最清楚\n想你的时候有多狼狈\n\n[Pre-Chorus]\n手机里翻到我们的合照\n手指停在删除键上很久\n原来我根本舍不得删掉\n\n[Chorus]\n我不回头了 我不回头了\n把你送的东西全收起来了\n我不回头了 我不回头了\n把聊天记录全都删掉了\n我不回头了 我不回头了\n告诉自己这一次真的算了\n可是我做不到 把你从心里赶出去\n\n[Bridge]\n也许多年以后再遇见你\n我们都能笑着打个招呼\n可是现在的我真的做不到\n放不下的人 原来是我自己\n\n[Chorus]\n我不回头了 我不回头了\n从今天开始要早点睡了\n我不回头了 我不回头了\n把你还给你 把我还给我\n我不回头了 我不回头了\n这一次我一定说到做到\n可是我骗不了自己 我还是爱你\n\n[Chorus]\n我不回头了 我不回头了\n眼泪不能再为你流了\n我不回头了 我不回头了\n我要学着一个人好好过了\n我不回头了 我不回头了\n说过的狠话我不想再说了\n算了吧 就让我再想你最后一晚\n\n[Outro]\n这首歌就唱到这里吧\n眼泪擦干了 灯也关了\n想你的事 明天再说吧",
+      "duration": 324
+    },
     {
       "slug": "残墨_2026-11-18",
       "title": "残墨",
@@ -34,7 +229,12 @@
       "lyrics_file": "[Intro]\n月亮挂在楼头 风翻过纸窗\n一盏灯一方砚 我坐到天亮\n雪落了一整夜 你在什么地方\n\n[Verse 1]\n月亮爬上小楼的屋檐\n我在灯下磨了一夜墨\n写了一半的信搁在手边\n风一吹纸角轻轻发颤\n你走的那天下着小雪\n你说等雪化了就回来\n如今窗外的雪化了又落\n我的信没写完你也没回来\n\n[Chorus]\n一笔残墨描你的眉眼\n两笔残墨画你的衣衫\n三笔残墨写你的誓言\n写到天亮也没写完想念\n放不下 放不下\n想你像墨在纸上慢慢化\n我爱你藏进每一笔一画\n风把字吹淡了我还是放不下\n\n[Verse 2]\n墙上的旧琴落了一层灰\n我擦干净了却不敢弹\n那年你坐在窗边弹的曲\n我一个人慢慢学着弹完\n写了三百封寄不出的信\n你没说你要去的远方\n雪又落满小楼的青瓦\n信纸上全是你的名字啊\n\n[Pre-Chorus]\n砚台里的墨越磨越浅\n你在我心里却越来越深\n原来残的不是墨是等你的夜晚\n\n[Chorus]\n一笔残墨描你的眉眼\n两笔残墨画你的衣衫\n三笔残墨写你的誓言\n写到天亮也没写完想念\n放不下 放不下\n想你像墨在纸上慢慢化\n我爱你藏进每一笔一画\n风把字吹淡了我还是放不下\n\n[Bridge]\n如果你哪天踏雪回来\n我就用最后一滴残墨\n把你的名字写进心里面\n让它陪我到白了头发\n\n[Chorus]\n一笔残墨描你的眉眼\n两笔残墨画你的衣衫\n三笔残墨写你的誓言\n写到天亮也没写完想念\n放不下 放不下\n想你像墨在纸上慢慢化\n我爱你藏进每一笔一画\n风把字吹淡了我还是放不下\n\n[Chorus]\n一笔残墨描你的眉眼\n两笔残墨画你的衣衫\n三笔残墨写你的誓言\n写到天亮也没写完想念\n放不下 放不下\n想你像墨在纸上慢慢化\n我爱你藏进每一笔一画\n风把字吹淡了我还是放不下\n\n[Outro]\n墨干了 我还是想你\n灯灭了 心里还亮着你\n残墨写得尽 写不尽我爱你",
       "duration": 257,
       "emotion": "",
-      "genre": ""
+      "genre": "",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/e3e82f88cd09dbd993118e2ec053f4c231c8af6c6ea045800977345ae8113083",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-18",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/62eff64c7e85c6a9eee5ba5c461d67482568827f1d03d308fc37484bd0f33b0b",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/c599314bb92046f61ddcbe02fd2eeaad48bc2a612c80b21cc9e362a792c0e95d"
     },
     {
       "slug": "扭到天亮_2026-11-18",
@@ -153,7 +353,12 @@
       "lyrics_file": "[Intro]\n晚上十点手机屏幕亮了\n是妈的号码我马上就接\n喂 妈 这么晚还没睡啊\n\n[Verse 1]\n她先问我吃饭了没有啊\n我说吃了她说别总吃泡面\n她说村里下雪了今年冷得早\n老屋的被子她晒过了两回\n她问我过年到底回不回来\n我说回她笑了一声没说话\n她说你忙就别老往家里跑\n电话里说说话妈就知足了\n\n[Chorus]\n吃了吗 吃了吗 电话一接通先问这一句\n穿了吗 穿了吗 降温了她比天气预报还急\n睡了吗 睡了吗 夜再深她也舍不得先挂\n三个问题问完她才放心了\n翻来覆去其实就一句话\n妈想你 妈想你\n妈是真的真的很想你\n\n[Verse 2]\n从河南到深圳一千五百公里\n一年就回去那么两三回\n村口的老槐树掉光了叶子\n她还站在树下等我过年回\n她总记着我最早那个地址\n寄来的花生塞满了柜子\n她说城里买的没有家里香\n吃不完就分给同事尝一尝\n\n[Pre-Chorus]\n电话那头她咳嗽了两三声\n我攥着手机半天说不出话\n妈对不起我又让你担心了\n\n[Chorus]\n吃了吗 吃了吗 电话一接通先问这一句\n穿了吗 穿了吗 降温了她比天气预报还急\n睡了吗 睡了吗 夜再深她也舍不得先挂\n三个问题问完她才放心了\n翻来覆去其实就一句话\n妈想你 妈想你\n妈是真的真的很想你\n\n[Bridge]\n等我攒够了假就买张车票\n回去陪她在村口晒晒太阳\n把这句拖了很多年的我爱你\n当着她的面好好说一遍\n\n[Chorus]\n吃了吗 吃了吗 电话一接通先问这一句\n穿了吗 穿了吗 降温了她比天气预报还急\n睡了吗 睡了吗 夜再深她也舍不得先挂\n三个问题问完她才放心了\n翻来覆去其实就一句话\n妈想你 妈想你\n妈是真的真的很想你\n\n[Chorus]\n吃了吗 吃了吗 现在换我先问这一句\n穿了吗 穿了吗 天冷了你也要记得添衣\n睡了吗 睡了吗 别总熬夜守着这个电话\n三个问题我想问回给她\n翻来覆去其实就一句话\n妈我爱你 我爱你\n这句话我要当面说给你\n\n[Outro]\n妈打电话来我从来不敢漏接\n我知道她其实没什么大事\n她就是想我了想听听我声音",
       "duration": 228,
       "emotion": "",
-      "genre": ""
+      "genre": "",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/1b87ef75e4eae9ccdb229157a4e2cf3a8816d081ff7c260e3bb236e25f460e71",
+      "youmind_uploaded": true,
+      "youmind_cdn_date": "2026-11-18",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/2612afbaf2e3bb83aa9624ed5e974ae368f43dd12700e2b3585c01dc8f733e6f",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/808e73d9c1a3843bfca704a08897eaabdfbab245ca32dd6847737b475e35c775"
     },
     {
       "slug": "别再找我了_2026-11-18",
