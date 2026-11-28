@@ -1,7 +1,188 @@
 {
-  "generated_at": "2026-11-26T22:46:02.654172",
-  "total_songs": 790,
+  "generated_at": "2026-11-27T16:25:45.569874",
+  "total_songs": 795,
   "songs": [
+    {
+      "slug": "转个圈_2026-11-28",
+      "title": "转个圈",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_转个圈",
+      "date": "2026-11-28",
+      "genre_code": "dance",
+      "genre_label": "广场舞/DJ舞曲/车载慢摇",
+      "genre_icon": "💃",
+      "genre_color": "#e74c5e",
+      "chord": "6415",
+      "bpm": 128,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "转个圈_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_转个圈/转个圈_v1.mp3",
+          "platform": "flowmusic",
+          "version_tag": "v1",
+          "size_mb": 5.1
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_转个圈/cover_转个圈.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-28_转个圈/cover_转个圈.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_转个圈/转个圈_poster.png",
+      "lyrics_file": "[Intro]\n今晚的音乐已经响起来\n你别站在旁边发呆了\n跟着我们转个圈就好\n\n[Verse 1]\n下班以后天刚黑透\n我换了双鞋来到广场\n音响一开人就站两旁\n你穿着红衣站在中央\n我假装看灯却总看你\n朋友推我说别光看着\n鼓点一响你朝我伸手\n我脑子发热只说好啊\n\n[Chorus]\n转个圈 转个圈\n转个圈 转个圈\n转个圈 转个圈\n就是想你\n挥挥手 挥挥手\n挥挥手 挥挥手\n挥挥手 挥挥手\n就是爱你\n\n[Verse 2]\n第二天我特意早到了\n我把你的位置留好了\n你一来就递给我奶茶\n问我昨天怎么脸红了\n我说因为心里想着你\n这句憋了很久没藏住\n我说我爱你不是玩笑\n你笑着说早就知道了\n\n[Pre-Chorus]\n旁边大哥把低音又开大点\n今晚我要拉着你不放手了\n心跳再快我也不躲了\n\n[Chorus]\n转个圈 转个圈\n转个圈 转个圈\n转个圈 转个圈\n就是想你\n挥挥手 挥挥手\n挥挥手 挥挥手\n挥挥手 挥挥手\n就是爱你\n\n[Bridge]\n跳到一半忽然下了雨\n你把外套披在我肩头\n我说今晚真的不想走\n你说那就跳到雨停后\n\n[Chorus]\n转个圈 转个圈\n转个圈 转个圈\n转个圈 转个圈\n就是想你\n挥挥手 挥挥手\n挥挥手 挥挥手\n挥挥手 挥挥手\n就是爱你\n\n[Chorus]\n转个圈 转个圈\n转个圈 转个圈\n转个圈 转个圈\n就是想你\n挥挥手 挥挥手\n挥挥手 挥挥手\n挥挥手 挥挥手\n就是爱你\n\n[Outro]\n雨停以后灯还亮着呢\n我牵着你的手没放开\n以后每天都来转个圈",
+      "duration": 221
+    },
+    {
+      "slug": "看上你了_2026-11-28",
+      "title": "看上你了",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_看上你了",
+      "date": "2026-11-28",
+      "genre_code": "viral_pop",
+      "genre_label": "抖音热歌/口水歌/欢快洗脑",
+      "genre_icon": "🍬",
+      "genre_color": "#f39c12",
+      "chord": "4536251",
+      "bpm": 115,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "看上你了_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_看上你了/看上你了_v1.mp3",
+          "platform": "flowmusic",
+          "version_tag": "v1",
+          "size_mb": 5.6
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_看上你了/cover_看上你了.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-28_看上你了/cover_看上你了.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_看上你了/看上你了_poster.png",
+      "lyrics_file": "[Intro]\n今天我要宣布一件大事\n这件事和你有关\n竖起耳朵听好了\n\n[Verse 1]\n那天地铁三号线人很多\n你站在我旁边戴着耳机\n阳光刚好照在你的脸上\n我偷偷地看了你好几眼\n到站了你出去我也跟着出去\n明明不顺路还假装很顺路\n你问我是不是丢了什么东西\n我说心跳丢在你身上了\n\n[Chorus]\n看上你 看上你 我就是看上你\n看上你 看上你 眼里全是你\n看上你 看上你 心里全是你\n你却在那装作没听到\n想你 想你 早上想你\n想你 想你 中午想你\n想你 想你 晚上想你\n偏偏你一点都不知道\n\n[Verse 2]\n后来我们互相加了微信\n你的头像是只橘色的猫\n我每天准时给你发早安\n晚上睡前再说一句晚安\n你回个表情我开心一整天\n你的朋友圈我条条都点赞\n朋友都笑我藏不住心事\n那就干脆说一句喜欢你\n\n[Pre-Chorus]\n今晚的月亮又大又圆\n把我的心意照得亮堂堂\n这一首歌你可听仔细\n\n[Chorus]\n看上你 看上你 我就是看上你\n看上你 看上你 眼里全是你\n看上你 看上你 心里全是你\n这次别再装作没听到\n想你 想你 早上想你\n想你 想你 中午想你\n想你 想你 晚上想你\n我不信你一点感觉不到\n\n[Bridge]\n昨天你突然牵起我的手\n说这首歌你也在偷偷循环\n原来你早就看上我了\n只是你比我还沉得住气\n\n[Chorus]\n看上你 看上你 我就是看上你\n看上你 看上你 眼里全是你\n看上你 看上你 心里全是你\n原来你也早就看上我\n想你 想你 早上想你\n想你 想你 中午想你\n想你 想你 晚上想你\n现在换成你天天想我\n\n[Chorus]\n看上你 看上你 我就是看上你\n看上你 看上你 眼里全是你\n看上你 看上你 心里全是你\n全世界都羡慕我们俩\n想你 想你 早上想你\n想你 想你 中午想你\n想你 想你 晚上想你\n往后的日子一起过吧\n\n[Outro]\n最后我还要大声唱一遍\n看上你了你听见了吗\n听见了就过来牵住我的手",
+      "duration": 243
+    },
+    {
+      "slug": "火车票_2026-11-28",
+      "title": "火车票",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_火车票",
+      "date": "2026-11-28",
+      "genre_code": "hometown",
+      "genre_label": "乡愁/励志/朴实口语",
+      "genre_icon": "🏠",
+      "genre_color": "#27ae60",
+      "chord": "卡农变体",
+      "bpm": 100,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "火车票_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_火车票/火车票_v1.mp3",
+          "platform": "flowmusic",
+          "version_tag": "v1",
+          "size_mb": 6.6
+        },
+        {
+          "filename": "火车票_v1_128k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_火车票/火车票_v1_128k.mp3",
+          "platform": "flowmusic",
+          "version_tag": "v1",
+          "size_mb": 4.4
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_火车票/cover_火车票.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-28_火车票/cover_火车票.jpg"
+        ]
+      },
+      "poster": null,
+      "lyrics_file": "[Intro]\n兜里这张火车票被我摸得发软\n终点站印着青石镇三个字\n过了镇再走五里就是咱杨家湾\n\n[Verse 1]\n腊月二十六我终于抢到了票\n定好闹钟那晚手一直在发抖\n老板说年底太忙让我再坚持\n我说妈妈还在村口等我呢\n行李箱塞满给妈买的新棉袄\n电话里她嫌我乱花冤枉钱\n绿皮火车开动那刻我掉了泪\n车窗上哈口气写了个家字\n\n[Chorus]\n火车票 火车票 攥在手心发烫的车票\n火车票 火车票 一年就盼这一趟的车票\n火车票 火车票 载我回杨家湾的车票\n妈 我回来了 这回说啥也不走了\n想你 想你 攒了三百多天的想你\n爱你 爱你 没敢说出口的那一句\n到站那一刻 我要大声喊一句\n妈 我回来了 我回来了\n\n[Verse 2]\n十八岁那年我背着包出村口\n妈塞给我两百块和一袋煮鸡蛋\n城里的楼太高我总是迷路\n加班到深夜泡面就是晚饭\n妈打电话总问我吃得好不好\n我说挺好的其实有点想哭\n她不知道我挤在十平米的出租屋\n每晚睡前都想村口那棵老槐树\n\n[Pre-Chorus]\n广播说青石镇到了请带好行李\n我的心跳得比车轮还要快\n妈 我闻到咱家灶上的饭菜香了\n\n[Chorus]\n火车票 火车票 攥在手心发烫的车票\n火车票 火车票 一年就盼这一趟的车票\n火车票 火车票 载我回杨家湾的车票\n妈 我回来了 这回说啥也不走了\n想你 想你 攒了三百多天的想你\n爱你 爱你 没敢说出口的那一句\n到站那一刻 我要大声喊一句\n妈 我回来了 我回来了\n\n[Bridge]\n等我攒够了钱就回杨家湾陪你\n把老屋翻新 院子里种满菜和花\n再养一条大黄狗趴在门槛晒太阳\n妈 你就再等我两年好不好\n\n[Chorus]\n火车票 火车票 攥在手心发烫的车票\n火车票 火车票 一年就盼这一趟的车票\n火车票 火车票 载我回杨家湾的车票\n妈 我回来了 这回说啥也不走了\n想你 想你 攒了三百多天的想你\n爱你 爱你 没敢说出口的那一句\n到站那一刻 我要大声喊一句\n妈 我回来了 我回来了\n\n[Chorus]\n火车票 火车票 攥了一整年的车票\n火车票 火车票 今天终于到站的车票\n火车票 火车票 载我回杨家湾的车票\n妈 我回来了 这回说啥也不走了\n想你 想你 以后不用隔着电话想你\n爱你 爱你 当着你的面说爱你\n你在人群里喊我的小名\n我应了一声哎 妈 我在这儿呢\n\n[Outro]\n青石镇的小站挤满了回家的人\n村口那盏灯亮着 妈站在灯底下\n我到家了 这一次不用再走了",
+      "duration": 286
+    },
+    {
+      "slug": "打更人_2026-11-28",
+      "title": "打更人",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_打更人",
+      "date": "2026-11-28",
+      "genre_code": "guofeng",
+      "genre_label": "民族风/古诗词改编/中国风",
+      "genre_icon": "🏮",
+      "genre_color": "#9b59b6",
+      "chord": "大调卡农",
+      "bpm": 90,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "打更人_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_打更人/打更人_v1.mp3",
+          "platform": "flowmusic",
+          "version_tag": "v1",
+          "size_mb": 7.7
+        },
+        {
+          "filename": "打更人_v1_128k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_打更人/打更人_v1_128k.mp3",
+          "platform": "flowmusic",
+          "version_tag": "v1",
+          "size_mb": 5.1
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_打更人/cover_打更人.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-28_打更人/cover_打更人.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_打更人/打更人_poster.png",
+      "lyrics_file": "[Intro]\n月亮悄悄爬上了角楼\n远处传来第一声梆子响\n天干物燥 小心火烛\n\n[Verse 1]\n青石板的长街铺满了月光\n打更人提着灯笼慢慢走过\n他喊天干物燥小心火烛\n我推开窗户看了一整夜\n你离开那天也是这样的月亮\n马蹄声一直响到城门外面\n你说等到桂花开了就回来\n今年桂花开了人却没有回来\n\n[Chorus]\n梆梆梆 一更天我在想你\n梆梆梆 二更天我在想你\n梆梆梆 三更天还在想你\n敲到五更天亮了 你还是没有消息\n梆梆梆 一更天我在想你\n梆梆梆 二更天我在想你\n梆梆梆 三更天还在想你\n夜熬完了 我还是放不下你\n\n[Verse 2]\n北风卷着大雪盖住那条街\n我抱着旧琴坐在炉火旁边\n你教我的曲子还没有弹完\n弹到一半眼泪落在琴弦上\n城楼上的月亮换过几轮圆缺\n我数着日子从秋天等到冬天\n灯油烧完了我就再添一勺\n不敢熄灯怕你回来找不到门\n\n[Pre-Chorus]\n听说你要回来了已经在路上\n我每晚竖起耳朵听马蹄声响\n却只听见梆子声敲过长街\n\n[Chorus]\n梆梆梆 一更天我在想你\n梆梆梆 二更天我在想你\n梆梆梆 三更天还在想你\n敲到五更天亮了 你还是没有消息\n梆梆梆 一更天我在想你\n梆梆梆 二更天我在想你\n梆梆梆 三更天还在想你\n夜熬完了 我还是放不下你\n\n[Bridge]\n打更人啊请你替我带句话\n就说楼上的姑娘整夜没睡\n她想说的其实只有三个字\n我爱你 从一更说到五更天\n\n[Chorus]\n梆梆梆 一更天我在想你\n梆梆梆 二更天我在想你\n梆梆梆 三更天还在想你\n敲到五更天亮了 你还是没有消息\n梆梆梆 一更天我在想你\n梆梆梆 二更天我在想你\n梆梆梆 三更天还在想你\n夜熬完了 我还是放不下你\n\n[Chorus]\n梆梆梆 春天里我在想你\n梆梆梆 秋天里我在想你\n梆梆梆 月圆时还在想你\n梆子敲过了一年 你到底在哪里\n梆梆梆 风起了我在想你\n梆梆梆 下雪了我在想你\n梆梆梆 琴响了还在想你\n等你回来的那天 我说我爱你\n\n[Outro]\n梆子声走远了 天边泛起鱼肚白\n这一夜又过去了 我还是想你\n明天夜里我还会坐在这里想你",
+      "duration": 337
+    },
+    {
+      "slug": "东西还你_2026-11-28",
+      "title": "东西还你",
+      "dir": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_东西还你",
+      "date": "2026-11-28",
+      "genre_code": "sad",
+      "genre_label": "失恋/孤独/情感共鸣",
+      "genre_icon": "🌧️",
+      "genre_color": "#3498db",
+      "chord": "1645",
+      "bpm": 80,
+      "dimension": "番茄专项",
+      "dimensionIcon": "🍅",
+      "versions": [
+        {
+          "filename": "东西还你_v1.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_东西还你/东西还你_v1.mp3",
+          "platform": "flowmusic",
+          "version_tag": "v1",
+          "size_mb": 5.9
+        },
+        {
+          "filename": "东西还你_v1_160k.mp3",
+          "filepath": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_东西还你/东西还你_v1_160k.mp3",
+          "platform": "flowmusic",
+          "version_tag": "v1",
+          "size_mb": 4.9
+        }
+      ],
+      "cover": {
+        "path": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_东西还你/cover_东西还你.jpg",
+        "all_covers": [
+          "/Users/wanglingwei/Music/番茄音乐/2026-11-28_东西还你/cover_东西还你.jpg"
+        ]
+      },
+      "poster": "/Users/wanglingwei/Music/番茄音乐/2026-11-28_东西还你/东西还你_poster.png",
+      "lyrics_file": "[Intro]\n门关了以后屋子特别安静\n我抱着箱子坐在地板上面\n原来还东西也会这么心疼\n\n[Verse 1]\n昨天下午我把房间收了一遍\n你的灰色外套还搭在椅背上面\n我把杯子装进箱子又拿出来\n想给你发消息问几点方便\n打了两行字又删到只剩在吗\n你说放到门口就好不用见面\n我盯着那句话看了很久很久\n电梯到了一楼我却没走出去\n\n[Chorus]\n我把你的衣服都还给你\n我把你的牙刷都还给你\n我把你的晚安也都还你\n可我想你这件事怎么还你\n我嘴上说算了吧还是想你\n我明明放不下还要装清醒\n东西还你却还不掉我爱你\n\n[Verse 2]\n第二天你真的来拿走箱子\n门口那双拖鞋我忘了收起来\n你问我最近过得好不好\n我说挺好的声音却有点发抖\n你抱着箱子说那就这样吧\n我点头的时候手还抓着门边\n门关以后我才敢哭出声音\n手机里你的备注还没改回来\n\n[Pre-Chorus]\n你落在我这的钥匙也寄走了\n你的联系方式我删了又加回\n今晚别再等了我这样劝自己\n\n[Chorus]\n我把你的衣服都还给你\n我把你的牙刷都还给你\n我把你的晚安也都还你\n可我想你这件事怎么还你\n我嘴上说算了吧还是想你\n我明明放不下还要装清醒\n东西还你却还不掉我爱你\n\n[Bridge]\n要是你也有一点舍不得我\n就回头看一眼别让我猜太久\n可你没有回头我也没再挽留\n原来算了吧比我爱你还难受\n\n[Chorus]\n我把你的衣服都还给你\n我把你的牙刷都还给你\n我把你的晚安也都还你\n可我想你这件事怎么还你\n我嘴上说算了吧还是想你\n我明明放不下还要装清醒\n东西还你却还不掉我爱你\n\n[Chorus]\n我把你的衣服都还给你\n我把你的牙刷都还给你\n我把你的晚安也都还你\n可我想你这件事怎么还你\n我嘴上说算了吧还是想你\n我明明放不下还要装清醒\n东西还你却还不掉我爱你\n\n[Outro]\n柜子空了房间还是一样的乱\n我把窗打开风还是有点冷\n今晚我会想你明天再算了吧",
+      "duration": 258
+    },
     {
       "slug": "桃花开了_2026-11-27",
       "title": "桃花开了",
@@ -82,8 +263,10 @@
       "emotion": "",
       "genre": "",
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-11-26",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/92c954084ff47ea6a66249dee7ec3012e598992e9aede5489c4dfd366dd9163d"
+      "youmind_cdn_date": "2026-11-27",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/92c954084ff47ea6a66249dee7ec3012e598992e9aede5489c4dfd366dd9163d",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/e5af6addc074ac8b78f58828b75325a2a7c5a41f8e8994c3db0c50b5a071c90c",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/13b053c7ac53552687e8af52e8413f889dc43f3ef85072956c1f5829c0dc3e1a"
     },
     {
       "slug": "慢慢忘_2026-11-27",
@@ -126,8 +309,10 @@
       "emotion": "",
       "genre": "",
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-11-26",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/6c42f0d299781e0367ec8a50de3cf0d5e52b785b4c38aecc2bd5940feceaa325"
+      "youmind_cdn_date": "2026-11-27",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/6c42f0d299781e0367ec8a50de3cf0d5e52b785b4c38aecc2bd5940feceaa325",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/c77e91b450c0b6add253a016671da83e193bfb1f7f4dd0baaf7c5c866ef642f5",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/5e3470cb277d0f4c486cbe40643ce47c7ad98a9f1d114bcb7d6077614b4302c0"
     },
     {
       "slug": "心乱跳_2026-11-27",
@@ -209,8 +394,10 @@
       "emotion": "",
       "genre": "",
       "youmind_uploaded": true,
-      "youmind_cdn_date": "2026-11-26",
-      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/5542384be5c362d068671b890317f777d0646fce2611f0a6a88af06ea9bc6383"
+      "youmind_cdn_date": "2026-11-27",
+      "youmind_mp3_cdn": "https://cdn.youmindassets.com/user-files/5542384be5c362d068671b890317f777d0646fce2611f0a6a88af06ea9bc6383",
+      "youmind_cover_cdn": "https://cdn.youmindassets.com/user-files/d64eba04e08ea1f15f28111a727dd0c6c750b218437ab7cfa6c6d01630f318d7",
+      "youmind_poster_cdn": "https://cdn.youmindassets.com/user-files/c9557afaf02486e0162d459c6917b3cc06687cfa774379d04dff219c30a19358"
     },
     {
       "slug": "跳到天黑_2026-11-26",
